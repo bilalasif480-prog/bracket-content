@@ -52,9 +52,21 @@ None collected — comments are checked by Bilal.
 4. Do any GCC agencies get reach with carousels from small accounts? If yes, what's on slide 1.
 5. **Trending sounds (names only):** for reels in the niche that get visible views, note the Instagram audio title + artist shown under the reel and how the voice-over is delivered (pace, tone, energy). Never download or rip anyone's audio or voice; we only use Instagram's own licensed sounds and our own voice-over.
 
-## Audio for instamake
-- Use the trending sound names from the niche report via Metricool `instagramData.audioConfiguration` (`audioId` = song title/artist; it resolves to Instagram's licensed catalog), `audioVolume` ~20, `videoVolume` 100 so the voice-over stays on top. If it fails or the account doesn't support it, schedule normally and note "add trending sound in the app" in SCHEDULED.md.
-- Match the voice-over delivery style the research agent notes (pace/energy) with Kokoro speed and line length; don't imitate any specific person's voice.
+## Audio for instamake (Bilal, 6 Nov: find trending sounds and add them when they fit)
+Each reel ships two ways: (a) `audio-kit` voice + our original music, or (b) `audio-kit` voice + SFX **without music** (`audio-<voice>-nomusic.wav`) with an Instagram trending sound attached in Metricool. Use (b) when a trending sound below fits the reel's mood; otherwise (a).
+- Attach via Metricool `instagramData.audioConfiguration`: `audioId` = "<title> <artist>" (resolves to Instagram's licensed catalog), `audioVolume` 15–20, `videoVolume` 100 so the voice stays on top. If it is rejected (not in the business library, or ambiguous), retry once with the exact id from the error's candidate list; if still no, post version (a) and note it in SCHEDULED.md. Never download or rip any song or anyone's voice.
+- Skip vocal-heavy, explicit, Halloween or Christmas sounds under a voice-over.
+
+Trending sounds, week of 2–8 Nov 2026 (third-party lists, titles only; refresh weekly):
+| Sound | Artist | Fits Bracket? |
+|---|---|---|
+| Luminary | Joel Sunny | Yes: instrumental, cinematic reveal (build/launch reels) |
+| Autumn Colors | LuLuMusic | Yes: instrumental, calm (process/explainer reels) |
+| Upside Down | Diana Ross | Maybe: before/after reveal (bug → fixed) |
+| What You Waiting For? | Gwen Stefani | Maybe: milestone/montage, low volume |
+| Pump It | The Black Eyed Peas | Maybe: timestamped "day of a build" cuts, low volume |
+| Nicole Kidman | ADÉLA | No (flagged NSFW) |
+Sources: metricool.com/trending-instagram-songs (2 Nov), buffer.com/resources/trending-audio-instagram (3 Nov), creatordb.app/free-tools/trending-instagram-audio (4 Nov), postdom.com/blog/instagram-trends (2 Nov).
 
 ## Content ideas
 1. "Same page, English vs Arabic" RTL before/after reel (niche-report idea B).

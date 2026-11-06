@@ -78,3 +78,5 @@ for v,spd in [tuple(x) for x in cue.get("voices",[["af_bella",1.1],["am_fenrir",
     fade=np.ones(N); fl=int(1.5*sr); fade[-fl:]=np.linspace(1,0,fl)
     mix=vo*1.0+m*.30*dv*fade+x*.38
     sf.write(f"{out}/audio-{v}.wav",(mix/np.abs(mix).max()*.95).astype(np.float32),sr)
+    nm=vo*1.0+x*.38  # voice + sfx, no music: use this under an Instagram trending sound
+    sf.write(f"{out}/audio-{v}-nomusic.wav",(nm/np.abs(nm).max()*.95).astype(np.float32),sr)

@@ -23,6 +23,8 @@ ffmpeg -i <reel>.mp4 -i <out>/audio-af_bella.wav -filter_complex "[1:a]loudnorm=
   -c:a aac -ac 2 -ar 44100 -b:a 192k -movflags +faststart -shortest <reel>-voice.mp4
 ```
 
+Outputs per voice: `audio-<voice>.wav` (voice + original music + SFX) and `audio-<voice>-nomusic.wav` (voice + SFX only, for use under an Instagram trending sound attached in Metricool).
+
 ## Cue file (see `example-build-app.json`)
 
 - `duration`: the reel's length in seconds.
