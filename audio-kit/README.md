@@ -34,4 +34,4 @@ Outputs per voice: `audio-<voice>.wav` (voice + original music + SFX) and `audio
 - `tap`: list of taps or buttons.
 - `ding`: list of success moments, such as a green tick.
 - `lines`: `[start second, text]`. Keep each line short, about 4 lines, matching the on-screen beats.
-- `voices`: Bilal approved all three: `af_bella` (female), `am_fenrir` (male) and `af_heart` (female). Speed is 1.08–1.1.
+- `voices`: `[voice, speed, semitones]`; semitones is optional (negative = deeper). Bilal approved all three: `af_bella` (female), `am_fenrir` (male) and `af_heart` (female). Speed is 1.08–1.1.

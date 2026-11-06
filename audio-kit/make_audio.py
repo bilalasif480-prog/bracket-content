@@ -64,19 +64,21 @@ n=int(1.0*sr); t=T(n); place(sfx,bandpass(rng.standard_normal(n),2000,9000)*(t/1
 # ---------- voices ----------
 k=Kokoro(d+"/kokoro-v1.0.onnx", d+"/voices-v1.0.bin")
 lines=[tuple(x) for x in cue["lines"]]
-for v,spd in [tuple(x) for x in cue.get("voices",[["af_bella",1.1],["am_fenrir",1.08],["af_heart",1.1]])]:
+for vv in cue.get("voices",[["af_bella",1.1],["am_fenrir",1.08],["af_heart",1.1]]):
+    v,spd=vv[0],vv[1]; semi=vv[2] if len(vv)>2 else 0  # optional pitch shift in semitones (negative = deeper)
+    ratio=2**(semi/12); tag=v if not semi else f"{v}{semi:+g}"
     vo=np.zeros(N); end=0
     for at,txt in lines:
-        a,r=k.create(txt,voice=v,speed=spd,lang="en-us")
-        a=np.interp(np.arange(0,len(a),r/sr),np.arange(len(a)),a)
+        a,r=k.create(txt,voice=v,speed=spd/ratio,lang="en-us")
+        a=np.interp(np.arange(0,len(a),r/sr*ratio),np.arange(len(a)),a)
         s=max(int(at*sr),end); place(vo,a,s/sr); end=s+len(a)
-    print(v,"voice ends",round(end/sr,2))
+    print(tag,"voice ends",round(end/sr,2))
     vo=vo/np.abs(vo).max()*.9
     m=mus/np.abs(mus).max()*.9; x=sfx/np.abs(sfx).max()*.9
     # music ducks under voice
     env=np.convolve(np.abs(vo),np.ones(2205)/2205,'same'); dv=1-np.clip(env*6,0,.55)
     fade=np.ones(N); fl=int(1.5*sr); fade[-fl:]=np.linspace(1,0,fl)
     mix=vo*1.0+m*.30*dv*fade+x*.38
-    sf.write(f"{out}/audio-{v}.wav",(mix/np.abs(mix).max()*.95).astype(np.float32),sr)
+    sf.write(f"{out}/audio-{tag}.wav",(mix/np.abs(mix).max()*.95).astype(np.float32),sr)
     nm=vo*1.0+x*.38  # voice + sfx, no music: use this under an Instagram trending sound
-    sf.write(f"{out}/audio-{v}-nomusic.wav",(nm/np.abs(nm).max()*.95).astype(np.float32),sr)
+    sf.write(f"{out}/audio-{tag}-nomusic.wav",(nm/np.abs(nm).max()*.95).astype(np.float32),sr)
