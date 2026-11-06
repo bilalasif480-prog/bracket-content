@@ -15,7 +15,7 @@ const fonts = `
 @font-face{font-family:PlexAr;font-weight:700;src:url(data:font/woff2;base64,${b64('ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-700-normal.woff2')})}`;
 
 (async () => {
-  const browser = await chromium.launch();
+  const browser = await chromium.launch(process.env.PW_CHROMIUM ? { executablePath: process.env.PW_CHROMIUM } : {});
   const page = await browser.newPage({ viewport: { width: 1080, height: 1920 } });
   await page.setContent(`<html><head><style>${fonts} html,body{margin:0;background:#000}svg{display:block}</style></head><body><div id="s"></div></body></html>`);
   await page.evaluate(() => Promise.all([document.fonts.load('900 40px Archivo'), document.fonts.load('800 40px Archivo'), document.fonts.load('700 40px JB'), document.fonts.load('700 40px PlexAr', 'عربي')]));
