@@ -2,6 +2,17 @@
 
 For instamake (week 02 pack) and the research agent. **Early-stage mode** (Metricool: 1 follower, 5 posts), so this leans more on `niche-report.md` than on Bracket's own numbers. Full numbers: `analytics/week-01.md`.
 
+## Growth goal (Bilal, 6 Nov): 3,000 real followers by ~6 Dec 2026
+Starting point: Metricool shows 1 follower. This is a stretch goal; organic posting alone is unlikely to get there in 30 days, so every lever below runs at once. Real followers only: never buy followers, likes or views, and never use follow/unfollow or engagement bots (fake accounts hurt reach and can get the account restricted).
+- **Volume (instamake):** 2 reels a day: one normal REEL at 8 PM, plus one TRIAL_REEL (Metricool `instagramData.type: "TRIAL_REEL"`, shown to non-followers first) at a second time. Cut carousels to 1 a week (both got 0–1 reach). Reels 9–15 s, a question hook in the first second, loop the ending into the start.
+- **Repeat winners:** any reel or trial reel that beats the account's median views by 2× gets 2 new variations the next week (same idea, new hook or new business type). Instapulse flags them on Fridays.
+- **Shareable topics:** "Is your site losing customers?" style self-checks for Kuwaiti shop, clinic and restaurant owners: things people send to a friend or partner. CTA in the caption: "Send this to someone with a website" / "أرسلها لصاحب موقع".
+- **Collabs (Bilal):** Instagram Collab posts (Metricool `collaborators`) with real Kuwaiti small businesses, e.g. a free 2-minute website/app check reel posted together, only with their written OK. Their followers see it. Aim for 1–2 a week.
+- **Daily engagement (Bilal, 20–30 min, can't be automated):** reply to every comment within an hour; leave real comments on 10–15 posts from Kuwaiti business, startup and dev accounts; answer DMs the same day.
+- **Paid boost (Bilal's decision and budget):** promoting the best reel each week to Kuwait is the most dependable way to add followers fast. Instapulse will say which reel to boost; Bilal sets the budget in the Instagram app or Meta. No spend happens without him.
+- **Profile:** clear bio (what Bracket does + "Kuwait" + link), and highlights Build / Test / Process, so new visitors follow.
+- **Tracking:** Instapulse reports every Friday: followers, gained per week, follows per reel, and whether the pace is on track. Weekly goals to check: ~300 by 13 Nov, ~900 by 20 Nov, ~1,800 by 27 Nov, 3,000 by 6 Dec. These are targets to aim at, not forecasts.
+
 ## What's working / what to stop
 - **Reels carry the account.** Reels reached 18–74 accounts each; both carousels reached 0–1. With almost no followers, carousels get no distribution. → Next week mostly reels; keep at most 1 carousel and post it at 8 PM, not late.
 - **Short, blunt opening line holds people.** "No hourly clock." had 37.9% of viewers past 3 s vs 14.8–22% for the others. → Open with 2–4 big words on screen in the first second, then the problem.
