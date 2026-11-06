@@ -1,0 +1,11 @@
+{
+  "video": "single-reels/2026-11-02-build-app-reel/reel-build-app.mp4",
+  "duration": 16.4,
+  "music_drop": 1.9,
+  "end_card": 10.45,
+  "whoosh": [1.8, 3.35, 5.85],
+  "tap": [2.4, 2.7, 3.0],
+  "ding": [8.0],
+  "lines": [[0.25, "Got an app idea?"], [1.95, "We build it,"], [3.5, "screen by screen."], [5.95, "Then we try to break it,"], [7.7, "so your customers never can."]],
+  "voices": [["af_bella", 1.1], ["am_fenrir", 1.08], ["af_heart", 1.1]]
+}
