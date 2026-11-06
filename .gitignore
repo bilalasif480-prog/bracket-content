@@ -1,4 +1,4 @@
 node_modules/
 .DS_Store
 *.bak
-_engine/out/
+**/_engine/out/
