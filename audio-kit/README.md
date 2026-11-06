@@ -18,7 +18,7 @@ M=<scratch dir>   # never commit the model files (~350 MB)
 for f in kokoro-v1.0.onnx voices-v1.0.bin; do curl -sSL -o $M/$f https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/$f; done
 python3 -I audio-kit/make_audio.py $M audio-kit/<reel>.json <out dir>
 # mux, phone-safe:
-ffmpeg -i <reel>.mp4 -i <out>/audio-af_bella.wav -filter_complex "[1:a]loudnorm=I=-14:TP=-1.5,aresample=44100[a]" \
+ffmpeg -i <reel>.mp4 -i <out>/audio-am_fenrir-1.5.wav -filter_complex "[1:a]loudnorm=I=-14:TP=-1.5,aresample=44100[a]" \
   -map 0:v -map "[a]" -c:v libx264 -profile:v main -level 4.1 -pix_fmt yuv420p -crf 20 \
   -c:a aac -ac 2 -ar 44100 -b:a 192k -movflags +faststart -shortest <reel>-voice.mp4
 ```
@@ -34,4 +34,4 @@ Outputs per voice: `audio-<voice>.wav` (voice + original music + SFX) and `audio
 - `tap`: list of taps or buttons.
 - `ding`: list of success moments, such as a green tick.
 - `lines`: `[start second, text]`. Keep each line short, about 4 lines, matching the on-screen beats.
-- `voices`: `[voice, speed, semitones]`; semitones is optional (negative = deeper). Bilal approved all three: `af_bella` (female), `am_fenrir` (male) and `af_heart` (female). Speed is 1.08–1.1.
+- `voices`: `[voice, speed, semitones]`; semitones is optional (negative = deeper). **Default voice (Bilal's pick, 6 Nov): `["am_fenrir", 0.95, -1.5]`**, a deep, calm American male, output `audio-am_fenrir-1.5.wav`. Use it on every reel. At this slower pace, keep to about 4 short lines and check that the printed "voice ends" time is before `end_card`. Earlier approved backups: `af_bella` or `af_heart` (female) at speed 1.1.

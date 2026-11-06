@@ -6,6 +6,6 @@
   "whoosh": [1.8, 3.35, 5.85],
   "tap": [2.4, 2.7, 3.0],
   "ding": [8.0],
-  "lines": [[0.25, "Got an app idea?"], [1.95, "We build it,"], [3.5, "screen by screen."], [5.95, "Then we try to break it,"], [7.7, "so your customers never can."]],
-  "voices": [["af_bella", 1.1], ["am_fenrir", 1.08], ["af_heart", 1.1]]
+  "lines": [[0.25, "Got an app idea?"], [1.95, "We build it, screen by screen."], [5.9, "Then we try to break it,"], [7.7, "so your customers never can."]],
+  "voices": [["am_fenrir", 0.95, -1.5]]
 }
