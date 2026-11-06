@@ -6,6 +6,7 @@ For instamake (week 02 pack) and the research agent. **Early-stage mode** (Metri
 - **Reels carry the account.** Reels reached 18–74 accounts each; both carousels reached 0–1. With almost no followers, carousels get no distribution. → Next week mostly reels; keep at most 1 carousel and post it at 8 PM, not late.
 - **Short, blunt opening line holds people.** "No hourly clock." had 37.9% of viewers past 3 s vs 14.8–22% for the others. → Open with 2–4 big words on screen in the first second, then the problem.
 - **Watch time is low** (4–5 s on 18–22 s reels; Metricool's 2026 average is 8.5 s). → Try 12–15 s cuts, put the payoff earlier, keep the loop tight.
+- **Voice-over on every reel from week 2 (Bilal's call, 6 Nov):** AI voice-over in English + Gulf Arabic, same approach as `single-reels/2026-11-06-one-thumb-reel/` (voice + soft tap sounds, short lines that match the on-screen text). Week 1 reels stay as scheduled. Also keep a no-audio version of each reel, so trending audio can be added in the app.
 - **Stop:** posting carousels off-slot (Day 2 at 22:30), long intros before the first big text.
 - Topic build vs test: no clear winner yet; keep Bilal's ask of at least one BUILD reel.
 
