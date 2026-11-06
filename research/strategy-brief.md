@@ -50,6 +50,11 @@ None collected — comments are checked by Bilal.
 2. Short reels (under 15 s) from build/QA/agency accounts: how fast do they show the payoff, and what text sits on frame 1?
 3. What breaks in Instagram's in-app browser for Kuwait store sites (KNET pages, WhatsApp links): real examples from public sources.
 4. Do any GCC agencies get reach with carousels from small accounts? If yes, what's on slide 1.
+5. **Trending sounds (names only):** for reels in the niche that get visible views, note the Instagram audio title + artist shown under the reel and how the voice-over is delivered (pace, tone, energy). Never download or rip anyone's audio or voice; we only use Instagram's own licensed sounds and our own voice-over.
+
+## Audio for instamake
+- Use the trending sound names from the niche report via Metricool `instagramData.audioConfiguration` (`audioId` = song title/artist; it resolves to Instagram's licensed catalog), `audioVolume` ~20, `videoVolume` 100 so the voice-over stays on top. If it fails or the account doesn't support it, schedule normally and note "add trending sound in the app" in SCHEDULED.md.
+- Match the voice-over delivery style the research agent notes (pace/energy) with Kokoro speed and line length; don't imitate any specific person's voice.
 
 ## Content ideas
 1. "Same page, English vs Arabic" RTL before/after reel (niche-report idea B).
