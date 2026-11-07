@@ -28,3 +28,13 @@ Used topics (don't repeat the same angle within 6 weeks):
 ## 2026-11-06 reel "One thumb. One chance." (agency-agents: short-video coach + instagram curator + visual storyteller)
 - Topic: tiny Pay button on a phone = lost order; brackets fix and test on 375/390/430 px; order placed. Build + QA angle, mobile checkout.
 - Includes EN+AR voice-over and soft tap sounds. Files: single-reels/2026-11-06-one-thumb-reel/
+
+## Week 2 (10–16 Nov 2026), files in week-02/
+- Reel (build): "Same page. Arabic broke it." — English page switched to Arabic keeps LTR layout, brackets rebuild it right-to-left, EN + عربي tested
+- Carousel (build): "Is your sale page White Friday ready?" — 5 things (offer in 3 s, visible deadline, phone checkout, KNET, chat button that works)
+- Reel (test): "Your website has a bug." — store opened from Instagram's in-app browser: logged out, chat button dead; tested on Safari, Chrome and in-app
+- Carousel (build): "What your Kuwait store page must show" — Digital Commerce Law checklist (trade name/reg no., contact, final prices, returns, Arabic e-invoice), not legal advice
+- Reel (build app): "Got an app idea? / screen by screen" — reused single-reels/2026-11-02-build-app-reel with new voice-over
+- Carousel (test): "QA words, in Kuwaiti. Save this." — bug, smoke test, regression, RTL check, real device
+- Reel (both): "One thumb. One chance." — reused single-reels/2026-11-06-one-thumb-reel
+- Deferred to week 3: "Tap it 5 times" reel (brief Mon slot)

@@ -1,0 +1,11 @@
+{
+  "video": "week-02/day3-reel-in-app-browser.mp4",
+  "duration": 16.0,
+  "music_drop": 1.6,
+  "end_card": 11.8,
+  "whoosh": [1.6, 3.5, 7.9],
+  "tap": [1.1, 4.2, 5.2, 10.2],
+  "ding": [8.7, 9.05, 9.4, 10.4],
+  "lines": [[0.2, "Your website has a bug."], [3.6, "Opened from Instagram, the chat button does nothing."], [8.0, "So we test it in there too."]],
+  "voices": [["am_fenrir", 0.95, -1.5]]
+}
