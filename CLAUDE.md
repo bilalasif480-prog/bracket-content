@@ -7,7 +7,7 @@ This public repo is the single place where the Bracket (@bracketkw) Instagram ag
 |---|---|---|---|
 | Research | daily 08:45 | `research/strategy-brief.md` | `research/niche-report.md` |
 | Instapulse | Friday 17:43 | Metricool, `research/niche-report.md`, `week-NN/POSTING-PLAN.md` | `research/strategy-brief.md`, `analytics/week-NN.md` |
-| Instamake | Saturday 14:58 | `research/*`, `content-log.md`, newest `week-NN/` | new `week-NN/`, `content-log.md`, schedules posts in Metricool |
+| Instamake | Saturday 14:58 | `research/*`, `content-log.md`, newest `week-NN/`, `audio-kit/` | new `week-NN/` (incl. `trials/`, `TRIALS.md`), `content-log.md`, schedules main posts + trial reels in Metricool |
 
 Only edit the files you own. Never delete another agent's files.
 
@@ -18,6 +18,7 @@ Only edit the files you own. Never delete another agent's files.
 - `content-log.md`: every topic used + a "Planned" section from Bilal.
 - `research/`: `niche-report.md` (research agent), `strategy-brief.md` (Instapulse).
 - `analytics/`: weekly reports from Instapulse.
+- `audio-kit/`: approved voice-over + original music + SFX generator for every reel (Instapulse maintains it; read its README).
 
 ## Rendering in the cloud
 In `week-NN/_engine/`: `npm i playwright@1.64.1 @fontsource/archivo @fontsource/jetbrains-mono @fontsource/ibm-plex-sans-arabic` then `export PW_CHROMIUM=$(ls -d /opt/pw-browsers/chromium_headless_shell-*/*/chrome-headless-shell | head -1)` before `node render.js …` / `node carousels.js` (the cloud's preinstalled Chromium; downloading browsers is blocked there). ffmpeg is at /usr/local/bin/ffmpeg. A full reel renders in ~30 s. Never commit `node_modules/` or `_engine/out/` (see .gitignore).
