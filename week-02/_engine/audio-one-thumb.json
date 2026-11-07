@@ -1,0 +1,11 @@
+{
+  "video": "week-02/day7-reel-one-thumb.mp4",
+  "duration": 18.8,
+  "music_drop": 4.0,
+  "end_card": 13.6,
+  "whoosh": [4.0, 9.0],
+  "tap": [1.0, 1.9, 2.8, 11.2],
+  "ding": [12.0],
+  "lines": [[0.2, "Can your customers even tap Pay?"], [4.1, "A tiny button means a lost order."], [9.0, "We fix it, then test it on every phone."], [11.9, "Order placed."]],
+  "voices": [["am_fenrir", 0.95, -1.5]]
+}
