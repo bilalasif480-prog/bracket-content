@@ -1,8 +1,102 @@
-# Niche report for instamake (last updated 2026-11-06)
+# Niche report for instamake (last updated 2026-11-07)
 
-Source: Bilal's logged-in Instagram via Chrome. Header stats and what's visible in the grid only. No videos downloaded.
+Sources: Metricool competitor data (from 2026-11-07), web research, and earlier passes via Bilal's logged-in Instagram in Chrome. Header stats and what's visible in the grid only. No videos downloaded.
 
-## Current picture (updated 2026-11-06)
+## Current picture (updated 2026-11-07)
+Sources today: Metricool competitor data (brand 7919246, 8 Oct to 7 Nov 2026: 5 competitor accounts, 33 reels and 70 feed posts with captions and interactions) + 10 web pages. Hooks are "hook from caption" (first caption line); videos were not watched. Instagram header stats for other accounts are from the 11-04/11-06 passes below.
+
+### Competitors in Metricool (last 30 days, read 2026-11-07)
+| Account | Followers | Feed posts / reels (30 d) | Avg likes per post | Metricool engagement | Top format | Last reviewed |
+|---|---|---|---|---|---|---|
+| @software_testing_hacks (QA, global) | 132,117 | 22 / 3 | 164.8 | 0.13 | Cheat-sheet / interview-question carousels ("Save this post") | 11-07 |
+| @honeywavecreative (web design, US) | 32,110 | 6 / 14 | 111.9 | 0.39 | Humour + personality reels on business-owner trends, "Comment ONEDAY" CTA | 11-07 |
+| @tocaan (apps/web, Kuwait) | 15,492 | 15 / 7 | 2.0 | 0.01 | App mockup posts, mostly no caption | 11-07 |
+| @kdakw (agency, Kuwait) | 10,294 | 18 / 6 | 0.08 | 0.00 | Explainer posters + phone-number CTA | 11-07 |
+| @trywebsight (web/systems, Kuwait) | 1,706 | 2 / 1 | 13.3 | 0.88 | Gulf-Arabic client-story reel/posts | 11-07 |
+
+**Add to Metricool → Competitors** (only 5 tracked; aim for 10-20): @digitaldesignkw, @brandlift.kw, @pencilvent, @myplace.agency, @dsrpt.kw, @khanscend, @brwebsolution, @i_am_software_tester, @software_testingstuff, @browserstack, @webflow, @santhoshdesign.
+
+### Top reels and posts (Metricool, 8 Oct-7 Nov)
+| Account | Type | Hook (from caption) | Interactions | Date |
+|---|---|---|---|---|
+| honeywavecreative | Reel | "Honestly… It could've been a lot worse 🤣" (designer origin story, first ugly site) | 513 (469 likes, 44 comments) | 10-28 |
+| honeywavecreative | Reel | "Business owner edition 🤪 Be honest, which round got you?" | 459 | 10-15 |
+| software_testing_hacks | Post | "Here's a handy 19-page handwritten Playwright guide…" | 456 | 10-27 |
+| software_testing_hacks | Post | "Playwright is becoming an important skill… 21 interview questions" | 424 | 10-29 |
+| software_testing_hacks | Post | "If you're working as a Software Tester, knowing Jira is more than just knowing how to create a bug." | 390 | 10-23 |
+| software_testing_hacks | Post | "When I started my journey as a Software Tester, I honestly had no idea how I was going to survive" | 319 | 10-16 |
+| honeywavecreative | Reel | "This story could only go one of two ways 😅💀" (client-call skit) | 227 | 10-29 |
+| honeywavecreative | Reel | "Thanks for helping with the demonstration, hubs 😂" (frontend vs backend acted out) | 198 | 10-19 |
+| honeywavecreative | Reel | "Can you guess them all correctly? 😉" (font-guessing game) | 175 | 10-12 |
+| honeywavecreative | Reel | "A runway angel? No 😂 An angel that can swoop in and fix your site" | 129 | 10-27 |
+| honeywavecreative | Reel | "Mobile is 👏 IMPORTANT 👏" (site shown on phone) | 103 | 11-02 |
+| trywebsight | Reel | "الثقة ما تنبني بالكلام، تنبني بالتجارب والنتائج." (client story) | 38, best Kuwait item | 10-15 |
+| honeywavecreative | Reel | "Comment ONEDAY… Most businesses spend weeks planning their Black Friday offer… then send all that traffic to a website that isn't ready" | 32 | 11-04 |
+| kdakw | 24 items | e.g. "Visitors decide to stay or leave your website in less than a second." / "Stop committing website crimes…" | 0-2 each | Oct-Nov |
+| tocaan | 22 items | App mockups ("Rhoto App 📲", "Mkani App") | 1-5 each | Oct-Nov |
+
+### Web findings (2026-11-07, pages read)
+- **Format reach by account size:** accounts under 10K followers, median reach per follower per post: Reels 4.9%, image posts 3.5%, carousels 2.6%; Reels reach nearly 3x as many non-followers as carousels (3M+ posts, Jan-Apr 2026). https://www.fanpagekarma.com/insights/instagram-format-reach/
+- Metricool 2026 data (via Net Influencer): Reels reach +11.69% YoY, single-image reach -21.96%; carousels get more than double the reach of single images; avg interactions per post Reels 1,035, carousels 897, single image 238 (all account sizes). https://www.netinfluencer.com/instagram-views-up-27-percent-in-early-2026-as-publishing-increases-report-finds/
+- Carousel slide 1 = the hook, promising value you must swipe to get; hook viewers in the first three slides (unsourced exit-rate figures on page). https://www.truefuturemedia.com/articles/instagram-reach-2026-algorithm-reels-carousels-caption-seo
+- **Instagram in-app browser problems** (vendor/help pages, not verified): Apple Pay button hidden at Shopify checkout, card form shows instead (https://link.boo/fix/shopify-apple-pay-missing-instagram-browser); webview doesn't share cookies, autofill or saved logins, so returning shoppers look logged out; form fields can lose focus; app hand-offs stay inside the webview; fix = "Open in Safari/Chrome" from the ⋯ menu (https://u2l.ai/blog/instagram-in-app-browser); wa.me WhatsApp links can fail because Instagram doesn't detect WhatsApp, workaround = Instagram's own WhatsApp button on the profile (https://help.chatarmin.com/en/articles/211412-instagram-whatsapp-link-not-working); Shopify merchants report Instagram/Facebook in-app checkout failures with no root cause (2023 thread, https://community.shopify.com/t/facebook-and-instagram-app-checkout-failures/272076). No KNET-specific public report found.
+- **Hook formulas:** say it in 1-2 s, deliver the promise by ~3 s, no 3-5 s intro; first frame = bold high-contrast text repeating the hook; 3-second hold over 60% is strong, under 50% rework; test one new hook a week (https://www.opus.pro/blog/instagram-reels-hook-formulas). First-frame text 5-10 words, one focal point; formulas "[Audience]: [Outcome] without [Constraint]", "Most people [problem] because [mistake]", "Do this before you [action]" (https://www.truefuturemedia.com/articles/instagram-reels-hooks-two-step-test). Problem/Promise → Contrast → Proof; reset attention every 4-7 s (https://prateekshawebdesign.blogspot.com/2026/01/reels-strategy-for-businesses-hook.html).
+- **Trending sounds** (lists 30 Oct-3 Nov): Buffer: Luminary (epic instrumental), Upside Down (Diana Ross, transitions), "Windows in Brazil (Sped Up)" (0%→100% glow-ups), Pump It, DROP IT LIKE ITS HOT x STAYIN ALIVE (Altego) (https://buffer.com/resources/trending-audio-instagram). SocialPilot (31 Oct-10 Nov): Sunshine (Instrumental) (Twista), Blue Moon (Zara Larsson), Everlong, Linger; notes most are major-label and many business accounts can't use them (https://socialpilot.co/blog/instagram-reels-trends/). Metricool's 2 Nov list is almost all Halloween; only Ghostbusters (Instrumental) is instrumental (https://metricool.com/trending-instagram-songs). Christmas tracks are rising; skip under voice-over.
+- Earlier web findings (prices, RTL, WhatsApp CTA, Kuwait Digital Commerce Law) are in the 11-05/11-03 sections below.
+
+### What's working
+- **Personality and humour beat pitches.** honeywavecreative's skits/games/origin story got 175-513 interactions; its "Comment ONEDAY" sales reels on the same account got 28-43. Same account, same followers: the joke wins 5-10x.
+- **Save-bait cheat sheets win in QA.** software_testing_hacks' study-note carousels (Playwright, Jira, API, Git) get 300-456 interactions; its AI-tool promos get 11-60.
+- **Kuwait poster style is dead.** kdakw posted 24 times in 30 days (problem headline + phone number) and got 0-2 interactions each; tocaan's captionless mockups get 1-5. Volume without a hook or a face/character doesn't move.
+- **Gulf Arabic story did best in Kuwait** (trywebsight client story reel, 38), but Bracket cannot use testimonials it doesn't have.
+- For a near-zero account, Reels are the reach format (Fanpage Karma); carousels are for saves once there's an audience.
+
+### Gaps Bracket can own
+- Humour/character content in Kuwait: kdakw tries "humour" as posters and gets nothing; nobody uses a recurring character. Bracket's brackets + bug are the face.
+- QA in Arabic and QA for business owners (not testers): global QA accounts teach testers; nobody shows shop owners what breaks.
+- Instagram in-app browser testing: Kuwait stores get traffic from Instagram, and checkout/WhatsApp quirks inside the webview are real; nobody local talks about it.
+- Showing builds step by step (unchanged).
+
+### Content ideas (2026-11-07; bilingual, brackets + bug; adapt, never copy)
+1. BUILD reel: "White Friday-ready?" / "جاهز للجمعة البيضاء؟" The brackets build a sale page in 4 beats (offer clear in 3 s, visible deadline, mobile checkout, KNET), then the bug taps through it. Pattern from honeywave's BFCM-checklist reel; timely for November sales.
+2. BUILD reel: "Frontend vs backend, explained by two brackets." / "الواجهة والباك إند… يشرحونها قوسين." One bracket is the shop window, the other runs the kitchen behind it. Skit pattern from the "demonstration" reel (198).
+3. BUILD (app) reel: "The bug's first app. Could've been worse." / "أول تطبيق سواه البق… كان ممكن يكون أسوأ." Ugly screen, then the brackets rebuild it screen by screen. Origin-story pattern (513), told by the mascot so nothing about Bracket's history is invented.
+4. TEST reel: "Website owner edition: which round got you?" / "نسخة أصحاب المواقع: أي جولة طاحت عليك؟" Rounds: "just a small change", "works on my phone", "Arabic broke it", "WhatsApp button does nothing". Rounds-game pattern (459).
+5. TEST reel: "Opened from Instagram… and checkout broke." / "فتحته من إنستقرام… والدفع خرب." The bug shows the in-app browser: logged out, Apple Pay missing, WhatsApp link dead; fix = test inside Instagram's browser too. Sources above.
+6. TEST reel game: "Spot all 5 bugs." / "تقدر تلقى الخمس أخطاء؟" Guessing-game pattern (175); answers at the end, loop to start.
+7. QA carousel (the week's one carousel): "QA words in Kuwaiti. Save this." / "كلمات الـQA بالكويتي. احفظها." Cheat-sheet save pattern from software_testing_hacks; slide 1 = promise that needs a swipe.
+
+## Hooks found
+Engagement = Metricool interactions (likes + comments), 8 Oct-7 Nov. All hooks are from captions. Adapted versions are Bracket's own wording.
+| # | Source | Hook pattern | Engagement | Bracket version (EN / Gulf Arabic) |
+|---|---|---|---|---|
+| 1 | @honeywavecreative | Self-deprecating origin ("could've been worse") | 513 | "The bug's first website. Could've been worse." / "أول موقع سواه البق… كان ممكن يكون أسوأ." |
+| 2 | @honeywavecreative | "[Audience] edition: which round got you?" | 459 | "Website owner edition. Which round got you?" / "نسخة أصحاب المواقع. أي جولة طاحت عليك؟" |
+| 3 | @software_testing_hacks | Free cheat sheet, "save this" | 456 | "QA words, in Kuwaiti. Save this." / "كلمات الـQA بالكويتي. احفظها." |
+| 4 | @software_testing_hacks | Numbered list for a known task | 424 | "5 things to test before you launch." / "٥ أشياء اختبرها قبل لا تطلق." |
+| 5 | @software_testing_hacks | "Knowing X is more than Y" | 390 | "A website is more than a nice homepage." / "الموقع مو بس صفحة رئيسية حلوة." |
+| 6 | @honeywavecreative | "This could only go two ways" | 227 | "This launch can only go two ways." / "هالإطلاق له طريقين بس." (tested vs not tested) |
+| 7 | @honeywavecreative | Acted-out explainer | 198 | "Frontend vs backend, by two brackets." / "الواجهة والباك إند بقوسين." |
+| 8 | @honeywavecreative | Guessing game | 175 | "Can you spot all 5 bugs?" / "تقدر تلقى الخمس أخطاء؟" |
+| 9 | @honeywavecreative | "An X? No. A Y that fixes Z." | 129 | "A superhero? No. A tester." / "بطل خارق؟ لا. مختبِر." |
+| 10 | @honeywavecreative | Clap-emphasis statement | 103 | "Mobile 👏 comes 👏 first." / "الجوال 👏 أول 👏 شي." |
+| 11 | @trywebsight | Gulf-Arabic proverb-style contrast | 38 (best Kuwait) | "Trust isn't built with words. It's built with tests." / "الثقة ما تنبني بالكلام… تنبني بالاختبار." |
+| 12 | @honeywavecreative | Seasonal: weeks on the offer, site not ready | 32 | "Weeks on your White Friday offer… and checkout breaks?" / "أسابيع تجهز عرض الجمعة البيضاء… والدفع يخرب؟" |
+| 13 | @trywebsight | "You grew… but your X still…?" | 6 | "Your store grew… but your site still freezes?" / "متجرك كبر… بس موقعك للحين يعلق؟" |
+| 14 | @honeywavecreative | Keyword comment CTA ("Comment ONEDAY") | 28-93 | "Comment CHECK" / "اكتب CHECK" — only if Bilal approves a real free-check offer |
+| — | @kdakw (avoid) | Problem headline + phone number | 0 | Shows the poster style flops; don't open with a generic claim |
+
+## Answers to the brief's asks (2026-11-07)
+1. Hooks found: section above (14 hooks, with engagement).
+2. Payoff speed: we can't watch videos; the sources say name the hook in 1-2 s, deliver the promise by ~3 s, and put 5-10 bold words on frame 1 (Opus, TrueFuture). Captions of top reels open with a punchline or a question, never a logo/intro.
+3. In-app browser: Apple Pay hidden, logged-out sessions, autofill missing, fields losing focus, wa.me links failing; fix is "Open in browser" or a profile WhatsApp button (sources in Web findings). No public KNET-specific report found.
+4. Carousels on small GCC accounts: no evidence they work. kdakw's carousels (10K followers) got 0 interactions; trywebsight's Arabic carousel got 6. Data: under-10K accounts get 2.6% reach/follower from carousels vs 4.9% from Reels. If used, slide 1 = a promise you must swipe for.
+5. Trending sounds: Metricool doesn't return audio titles and the agent can't open Instagram, so niche-reel sounds are unknown. Weekly lists: Luminary, Upside Down, Windows in Brazil (Sped Up), Sunshine (Instrumental), Pump It; check each in the business library first. honeywave credits trend creators ("S/o to boywithnojob for the fun reel idea"), so its top reels ride trending formats.
+
+## Answers to Bracket's comment questions
+None listed in the brief this week.
+
+## Previous picture (2026-11-06, kept for detail)
 **2026-11-06 refresh:** 35 profiles re-read (header stats only, no challenge or login prompt; profiles opened by handle). Account table below still holds the latest picture; today's changes in the next block. Stats below are 11-04 unless listed in "Changes 2026-11-06".
 
 Latest header stats read 2026-11-04 (read-only, 36 accounts, no challenge or login prompt). Details of older accounts are in the sections below.
@@ -250,6 +344,9 @@ Also skip: @hussein.althahabi and the other results from the keyword search; the
 No per-post views/likes/hooks captured yet, only header stats and visible grid content. The weekly task is set up to go deeper (see agent prompt).
 
 ## Log (newest first)
+
+## 2026-11-07
+Cloud run (no browser). Metricool competitors: 5 accounts (software_testing_hacks, honeywavecreative, tocaan, kdakw, trywebsight), 33 reels + 70 posts in 30 days with captions and interactions. Web: 10 pages read (Fanpage Karma format reach, Metricool/Net Influencer, TrueFuture, Opus, Prateeksha hooks, in-app browser pages, Buffer/SocialPilot/Metricool sound lists). New: "Hooks found" (14) and answers to the brief's 5 asks. Top insight: humour/personality reels get 5-10x the interactions of sales reels on the same account (honeywave 513 vs 28-43), while Kuwait poster accounts get 0-5. Only 5 competitors in Metricool; 12 more suggested.
 
 ## 2026-11-06
 35 profiles read (Kuwait/GCC builders 16, global web 7, QA 9 plus others from the 11-04 list), header stats only, no challenge. Little changed vs 11-04/05; tocaan now carries an "AI-generated profile" label. Web: leads only (directories, Kuwait cost guides, Metricool study, carousels-in-Reels test). Five new content ideas added above. Gap unchanged: nobody in Kuwait shows builds step by step or does Arabic/mascot QA.
