@@ -21,3 +21,13 @@ function browser(x, y, w, h, inner, bg = '#fff') {
   return `<rect x="${x + 10}" y="${y + 14}" width="${w}" height="${h}" rx="30" fill="rgba(32,30,29,.16)"/><rect x="${x}" y="${y}" width="${w}" height="${h}" rx="30" fill="${bg}" stroke="${C.ink}" stroke-width="8"/><rect x="${x}" y="${y}" width="${w}" height="64" rx="30" fill="${C.ink}"/><rect x="${x}" y="${y + 34}" width="${w}" height="30" fill="${C.ink}"/><circle cx="${x + 36}" cy="${y + 32}" r="9" fill="${C.red}"/><circle cx="${x + 66}" cy="${y + 32}" r="9" fill="${C.gold}"/><circle cx="${x + 96}" cy="${y + 32}" r="9" fill="${C.green}"/>${inner}`;
 }
 module.exports = { ...L, endCard2, browser };
+// generic reel wrapper: body(t) draws content; heading shown by head()
+const _L2 = module.exports;
+_L2.wrap = (END, body, e1, e2, ear) => ({ dur: END + 3.6, frame(t) {
+  let s = `<rect width="1080" height="1920" fill="${C.paper}"/>`;
+  if (t < END + .6) s += `<g opacity="${f(1 - seg(t, END, END + .6))}">${body(t)}</g>`;
+  if (t >= END) s += `<g opacity="${f(seg(t, END, END + .6))}">${endCard2(t, END, e1, e2, ear)}</g>`;
+  return s; } });
+// two-line headline with Arabic, fades out at tOut
+_L2.head = (t, a, b, ar, t0 = 0.1, tOut = 999, y = 290, sz = 96) => { const o = 1 - seg(t, tOut, tOut + .4);
+  return line(a, 540, y, sz, C.ink, t, t0, { op: o }) + (b ? line(b, 540, y + sz + 10, sz + 6, C.red, t, t0 + .3, { op: o }) : '') + (ar ? line(ar, 540, y + (b ? sz * 2 + 4 : sz - 6) + 4, 56, C.ink, t, t0 + .6, { op: o }) : ''); };
