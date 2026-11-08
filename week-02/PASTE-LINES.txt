@@ -1,0 +1,112 @@
+# Paste each reel's text into your Voice Clone app. Blank line = a new line of voice (keep the blank lines!).
+# Save each result as reelNN.wav and send it to me.
+
+===== reel20 (same-business-two-websites) =====
+Same business. Two websites. Let's look at the first one.
+
+This one was rushed. And this one? This one was planned.
+
+So, which one would you trust with your business?
+
+===== reel21 (logo-bigger-fixed-scope) =====
+Message number seven. Can you make the logo bigger?
+
+A bit bigger. Oh, and one small thing: a new page.
+
+Logo? In scope, done. New page? New quote.
+
+Fixed scope. Fixed price.
+
+===== reel22 (idea-to-live-3-steps) =====
+From idea to live.
+
+Kickoff. We agree scope and price.
+
+Build. Design, code, test.
+
+Launch. Live, no surprises.
+
+===== reel23 (app-before-name) =====
+An app idea, with no name yet.
+
+No problem. We start with the screens.
+
+Screens first, code second.
+
+You see it before we build it.
+
+===== reel24 (small-change-tower) =====
+It's just a small change.
+
+Just this one block. Easy.
+
+And down it goes.
+
+Famous last words.
+
+We change it, then we test the rest.
+
+===== reel25 (same-page-different-phone) =====
+It looks great on your laptop.
+
+But on their phone?
+
+The button is cut off, and the text runs off the screen.
+
+Same page. Fixed phone.
+
+===== reel26 (website-cost-kuwait) =====
+What does a website cost in Kuwait?
+
+Honest answer: it depends on the scope.
+
+Pages, features, languages, payments.
+
+Scope first, then one fixed price.
+
+===== reel27 (checkout-3-taps) =====
+Checkout. In three taps.
+
+Tap one, add to cart.
+
+Tap two, pay.
+
+Tap three, and you're done.
+
+Fewer taps, more orders.
+
+===== reel28 (app-or-website-first) =====
+App or website first?
+
+Need people to find you on Google? Start with a website.
+
+Daily use and alerts? That's an app.
+
+Not sure? Start with the website.
+
+===== reel29 (arabic-first) =====
+Arabic first, English second.
+
+Flip the switch, and the whole layout flips right to left.
+
+One site, both ways. Your customers read both.
+
+===== reel30 (whatsapp-every-phone) =====
+Does your WhatsApp button work?
+
+On every phone? Big ones, small ones, old ones?
+
+We tap it on each one, before launch.
+
+One tap, every phone.
+
+===== reel31 (3-questions-before-you-pay) =====
+Three questions before you pay.
+
+One: is the price fixed?
+
+Two: is the date in writing?
+
+Three: who fixes it after launch?
+
+Our answer? Yes. Three times.
