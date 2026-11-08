@@ -1,4 +1,4 @@
-# Strategy brief (Instapulse) · updated Sun 8 Nov 2026 (founder-pack orders added; rest from Fri 6 Nov)
+# Strategy brief (Instapulse) · updated Sun 8 Nov 2026 (founder-pack orders, widened to all appointment businesses; rest from Fri 6 Nov)
 
 ## NEW 8 Nov: founder-pack findings → orders (top priority from week 3, Tue 17 Nov)
 Bilal ran a business test on Bracket (board review, Kuwait competitor scan, 20 simulated buyers). Results in short:
@@ -6,13 +6,15 @@ Bilal ran a business test on Bracket (board review, Kuwait competitor scan, 20 s
 - **0 of 20 simulated owners would buy yet.** The #1 reason (15/20) was **no proof**: no live work to see, nobody to call. Other reasons: "WhatsApp already works", "my problem is missed calls, not a website". Price was rarely the blocker.
 - The owners said **missed calls, late-night WhatsApp replies and no-shows** are their real pain, not "not having a website". Simulated buyers, not real customers, so treat this as direction, not data.
 
+**Update 8 Nov, later: widened from clinics/contractors to ALL appointment businesses.** Bilal's call: the package fits any business that runs on bookings. Rotate across **clinics, salons & barbers, garages & car wash, AC & home services, gyms & trainers, tutors & centres**. The website's booking page now has a demo with Clinic / Salon / Garage / AC service / Gym tabs.
+
 **Orders for instamake (week 3 onward):**
-1. **At least 3 of the 7 main reels speak to clinic or AC/home-service owners about their pain:** missed calls, no-shows, booking chaos on WhatsApp, Arabic booking pages that break. Hook style stays the same: 2–4 big words, then the problem.
+1. **At least 3 of the 7 main reels speak to appointment-business owners about their pain:** missed calls, no-shows, booking chaos on WhatsApp, Arabic booking pages that break. **Rotate the business type** each reel (clinic, salon, garage, AC, gym, tutor) and say it on screen in the first second (e.g. "Salon owners:" / "أصحاب الصالونات:"). Hook style stays the same: 2–4 big words, then the problem.
 2. **Proof content, every week:** show the *build* of a booking system and dashboard (generic screens, invented sample data, **no client names, no logos, no results claimed**). For example "Booking page, built screen by screen" or "Missed call → booked slot". Never imply a real client result, testimonial or number.
-3. **"Demo" reels:** a phone tapping through a clinic booking flow in Arabic and English, with a WhatsApp reminder arriving. Label it as a demo.
+3. **"Demo" reels:** a phone tapping through a booking flow in Arabic and English (pick a different business type each time), with a WhatsApp reminder arriving. Label it as a demo.
 4. **Don't post prices** until Bilal sets them. Keep **CTA = DM us / hello@bracket.studio** until Bilal adds a WhatsApp number, then switch to WhatsApp.
-5. Keep at least 1 QA/test reel and 1 general build reel a week, so the account stays Bracket, not only clinics.
-6. Trial-reel variants: test the **business type** (clinic vs AC contractor vs salon) on the same idea, to learn which owner group responds.
+5. Keep at least 1 QA/test reel and 1 general build reel a week, so the account stays Bracket, not only booking.
+6. **Trial-reel variants:** run the same idea across **3–4 business types** (e.g. clinic / salon / garage / gym) and change nothing else, to learn which owner group responds most. Instapulse ranks them on Fridays and the winner type gets more slots.
 
 **Hooks to add to "To try next"** (adapted, ours):
 - "Missed call. Lost customer." / "مكالمة فايتة. زبون راح."
@@ -20,23 +22,27 @@ Bilal ran a business test on Bracket (board review, Kuwait competitor scan, 20 s
 - "No-show again?" / "ما حضر مرة ثانية؟"
 - "Your booking page. In Arabic. Properly." / "صفحة الحجز. بالعربي. صح."
 - "Booked while you were busy." / "انحجز وأنت مشغول."
+- "Salon owners: stop answering DMs at midnight." / "أصحاب الصالونات: خلاص من رسائل نص الليل."
+- "Your garage. Booked without a call." / "كراجك. ينحجز بدون اتصال."
+- "Empty class again?" / "الكلاس فاضي مرة ثانية؟"
 
 **Week 3 slots (Tue 17 – Mon 23 Nov), 8:00 PM Kuwait:**
 | Day | Format | Topic | Hook | Audience | Goal |
 |---|---|---|---|---|---|
 | Tue 17 | Reel 12–15 s | Build | "Missed call. Lost customer." → auto WhatsApp reply offers a slot (demo) | AC / home-service owner | Reach |
 | Wed 18 | Reel 15 s | Test | "Tap it 5 times." (deferred from week 2) | Restaurant / store | Reach + leads |
-| Thu 19 | Reel 15 s | Build | "Your booking page. In Arabic. Properly." RTL booking flow, built + tested | Clinic owner | Watch time |
+| Thu 19 | Reel 15 s | Build | "Salon owners: stop answering DMs at midnight." → salon booking demo, AR + EN | Salon / barber owner | Watch time + shares |
 | Fri 20 | Reel 12–15 s | Both | "No-show again?" → WhatsApp reminder demo, then a test of the reminder | Clinic owner | Saves + shares |
-| Sat 21 | Carousel | Build | "5 things a clinic booking page needs in Kuwait" (Arabic, WhatsApp, reminders, you own the domain, tested) | Clinic owner | Saves |
-| Sun 22 | Reel 15 s | Build | "Booking system, screen by screen" (dashboard build, sample data) | Clinic / contractor | Profile visits |
-| Mon 23 | Reel 12–15 s | Both | "Still booking on WhatsApp at midnight?" | Salon / shop owner | Reach + shares |
+| Sat 21 | Carousel | Build | "5 things your booking page needs in Kuwait" (Arabic, WhatsApp, reminders, you own the domain, tested). Slide 1 lists the business types | Any appointment business | Saves |
+| Sun 22 | Reel 15 s | Build | "Your garage. Booked without a call." → booking + dashboard build, sample data | Garage / car wash owner | Profile visits |
+| Mon 23 | Reel 12–15 s | Both | "Empty class again?" → gym class booking + reminder demo | Gym / trainer | Reach |
 
 **Asks for the research agent (add to the list below, top priority):**
-- A. How Kuwaiti clinics and AC/maintenance companies take bookings on Instagram today (link in bio, WhatsApp, booking apps). What their posts and bios show, and what their customers complain about in public comments (patterns only, no names).
-- B. Public complaints about missed calls, no-shows and late replies at Kuwait clinics/contractors (Google reviews, Reddit r/Kuwait, 248am). Themes with counts and links.
-- C. Hooks from GCC accounts that sell booking or WhatsApp automation to clinics and salons. First-frame text only, adapted.
-- D. What Kuwait booking SaaS (Clinix Sphere, DentSoftware, Rezerva, Tabeeby etc.) shows on Instagram, and their prices if public.
+- A. How Kuwaiti appointment businesses (clinics, salons, barbers, garages, car wash, AC/maintenance, gyms, tutors) take bookings on Instagram today (link in bio, WhatsApp, booking apps). What their posts and bios show, and what their customers complain about in public comments (patterns only, no names).
+- B. Public complaints about missed calls, no-shows and late replies at Kuwait appointment businesses (all the types above) (Google reviews, Reddit r/Kuwait, 248am). Themes with counts and links.
+- C. Hooks from GCC accounts that sell booking or WhatsApp automation to clinics, salons, garages and gyms. First-frame text only, adapted.
+- D. What Kuwait booking SaaS (Clinix Sphere, DentSoftware, Rezerva, Tabeeby, salon/gym booking apps) shows on Instagram, and their prices if public.
+- E. Which business type gets the most comments/saves on booking-related posts from Kuwait accounts: a hint for which owner group to lead with.
 
 
 For instamake (week 02 pack) and the research agent. **Early-stage mode** (Metricool: 1 follower, 5 posts), so this leans more on `niche-report.md` than on Bracket's own numbers. Full numbers: `analytics/week-01.md`.
