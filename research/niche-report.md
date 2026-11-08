@@ -3,6 +3,13 @@
 Sources: Metricool competitor data (from 2026-11-07), web research, and earlier passes via Bilal's logged-in Instagram in Chrome. Header stats and what's visible in the grid only. No videos downloaded.
 
 ## Current picture (updated 2026-11-08)
+
+### Rule from Bilal (8 Nov): service providers' reels only, no web research
+From the next run the research agent only studies Instagram reels (via Metricool) from accounts that SELL websites, apps or QA testing. Educators, news sites and payment firms are not competitors.
+- **Service providers tracked now (4):** @honeywavecreative (web, global), @tocaan (apps/web, Kuwait), @kdakw (web/apps/ads, Kuwait), @trywebsight (web/apps/systems, Kuwait).
+- **Add in Metricool → Competitors** (Instagram link checked on each company's own website, 8 Nov): @chrisansgroup (web+app, Kuwait), @kuwaitnext (web+app, Kuwait), @emstelltech (web+app+QA, Kuwait), @designmasterkuwait (web+app, Salmiya).
+- **Remove from Metricool:** @software_testing_hacks (QA educator, not a service provider).
+- Best service-provider reels, 25 Oct-8 Nov (hook from caption): honeywave "Honestly… It could've been a lot worse 🤣" 514; "This story could only go one of two ways 😅💀" 228; "A runway angel? No 😂" 129; "Mobile is 👏 IMPORTANT👏" 105; "Someone call the ambulance 🚑" 93. Kuwait providers' reels: 0-2 interactions each (tocaan app mockups, kdakw sales reels).
 Sources today: Metricool competitor data (brand 7919246; accounts 9 Oct to 8 Nov, reels/posts 25 Oct to 8 Nov 2026: 5 competitor accounts, 17 reels and 29 feed posts with captions and interactions) + 7 web pages read + 5 searches. Hooks are "hook from caption" (first caption line); videos were not watched.
 
 ### Competitors in Metricool (last 30 days, read 2026-11-08)
