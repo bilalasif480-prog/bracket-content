@@ -12,3 +12,11 @@ Idea **app-build**: the "Screen by screen" app-build animation (same animation a
 
 Source: `trials/trialapp.js` (set `TRIAL=A..D`, render with `_engine/render.js trialapp`), cues in `trials/_cues/`.
 Caveat: one run per variant, tiny account. Treat any gap under ~2x as "no clear winner".
+
+## Scheduled in Metricool (8 Nov 2026, 10:46 Kuwait), TRIAL_REEL, all Pending, no errors
+| Variant | Metricool post id |
+|---|---|
+| A clinic, Mon 9 Nov 13:00 | 420543622 ([planner](https://app.metricool.com/planner/calendar?blogId=7919246&openWithPostUuid=1418243625219542275)) |
+| B restaurant, Tue 10 Nov 13:00 | 420543650 ([planner](https://app.metricool.com/planner/calendar?blogId=7919246&openWithPostUuid=-7599037462403005116)) |
+| C store, Wed 11 Nov 13:00 | 420543668 ([planner](https://app.metricool.com/planner/calendar?blogId=7919246&openWithPostUuid=-6097664719546529818)) |
+| D café, Thu 12 Nov 13:00 | 420543685 ([planner](https://app.metricool.com/planner/calendar?blogId=7919246&openWithPostUuid=-7517385499952658996)) |
