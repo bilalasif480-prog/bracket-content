@@ -1,6 +1,6 @@
 # bracket-content: shared home of Bilal's Bracket Instagram agents
 
-This public repo is the single place where the Bracket (@bracketkw) Instagram agents keep their files. It replaces the old Mac folder `/Users/bilal/Desktop/bilal copy/instagram-reels/`. Wherever a skill mentions that Mac path, use the same path inside this repo instead. Never use the Mac or device tools: every agent runs 100% in the cloud.
+This public repo is the single place where the Bracket (@bracketkw) Instagram agents keep their files. It replaces the old Mac folder `/Users/bilal/Desktop/bilal copy/instagram-reels/`. Wherever a skill mentions that Mac path, use the same path inside this repo instead. Never use the Mac or device tools: every agent runs 100% in the cloud. Exception (Bilal, 8 Nov 2026): the Research agent may use Claude in Chrome on Bilal's Mac, read-only, to watch competitors' reels when the laptop is on; if it isn't, it uses Metricool only. It never commits screenshots.
 
 ## Agents and who owns what
 | Agent | When (Kuwait time) | Reads | Writes (owns) |
