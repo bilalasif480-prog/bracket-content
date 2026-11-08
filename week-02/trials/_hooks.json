@@ -1,0 +1,114 @@
+{
+ "app": {
+  "src": "reel11.js",
+  "envdur": 14.0,
+  "Q": [
+   "Got an",
+   "app idea?",
+   "عندك فكرة تطبيق؟",
+   "Got an app idea?"
+  ],
+  "P": [
+   "Your app",
+   "keeps crashing?",
+   "تطبيقك يعلق كل شوي؟",
+   "Is your app crashing on customers?"
+  ],
+  "C": [
+   "We build it.",
+   "Then break it.",
+   "نبنيه… وبعدين نخربه",
+   "We build it, then we break it."
+  ],
+  "U": [
+   "How long does",
+   "an app take?",
+   "كم يستغرق بناء تطبيق؟",
+   "How long does an app really take?"
+  ]
+ },
+ "thumb": {
+  "src": "reel12.js",
+  "envdur": null,
+  "Q": [
+   "Can customers",
+   "even tap Pay?",
+   "العميل يقدر يضغط ادفع؟",
+   "Can your customers even tap Pay?"
+  ],
+  "P": [
+   "Customers leave",
+   "at checkout.",
+   "العميل يطلع عند الدفع",
+   "Customers leave at checkout."
+  ],
+  "C": [
+   "One tiny button",
+   "kills the sale.",
+   "زر صغير يقتل البيعة",
+   "One tiny button can kill a sale."
+  ],
+  "U": [
+   "Watch them",
+   "try to pay.",
+   "شوف العميل يحاول يدفع",
+   "Watch a customer try to pay."
+  ]
+ },
+ "arabic": {
+  "src": "reel13.js",
+  "envdur": null,
+  "Q": [
+   "Is your site",
+   "ready for Arabic?",
+   "موقعك جاهز للعربي؟",
+   "Is your site ready for Arabic?"
+  ],
+  "P": [
+   "Arabic visitors",
+   "see a broken page.",
+   "زوارك العرب يشوفون صفحة خربانة",
+   "Your Arabic visitors may see a broken page."
+  ],
+  "C": [
+   "Flip to Arabic.",
+   "Watch it break.",
+   "قلبه للعربي… وشوف",
+   "Flip it to Arabic. Watch it break."
+  ],
+  "U": [
+   "Why is the arrow",
+   "pointing wrong?",
+   "ليش السهم بالعكس؟",
+   "Why is the arrow pointing backwards?"
+  ]
+ },
+ "inapp": {
+  "src": "reel14.js",
+  "envdur": null,
+  "Q": [
+   "Does your chat",
+   "button work?",
+   "زر الواتساب يشتغل؟",
+   "Does your chat button actually work?"
+  ],
+  "P": [
+   "Customers tap.",
+   "Nothing happens.",
+   "العميل يضغط… وما يصير شي",
+   "Customers tap. Nothing happens."
+  ],
+  "C": [
+   "Instagram opens",
+   "your site wrong.",
+   "إنستقرام يفتح موقعك غلط",
+   "Instagram can open your site wrong."
+  ],
+  "U": [
+   "Where do your",
+   "links really go?",
+   "وين تروح روابطك فعلاً؟",
+   "Where does your link really open?"
+  ]
+ }
+}
