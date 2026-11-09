@@ -1,3 +1,5 @@
+> **Replaced on 9 Nov 2026**: this plan was superseded by the new set in `SCHEDULED.md`.
+
 # Bracket Instagram: Week 2 (Tue 10 – Mon 16 Nov 2026)
 
 One post a day at **8:00 PM Kuwait** (brief: Metricool best-time data still all 0). Scheduled automatically in Metricool (see `SCHEDULED.md`).
