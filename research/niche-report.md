@@ -1,8 +1,99 @@
-# Niche report for instamake (last updated 2026-11-08)
+# Niche report for instamake (last updated 2026-11-10)
+
+Sources: Metricool competitor reels (brand 7919246, 11 Oct-10 Nov 2026) + 12 of those reels WATCHED today in Bilal's Chrome (read-only: nothing liked, followed, saved or downloaded; no screenshots committed). Web research is off (Bilal, 8 Nov). Like/comment/share counts are what Instagram showed under each reel today; views are not shown in the desktop reel viewer.
+
+## Current picture (updated 2026-11-10)
+
+### Service providers tracked (Metricool → Competitors)
+Metricool's competitor-summary table returned no rows today (followers below are from the 11-08 read); competitor reels did load. Reels counted 11 Oct-10 Nov.
+| Account | Services (web / app / QA) | Followers (11-08) | Reels (30 d) | Top format | Last reviewed |
+|---|---|---|---|---|---|
+| @honeywavecreative (US) | Web | 32,119 | 13 | Face-to-camera skit, big white text on frame 1, word-by-word captions | 11-10 (8 reels watched) |
+| @tocaan (Kuwait) | App + web | 15,501 | 5 | App-icon logo animation, no caption, no hook | 11-10 (1 watched) |
+| @kdakw (Kuwait) | Web + app (+ ads) | 10,292 | 6 | Cinematic stock/AI scene with laptop + phone-number CTA | 11-10 (1 watched) |
+| @trywebsight (Kuwait) | Web + systems | 1,708 | 1 | B/W client interview, Gulf Arabic kinetic captions | 11-10 (1 watched) |
+
+**Remove from Metricool:** @software_testing_hacks (QA educator/tool promos, not a service provider; 3 reels, ignored below).
+**Still not in Metricool (Bilal-approved list, add when possible):** digitaldesignkw, gurudesigners, santhoshdesign, uxui_shrut, tabeadesign, chrisansgroup, emstelltech, designmasterkuwait. Only 4 service providers are tracked, so one US account dominates the data.
+**No new competitor reels since 7 Nov** (honeywave's newest is 5 Nov).
+
+### Top reels (service providers, 11 Oct-10 Nov, ranked by Metricool interactions)
+| # | Account | Hook (first frame) | What the reel shows | Likes / comments / shares (IG, 11-10) | URL | Source |
+|---|---|---|---|---|---|---|
+| 1 | honeywavecreative | "This is the first logo I ever designed 🥹" | Text-on-white slides: polished logo → "I'm so sorry 😭" → the ugly original; ~10 s loop. Audio "Pure – Sienna Spiro" | 494 / 48 / 22 | https://www.instagram.com/reel/DfCubi9RRJJ/ | WATCHED |
+| 2 | honeywavecreative | "WILL YOU SURVIVE? 😳" + empty list 1–7 | Face to camera in an office; each round fills in ("Checked email before getting up", "Website footer date before 2022"…) | 419 / 46 / 57 | https://www.instagram.com/reel/Dehb_AQxg23/ | WATCHED |
+| 3 | honeywavecreative | "She ghosted me the second her website launched…" | Acted phone call with a client, word-by-word captions; twist = client raised her prices | 218 / 22 / 17 | https://www.instagram.com/reel/DfFywMRij4k/ | WATCHED |
+| 4 | honeywavecreative | "Website designer explains what a backend is 💻🍑" | Pun skit at a desk with a laptop; "This is not a backend." | 157 / 43 / 33 | https://www.instagram.com/reel/Derb1nqFSUm/ | WATCHED |
+| 5 | honeywavecreative | "GUESS THE FONT" (card set in the font itself) | Holds font cards over a laptop, partner guesses | 159 / 17 / 5 | https://www.instagram.com/reel/DeZZ6qJACr3/ | WATCHED |
+| 6 | honeywavecreative | "Not all angels can walk the runway…" (text appears ~1 s) | Walks toward camera in a graduation gown holding a laptop with a site on it. Audio "Angel Of My Dreams – JADE" | 100 / 33 / 7 | https://www.instagram.com/reel/DfAofrDSsEr/ | WATCHED |
+| 7 | honeywavecreative | "Me checking out the mobile version of our client's new website" | Selfie cam + client site scrolling in a phone frame beside her face. Audio "stupid song – Olivia Rodrigo" | 103 / 12 / 11 | https://www.instagram.com/reel/DfQJPwXyTcL/ | WATCHED |
+| 8 | honeywavecreative | "6-Year trainer loses $3k client to 3-month newbie. Then I saw his website…" | Phone-call skit, captions; lesson = proof beats experience | 93 / 4 / 9 | https://www.instagram.com/reel/DewwKwglB0E/ | WATCHED |
+| 9 | honeywavecreative | No text: legs on the ground next to a car tyre | Trend skit ("Bailey just got hit by a car") → she's lying there with her laptop | 84 / 17 / 1 | https://www.instagram.com/reel/DfSt3t-ySrS/ | WATCHED |
+| 10 | trywebsight | Gulf-Arabic speaker, B/W, one word on screen ("طبعًا") | Client (law firm) explains why they switched: old sites "built on templates" shown in red glow | 32 / 6 / 10 | https://www.instagram.com/reel/DehDTmutR_c/ | WATCHED |
+| 11 | honeywavecreative | "3 THINGS TO DO BEFORE BLACK FRIDAY" (yellow keyword) | Whiteboard with 3 folded papers flipped one by one | 29 / 7 / 4 | https://www.instagram.com/reel/DfUv5LPmZkQ/ | WATCHED |
+| 12 | tocaan | App-icon logo, no words | "FIX PRO" home-maintenance app logo reveal, then app screens | 3 / 0 / 0 | https://www.instagram.com/reel/DeylJXBqcXq/ | WATCHED |
+| 13 | kdakw | Karak tea by a desert campfire, no text | Desert-camp metaphor → laptop "Website Checklist" (domain, hosting, SSL, speed), Arabic subtitles, phone number | 0 / 0 / 0 | https://www.instagram.com/reel/DfVBh-HjsFk/ | WATCHED |
+| 14 | honeywavecreative | "Want to see how our Design Days work?" | Service pitch, "Comment ONEDAY" | 43 interactions (Metricool) | https://www.instagram.com/reel/DeejncUDo81/ | caption-only |
+| 15 | honeywavecreative | "If you run a gym or fitness studio, your website's main job…" | 3 things gym sites need, "Comment ONEDAY" | 30 interactions (Metricool) | https://www.instagram.com/reel/DfXUis6Cq7m/ | caption-only |
+
+### What's working (from watching, not just captions)
+- **Frame 1 is a sentence that opens a loop, in big white bold text over the face.** Every honeywave reel above 90 likes had a full hook sentence on screen at 0 s ("She ghosted me…", "WILL YOU SURVIVE?", "Then I saw his website…"). The two Kuwait reels with no words on frame 1 (kdakw desert camp, tocaan logo) got 0-3, even with nicer visuals.
+- **Empty list on frame 1 = watch to the end.** "WILL YOU SURVIVE?" shows 1–7 blank and fills one per beat; it has the most shares of anything here (57). The viewer wants to see all 7.
+- **Before/after where the "before" is the punchline.** The origin-story reel shows the nice logo first and reveals the bad original after "I'm so sorry 😭" (~5 s). Self-mockery got the most likes (494).
+- **Payoff timing:** hook text stays on screen the whole reel; the first spoken/visual beat lands at 1–2 s; the twist arrives around 5–8 s. Reels loop cleanly (origin reel is ~10 s).
+- **Pacing/style:** single static shot per scene, few cuts; word-by-word captions with one highlighted word (orange/yellow); hook in sentence case, white, heavy weight, top third.
+- **Audio:** most top reels use original speech; two use trending sounds (JADE "Angel Of My Dreams", Olivia Rodrigo "stupid song", Sienna Spiro "Pure").
+- **CTA:** never on screen. All CTAs ("Comment ONEDAY") live in the caption. The plain pitch reels (BFCM, gym, Design Days) get 30-43, a tenth of the skits.
+- **Gulf-Arabic client voice works locally** (trywebsight: 10 shares from a 1.7K account), with the pain word glowing red. Bracket has no clients to quote, so adapt it with the mascots.
+
+### Gaps Bracket can own
+- **Nobody in Kuwait puts a hook sentence on frame 1.** kdakw and tocaan open on scenery or a logo. Bilingual hook text at 0 s is an easy win.
+- **Testing content from a service provider:** none of the 4 providers shows a bug being found or a test being run. QA is Bracket's alone in this set.
+- **Showing a build on a phone screen:** honeywave's "mobile version" reel is the only build-on-phone format, and it's just scrolling. Bracket can show the build *and* the bug test.
+- **Clinic booking (brief's focus):** no tracked provider talks to clinics. Open lane, but no competitor evidence to borrow from beyond formats.
+
+### Content ideas (2026-11-10; bilingual EN + Gulf Arabic, brackets + bug; adapt, never copy)
+1. BUILD (clinic): "Clinic booking page. Will it survive?" / "صفحة حجز العيادة… بتصمد؟" Frame 1 = empty list 1–5; each round the bug tries something (Arabic name, 2 a.m. booking, double tap, slow 4G, WhatsApp link) and the brackets' build passes it. Empty-list pattern (57 shares).
+2. BUILD (app): "This is the first app screen the bug designed." / "هذي أول شاشة تطبيق صممها البق." Clean booking-app screen first, then "sorry 😭" and the bug's ugly version, then the brackets rebuild it. Self-mockery before/after (494 likes); mascot's story, nothing invented about Bracket.
+3. BUILD (web): "Me checking the mobile version of the clinic site we just built." / "أنا أشيك نسخة الجوال لموقع العيادة اللي بنيناه." The bracket's face beside a phone frame scrolling a sample clinic page (demo, invented data), then the bug taps "Book". Mobile-check pattern.
+4. TEST: "The clinic ghosted us the day the site launched…" / "العيادة اختفت يوم انطلق الموقع…" Twist: they were busy because bookings came in through WhatsApp overnight. Label as a skit/demo; no real result claimed. Cliffhanger-sentence pattern.
+5. TEST: "QA tester explains what a bug is 🐞" / "مختبر يشرح شنو هو البق 🐞" The bracket holds up the mascot: "This is not a bug." Then shows a real one (button that does nothing). Pun-explainer pattern.
+6. TEST game: "Guess the bug." / "خمن الخلل." Card on frame 1, 3 broken screens (RTL flipped, price 0.000 KD, missed-call form), answer after each. Guess-the-font pattern.
+7. BOTH: "Missed call. Lost patient." / "مكالمة فايتة. مراجع راح." with the big hook sentence held on screen the whole reel and the payoff (WhatsApp booking arrives) by 3 s. Combines the brief's hook with what's working.
+
+## Hooks found
+From service providers' reels only (software_testing_hacks dropped). WATCHED = first frame seen today in Chrome. Engagement = likes / comments / shares shown on Instagram 11-10, or Metricool interactions if caption-only.
+| # | Source | Hook pattern | First frame (watched) | Engagement | Bracket version (EN / Gulf Arabic) |
+|---|---|---|---|---|---|
+| 1 | @honeywavecreative | "This is the first X I ever made" → bad original reveal | "This is the first logo I ever designed 🥹" over the logo | 494 / 48 / 22 | "This is the first app the bug ever built." / "هذا أول تطبيق بناه البق." |
+| 2 | @honeywavecreative | "Will you survive?" + empty numbered list | "WILL YOU SURVIVE? 😳" + blank 1–7 | 419 / 46 / 57 | "Will your booking page survive 5 rounds?" / "صفحة الحجز مالتك بتصمد ٥ جولات؟" |
+| 3 | @honeywavecreative | Cliffhanger sentence about a client | "She ghosted me the second her website launched…" | 218 / 22 / 17 | "The clinic went quiet the day the site went live…" / "العيادة سكتت يوم الموقع اشتغل…" |
+| 4 | @honeywavecreative | "[Expert] explains what X is" + pun | "Website designer explains what a backend is 💻🍑" | 157 / 43 / 33 | "QA tester explains what a bug is 🐞" / "مختبر يشرح شنو هو البق 🐞" |
+| 5 | @honeywavecreative | Guess game, card on frame 1 | "GUESS THE FONT" | 159 / 17 / 5 | "Guess the bug." / "خمن الخلل." |
+| 6 | @honeywavecreative | "Not all X can Y. Some of us…" | Gown + laptop; text at ~1 s | 100 / 33 / 7 | "Not all heroes wear capes. Some test your checkout." / "مو كل الأبطال يلبسون عباية خارقة… بعضهم يختبر صفحة الدفع." |
+| 7 | @honeywavecreative | "Me checking the mobile version of…" | Selfie + phone-frame site scroll | 103 / 12 / 11 | "Me checking the mobile version before you see it." / "أنا أشيك نسخة الجوال قبل لا تشوفها." |
+| 8 | @honeywavecreative | "[Expert] loses to [newbie]. Then I saw his website…" | Phone-call skit, hook text top third | 93 / 4 / 9 | "10 years of experience. Lost to a clinic with a booking button." / "١٠ سنين خبرة… وخسر قدام عيادة عندها زر حجز." |
+| 9 | @honeywavecreative | Shock visual, no text (trend skit) | Legs on the ground by a car tyre | 84 / 17 / 1 | "The bug got hit… by a 404." / "البق انصدم… بصفحة 404." (mascot only) |
+| 10 | @trywebsight | Client's pain word in red, Gulf Arabic | B/W interview, "طبعًا" | 32 / 6 / 10 | "Built on a template?" / "مبني على قالب؟" (pain word glowing red) |
+| 11 | @honeywavecreative | "3 things to do before [date]" + paper flips | "3 THINGS TO DO BEFORE BLACK FRIDAY" | 29 / 7 / 4 | "3 things to test before White Friday." / "٣ أشياء اختبرها قبل الجمعة البيضاء." |
+| 12 | @honeywavecreative | "If you run a [business], your site's main job is…" | caption-only | 30 (Metricool) | "Run a clinic? Your site has one job." / "عندك عيادة؟ موقعك له شغلة وحدة." |
+| — | @kdakw (avoid) | Local metaphor, no hook text | Karak by a campfire | 0 | Beautiful but silent frame 1 = scroll past |
+| — | @tocaan (avoid) | Logo reveal, no words | App icon | 3 | Never open on a logo |
+
+## Answers to the brief's asks (2026-11-10)
+- A, B, D (Kuwait clinics' bookings, public complaints, clinic SaaS): web research is off (Bilal, 8 Nov), and clinics/SaaS aren't service providers in Metricool, so not covered.
+- C (hooks from GCC accounts selling booking/WhatsApp automation to clinics): none are in Metricool's competitor list. If Bilal adds one, it gets watched next run.
+- E (AC/home-service contractors): out of scope under the 8 Nov rule. Note: tocaan's "FIX PRO" is a home-maintenance app it built, but the reel has no hook (3 likes).
+- Brief ask 2 (payoff speed): answered above from watching. Hook text at 0 s held all reel, first beat 1–2 s, twist 5–8 s, ~10–20 s total.
+- Brief ask 5 (sounds seen under top reels): "Pure" – Sienna Spiro, "Angel Of My Dreams" – JADE, "stupid song" – Olivia Rodrigo; the rest are original speech. Check each in Metricool's business library first; vocal tracks sit low under a voice-over.
+
+## Answers to Bracket's comment questions
+None listed in the brief ("comments are checked by Bilal").
+
 
 Sources: Metricool competitor data (from 2026-11-07), web research, and earlier passes via Bilal's logged-in Instagram in Chrome. Header stats and what's visible in the grid only. No videos downloaded.
 
-## Current picture (updated 2026-11-08)
+## Picture 2026-11-08 (kept for detail; web research has since been switched off)
 
 ### Rule from Bilal (8 Nov): service providers' reels only, no web research
 From the next run the research agent only studies Instagram reels (via Metricool) from accounts that SELL websites, apps or QA testing. Educators, news sites and payment firms are not competitors.
@@ -88,7 +179,7 @@ Sources today: Metricool competitor data (brand 7919246; accounts 9 Oct to 8 Nov
 6. TEST reel: "Run a clinic? Your site has one job." / "عندك عيادة؟ موقعك له شغلة وحدة." The job = booking in 2 taps; the bug tests it on a phone. Repeat with restaurant / store as trial-reel variants (one change each). Pattern from honeywave's gym reel.
 7. QA carousel (the week's one): "Test your checkout in 5 taps. Save this." / "اختبر صفحة الدفع بخمس ضغطات. احفظها." Cheat-sheet save pattern; slide 1 = the promise.
 
-## Hooks found
+### Hooks found (2026-11-08, caption-only)
 Engagement = Metricool interactions (likes + comments), 8 Oct-8 Nov. All hooks are from captions. Adapted versions are Bracket's own wording. NEW = added 2026-11-08.
 | # | Source | Hook pattern | Engagement | Bracket version (EN / Gulf Arabic) |
 |---|---|---|---|---|
@@ -110,14 +201,14 @@ Engagement = Metricool interactions (likes + comments), 8 Oct-8 Nov. All hooks a
 | 16 NEW | @kdakw | "X or Y? Pick your fighter." (flopped as a poster; try as animated mascot duel) | 0 | "App or website? Pick your fighter." / "تطبيق ولا موقع؟ اختار مقاتلك." |
 | — | @kdakw (avoid) | Problem headline + phone number | 0 | Poster style flops; don't open with a generic claim |
 
-## Answers to the brief's asks (2026-11-08)
+### Answers to the brief's asks (2026-11-08)
 1. Hooks found: 16 above (5 new today).
 2. Payoff speed: still can't watch videos. Sources: say the hook in 1-2 s, deliver by ~3 s, 5-10 bold words on frame 1 (Opus, TrueFuture, 11-07). New: for non-followers (trial reels), Mosseri via Buffer says sends per reach matter most → end on a "send this to…" reason, not just a CTA.
 3. In-app browser: no new public KNET-specific report found today. Related new data: 78% of Kuwait consumers buy through social media and 45% of reported scams happened on social (Visa) → test checkout inside Instagram's browser and show trusted payment logos.
 4. Carousels on small GCC accounts: no new evidence; Kuwait carousels in Metricool still 0-4 interactions. Keep 1 a week as a save-bait cheat sheet.
 5. Trending sounds (names only): SocialPilot 31 Oct-10 Nov list above; most are major-label and may be blocked for business accounts. Best fits under a voice-over: Sunshine (Instrumental) – Twista (quick tips), Everlong – Foo Fighters ("how it started vs how it's going" build reveal, low volume), November Rain ("then vs now"). From 11-07: Luminary – Joel Sunny, Autumn Colors – LuLuMusic. Check each in Metricool/business library first.
 
-## Answers to Bracket's comment questions
+### Answers to Bracket's comment questions (2026-11-08)
 None listed in the brief this week.
 
 ## Content ideas from 2026-11-07 (still valid; bilingual, brackets + bug; adapt, never copy)
@@ -377,6 +468,9 @@ Also skip: @hussein.althahabi and the other results from the keyword search; the
 No per-post views/likes/hooks captured yet, only header stats and visible grid content. The weekly task is set up to go deeper (see agent prompt).
 
 ## Log (newest first)
+
+## 2026-11-10
+Reels WATCHED (laptop on): 12 service-provider reels opened read-only in Chrome (honeywavecreative 10, trywebsight 1, tocaan 1, kdakw 1), first frame + 2-4 timed frames each; no challenge or login prompt; tab closed. Metricool: competitor reels loaded (4 service providers, 25 reels 11 Oct-10 Nov; no new reels since 7 Nov), competitor-summary table returned no rows (followers from 11-08). No web research. Top insight: every reel above 90 likes puts a full hook sentence on screen at 0 s; the Kuwait reels that open on scenery/logo get 0-3. Best new hook: "Will your booking page survive 5 rounds?" / "صفحة الحجز مالتك بتصمد ٥ جولات؟" (empty-list pattern, 57 shares). 12 hooks + 7 ideas.
 
 ## 2026-11-08
 Cloud run. Metricool: same 5 competitors (followers +18/+9/+9/-2/+2), 17 reels + 29 posts (25 Oct-8 Nov); new items: software_testing_hacks Jira/Playwright/Appium posts (47-83), honeywave gym-site reel (28) and October-launches post (61), kdakw 2 more at 0. Web: 7 pages read (Visa Kuwait payments + Stay Secure study, SocialPilot sounds, Boss Wallah + CreatorFlow trial-reel testing, TekRevol Kuwait app list; UPayments page failed) + 5 searches. Top insight: Kuwait checkout trust (78% buy via social, scams common, logos reassure) is an open lane; best new hook "See your app before it's built." / "شوف تطبيقك قبل لا ينبني." 5 hooks + 7 ideas added.
