@@ -9,7 +9,8 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
-| — | — | — | (none) | — | — | — |
+| T-20261111-03 | rental-app | research | Find Apple's current iOS 27 design language (materials, type, colour, tab bar, nav, sheets, controls, icons) from official sources → `clients/rental-app/research/ios27-style.md` | running | — | 2026-11-11 |
+| T-20261111-04 | rental-app | bracket-designer | Restyle all 50 rental-app artboards to the iOS 27 look from T-03, same screens and links → update canvas + `design/rental-app-design.md` | queued | T-03 | 2026-11-11 |
 
 ## Done (newest first)
 
