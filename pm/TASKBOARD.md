@@ -9,8 +9,7 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
-| T-20261111-03 | rental-app | research | Find Apple's current iOS 27 design language (materials, type, colour, tab bar, nav, sheets, controls, icons) from official sources → `clients/rental-app/research/ios27-style.md` | running | — | 2026-11-11 |
-| T-20261111-04 | rental-app | bracket-designer | Restyle all 50 rental-app artboards to the iOS 27 look from T-03, same screens and links → update canvas + `design/rental-app-design.md` | queued | T-03 | 2026-11-11 |
+| — | — | — | (none) | — | — | — |
 
 ## Done (newest first)
 
@@ -25,3 +24,4 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-11 19:13 research T-20261111-01 — wrote clients/rental-app/research/screens.md: 44 screens (tenant 17, owner 17, shared 10), application fields, owner review, UX patterns, sourced Kuwait notes; 26 sources
 2026-11-11 19:25 bracket-designer T-20261111-02 — built Design canvas "Rental app design" (https://claude.ai/artifact/TNDb3yAidZvqYjzvzyxQx7): 50 linked phone artboards covering all 44 inventory screens in 7 rows, look "Teal & Sand"; wrote design/rental-app-design.md with screen list, flows and 11 open questions
 2026-11-11 19:30 pm — rental-app: research + full design done; waiting on Bilal for open questions
+2026-11-11 20:10 pm — iOS 27 restyle was for Mousa A/C (not rental-app); T-03/T-04 dropped, done directly on a new Mousa canvas
