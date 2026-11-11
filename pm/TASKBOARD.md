@@ -9,7 +9,8 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
-| — | — | — | (none yet) | — | — | — |
+| T-20261111-01 | rental-app | research | Research how rental apps (tenant applications with salary/doc upload, owner listings) structure every screen → `clients/rental-app/research/screens.md`. Done = screen inventory for tenant + owner + shared, with patterns and Kuwait notes, every claim linked | running | — | 2026-11-11 |
+| T-20261111-02 | rental-app | bracket-designer | Design the full app on a design canvas from T-01 → `design/rental-app-design.md`. Done = every screen from the inventory as a linked artboard, no invented data | queued | T-01 | 2026-11-11 |
 
 ## Done (newest first)
 
