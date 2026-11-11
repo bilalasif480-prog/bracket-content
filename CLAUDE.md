@@ -16,7 +16,10 @@ services, audience, language, voice, brand, goal and limits from there. Same age
 
 ## Approval line
 No agent posts, schedules, sends, publishes, deploys or spends without Bilal's approval in that
-run's chat. Everything else (research, drafts, renders, reports, commits) needs no approval. It replaces the old Mac folder `/Users/bilal/Desktop/bilal copy/instagram-reels/`. Wherever a skill mentions that Mac path, use the same path inside this repo instead. Never use the Mac or device tools: every agent runs 100% in the cloud. Exception (Bilal, 8 Nov 2026): the Research agent may use Claude in Chrome on Bilal's Mac, read-only, to watch competitors' reels when the laptop is on; if it isn't, it uses Metricool only. It never commits screenshots.
+run's chat. Everything else (research, drafts, renders, reports, commits) needs no approval.
+
+## Where the files live
+This repo replaces the old Mac folder `/Users/bilal/Desktop/bilal copy/instagram-reels/`. Wherever a skill mentions that Mac path, use the same path inside this repo instead. Never use the Mac or device tools: every agent runs 100% in the cloud. Exception (Bilal, 8 Nov 2026): the Research agent may use Claude in Chrome on Bilal's Mac, read-only, to watch competitors' reels when the laptop is on; if it isn't, it uses Metricool only. It never commits screenshots.
 
 ## Agents and who owns what
 Every agent also reads `business/<slug>.md` first.
