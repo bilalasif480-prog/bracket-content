@@ -25,3 +25,4 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-11 19:25 bracket-designer T-20261111-02 — built Design canvas "Rental app design" (https://claude.ai/artifact/TNDb3yAidZvqYjzvzyxQx7): 50 linked phone artboards covering all 44 inventory screens in 7 rows, look "Teal & Sand"; wrote design/rental-app-design.md with screen list, flows and 11 open questions
 2026-11-11 19:30 pm — rental-app: research + full design done; waiting on Bilal for open questions
 2026-11-11 20:10 pm — iOS 27 restyle was for Mousa A/C (not rental-app); T-03/T-04 dropped, done directly on a new Mousa canvas
+2026-11-17 14:21 pm — installed apple-design skill (emilkowalski/skills, MIT) and added it to websitebuilder's skills: loads it for any UI, motion, gesture or typography work
