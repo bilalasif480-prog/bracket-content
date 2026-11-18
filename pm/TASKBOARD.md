@@ -9,12 +9,14 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
+| T-20261118-09 | bracket | bracket-hacker | Security test | PASS — 0C/1H(deploy)/1M/4L, `security/bracket-pentest.md` | 2026-11-18 |
+| T-20261118-08 | bracket | websiteqa | QA + launch-check, 28 pages EN+AR | FAIL — 0C/1H/5M/11L, `qa/bracket-report.md`, `qa/bracket-launch-check.md` | 2026-11-18 |
+| T-20261118-10 | bracket | websitebuilder | Full Arabic /ar/ site | done, 15 pages | 2026-11-18 |
+| T-20261118-11 | bracket | websitebuilder | Fix QA + security findings, privacy + 404 pages, headers, clean deploy script | running | — | 2026-11-18 |
+| T-20261118-12 | bracket | websiteqa + bracket-hacker | Retest after T-11 | queued | T-11 | 2026-11-18 |
 | T-20261118-07 | bracket | websitebuilder | English software-house site, 5 services, SEO/GEO tags, robots/sitemap/llms.txt, og image | site files (off repo, Bilal's site folder after QA) | 2026-11-18 |
 | T-20261118-06 | bracket | bracket-geo | SEO + GEO audit, page targets, robots/sitemap/llms.txt drafts | `geo/bracket-audit.md` — 5/20 today | 2026-11-18 |
 | T-20261118-05 | bracket | bracket-designer | Site review + software-house plan, EN+AR copy, handoff | `design/bracket-design.md` | 2026-11-18 |
-| T-20261118-10 | bracket | websitebuilder | Full Arabic /ar/ version of every page + hreflang | running | — | 2026-11-18 |
-| T-20261118-08 | bracket | websiteqa | QA + launch-check of the rebuilt site, desktop + phone | queued | T-07 | 2026-11-18 |
-| T-20261118-09 | bracket | bracket-hacker | Security/protection test of the rebuilt site | queued | T-07 | 2026-11-18 |
 
 ## Done (newest first)
 
@@ -48,3 +50,4 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-18 13:25 pm — T-05 + T-06 done and checked (no invented numbers/prices). Build T-07 waits on Bilal: slogan, domain/email, Arabic approach, OK on plan.
 2026-11-18 13:30 pm — Bilal OK'd build: no prices, full Arabic, email bracketkw@gmail.com, WhatsApp set, PM picked slogan 'Software that gets it done.'; dropped reply-time promises and unconfirmed careers lines.
 2026-11-18 13:50 pm — T-07 English build done and checked (no prices/studio/invented numbers). T-10 Arabic build running.
+2026-11-18 14:25 pm — Arabic built; QA FAIL (small: hero CTA fold, contrast, tap targets, titles, privacy page), hacker PASS w/ deploy fixes. Sent all back to websitebuilder (T-11).
