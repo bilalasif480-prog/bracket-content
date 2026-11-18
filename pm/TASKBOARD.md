@@ -15,6 +15,8 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | result | finished |
 |---|---|---|---|---|---|
+| T-20261118-04 | parfum-239 | instamake | "Guess the price" reel, trial variants A/B + shot list | `clients/parfum-239/insta/week-01/`; mp4s off repo, sent to Bilal | 2026-11-18 |
+| T-20261118-03 | parfum-239 | research | 12 reference accounts, outliers, 7 format cards | `clients/parfum-239/insta/research/niche-report.md` | 2026-11-18 |
 | T-20261118-02 | parfum-239 | instamake | 239 Parfum "We number them" reel | `clients/parfum-239/reels/2026-11-18-numbered/` (script, cue, captions); mp4 kept off repo, sent to Bilal | 2026-11-18 |
 | T-20261118-01 | parfum-239 | research | Read @parfum_239 + draft profile | `business/parfum-239.md`, `clients/parfum-239/research/instagram.md` | 2026-11-18 |
 | T-20261111-02 | rental-app | bracket-designer | Design the full app on a design canvas from T-01 | `design/rental-app-design.md` — canvas, 50 artboards, 11 open questions | 2026-11-11 |
@@ -34,3 +36,6 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-18 08:16 instamake T-20261118-02 — parfum-239: sample reel "Numbered, not named" (19.5 s, EN+Gulf Arabic, original bottle vector, kokoro am_fenrir + original music); repo has reel js, cue json, captions.md in clients/parfum-239/reels/2026-11-18-numbered/; mp4 kept outside repo; not posted
 2026-11-18 08:35 pm — parfum-239: research + reel done (PM sent back once: Arabic digits → 001/003); reel waiting on Bilal, nothing posted
 2026-11-18 08:45 pm — Bilal: agents must grow any client's Instagram. Added pm/INSTAGRAM-GROWTH.md (remake outliers, Trial reels by default, volume, promote/drop, client report), profile section 10, client layout clients/<slug>/insta/. Skill updates for instamake, instapulse, pm proposed.
+2026-11-18 08:45 research T-20261118-03 — parfum-239: read 12 reference accounts' Reels tabs in Chrome (read-only); 25+ outliers found, 8 watched; wrote clients/parfum-239/insta/research/niche-report.md (7 format cards, best 3, 12 hooks EN+AR). Not committed.
+2026-11-18 08:55 instamake T-20261118-04 — parfum-239: "Guess the price" trial reels A (challenge hook) + B (objection hook), 15.5 s, card #1 price reveal, hook check 8/8; script, cues, TRIALS.md, captions.md, POSTING-PLAN.md, SHOT-LIST.md in clients/parfum-239/insta/week-01/; mp4s off repo; price 6.900 KD to be confirmed by owner; not posted, not committed
+2026-11-18 09:20 pm — parfum-239: first run of the growth process (research outliers → format card #1 price reveal → instamake A/B trials). Waiting on Bilal + owner's price confirmation; nothing posted
