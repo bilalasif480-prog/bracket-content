@@ -9,11 +9,13 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
+| T-20261118-13 | bracket | websitebuilder | Final polish (tap targets, short-screen CTA, Arabic nits, dist allow-list, _redirects) | done | 2026-11-18 |
+| T-20261118-12 | bracket | websiteqa + bracket-hacker | Retest | QA PASS, security PASS | 2026-11-18 |
+| T-20261118-11 | bracket | websitebuilder | QA + security fixes, privacy + 404, self-hosted fonts, headers, build-dist.sh | done | 2026-11-18 |
+| T-20261118-14 | bracket | pm | Deploy Bracket site (dist/ only) + live header/404 checks | needs-approval | Bilal: domain + host + OK to deploy | 2026-11-18 |
 | T-20261118-09 | bracket | bracket-hacker | Security test | PASS — 0C/1H(deploy)/1M/4L, `security/bracket-pentest.md` | 2026-11-18 |
 | T-20261118-08 | bracket | websiteqa | QA + launch-check, 28 pages EN+AR | FAIL — 0C/1H/5M/11L, `qa/bracket-report.md`, `qa/bracket-launch-check.md` | 2026-11-18 |
 | T-20261118-10 | bracket | websitebuilder | Full Arabic /ar/ site | done, 15 pages | 2026-11-18 |
-| T-20261118-11 | bracket | websitebuilder | Fix QA + security findings, privacy + 404 pages, headers, clean deploy script | running | — | 2026-11-18 |
-| T-20261118-12 | bracket | websiteqa + bracket-hacker | Retest after T-11 | queued | T-11 | 2026-11-18 |
 | T-20261118-07 | bracket | websitebuilder | English software-house site, 5 services, SEO/GEO tags, robots/sitemap/llms.txt, og image | site files (off repo, Bilal's site folder after QA) | 2026-11-18 |
 | T-20261118-06 | bracket | bracket-geo | SEO + GEO audit, page targets, robots/sitemap/llms.txt drafts | `geo/bracket-audit.md` — 5/20 today | 2026-11-18 |
 | T-20261118-05 | bracket | bracket-designer | Site review + software-house plan, EN+AR copy, handoff | `design/bracket-design.md` | 2026-11-18 |
@@ -51,3 +53,4 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-18 13:30 pm — Bilal OK'd build: no prices, full Arabic, email bracketkw@gmail.com, WhatsApp set, PM picked slogan 'Software that gets it done.'; dropped reply-time promises and unconfirmed careers lines.
 2026-11-18 13:50 pm — T-07 English build done and checked (no prices/studio/invented numbers). T-10 Arabic build running.
 2026-11-18 14:25 pm — Arabic built; QA FAIL (small: hero CTA fold, contrast, tap targets, titles, privacy page), hacker PASS w/ deploy fixes. Sent all back to websitebuilder (T-11).
+2026-11-18 14:25 pm — QA PASS + security PASS after fixes; final polish done. New site copied into Bilal's 'bilal copy' folder (old files backed up in _before-software-house/). Not deployed: needs domain + Bilal's OK.

@@ -1,73 +1,72 @@
-# Launch check: Bracket website (18 Nov 2026)
-Verdict: **Not ready: 3 blockers** (1 content, 2 deploy-time). Nothing found that is unsafe in the code itself.
-Platforms checked: web only (static HTML/CSS/JS, `/home/claude/site-build/`, served locally). App-store sections skipped: no mobile app.
-Task: T-20261118-08 · Agent: websiteqa · Read-only, nothing changed.
+# Launch check: Bracket website (retest 18 Nov 2026)
+Verdict: **Not ready: 2 blockers, both deploy-time only** (pick the domain + check HTTPS/headers on staging). Nothing left to fix in the code before a staging deploy.
+Platforms checked: web only (static HTML/CSS/JS, `/home/claude/site-build/`, served locally, once plain and once with the site's own `_headers`). App-store sections skipped: no mobile app.
+Task: T-20261118-12 (first run T-20261118-08) · Agent: websiteqa · Read-only, nothing changed.
 
-The site is static: no backend, no database, no login, no admin, no payments, no uploads, no AI calls. The contact form builds a `mailto:` link in the browser; WhatsApp is a `wa.me` link. So most of the attack surface in the checklist doesn't exist. What's left is hosting setup, privacy basics and the placeholder domain.
+The site is static: no backend, database, login, admin, payments, uploads or AI calls. The contact form builds a `mailto:` link in the browser; WhatsApp is a `wa.me` link. Since the first run: privacy page added, fonts self-hosted, security headers + 404 routing written for Netlify/Cloudflare (`_headers`) and Vercel (`vercel.json`), 404 pages added, and `build-dist.sh` builds a clean `dist/`.
+
+## What changed since the first run
+
+| First-run blocker | Now |
+|---|---|
+| 1. No privacy page | **Fixed.** `privacy.html` + `ar/privacy.html`, linked in every footer, in sitemap + llms.txt. Says what is collected (nothing stored by the site; mailto form; Gmail/Meta), no cookies/analytics, fonts self-hosted, host server logs, deletion by email. Bilal approves the wording (check Kuwait rules with a lawyer if he wants certainty). |
+| 2. `https://DOMAIN/` placeholder | **Handled at build time.** `./build-dist.sh https://<domain>` fills every placeholder in `dist/` and fails if any `DOMAIN` is left (tested with example.com: 0 left). Still a blocker until the domain is chosen. |
+| 3. Hosting security not set | **Config written, not yet verifiable.** `_headers` / `vercel.json` set CSP (`default-src 'self'`, `script-src 'self'`, `font-src 'self'`, `form-action 'self' mailto:`, `frame-ancestors 'none'`, `object-src 'none'`, `upgrade-insecure-requests`), HSTS, `X-Frame-Options: DENY`, `nosniff`, `Referrer-Policy`, `Permissions-Policy`, COOP. Tested locally with that CSP: 0 violations on all 34 HTML files, contact mailto still works. Bilingual 404 pages exist and `vercel.json` routes `/ar/*` misses to `ar/404.html`. HTTPS, HSTS and the headers actually being sent can only be checked on the deployed URL. |
+
+## Blockers (deploy-time only)
+
+1. **Domain not chosen** → choose it, run `./build-dist.sh https://<domain>`, deploy only `dist/` (needs Bilal's yes in that run's chat).
+2. **Verify on staging** (from `README-LAUNCH.md` §0): `curl -sI https://<domain>/` shows CSP, HSTS, X-Frame-Options, nosniff, Referrer-Policy, Permissions-Policy; HTTP redirects to HTTPS; `/.git/HEAD`, `/.gitignore`, `/README-LAUNCH.md`, `/build-dist.sh` return 404; `/nope` and `/ar/nope` show the right 404 page; `booking.html` forwards to contact. Then re-run websiteqa on the staging URL.
 
 ## Attack test (1A)
 
 | # | Attack | Result | Evidence |
 |---|---|---|---|
-| 1 | Read the API map | N/A | Network on every page: only `site.css`, `site.js`, `bracket-config.js` + Google Fonts. No API, no DB URL, no webhook. |
-| 2 | Find secrets in the code | PASS | Grep of all HTML/JS for key/secret/token/password/`sk_`/`sk-`/analytics: nothing. `bracket-config.js` holds only the public WhatsApp number. |
+| 1 | Read the API map | N/A | Only same-origin files load (HTML, CSS, 3 small JS files, woff2 fonts, icons). 0 requests to other domains. No API, DB URL or webhook. |
+| 2 | Find secrets in the code | PASS | Nothing secret in HTML/JS; `bracket-config.js` holds only the public WhatsApp number. |
 | 3 | Read the whole database | N/A | No database. |
 | 4 | Change an id (IDOR) | N/A | No user data or ids. |
-| 5 | Open admin without login | N/A | No admin pages or APIs (no `/admin`, `/dashboard`). |
-| 6 | Bot sign-ups | N/A | No sign-up. Form sends nothing to a server (opens the visitor's email app), so no spam endpoint. |
+| 5 | Open admin without login | N/A | No admin. |
+| 6 | Bot sign-ups | N/A | No sign-up; the form sends nothing to a server. |
 | 7 | Fake a payment | N/A | No payments. |
 | 8 | Make yourself admin | N/A | No accounts. |
-| 9 | Break the rules | N/A | No business logic server-side. `?service=` only preselects a dropdown option by exact match; unknown values are ignored (tested). |
+| 9 | Break the rules | N/A | `?service=` only preselects a dropdown option by exact match; unknown values ignored (tested). |
 | 10 | Brute force | N/A | No login/OTP. |
-
-## Blockers
-
-1. **No privacy page** — footer has no privacy link; site collects name/email/message via the visitor's email app, links to WhatsApp/Instagram, and loads Google Fonts (sends visitor IP to Google). — Add a short `privacy.html` + `ar/privacy.html` (what's collected, why, who receives it, how to ask for deletion, contact email), link it in the footer, add to sitemap/llms.txt. Bilal approves the wording; check Kuwait data rules with a lawyer if unsure. (Same as QA report M5.)
-2. **`https://DOMAIN/` placeholder in 34 files** (canonicals, hreflang, OG, JSON-LD, sitemap, robots, llms.txt). — Run the replace in `README-LAUNCH.md` §1 once the domain is chosen; `grep -r DOMAIN .` must return nothing.
-3. **Hosting security not set yet** (deploy-time; can't be tested before deploy) — HTTPS with HTTP→HTTPS redirect and HSTS; headers `Content-Security-Policy` (allow self + fonts.googleapis.com + fonts.gstatic.com; no inline scripts needed except the contact page handler and JSON-LD — move the handler to a file or use a hash), `X-Content-Type-Options: nosniff`, `frame-ancestors 'none'` / `X-Frame-Options: DENY`, `Referrer-Policy: strict-origin-when-cross-origin`; real 301 for `booking.html` → `contact.html`; custom 404 page. Re-run this check on staging after deploy.
 
 ## Full checklist
 
 | Section | Item | Result | Evidence / note |
 |---|---|---|---|
-| 1B Secrets | No secret keys in front-end | PASS | Only public WhatsApp number in `bracket-config.js`. |
-| 1B Secrets | No secrets in git history; rotated | N/A | Site folder is not a git repo here; nothing secret exists to leak. |
-| 1B Secrets | Least-power server keys | N/A | No server. |
-| 1B Access | Server-side checks, IDOR, RLS, admin, mass assignment | N/A | No server, data or accounts. |
-| 1B Login | Hashing, rate limits, bot protection, reset links, cookies, CSRF | N/A | No login, no cookies set by the site. |
-| 1B Input/output | Server validation, escaping | PASS / N/A | No server. Client: form values only go into an `encodeURIComponent` mailto; nothing user-supplied is written into the page (no XSS sink). |
-| 1B Input/output | Uploads, SSRF, open redirect | N/A | None. `booking.html` meta-refresh goes to a fixed local page. |
-| 1B Transport | HTTPS, redirect, HSTS | Blocker (deploy) | Set at the host — blocker 3. |
-| 1B Transport | Security headers | Blocker (deploy) | Set at the host — blocker 3. |
+| 1B Secrets | No secret keys in front-end | PASS | Only the public WhatsApp number. |
+| 1B Secrets | Git history / rotation | N/A | Nothing secret exists. |
+| 1B Access / Login / Payments / AI | All items | N/A | No server, accounts, payments or AI calls. |
+| 1B Input/output | Escaping, no XSS sink | PASS | Form values only go into an `encodeURIComponent` mailto; nothing user-supplied is written into the page. No inline scripts or `on…=` handlers (CSP-safe). |
+| 1B Input/output | Uploads, SSRF, open redirect | N/A | None; `booking.html` meta-refresh goes to a fixed local page. |
+| 1B Transport | HTTPS, redirect, HSTS | Deploy-time (blocker 2) | HSTS in config; HTTPS/redirect set by the host. |
+| 1B Transport | Security headers | Config PASS, live check pending | `_headers` + `vercel.json`; CSP tested locally with 0 violations. |
 | 1B Transport | CORS | N/A | No API. |
-| 1B Payments | Webhooks, server prices, transactions | N/A | No payments; no prices on the site at all. |
-| 1B Abuse | Rate/size limits, paid-API caps | N/A | No API, no paid calls. |
-| 1B AI | Keys, permissions, prompt injection | N/A | No AI features on the site (the WhatsApp agent chat is a static illustrated demo, labelled as such). |
-| 1B Deps | No vulnerable dependencies | PASS | No npm/runtime dependencies; only Google Fonts CSS. |
-| 1B Deps | Debug/test routes, default passwords off | PASS | None found. |
-| 1B Deps | Errors don't leak | PASS | 0 console errors on 28 pages × 3 viewports. |
-| 1B Logging | Logs, alerts, backups | N/A | Static site; keep the repo as the backup. |
-| 1B Links | External links safe | PASS | WhatsApp links `target=_blank rel=noopener`; Instagram link same tab with `rel=noopener`. |
-| 1C Mobile | All items | N/A | No app. |
-| 2 Stores | All items | N/A | No app. |
-| 3 Privacy | Privacy policy / terms linked in footer | FAIL (blocker 1) | No privacy page. Terms optional for a brochure site. |
-| 3 Privacy | List of data collected and third parties | FAIL (blocker 1) | Goes in the privacy page: email (Gmail), WhatsApp (Meta), Instagram, Google Fonts. |
-| 3 Privacy | Cookie / tracking consent | PASS | No analytics, pixels or cookies. If analytics are added later, add consent first. |
-| 3 Privacy | Data deletion on request | FAIL (blocker 1) | State in the privacy page: email bracketkw@gmail.com to delete. |
-| 3 Privacy | Marketing only with consent | PASS | Site sends nothing; nothing subscribes visitors. |
-| 3 Privacy | Age rules | N/A | B2B site. |
-| 3 Privacy | No fake reviews/testimonials/stats/logos | PASS | None anywhere; honest "no public case studies yet" line; work page empty state. One soft generalisation on customer-agent ("Most businesses lose customers…") — QA report L6. |
-| 4 Prod | Env separation, `.env.example` | N/A | No secrets/config beyond the WhatsApp number. |
-| 4 Prod | Automated tests / CI | N/A (note) | QA scripts exist in `/tmp/qa/` (static checks + Playwright sweep); worth keeping in the repo for re-runs. |
-| 4 Prod | Error tracking / uptime | FAIL (minor) | Add a free uptime check on the home page after deploy. Not a blocker. |
-| 4 Prod | Backups | PASS | Static files; keep in git. |
-| 4 Prod | Friendly 404 / 500 | FAIL (deploy) | No `404.html`. Add a bilingual 404 with links to home/services/contact. Part of blocker 3. |
-| 4 Prod | Fast on a phone on 4G | PASS | ~50–70 KB per page before fonts, no images. Only flag: render-blocking Google Fonts CSS (QA report L11). |
-| 4 Prod | Limits on uploads/lists | N/A | None. |
-| 4 Prod | README | PASS | `README-LAUNCH.md` covers domain replace, sitemap submission, GBP. Don't upload it or `.gitignore` to the public host (QA report L10). |
+| 1B Deps | No vulnerable dependencies | PASS | No runtime dependencies; no third-party CSS/JS/fonts. |
+| 1B Deps | Debug/test routes off | PASS | None. `dist/` excludes README, `.gitignore`, `build-dist.sh`, dot-files. |
+| 1B Deps | Errors don't leak | PASS | 0 console errors, 128 page/viewport runs. |
+| 1B Links | External links safe | PASS | WhatsApp `target=_blank rel=noopener`. |
+| 1C / 2 | Mobile app / stores | N/A | No app. |
+| 3 Privacy | Privacy page linked in footer | PASS | EN + AR, every page. Bilal to approve wording. |
+| 3 Privacy | Data collected + third parties listed | PASS | Gmail (Google), WhatsApp/Instagram (Meta), host server logs. |
+| 3 Privacy | Cookie / tracking consent | PASS | No cookies, analytics or pixels; Google Fonts removed. If analytics are added later: update privacy page + CSP first, add consent. |
+| 3 Privacy | Data deletion on request | PASS | Email bracketkw@gmail.com, stated on the page. |
+| 3 Privacy | Marketing only with consent | PASS | Site subscribes nobody. |
+| 3 Privacy | No fake reviews/stats/logos | PASS | None; honest "no case studies yet" line; the old "Most businesses…" generalisation is gone. |
+| 4 Prod | Env separation / `.env.example` | N/A | No secrets/config. |
+| 4 Prod | Automated tests / CI | N/A (note) | QA scripts in `/tmp/qa2/`; worth keeping in a repo for re-runs. |
+| 4 Prod | Error tracking / uptime | Open (minor, after deploy) | Add a free uptime check on the home page. Not a blocker. |
+| 4 Prod | Backups | PASS | Static files in git. |
+| 4 Prod | Friendly 404 | PASS (routing verified at deploy) | `404.html` + `ar/404.html`, noindex, root-relative paths so they render at any URL depth. |
+| 4 Prod | Fast on a phone | PASS | Small pages, no images except icons/OG; fonts are local woff2 subsets. |
+| 4 Prod | README / deploy steps | PASS | `README-LAUNCH.md` covers dist build, domain fill, header checks, sitemap submission, GBP. |
+| 4 Prod | Only site files published | PASS | `build-dist.sh` → 66 files, all public site files, everything referenced present. |
 
 ## Before Bilal says yes to deploy
 
-- Fix the QA report High/Medium items (hero CTA at 1440, CTA-band contrast + focus ring, tap targets, long titles) and blocker 1.
-- Choose the domain → replace `DOMAIN` → deploy to staging with the headers in blocker 3 → re-run websiteqa + this launch check on the staging URL.
-- Deploying needs Bilal's approval in that run's chat.
+- Optional polish first (all Low, see `qa/bracket-report.md`): the "يننشر" word on the Arabic home, remaining small tap targets, service-page H1 size at 1280×720, Arabic nits, the no-JS form.
+- Bilal approves the privacy page wording.
+- Choose the domain → `./build-dist.sh https://<domain>` → deploy `dist/` to staging (with Bilal's yes) → run the blocker-2 checks → re-run websiteqa + this launch check on the staging URL.
