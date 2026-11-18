@@ -9,7 +9,9 @@ Last updated: 2026-11-18 by Bilal (via PM): Bracket is a software house again �
 - **Country & city:** Kuwait
 - **Website:** the static site in Bilal's `bilal copy` folder (not deployed yet)
 - **Instagram:** @bracketkw
-- **WhatsApp:** not set yet — ask Bilal before using one anywhere
+- **WhatsApp:** +965 9949 4186 (wa.me/96599494186) — Bilal, 18 Nov 2026
+- **Email:** bracketkw@gmail.com (never hello@bracket.studio)
+- **Domain:** not chosen yet — use `https://DOMAIN/` placeholder
 
 ## 2. What it sells
 - **What it is:** a **software house** in Kuwait. Never call Bracket a "studio" or "agency" — always "software house".
@@ -22,9 +24,10 @@ Last updated: 2026-11-18 by Bilal (via PM): Bracket is a software house again �
     captions, prepares posts), custom agent (any repeat task that follows rules).
   - **SEO** — getting found on Google: site structure, speed, titles, content, Google Business Profile.
   - **GEO** — getting found and cited in AI answers (ChatGPT, Perplexity, Gemini, Google AI Overviews).
-- **Does NOT sell:** QA / testing as a stand-alone service (PM assumption 18 Nov 2026, Bilal to confirm).
+- **Does NOT sell:** QA / testing as a stand-alone service (PM assumption 18 Nov 2026).
   Every build is still checked before launch — that is part of the job, not a product.
-- **Prices on the site:** none. Every service says "Get a quote" (PM assumption 18 Nov 2026, Bilal to confirm).
+- **Prices on the site:** none, anywhere (Bilal, 18 Nov 2026). Every service says "Get a quote".
+- **Promises:** no reply-time or turnaround promises (no "within 1 business day", no "in minutes").
 
 ## 3. Who it sells to
 - **Customer:** small and medium businesses in Kuwait and the Gulf — clinics, salons, gyms,
@@ -35,10 +38,10 @@ Last updated: 2026-11-18 by Bilal (via PM): Bracket is a software house again �
   on Google or in AI answers.
 
 ## 4. Voice
-- **Languages:** English + natural Gulf Arabic. On screen: English headline with Arabic under it
+- **Languages:** English + natural Gulf Arabic. The website has a full Arabic version (`/ar/`, RTL) of every page. On screen: English headline with Arabic under it
   at ~70% size. In captions: Arabic first, then a `—` line, then English. Mixed hashtags.
 - **Tone:** short, plain, direct. No hype, no corporate filler.
-- **Slogan:** "AI that gets it done." (agents line; a software-house slogan is pending — designer to propose, Bilal picks)
+- **Slogan:** "Software that gets it done." — Arabic: "برمجيات تنجز الشغل." (picked by PM for Bilal, 18 Nov 2026). "AI that gets it done." stays as the AI-agents line.
 - **Words to use:** software house, websites, apps, found on Google, cited in AI answers, agent, takes the job off your team, answers, books, hands over to a person,
   you approve, checked before launch.
 - **Words to avoid:** studio, agency, fixed price, fixed scope, ship date, hourly, QA / testing as a service,
