@@ -7,7 +7,7 @@ Last updated: 2026-11-18 by Bilal (via PM): Bracket is a software house again â€
 - **Slug:** `bracket`
 - **Owner / contact:** Bilal
 - **Country & city:** Kuwait
-- **Website:** the static site in Bilal's `bilal copy` folder (not deployed yet)
+- **Website:** `bilal copy/bracket-website/site/` on Bilal's Mac (docs in `bracket-website/docs/`, old versions in `bracket-website/old-versions/`); not deployed yet
 - **Instagram:** @bracketkw
 - **WhatsApp:** +965 9949 4186 (wa.me/96599494186) â€” Bilal, 18 Nov 2026
 - **Email:** bracketkw@gmail.com (never hello@bracket.studio)
@@ -71,7 +71,7 @@ Last updated: 2026-11-18 by Bilal (via PM): Bracket is a software house again â€
 |---|---|
 | Instagram account | @bracketkw, logged in on Bilal's Chrome (no Metricool) |
 | Content repo | bilalasif480-prog/bracket-content |
-| Website folder | `/Users/bilal/Desktop/bilal copy/` on Bilal's Mac |
+| Website folder | `/Users/bilal/Desktop/bilal copy/bracket-website/site/` on Bilal's Mac |
 | Competitors to watch | Accounts that SELL AI agents, chatbots or automation to businesses. The old web/app/QA competitor list in Metricool no longer applies and Bilal needs to replace it. |
 
 ## 9. Hard rules

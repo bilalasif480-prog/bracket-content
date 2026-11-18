@@ -54,3 +54,4 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-18 13:50 pm — T-07 English build done and checked (no prices/studio/invented numbers). T-10 Arabic build running.
 2026-11-18 14:25 pm — Arabic built; QA FAIL (small: hero CTA fold, contrast, tap targets, titles, privacy page), hacker PASS w/ deploy fixes. Sent all back to websitebuilder (T-11).
 2026-11-18 14:25 pm — QA PASS + security PASS after fixes; final polish done. New site copied into Bilal's 'bilal copy' folder (old files backed up in _before-software-house/). Not deployed: needs domain + Bilal's OK.
+2026-11-18 14:50 pm — Bilal: moved all website files into 'bilal copy/bracket-website/' (site/, docs/, old-versions/, README). Build still OK (67 files).
