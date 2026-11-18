@@ -1,0 +1,11 @@
+{
+  "video": "clients/parfum-239/reels/2026-11-18-numbered/_engine/out/reel-numbered.mp4",
+  "duration": 19.5,
+  "music_drop": 3.2,
+  "end_card": 15.6,
+  "whoosh": [3.15, 5.4, 9.0, 12.2],
+  "tap": [],
+  "ding": [5.6, 13.2],
+  "lines": [[0.2, "We don't name our scents. We number them."], [3.8, "Zero zero one... and zero zero three."], [9.3, "Two hundred millilitres. Eau de parfum."], [12.5, "Exceptional scents. Accessible luxury."]],
+  "voices": [["am_fenrir", 0.95, -1.5]]
+}

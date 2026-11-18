@@ -15,6 +15,8 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | result | finished |
 |---|---|---|---|---|---|
+| T-20261118-02 | parfum-239 | instamake | 239 Parfum "We number them" reel | `clients/parfum-239/reels/2026-11-18-numbered/` (script, cue, captions); mp4 kept off repo, sent to Bilal | 2026-11-18 |
+| T-20261118-01 | parfum-239 | research | Read @parfum_239 + draft profile | `business/parfum-239.md`, `clients/parfum-239/research/instagram.md` | 2026-11-18 |
 | T-20261111-02 | rental-app | bracket-designer | Design the full app on a design canvas from T-01 | `design/rental-app-design.md` — canvas, 50 artboards, 11 open questions | 2026-11-11 |
 | T-20261111-01 | rental-app | research | Research how rental apps (tenant applications with salary/doc upload, owner listings) structure every screen | `clients/rental-app/research/screens.md` — 44 screens, 26 sources | 2026-11-11 |
 
@@ -28,3 +30,6 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-17 14:21 pm — installed apple-design skill (emilkowalski/skills, MIT) and added it to websitebuilder's skills: loads it for any UI, motion, gesture or typography work
 2026-11-18 07:58 pm — reviewed Ootto-AI/claude-content-skills (MIT); proposed instamake + instapulse updates: 8-point hook check, covers, one CTA, caption search, humanizer, carousel slide jobs, A/B hook trials, weekly Stories, comment mining, DM scripts, own-median ranking, profile check. Waiting on Bilal to save.
 2026-11-18 08:10 pm — Bilal: no Metricool or other tools; instamake/instapulse now post and read Instagram directly in his Chrome. Repo rules updated; skill updates proposed.
+2026-11-18 08:11 research T-20261118-01 — parfum-239: read @parfum_239 in Chrome (read-only) + demo site; wrote clients/parfum-239/research/instagram.md and business/parfum-239.md; flagged Dior/Chanel trademark risk in their reels
+2026-11-18 08:16 instamake T-20261118-02 — parfum-239: sample reel "Numbered, not named" (19.5 s, EN+Gulf Arabic, original bottle vector, kokoro am_fenrir + original music); repo has reel js, cue json, captions.md in clients/parfum-239/reels/2026-11-18-numbered/; mp4 kept outside repo; not posted
+2026-11-18 08:35 pm — parfum-239: research + reel done (PM sent back once: Arabic digits → 001/003); reel waiting on Bilal, nothing posted
