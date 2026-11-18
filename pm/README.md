@@ -33,7 +33,7 @@ renders, reports, repo commits — it does without asking.
 | Agent | Owns (writes) | Reads |
 |---|---|---|
 | `research` | `research/niche-report.md` | business profile, `research/strategy-brief.md` |
-| `instapulse` | `research/strategy-brief.md`, `analytics/week-NN.md` | business profile, Metricool, posting plans |
+| `instapulse` | `research/strategy-brief.md`, `analytics/week-NN.md` | business profile, Instagram (Chrome), posting plans |
 | `instamake` | `week-NN/`, `content-log.md` | business profile, `research/*`, `audio-kit/` |
 | `instaupload` | `week-NN/SCHEDULED.md` | business profile, `week-NN/POSTING-PLAN.md` |
 | `salesman` | `sales/<slug>-leads.md` | business profile, `research/niche-report.md` |

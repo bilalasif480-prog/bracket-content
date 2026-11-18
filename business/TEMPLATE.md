@@ -53,7 +53,7 @@ stats, clients, prices, results or testimonials).
 ## 8. Accounts & tools
 | Thing | Value |
 |---|---|
-| Metricool brand id | |
+| Instagram account | must be logged in on Bilal's Chrome (no Metricool) |
 | Content repo | |
 | Competitors to watch | |
 

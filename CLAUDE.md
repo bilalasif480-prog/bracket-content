@@ -19,7 +19,8 @@ No agent posts, schedules, sends, publishes, deploys or spends without Bilal's a
 run's chat. Everything else (research, drafts, renders, reports, commits) needs no approval.
 
 ## Where the files live
-This repo replaces the old Mac folder `/Users/bilal/Desktop/bilal copy/instagram-reels/`. Wherever a skill mentions that Mac path, use the same path inside this repo instead. Never use the Mac or device tools: every agent runs 100% in the cloud. Exception (Bilal, 8 Nov 2026): the Research agent may use Claude in Chrome on Bilal's Mac, read-only, to watch competitors' reels when the laptop is on; if it isn't, it uses Metricool only. It never commits screenshots.
+This repo replaces the old Mac folder `/Users/bilal/Desktop/bilal copy/instagram-reels/`. Wherever a skill mentions that Mac path, use the same path inside this repo instead. Never use the Mac or device tools: every agent runs 100% in the cloud. Exception (Bilal, 8 Nov 2026): the Research agent may use Claude in Chrome on Bilal's Mac, read-only, to watch competitors' reels when the laptop is on; if it isn't, it skips the Chrome step. It never commits screenshots.
+No Metricool or any other social tool (Bilal, 18 Nov 2026): Instamake and Instapulse go to instagram.com in Bilal's Chrome (Claude in Chrome) to post, read Insights, comments and DMs. That needs his Mac on with Chrome open; if it isn't, they don't post and say what is waiting.
 
 ## Agents and who owns what
 Every agent also reads `business/<slug>.md` first.
@@ -28,8 +29,8 @@ Every agent also reads `business/<slug>.md` first.
 |---|---|---|---|
 | PM | on request from Bilal | everything | `pm/TASKBOARD.md`, `pm/reports/` |
 | Research | daily 08:45 | `research/strategy-brief.md` | `research/niche-report.md` |
-| Instapulse | Friday 17:43 | Metricool, `research/niche-report.md`, `week-NN/POSTING-PLAN.md` | `research/strategy-brief.md`, `analytics/week-NN.md` |
-| Instamake | Saturday 14:58 | `research/*`, `content-log.md`, newest `week-NN/`, `audio-kit/` | new `week-NN/` (incl. `trials/`, `TRIALS.md`), `content-log.md`, prepares posts in Metricool |
+| Instapulse | Friday 17:43 | Instagram (Chrome), `research/niche-report.md`, `week-NN/POSTING-PLAN.md` | `research/strategy-brief.md`, `analytics/week-NN.md` |
+| Instamake | Saturday 14:58 | `research/*`, `content-log.md`, newest `week-NN/`, `audio-kit/` | new `week-NN/` (incl. `trials/`, `TRIALS.md`), `content-log.md`, posts on Instagram (Chrome) after Bilal's yes |
 | Instaupload | with instamake | `week-NN/POSTING-PLAN.md` | `week-NN/SCHEDULED.md` |
 | Salesman | on request | `research/niche-report.md` | `sales/<slug>-leads.md` |
 | Websitebuilder | on request | `research/niche-report.md` | the website files |
@@ -41,7 +42,7 @@ Only edit the files you own. Never delete another agent's files.
 
 ## Layout
 - `_engine/`: shared render engine (lib.js, render.js, carousels.js, README.md). Each week copies the scripts into `week-NN/_engine/` and adds its reel files.
-- `week-NN/`: one weekly pack: `POSTING-PLAN.md`, `dayN-…mp4` reels, `dayN-…-slideK.png` carousel slides, `_engine/`, and `SCHEDULED.md` (what was scheduled in Metricool, with planner links).
+- `week-NN/`: one weekly pack: `POSTING-PLAN.md`, `dayN-…mp4` reels, `dayN-…-slideK.png` carousel slides, `_engine/`, and `SCHEDULED.md` (what was posted on Instagram, with links).
 - `single-reels/`: one-off reels and carousels; `single-reels/2026-11-02-build-block-by-block/reel10.js` and `single-reels/2026-11-02-build-app-reel/reel11.js` are the build-reel templates.
 - `content-log.md`: every topic used + a "Planned" section from Bilal.
 - `business/`: one profile per business (`bracket.md`, `TEMPLATE.md`). Read this first.
@@ -52,9 +53,6 @@ Only edit the files you own. Never delete another agent's files.
 
 ## Rendering in the cloud
 In `week-NN/_engine/`: `npm i playwright@1.64.1 @fontsource/archivo @fontsource/jetbrains-mono @fontsource/ibm-plex-sans-arabic` then `export PW_CHROMIUM=$(ls -d /opt/pw-browsers/chromium_headless_shell-*/*/chrome-headless-shell | head -1)` before `node render.js …` / `node carousels.js` (the cloud's preinstalled Chromium; downloading browsers is blocked there). ffmpeg is at /usr/local/bin/ffmpeg. A full reel renders in ~30 s. Never commit `node_modules/` or `_engine/out/` (see .gitignore).
-
-## Public media links (for Metricool)
-A committed file is public at `https://raw.githubusercontent.com/bilalasif480-prog/bracket-content/main/<path>`. Push first, then use that URL in Metricool's `media` list.
 
 ## Git
 Before pushing: `git pull --rebase origin main`. Commit with a short message naming the agent, e.g. `instamake: week-03 pack`. Keep files small: reels 1080x1920 ~15-20 s mp4 (a few MB), slides PNG.

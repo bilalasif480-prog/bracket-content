@@ -27,3 +27,4 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-11 20:10 pm — iOS 27 restyle was for Mousa A/C (not rental-app); T-03/T-04 dropped, done directly on a new Mousa canvas
 2026-11-17 14:21 pm — installed apple-design skill (emilkowalski/skills, MIT) and added it to websitebuilder's skills: loads it for any UI, motion, gesture or typography work
 2026-11-18 07:58 pm — reviewed Ootto-AI/claude-content-skills (MIT); proposed instamake + instapulse updates: 8-point hook check, covers, one CTA, caption search, humanizer, carousel slide jobs, A/B hook trials, weekly Stories, comment mining, DM scripts, own-median ranking, profile check. Waiting on Bilal to save.
+2026-11-18 08:10 pm — Bilal: no Metricool or other tools; instamake/instapulse now post and read Instagram directly in his Chrome. Repo rules updated; skill updates proposed.

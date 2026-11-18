@@ -62,7 +62,7 @@ Last updated: 2026-11-11 by Bilal.
 ## 8. Accounts & tools
 | Thing | Value |
 |---|---|
-| Metricool brand id | 7919246 (timezone Asia/Kuwait) |
+| Instagram account | @bracketkw, logged in on Bilal's Chrome (no Metricool) |
 | Content repo | bilalasif480-prog/bracket-content |
 | Website folder | `/Users/bilal/Desktop/bilal copy/` on Bilal's Mac |
 | Competitors to watch | Accounts that SELL AI agents, chatbots or automation to businesses. The old web/app/QA competitor list in Metricool no longer applies and Bilal needs to replace it. |
