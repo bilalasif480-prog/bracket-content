@@ -9,7 +9,11 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
-| — | — | — | (none) | — | — | — |
+| T-20261118-05 | bracket | bracket-designer | Review current site + plan the software-house version (5 services, nav, new pages, copy EN+AR, no "studio", no prices) | running | — | 2026-11-18 |
+| T-20261118-06 | bracket | bracket-geo | GEO + SEO audit of current site; what the new service pages need to rank and get cited | running | — | 2026-11-18 |
+| T-20261118-07 | bracket | websitebuilder | Build the approved plan | queued | Bilal's OK on T-05 | 2026-11-18 |
+| T-20261118-08 | bracket | websiteqa | QA + launch-check of the rebuilt site, desktop + phone | queued | T-07 | 2026-11-18 |
+| T-20261118-09 | bracket | bracket-hacker | Security/protection test of the rebuilt site | queued | T-07 | 2026-11-18 |
 
 ## Done (newest first)
 
@@ -39,3 +43,4 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-18 08:45 research T-20261118-03 — parfum-239: read 12 reference accounts' Reels tabs in Chrome (read-only); 25+ outliers found, 8 watched; wrote clients/parfum-239/insta/research/niche-report.md (7 format cards, best 3, 12 hooks EN+AR). Not committed.
 2026-11-18 08:55 instamake T-20261118-04 — parfum-239: "Guess the price" trial reels A (challenge hook) + B (objection hook), 15.5 s, card #1 price reveal, hook check 8/8; script, cues, TRIALS.md, captions.md, POSTING-PLAN.md, SHOT-LIST.md in clients/parfum-239/insta/week-01/; mp4s off repo; price 6.900 KD to be confirmed by owner; not posted, not committed
 2026-11-18 09:20 pm — parfum-239: first run of the growth process (research outliers → format card #1 price reveal → instamake A/B trials). Waiting on Bilal + owner's price confirmation; nothing posted
+2026-11-18 13:15 pm — Bilal: Bracket is a software house again (websites, apps, AI agents, SEO, GEO; never 'studio'). Profile + CLAUDE.md updated; assumed no QA service and no prices on site. T-05 designer + T-06 geo running; build waits on Bilal's OK.
