@@ -9,6 +9,9 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
+| T-20261118-15 | bracket | websitebuilder | Light redesign, design system + 3D + all EN pages | running | — | 2026-11-18 |
+| T-20261118-16 | bracket | websitebuilder | Light redesign, all AR pages | queued | T-15 | 2026-11-18 |
+| T-20261118-17 | bracket | websiteqa + bracket-hacker | QA + security on redesign | on hold (Bilal: don't test) | Bilal | 2026-11-18 |
 | T-20261118-13 | bracket | websitebuilder | Final polish (tap targets, short-screen CTA, Arabic nits, dist allow-list, _redirects) | done | 2026-11-18 |
 | T-20261118-12 | bracket | websiteqa + bracket-hacker | Retest | QA PASS, security PASS | 2026-11-18 |
 | T-20261118-11 | bracket | websitebuilder | QA + security fixes, privacy + 404, self-hosted fonts, headers, build-dist.sh | done | 2026-11-18 |
@@ -55,3 +58,4 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-18 14:25 pm — Arabic built; QA FAIL (small: hero CTA fold, contrast, tap targets, titles, privacy page), hacker PASS w/ deploy fixes. Sent all back to websitebuilder (T-11).
 2026-11-18 14:25 pm — QA PASS + security PASS after fixes; final polish done. New site copied into Bilal's 'bilal copy' folder (old files backed up in _before-software-house/). Not deployed: needs domain + Bilal's OK.
 2026-11-18 14:50 pm — Bilal: moved all website files into 'bilal copy/bracket-website/' (site/, docs/, old-versions/, README). Build still OK (67 files).
+2026-11-18 18:40 pm — Bilal: full light redesign with animations + 3D, websitebuilder only, no QA/hacker this run (T-17 on hold; must run before deploy).
