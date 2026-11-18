@@ -49,6 +49,7 @@ Only edit the files you own. Never delete another agent's files.
 - `pm/`: `README.md` (how the PM runs the team), `TASKBOARD.md` (shared task board), `reports/`.
 - `research/`: `niche-report.md` (research agent), `strategy-brief.md` (Instapulse).
 - `analytics/`: weekly reports from Instapulse.
+- `pm/INSTAGRAM-GROWTH.md`: how research, instamake and instapulse grow any account (Bracket or a client): remake-what-works, Trial reels by default, volume, promote/drop rules, monthly client report. Client Instagram work lives in `clients/<slug>/insta/` (research, analytics, week-NN); client photos, videos and rendered client reels never go in this public repo.
 - `audio-kit/`: approved voice-over + original music + SFX generator for every reel (Instapulse maintains it; read its README).
 
 ## Rendering in the cloud

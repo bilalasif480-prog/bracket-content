@@ -60,3 +60,21 @@ Full notes: `clients/parfum-239/research/instagram.md`.
 - Never invent prices, ingredients, scent notes, reviews or sales numbers.
 - Never show Dior/Chanel logos or bottles as the hero, or claim a scent is identical to a designer one: say "inspired by" only.
 - Public repo: no phone numbers, emails, personal names, DM text or prices Bracket quoted.
+
+## 10. Instagram growth settings (see `pm/INSTAGRAM-GROWTH.md`)
+| Setting | Value |
+|---|---|
+| Handle / Professional account? | @parfum_239 / unconfirmed |
+| Logged in on Bilal's Chrome? | no (prospect, not signed) |
+| Client must sign off each week? | yes (the brand owner decides) |
+| Volume stage | start / winner found / custom (main posts a day, trials a day) |
+| Main post time (Kuwait) | default 8:00 PM until Insights shows better |
+| Content pillars (3–5) | unconfirmed; proposal: the numbered collection, value (200 ml), occasions/gifting, how to order |
+| Series name(s) | proposal: "We number them" |
+| Reference accounts (10–20, niche + country first) | |
+| Footage source | client films (monthly shot list) / animation only / both |
+| Where client media lives (never this repo) | Mac folder path or Drive folder |
+| Audio | original (audio-kit) / trending added in app |
+| CTA keyword + approved DM reply | none yet |
+| Approved comment replies (exact text) | none yet (off until Bilal turns it on) |
+| Goal metric | e.g. DMs to order per week |

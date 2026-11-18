@@ -2,3 +2,9 @@ node_modules/
 .DS_Store
 *.bak
 **/_engine/out/
+clients/**/*.mp4
+clients/**/*.mov
+clients/**/*.wav
+clients/**/*.jpg
+clients/**/*.jpeg
+clients/**/*.png

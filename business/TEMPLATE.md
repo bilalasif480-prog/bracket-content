@@ -60,3 +60,21 @@ stats, clients, prices, results or testimonials).
 ## 9. Hard rules
 - Nothing is posted, sent, published or paid for without the owner's approval.
 - (add more)
+
+## 10. Instagram growth settings (see `pm/INSTAGRAM-GROWTH.md`)
+| Setting | Value |
+|---|---|
+| Handle / Professional account? | |
+| Logged in on Bilal's Chrome? | yes / no (needed to post and read Insights) |
+| Client must sign off each week? | yes / no |
+| Volume stage | start / winner found / custom (main posts a day, trials a day) |
+| Main post time (Kuwait) | default 8:00 PM until Insights shows better |
+| Content pillars (3–5) | |
+| Series name(s) | |
+| Reference accounts (10–20, niche + country first) | |
+| Footage source | client films (monthly shot list) / animation only / both |
+| Where client media lives (never this repo) | Mac folder path or Drive folder |
+| Audio | original (audio-kit) / trending added in app |
+| CTA keyword + approved DM reply | none yet |
+| Approved comment replies (exact text) | none yet (off until Bilal turns it on) |
+| Goal metric | e.g. DMs to order per week |
