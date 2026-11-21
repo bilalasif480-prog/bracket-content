@@ -60,3 +60,4 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-18 14:50 pm — Bilal: moved all website files into 'bilal copy/bracket-website/' (site/, docs/, old-versions/, README). Build still OK (67 files).
 2026-11-18 18:40 pm — Bilal: full light redesign with animations + 3D, websitebuilder only, no QA/hacker this run (T-17 on hold; must run before deploy).
 2026-11-22 01:25 pm — light redesign (EN+AR, 3D) done by websitebuilder only; copied into bracket-website/site/ (previous version in old-versions/before-light-redesign). QA + security (T-17) still on hold per Bilal — must run before deploy.
+2026-11-22 01:40 pm — Bilal: nav dropdown needed a click. Cause: 10px gap between Services button and menu closed it on slow mouse moves. Fixed in v2.css/v2.js (hover bridge, CSS hover open, 350ms close delay); checked EN+AR.
