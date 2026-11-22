@@ -9,6 +9,7 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
+| T-20261122-01 | bracket | bracket-geo | Re-audit final Website + AI visibility baseline | 15/20 (was 5/20); 0/10 visibility (not live); `geo/bracket-audit.md`, `geo/bracket-visibility.md` | 2026-11-22 |
 | T-20261118-16 | bracket | websitebuilder | Light redesign, 16 AR pages (RTL) | done | 2026-11-22 |
 | T-20261118-15 | bracket | websitebuilder | Light redesign: v2 design system, Three.js 3D heroes, 16 EN pages | done | 2026-11-22 |
 | T-20261118-17 | bracket | websiteqa + bracket-hacker | QA + security on redesign | on hold (Bilal: don't test) | Bilal | 2026-11-18 |
@@ -63,3 +64,4 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-22 01:40 pm — Bilal: nav dropdown needed a click. Cause: 10px gap between Services button and menu closed it on slow mouse moves. Fixed in v2.css/v2.js (hover bridge, CSS hover open, 350ms close delay); checked EN+AR.
 2026-11-22 02:05 pm — Bilal: 'bilal copy/Website' is the final site (dark 3D version); only fix bugs he reports, nobody else works on it. Light v2 redesign not used (cloud copy only). Fixed Services dropdown there: bracket-3d.css overflow:hidden clipped the hover bridge, and a click left it stuck open — hover bridge on .nav-dd, hover open/close on mouse, tap toggle on touch. Checked EN+AR.
 2026-11-22 08:35 pm — Bilal: added page loader like his video (from 'bilal copy 2'): [ BRACKET ], 000→100 counter, red bar, brackets fly apart. New loader.css + loader.js in Website, linked on 32 pages (EN+AR), added to build-dist.sh. Shows once per visit.
+2026-11-22 09:30 pm — bracket-geo: final site 15/20; loader + 600 KB 3D file on every page are the main SEO risks (fixes wait on Bilal's OK); favicon/font 'missing' items were PM staging artifacts. Visibility baseline 0/10; next check ~22 Dec.
