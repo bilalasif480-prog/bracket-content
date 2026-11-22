@@ -8,29 +8,37 @@ ENG = os.path.join(REPO, 'week-03/_engine'); OUT = os.path.join(ENG, 'out'); TMP
 MIX = '/home/claude/scr/mix.py'
 
 # base reels: video, duration, end card, scene changes, dings, taps, voice lines (line 1 = hook)
-# SHORT cut (T-20261122-06 revision, Bilal "too long"): 12–15 s. hook 0–2.5 · proof 2.5–6.8 · payoff · end card ~1.6 s
+# closing CTA line over the end card (Bilal 22 Nov 13:11), end card ~2.2 s
+# SHORT cut (T-20261122-06 revision, Bilal "too long"): 12–15 s. hook 0–2.5 · proof 2.5–6.8 · payoff · end card ~2.2 s + closing CTA
 BASE = {
- 'day1': dict(video='day1-short.mp4', dur=14.0, end=12.4, whoosh=[2.5, 6.8], tap=[3.2, 3.5, 3.8], ding=[5.2, 8.8],
+ 'day1': dict(video='day1-short.mp4', dur=14.95, end=12.4, whoosh=[2.5, 6.8], tap=[3.2, 3.5, 3.8], ding=[5.2, 8.8],
    lines=[[0.2, "I have Instagram. Why a website?"], [2.7, "Your customer searches. Nothing comes up."],
-          [7.0, "For example, four lost orders at fifteen dinars. Sixty a month."]]),
- 'day2': dict(video='day2-short.mp4', dur=12.8, end=11.2, whoosh=[2.5, 6.8], tap=[0.7], ding=[4.6, 7.5, 8.2],
+          [7.0, "For example, four lost orders at fifteen dinars. Sixty a month."],
+          [12.2, "We'll build it for you. Comment start."]]),
+ 'day2': dict(video='day2-short.mp4', dur=13.75, end=11.2, whoosh=[2.5, 6.8], tap=[0.7], ding=[4.6, 7.5, 8.2],
    lines=[[0.2, "Customers stopped Googling. They ask ChatGPT."], [2.7, "And the answer names other clinics. Not you."],
-          [7.0, "That's GEO. We help AI answers find you."]]),
- 'day3': dict(video='day3-short.mp4', dur=12.2, end=10.6, whoosh=[2.5, 6.8], tap=[3.5], ding=[7.8],
+          [7.0, "That's GEO. We help AI answers find you."],
+          [11.0, "We'll get you found. Comment start."]]),
+ 'day3': dict(video='day3-short.mp4', dur=13.15, end=10.6, whoosh=[2.5, 6.8], tap=[3.5], ding=[7.8],
    lines=[[0.2, "You decorated the shop. But Instagram is the landlord."], [3.0, "What if the account is gone one day?"],
-          [6.9, "Keep Instagram. Add a website you own."]]),
- 'day4': dict(video='day4-short.mp4', dur=14.0, end=12.4, whoosh=[2.5, 6.8], tap=[3.4, 4.4], ding=[8.8],
+          [6.9, "Keep Instagram. Add a website you own."],
+          [10.4, "We'll build it for you. Comment start."]]),
+ 'day4': dict(video='day4-short.mp4', dur=14.95, end=12.4, whoosh=[2.5, 6.8], tap=[3.4, 4.4], ding=[8.8],
    lines=[[0.2, "What does your WhatsApp do at eleven at night?"], [2.9, "You reply in the morning. They already booked elsewhere."],
-          [7.0, "For example, three late messages at twenty dinars. Sixty a week."]]),
- 'day5': dict(video='day5-short.mp4', dur=14.0, end=12.4, whoosh=[2.5, 6.8], tap=[], ding=[8.8],
+          [7.0, "For example, three late messages at twenty dinars. Sixty a week."],
+          [12.2, "We'll set it up for you. Comment start."]]),
+ 'day5': dict(video='day5-short.mp4', dur=14.95, end=12.4, whoosh=[2.5, 6.8], tap=[], ding=[8.8],
    lines=[[0.2, "You're on Google. On page three."], [2.6, "Almost nobody scrolls that far. They call someone else."],
-          [7.0, "For example, two more customers at fifteen dinars. Thirty a week."]]),
- 'day6': dict(video='day6-short.mp4', dur=14.0, end=12.4, whoosh=[2.5, 6.8], tap=[], ding=[8.8],
+          [7.0, "For example, two more customers at fifteen dinars. Thirty a week."],
+          [12.2, "We'll get you found. Comment start."]]),
+ 'day6': dict(video='day6-short.mp4', dur=14.95, end=12.4, whoosh=[2.5, 6.8], tap=[], ding=[8.8],
    lines=[[0.2, "You think apps are only for big companies."], [2.7, "Then one week, your regulars forget. And try next door."],
-          [7.0, "For example, ten skipped visits at eight dinars. Eighty a month."]]),
- 'day7': dict(video='day7-short.mp4', dur=14.0, end=12.4, whoosh=[2.5, 6.8], tap=[], ding=[3.9, 8.8],
+          [7.0, "For example, ten skipped visits at eight dinars. Eighty a month."],
+          [12.2, "We'll build your app. Comment start."]]),
+ 'day7': dict(video='day7-short.mp4', dur=14.95, end=12.4, whoosh=[2.5, 6.8], tap=[], ding=[3.9, 8.8],
    lines=[[0.2, "Missed call. Lost patient."], [2.4, "You're busy. So they call the next one."],
-          [7.0, "Example: three lost bookings at twenty five dinars. Seventy five a week."]]),
+          [7.0, "Example: three lost bookings at twenty five dinars. Seventy five a week."],
+          [12.2, "We'll set it up for you. Comment start."]]),
 }
 # reel id -> (base, new hook line or None, music style, seed, extra line overrides)
 REELS = {

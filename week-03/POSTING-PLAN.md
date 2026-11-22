@@ -4,12 +4,12 @@ Made by instamake (T-20261122-06) from `research/strategy-brief.md` "22 Nov 2026
 
 - **Slots (Kuwait time):** MAIN 20:00 · T1 trial 12:30 · T2 trial 16:30. Every trial is posted with Instagram's **Trial** switch on (non-followers only).
 - **Look:** the approved hisaab reel style (paper bg, kinetic Archivo words, red key word, peach stars, white UI cards, EN big + Gulf Arabic under), own `[ BRACKET ]` end card, "Software that gets it done. / برمجيات تنجز الشغل." ("AI that gets it done." on the agent reels).
-- **Length (revised 22 Nov, Bilal: "too long"):** every reel is now 12–15 s: hook (0–2.5 s) → one proof UI beat → payoff (one-line hisaab card or the key line) → end card (~1.6 s). Mains: Mon 14.0 · Tue 12.8 · Wed 12.2 · Thu 14.0 · Fri 14.0 · Sat 14.0 · Sun 14.0 s; each trial = its base length. Voice: 3 short lines, ends ≥0.8 s before the end card. Engine: `_engine/short.js` (re-times the long reels' scenes) + `trials.js` (hook in 2.5 s) + `build.py`.
-- **Audio:** voice `af_heart` 1.0, no pitch shift, voice ends before the end card; a different original track per video (see `audio-kit/MUSIC-LOG.md`). Mix: music ~0.22, ducked under the voice.
+- **Length (revised 22 Nov, Bilal: "too long"):** every reel is now 12–15 s: hook (0–2.5 s) → one proof UI beat → payoff (one-line hisaab card or the key line) → end card (~2.5 s) with a closing CTA (Bilal 22 Nov 13:11: "we can help"): `[ BRACKET ]` + slogan, a topic line and a "Comment START · علّق ابدأ" pill (mains AND trials). Topic lines: websites "We'll build it for you. / نبنيه لك." (Mon, Wed) · GEO/SEO "We'll get you found. / نخليهم يلقونك." (Tue, Fri) · AI agents "We'll set it up for you. / نجهزه لك." (Thu, Sun + Wed trials) · apps "We'll build your app. / نبني لك تطبيقك." (Sat + Thu trials). Mains: Mon 14.95 · Tue 13.75 · Wed 13.15 · Thu 14.95 · Fri 14.95 · Sat 14.95 · Sun 14.95 s; each trial = its base length. Voice: 3 short story lines that end before the end card, then the spoken closing line (e.g. "We'll build it for you. Comment start.") over the end card, finishing ≥0.3 s before the video ends. Engine: `_engine/short.js` (re-times the long reels' scenes) + `trials.js` (hook in 2.5 s) + `build.py`.
+- **Audio:** voice `af_heart` 1.0, no pitch shift, story voice ends before the end card, closing CTA line spoken over it (never says "Bracket"); a different original track per video (see `audio-kit/MUSIC-LOG.md`). Mix: music ~0.22, ducked under the voice.
 - **Files:** final mp4s in `week-03/` (and `/home/claude/out/week-03/`). Engine + scripts in `week-03/_engine/` (`kit.js`, `dayN-*.js`, `trials.js`, `build.py`).
 - **Series:** "Hisaab / حسبة دقيقة" #01–#05 (Mon, Thu, Fri, Sat, Sun). Every number on a calculator card is labelled **Example / مثال**, one line of maths per card, arithmetic checked: 4×15=60 a month · 3×20=60 a week · 2×15=30 a week · 10×8=80 a month · 3×25=75 a week.
 - **Services covered:** Websites (Mon, Wed), GEO + SEO (Tue), AI agents (Thu, Sun + Wed trials), SEO (Fri), Mobile apps (Sat + Thu/Sat trials).
-- **CTA:** every MAIN caption: "Comment START / علّق ابدأ" (approved keyword). Trials use a share line instead ("Send this to a business owner"), so the week varies the ask.
+- **CTA:** every MAIN caption: "Comment START / علّق ابدأ" (approved keyword). Trials: caption keeps the share line ("Send this to a business owner"); the video's end card now also shows "Comment START" (Bilal 22 Nov).
 - **Hook check (all 21 reels):** passed. Frame 0 already moving (words blurring in + a UI card a viewer knows: search bar, DM, WhatsApp, Google pages, phone, missed call), claim lands at ~0.9–1.3 s EN + AR, voice starts at 0.2 s on the subject, works on mute, about the viewer's business.
 - **Not made (brief extras):** the Wed 19:00 "5 ways" carousel and Sat 19:00 "How to start" carousel (pin-only). Brief's Wed/Thu/Sat "remake of the better trial" mains were made in advance as new reels; swap the hook after Friday's trial check if Instapulse says so.
 
@@ -19,7 +19,7 @@ Core hashtags (every post): #الكويت #Kuwait #مشاريع_الكويت #Ku
 
 ## Mon 23 Nov
 
-### MAIN 20:00 · `day1-main-hisaab01-website.mp4` · 14.0 s · Card A · Websites · HISAAB #01
+### MAIN 20:00 · `day1-main-hisaab01-website.mp4` · 14.95 s · Card A · Websites · HISAAB #01
 Track: house 41. (Same video as the approved hisaab reel, new voice track.)
 عندك انستقرام… ليش تحتاج موقع؟ تصميم مواقع الكويت 👇
 زبونك يدوّر اسمك في قوقل وما يطلع شي، يراسلك بالخاص وتردّ ثاني يوم… ويشتري من محل عنده موقع.
@@ -54,7 +54,7 @@ Send this to a business owner who only sells on Instagram.
 
 ## Tue 24 Nov
 
-### MAIN 20:00 · `day2-main-geo-chatgpt.mp4` · 12.8 s · Card B · GEO (+SEO)
+### MAIN 20:00 · `day2-main-geo-chatgpt.mp4` · 13.75 s · Card B · GEO (+SEO)
 Track: lofi 53.
 العملاء ما صاروا يسألون قوقل… يسألون ChatGPT 🤖
 اسأل الذكاء الاصطناعي: «أحسن عيادة بالسالمية؟» الجواب يذكر محلات ثانية… وانت مو موجود.
@@ -89,7 +89,7 @@ Send this to a business owner who needs to see it.
 
 ## Wed 25 Nov
 
-### MAIN 20:00 · `day3-main-rented-shop.mp4` · 12.2 s · Card D "Rented shop" · Websites
+### MAIN 20:00 · `day3-main-rented-shop.mp4` · 13.15 s · Card D "Rented shop" · Websites
 Track: ambient 73.
 زيّنت المحل… بس المالك انستقرام 🏬
 ولو يوم من الأيام الحساب صار غير متاح؟ البوستات، المتابعين، الرسايل… كلها هناك.
@@ -125,7 +125,7 @@ Send this to the owner who still answers every message himself.
 
 ## Thu 26 Nov
 
-### MAIN 20:00 · `day4-main-hisaab02-ai-agent-night.mp4` · 14.0 s · Card C "11 PM enquiry" · AI agents · HISAAB #02
+### MAIN 20:00 · `day4-main-hisaab02-ai-agent-night.mp4` · 14.95 s · Card C "11 PM enquiry" · AI agents · HISAAB #02
 Track: lofi 79.
 شنو يسوي الواتساب مالك الساعة ١١ بالليل؟ 🌙
 عميل يبي يحجز وانت نايم… ترد الصبح، وهو حاجز بمكان ثاني.
@@ -163,7 +163,7 @@ Send this to a business owner with regulars.
 
 ## Fri 27 Nov
 
-### MAIN 20:00 · `day5-main-hisaab03-seo-page3.mp4` · 14.0 s · Card A (Google pages) · SEO · HISAAB #03
+### MAIN 20:00 · `day5-main-hisaab03-seo-page3.mp4` · 14.95 s · Card A (Google pages) · SEO · HISAAB #03
 Track: house 97.
 انت موجود في قوقل… بالصفحة الثالثة 🔎
 زبونك يدوّر «قريب مني» ويشوف الصفحة الأولى بس… قليل اللي يوصل للصفحة الثالثة.
@@ -200,7 +200,7 @@ Send this to a clinic owner.
 
 ## Sat 28 Nov
 
-### MAIN 20:00 · `day6-main-hisaab04-app.mp4` · 14.0 s · Card A · Mobile apps · HISAAB #04
+### MAIN 20:00 · `day6-main-hisaab04-app.mp4` · 14.95 s · Card A · Mobile apps · HISAAB #04
 Track: lofi 107.
 تقول: التطبيق للشركات الكبيرة؟ 📱
 نفس الزباين يجون كل أسبوع… لين يجي أسبوع وينسون، ويجربون المحل اللي جنبك.
@@ -237,7 +237,7 @@ Send this to a gym or salon owner.
 
 ## Sun 29 Nov
 
-### MAIN 20:00 · `day7-main-hisaab05-missed-call.mp4` · 14.0 s · Card A (+G fix) · AI agents (clinic) · HISAAB #05
+### MAIN 20:00 · `day7-main-hisaab05-missed-call.mp4` · 14.95 s · Card A (+G fix) · AI agents (clinic) · HISAAB #05
 Track: house 127.
 مكالمة فايتة… مراجع راح 📞
 الاستقبال مشغول والتلفون يرن… فيتصلون باللي بعدك.

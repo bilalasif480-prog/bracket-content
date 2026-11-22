@@ -250,6 +250,29 @@ function calc1(t, a, o) {
   s += kinAr(o.fixArY || 1345, o.fixAr, t, fa + 0.35, 52, C.mute, 0.1);
   return s;
 }
+
+// end card with the closing CTA (Bilal 22 Nov 13:11: "we can help" at the end). ~2.2 s. o = {ai, help:{en, ar}}
+function endHelp(t, a, o = {}) {
+  const lt = t - a; if (lt < 0) return '';
+  const tf = a + lt * 1.6; let s = '';
+  const k = eb(seg(lt * 1.6, 0, 0.5)), spread = (1 - eo(seg(lt * 1.6, 0.1, 0.7))) * 120;
+  s += `<g opacity="${f(eo(seg(lt * 1.6, 0, 0.3)))}">`;
+  s += `<text x="${f(170 + spread)}" y="700" font-family="Archivo" font-weight="900" font-size="150" fill="${C.peach}" text-anchor="middle">[</text>`;
+  s += `<text x="${f(910 - spread)}" y="700" font-family="Archivo" font-weight="900" font-size="150" fill="${C.peach}" text-anchor="middle">]</text>`;
+  s += `<text x="540" y="692" font-family="Archivo" font-weight="900" font-size="${f(118 * k)}" fill="#fff" text-anchor="middle" letter-spacing="-4">BRACKET</text>`;
+  s += lbl('SOFTWARE HOUSE · KUWAIT', 540, 770, 30, C.peach);
+  s += `</g>`;
+  s += kin(830, o.ai ? [['AI', '#fff'], ['that', '#fff'], ['gets', '#fff'], ['it', '#fff'], ['done.', C.peach]] : [['Software', '#fff'], ['that', '#fff'], ['gets', '#fff'], ['it', '#fff'], ['done.', C.peach]], tf, a + 0.35, 56, { step: 0.12 });
+  s += kinAr(905, o.ai ? 'ذكاء اصطناعي ينجز الشغل.' : 'برمجيات تنجز الشغل.', tf, a + 0.6, 44, '#bdb6b0', 0.1);
+  const h = o.help || { en: 'We can help you with this.', ar: 'نقدر نساعدك في هذا.' };
+  s += `<line x1="340" y1="1030" x2="740" y2="1030" stroke="#4a4542" stroke-width="3" opacity="${f(eo(seg(lt, 0.5, 0.8)))}"/>`;
+  s += kinS(1075, h.en, t, a + 0.55, 84, { col: '#fff', acc: C.peach, step: 0.1 });
+  s += kinAr(1300, h.ar, t, a + 0.8, 68, C.peach, 0.1);
+  const kc = eb(seg(lt, 1.15, 1.5));
+  s += pop(540, 1480, kc, `<rect x="200" y="1430" width="680" height="100" rx="50" fill="${C.red}"/>` +
+    html(200, 1430, 680, 100, `<div style="display:flex;justify-content:center;align-items:center;height:100px;gap:20px"><span style="${EN(42, '#fff')}letter-spacing:-1px">Comment START</span><span style="${AR(26, '#fff')}opacity:.7">·</span><span dir="rtl" style="${AR(40, '#fff')}">علّق ابدأ</span></div>`));
+  return s;
+}
 const demoTag = (x, y) => pill(x, y, 'DEMO', 'نموذج', C.red, 250);
 
-module.exports = { C, clamp, seg, eo, eb, f, esc, html, word, EN, AR, kin, kinS, kinAr, card, star, wavy, bg, scene, hookScene, float, lbl, pop, pill, clock, timeChip, moon, searchCard, resultRows, chatCard, phone, tickList, calc, endCard, withHook, demoTag, warp, endFast, calc1 };
+module.exports = { C, clamp, seg, eo, eb, f, esc, html, word, EN, AR, kin, kinS, kinAr, card, star, wavy, bg, scene, hookScene, float, lbl, pop, pill, clock, timeChip, moon, searchCard, resultRows, chatCard, phone, tickList, calc, endCard, withHook, demoTag, warp, endFast, calc1, endHelp };
