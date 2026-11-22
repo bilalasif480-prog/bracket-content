@@ -2,13 +2,13 @@
 
 Agent: websiteqa · Site: `/Users/bilal/Desktop/bilal copy/Website/` (final site, not deployed), read through the device shell and copied into the cloud (no `_backups/`, `_build/`; `export/` only for the 3 icon files the pages use, checksums matched) · Served with `python3 -m http.server`, plus a second server sending the site's own `_headers` CSP · Profile: `business/bracket.md` (22 Nov UK update) · Spec: `geo/bracket-uk-plan.md` · **Read-only: no site file was changed.**
 
-## Overall: FAIL (1 High)
+## Overall: FAIL (1 High, 3 Medium)
 
 | Severity | Count |
 |---|---|
 | Critical | 0 |
 | High | 1 |
-| Medium | 2 |
+| Medium | 3 |
 | Low | 7 |
 
 The page code itself is clean: 0 console errors, 0 failed requests, 0 requests to other sites, 0 broken internal links, no horizontal scroll, 0 Arabic characters, no RTL styling, no KD/KWD/KNET/Gulf, no "studio"/"agency" (only "not an agency" in `llms.txt`), no prices, no reply-time promises, no invented stats, clients or reviews. What fails is the **share image**: `og-image.png` still says "SOFTWARE HOUSE · KUWAIT" and has an Arabic slogan, and every page uses it.
@@ -37,6 +37,11 @@ The page code itself is clean: 0 console errors, 0 failed requests, 0 requests t
 **M2. Privacy page wasn't updated for UK visitors (UK GDPR basics)**
 - Proof: `privacy.html` still says "Last updated 18 Nov 2026". It doesn't mention: the lawful basis for using enquiry data (replying to an enquiry or preparing a quote); that data is handled from Kuwait, i.e. outside the UK; how long emails and WhatsApp chats are kept; the right to complain to the ICO. Since 22 Nov the site targets UK businesses, so UK GDPR rules on transparency apply.
 - Fix: websitebuilder adds a short "If you're in the UK" block covering those four points and updates the date. Bilal checks the wording with an adviser if he wants certainty (this is not legal advice). It's not a code bug, so not a blocker, but it should be done before launch.
+
+**M3. `articles.css` is not copied by `build-dist.sh`, so the 5 articles deploy without their styles** (bracket-hacker found it first, as their L6; confirmed here)
+- Proof: all 5 files in `articles/` link `../articles.css`, but the `cp` list in `build-dist.sh` doesn't include `articles.css`. The `dist/` built with `https://example.co.uk` has no `articles.css`, so every article would request a file that 404s. Served from the source folder they look fine, which is why the page runs pass.
+- Effect once live: the article pages still get `site.css`, but lose the quick-answer box, list spacing and the other article-only styles.
+- Fix: add `articles.css` to the `cp site.css site.js …` line in `build-dist.sh`.
 
 ### Low
 
@@ -82,7 +87,7 @@ The page code itself is clean: 0 console errors, 0 failed requests, 0 requests t
 | Phone layout | PASS | `scrollWidth` = 390 on all 26 pages, no element past the right edge |
 | Contact WhatsApp / email | PASS | Every `wa.me` link and the floating button → `https://wa.me/96599494186?text=Hi%20Bracket%2C%20I%27d%20like%20a%20quote.` (new tab, noopener). mailto → `bracketkw@gmail.com` (careers: `?subject=Careers`). Form: `?service=geo` preselects GEO; empty submit is blocked (3 invalid fields); a valid submit opens `mailto:bracketkw@gmail.com?subject=Project%20brief%20from%20…` and shows the status line |
 | `booking.html` | PASS | Forwards to `contact.html`, `noindex` |
-| `build-dist.sh` | PASS | In a copy, with `https://example.co.uk`: 56 files, includes `manchester.html` + 5 articles, no `ar/` or `_backups/`, 0 `DOMAIN` left |
+| `build-dist.sh` | FAIL (M3) | In a copy, with `https://example.co.uk`: 56 files, includes `manchester.html` + 5 articles but **not `articles.css`**, no `ar/` or `_backups/`, 0 `DOMAIN` left |
 
 ## How it was tested
 - Playwright 1.64.1 driving the cloud's headless Chromium. Navigator `webdriver` was hidden and a desktop/iPhone UA set, so the loader and 3D run as they do for real visitors. A separate run used the Googlebot UA.

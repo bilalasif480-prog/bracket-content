@@ -1,5 +1,5 @@
 # Launch check: Bracket website, UK retarget (22 Nov 2026)
-Verdict: **Not ready: 3 blockers.** 1 content fix (share image) and 2 deploy-time items (domain; HTTPS/headers on staging).
+Verdict: **Not ready: 4 blockers.** 2 quick fixes (share image, `articles.css` in `build-dist.sh`) and 2 deploy-time items (domain; HTTPS/headers on staging).
 Platforms checked: web only. Static HTML/CSS/JS from `/Users/bilal/Desktop/bilal copy/Website/`, copied to the cloud and served locally, once plain and once with the site's own `_headers`. No mobile app, so the App Store / Google Play sections don't apply.
 Task: T-20261122-17 (QA half) · Agent: websiteqa · Read-only, no site file changed. Full QA findings: `qa/bracket-report.md`.
 
@@ -8,8 +8,9 @@ The site is still static: no backend, database, login, admin, payments, uploads 
 ## Blockers
 
 1. **Share image is Arabic + "KUWAIT".** `og-image.png` is used as `og:image`/`twitter:image` on 24 pages and as the schema image. It shows "SOFTWARE HOUSE · KUWAIT" and "برمجيات تنجز الشغل.". Fix: re-render it in English only with a UK kicker, same file name (report H1).
-2. **Domain not chosen.** Pick a `.co.uk` or `.com` (not `.kw`), run `./build-dist.sh https://<domain>`, deploy only `dist/`. Deploying needs Bilal's yes in that run's chat.
-3. **Verify on staging** (`README-LAUNCH.md` §0):
+2. **`build-dist.sh` leaves out `articles.css`.** The 5 articles link `../articles.css`, and it's missing from `dist/`. Fix: add it to the `cp` line (report M3; also bracket-hacker L6).
+3. **Domain not chosen.** Pick a `.co.uk` or `.com` (not `.kw`), run `./build-dist.sh https://<domain>`, deploy only `dist/`. Deploying needs Bilal's yes in that run's chat.
+4. **Verify on staging** (`README-LAUNCH.md` §0):
    - `curl -sI https://<domain>/` shows CSP, HSTS, X-Frame-Options, nosniff, Referrer-Policy and Permissions-Policy.
    - HTTP redirects to HTTPS.
    - `/.git/HEAD`, `/.gitignore`, `/README-LAUNCH.md`, `/build-dist.sh` return 404.
@@ -45,11 +46,11 @@ Not blockers, but do before launch: Bilal confirms the ownership line, the "Brac
 | 1B Access / Login / Payments / AI | All items | N/A | No server, accounts, payments or AI calls |
 | 1B Input/output | Escaping, no XSS sink | PASS | Form values only go into an `encodeURIComponent` mailto; no inline scripts or `on…=` handlers |
 | 1B Input/output | Uploads, SSRF, open redirect | N/A | None. `booking.html` meta-refresh goes to a fixed local page. All 36 redirect targets are fixed local pages |
-| 1B Transport | HTTPS, redirect, HSTS | Deploy-time (blocker 3) | HSTS in `_headers` + `vercel.json` |
+| 1B Transport | HTTPS, redirect, HSTS | Deploy-time (blocker 4) | HSTS in `_headers` + `vercel.json` |
 | 1B Transport | Security headers | Config PASS, live check pending | Same CSP in `_headers` and `vercel.json`. Served locally with that CSP: 0 violations, 0 errors on 26 pages; loader, 3D, WhatsApp float and mailto all work |
 | 1B Transport | CORS | N/A | No API |
 | 1B Deps | No vulnerable dependencies | PASS | No runtime dependencies; no third-party CSS/JS/fonts (fonts self-hosted) |
-| 1B Deps | Debug/test routes off | PASS | `build-dist.sh https://example.co.uk` → 56 files: pages, 5 articles, assets, fonts, 3 icons. No `_backups/`, `ar/`, README, `.gitignore`, `.git`, or `DOMAIN` left |
+| 1B Deps | Debug/test routes off | PASS | `build-dist.sh https://example.co.uk` → 56 files (but `articles.css` missing: blocker 2): pages, 5 articles, assets, fonts, 3 icons. No `_backups/`, `ar/`, README, `.gitignore`, `.git`, or `DOMAIN` left |
 | 1B Deps | Errors don't leak | PASS | 0 console errors in 52 page/viewport runs + CSP run |
 | 1B Links | External links safe | PASS | WhatsApp links + float `target=_blank rel=noopener`; Instagram `rel=noopener` |
 | 1C / 2 | Mobile app / stores | N/A | No app |
@@ -71,6 +72,6 @@ Not blockers, but do before launch: Bilal confirms the ownership line, the "Brac
 | 4 Prod | README / deploy steps | PASS (1 stale line) | `README-LAUNCH.md` is up to date for UK/no-Arabic, but still says `work.html` is noindex (it isn't) |
 
 ## Before Bilal says yes to deploy
-1. websitebuilder: new `og-image.png` (blocker 1). Optional at the same time: report M2 privacy block and Lows L1, L4, L5, L6.
+1. websitebuilder: new `og-image.png` (blocker 1) + `articles.css` in `build-dist.sh` (blocker 2). Optional at the same time: report M2 privacy block and Lows L1, L4, L5, L6.
 2. PM → Bilal: confirm report M1 (ownership line, listing name, article #6) and choose the domain.
-3. `./build-dist.sh https://<domain>` → staging deploy (with Bilal's yes) → blocker-3 checks → re-run websiteqa on the staging URL.
+3. `./build-dist.sh https://<domain>` → staging deploy (with Bilal's yes) → blocker-4 checks → re-run websiteqa on the staging URL.
