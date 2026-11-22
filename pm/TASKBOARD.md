@@ -9,6 +9,9 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
+| T-20261122-06 | bracket | instamake | Week-03 pack: daily trial reels + carousels aimed at enquiries, af_heart voice + new track per reel | queued | T-04, T-05 | 2026-11-22 |
+| T-20261122-05 | bracket | research | Outliers + format cards: Bilal's 3 refs' accounts + Gulf/Kuwait sellers of websites/apps/AI agents/SEO | running | — | 2026-11-22 |
+| T-20261122-04 | bracket | instapulse | Audit @bracketkw + strategy brief for client enquiries | done (public view only: Chrome not logged in as @bracketkw) — `analytics/week-03.md`, `research/strategy-brief.md` | Bilal: log Chrome into @bracketkw | 2026-11-22 |
 | T-20261122-03 | bracket | instamake | Trial reels remaking the 3 reference reels' format (animated UI mockups + kinetic serif type), per research format cards | needs-approval — single-reels/2026-11-22-hisaab-reel/, mp4 off repo | Bilal: OK to post + who answers "WEBSITE" comments | 2026-11-22 |
 | T-20261122-02 | bracket | research | Find reels like Bilal's 3 references | stopped by Bilal; PM wrote format cards A/B from the 3 refs in research/niche-report.md | — | 2026-11-22 |
 | T-20261122-01 | bracket | bracket-geo | Re-audit final Website + AI visibility baseline | 15/20 (was 5/20); 0/10 visibility (not live); `geo/bracket-audit.md`, `geo/bracket-visibility.md` | 2026-11-22 |
@@ -73,3 +76,6 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-22 09:46 pm — Bilal: am_fenrir voice + generated music sound robotic/not good. Hisaab reel re-cut with UI SFX only (no voice, no music), trending sound to be added on Instagram. Don't use the kokoro voice/music on reels until a better voice is picked.
 2026-11-22 09:53 pm — Bilal picked af_heart voice; wants background music, different on every reel. Added audio-kit/bg_music.py (6 original styles, seeded) + MUSIC-LOG.md; README default voice → af_heart. 3 music options for hisaab sent.
 2026-11-22 09:55 pm — Bilal: all 3 music versions (lofi/piano/oud) approved as good. Rule kept: af_heart voice + a different original track every reel. Posting still waits on his yes.
+2026-11-22 09:57 pm — Bilal: 'start managing my Instagram, grow the business, get clients from Insta'. Agents switched back on for Bracket Instagram. Started T-04 instapulse audit + T-05 research; instamake pack T-06 after.
+2026-11-22 09:59 instapulse T-20261122-04 — Chrome logged into a different IG account (not @bracketkw): no Insights/DMs read. Public audit: 9 posts, 2 followers, last post 9 Nov, old QA/fixed-price bio, no link/highlights/pins. Wrote analytics/week-03.md + strategy-brief top '22 Nov 2026: client-enquiry plan' (profile fixes, 5 pillars, Hisaab series, 23-29 Nov slots 1 main + 2 trials/day, keyword START/ابدأ, DM scripts). Not committed.
+2026-11-22 10:02 pm — Bilal: do NOT post the old week-02 pack; make new reels instead. week-02 retired. T-06 instamake builds fresh reels from the 22 Nov brief + research.

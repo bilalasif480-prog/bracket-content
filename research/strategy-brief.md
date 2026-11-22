@@ -1,4 +1,108 @@
-# Strategy brief (Instapulse) · updated Sun 8 Nov 2026 (founder-pack orders, final: clinic-first; rest from Fri 6 Nov)
+# Strategy brief (Instapulse) · updated Sun 22 Nov 2026
+
+## 22 Nov 2026: client-enquiry plan
+Goal (Bilal, 22 Nov): **enquiries** (DMs, WhatsApp, contact form) for websites, mobile apps, AI agents, SEO and GEO. Real followers only: never buy followers or engagement, no follow-unfollow, no bots.
+**Early-stage mode:** 2 followers, 9 posts, nothing posted since 9 Nov. Insights and DMs were **not** read: the Instagram account logged in on Chrome is not @bracketkw. Full audit: `analytics/week-03.md`. This plan leans on `research/niche-report.md` (format cards A/B from Bilal's 3 reference reels) more than on Bracket's own numbers.
+The 8 Nov clinic-first brief is kept below for detail; it is now **one strong niche, not the only one**. The profile sells 5 services to all SMBs.
+
+### What's working / what to stop (6 reels, public views)
+- **Pain shown as a picture beats a claim.** Speed "Still loading… and they're gone." 109, bug "find the bug before you do" 86, "nothing falls in the gap" 72 vs "No hourly clock." 29, "real phones" 21, contact form 7 (median 50.5). Keep opening on what the customer sees going wrong.
+- **Stop:** feature/offer lines as hooks ("we test every form", "fixed price"); QA as the topic; "studio", "fixed scope/price" anywhere; "Link in bio" while there is no link; silent gaps (13 days with nothing).
+- **Start:** Format card A "belief → phone-UI proof → hisaab" (Bilal's favourite; the reference reels got far more shares than likes) and card B "Google → AI answer" for GEO. These are pain-as-picture, so they fit what already worked.
+- **Nothing on apps, AI agents, SEO or GEO has been posted yet.** The grid still says "websites + QA". Fix the profile first, then fill the grid.
+
+### Profile fixes (SUGGESTIONS for Bilal; nobody changes the profile without him)
+1. **Name field** (searchable): `Bracket | Websites & Apps Kuwait` (or `Websites & Apps Kuwait | مواقع وتطبيقات` if he prefers Arabic searchable too; name field is 64 chars max).
+2. **Bio** (no prices, no promises):
+   `Software house in Kuwait 🇰🇼`
+   `Websites · Apps · AI agents · SEO · GEO`
+   `مواقع · تطبيقات · وكلاء ذكاء اصطناعي · الظهور في قوقل والذكاء الاصطناعي`
+   `💬 WhatsApp or DM "START" | راسلنا "ابدأ"`
+3. **Link:** wa.me/96599494186 now (site not live). Add the website as a second link once deployed.
+4. **Contact buttons:** turn on Email (bracketkw@gmail.com) and WhatsApp in Edit profile → Contact options, category "Software company".
+5. **Pin 3 posts** (once posted): the best hisaab reel (Mon), the "5 things we build" carousel (Wed), the "How to start with Bracket" carousel (Sat).
+6. **Highlights (covers in brand colours):** Services / خدماتنا · How to start / كيف نبدأ · Demos / نماذج (label as demos) · FAQ / أسئلة. No "Reviews" until there are real ones.
+7. **Old posts:** archive (not delete) the 4 Nov "No hourly clock / fixed price" reel and the 3 old carousels, or at least edit captions that say "studio" (1 Nov, 7 Nov) and "Link in bio". Keep the 3 best old reels (speed, bug, gap) visible.
+
+### Pillars (every week covers all 5)
+| Pillar | Service | Style |
+|---|---|---|
+| "I have Instagram, why a website?" | Websites | Card A belief → search/DM UI → hisaab |
+| "They asked ChatGPT, not Google" | GEO (+SEO) | Card B AI chat UI → other businesses listed → why |
+| "Who answers at 1 a.m.?" | AI agents | Card A WhatsApp UI → agent answers, books, hands over to a person |
+| "Same customers every week, still no app" | Mobile apps | Card A loyalty/booking app UI |
+| "On Google… page 3" | SEO | Card A Google results UI, Google Business Profile |
+Clinic owners stay the lead niche (missed calls, after-hours WhatsApp, no-shows); salons, gyms, contractors, stores rotate in trials.
+
+### Recurring series: "Hisaab" / "حسبة دقيقة" (numbered #01, #02…)
+Every card A reel ends on the "one minute, do the maths" calculator card. Numbers are a hypothetical labelled **"Example / مثال"** on screen, the viewer's own maths, never a Bracket result. Cover tag "HISAAB #01" top-left, same layout every time, so the grid reads as a series.
+
+### Volume and audio
+- **Start (per INSTAGRAM-GROWTH):** 1 main post a day at **20:00 Kuwait** (no audience-time data yet) + **2 trial reels a day at 12:30 and 16:30**. Every new reel goes out as a trial first unless it is the day's main post.
+- **Audio (Bilal, 22 Nov):** voice `af_heart` speed 1.0, no pitch shift; a **different** original background track per reel from `audio-kit/bg_music.py`, logged in `audio-kit/MUSIC-LOG.md` (used so far: lofi 11, piano 23, oud 37). Voice never says "Bracket" and ends before the end card. Keep a no-music version in case Bilal adds a trending sound in the app.
+- Captions: Arabic first, `—`, English; first line carries a search phrase ("website Kuwait", "تصميم مواقع الكويت", "تطبيق", "ChatGPT"). One CTA per piece.
+
+### Next week's slots (Mon 23 – Sun 29 Nov, Kuwait time)
+M = main post 20:00 · T1 = trial 12:30 · T2 = trial 16:30. Trials T1/T2 on the same day = one A/B pair changing ONE thing (hook line + first frame).
+| Day | Slot | Format card | Service | Hook EN / Gulf Arabic | Goal |
+|---|---|---|---|---|---|
+| Mon 23 | M | A reel, Hisaab #01 (the made hisaab reel, new track) | Websites | "I have Instagram. Why a website?" / "عندي إنستقرام… ليش أحتاج موقع؟" | Shares + DMs |
+| Mon 23 | T1/T2 | A reel, A/B | Websites | A: "Your customer searched your name. Nothing came up." / "عميلك دوّر اسمك… وما طلع شي." · B: "Asked the price on DM. Answered 2 days later." / "سأل عن السعر بالخاص… والرد بعد يومين." | 3 s hold |
+| Tue 24 | M | B reel | GEO | "Customers aren't asking Google any more. They're asking ChatGPT." / "العملاء ما صاروا يسألون قوقل… يسألون ChatGPT." | Shares + saves |
+| Tue 24 | T1/T2 | B reel, A/B | GEO | A: "Ask ChatGPT for a clinic in Salmiya. Are you in the answer?" / "اسأل ChatGPT عن عيادة بالسالمية… انت موجود بالجواب؟" · B: same, salon in Hawalli / صالون بحولي | Non-follower reach |
+| Wed 25 | M | Carousel 6 slides (pin) | All 5 | "One software house. 5 ways to get you customers." / "شركة برمجيات وحدة… ٥ طرق تجيب لك عملاء." | Saves + profile visits |
+| Wed 25 | T1/T2 | A reel, A/B | AI agents | A: "1 a.m. A customer wants to book. Who answers?" / "الساعة ١ بالليل… عميل يبي يحجز. منو يرد؟" · B: "Still answering WhatsApp after closing?" / "للحين ترد على الواتساب بعد الدوام؟" | 3 s hold |
+| Thu 26 | M | A reel, Hisaab #02 (remake of Wed's better trial) | AI agents | Wed's winner; agent answers, books, hands over to a person, you approve | DMs |
+| Thu 26 | T1/T2 | A reel, A/B | Mobile apps | A: "\"I'm small. An app can wait.\"" / "\"مشروعي صغير… التطبيق بعدين.\"" · B: "Same customers every week. Still no app?" / "نفس الزباين كل أسبوع… وللحين ما عندك تطبيق؟" | 3 s hold |
+| Fri 27 | M | A reel, Hisaab #03 | SEO | "You're on Google. Page 3." / "انت موجود في قوقل… بالصفحة الثالثة." | Saves + shares |
+| Fri 27 | T1/T2 | A reel, A/B | SEO (clinic niche) | A: "Clinic owners: patients search before they call." / "أصحاب العيادات: المراجع يدوّر قبل لا يتصل." · B: "Search \"near me\". Who shows up?" / "دوّر \"قريب مني\"… منو يطلع؟" | Non-follower reach |
+| Sat 28 | M | Carousel 5 slides (pin) | All 5 | "How to start with Bracket: 3 steps" (DM/WhatsApp → short call → demo/quote) / "كيف تبدأ ويانا: ٣ خطوات" | DMs |
+| Sat 28 | T1/T2 | A reel, A/B | Mobile apps | Thu's better app hook, two business types: gym / salon | 3 s hold |
+| Sun 29 | M | A reel, Hisaab #04 | AI agents (clinic) | "Missed call. Lost patient." / "مكالمة فايتة… مراجع راح." (demo, labelled) | DMs |
+| Sun 29 | T1/T2 | A reel, A/B | AI agents | A: "Missed call. Lost job." (AC/home service) / "مكالمة فايتة… شغلة راحت." · B: same for a salon / صالون | Non-follower reach |
+Every reel: `af_heart` 1.0 + its own track; suggested unused style/seeds: house 41, pluck 43, ambient 47, lofi 53, piano 59, oud 61, house 67, pluck 71, ambient 73, lofi 79, piano 83, oud 89, house 97, pluck 101, ambient 103, lofi 107, piano 109, oud 113, house 127.
+Calculator cards: example numbers labelled "مثال / Example", the sum checked twice (one reference reel got its own total wrong).
+
+### Comment-keyword plan (proposal; needs Bilal's OK)
+- **Keyword:** `START` / `ابدأ` on every main post's caption ("Comment START / علّق ابدأ"). One word for all 5 services so it is easy to count.
+- No ManyChat or other tool (Bilal, 18 Nov). Instapulse checks comments in the first hour after each post and sends this exact DM + a short public reply **only after Bilal turns that on in chat**. Until then, drafts wait for his yes.
+- **Proposed approved DM (Arabic first):**
+  > هلا 👋 شكراً على تعليقك! إحنا Bracket، شركة برمجيات في الكويت: مواقع، تطبيقات، وكلاء ذكاء اصطناعي، والظهور في قوقل والذكاء الاصطناعي.
+  > شنو نوع مشروعك؟ وأي وحدة تحتاج أكثر؟ كلمنا هني أو واتساب: wa.me/96599494186
+  > —
+  > Hi 👋 thanks for commenting! We're Bracket, a software house in Kuwait: websites, apps, AI agents, SEO and GEO.
+  > What's your business, and which one do you need most? Reply here or WhatsApp: wa.me/96599494186
+- **Proposed public reply:** "أرسلنا لك رسالة 📩 / Sent you a DM 📩"
+
+### DM reply scripts for leads (drafts; nothing sent without Bilal's yes; match their language and length)
+1. **Message one (answer first, no pitch):** answer what they asked in 1-2 lines (no prices, no timelines), then one question: "What's your business, and what do you want it to do for you: more bookings, fewer missed messages, or getting found?" / "شنو مجال مشروعك؟ وشنو تبيه يسوي لك: حجوزات أكثر، رسائل ما تضيع، ولا يلقونك بسهولة؟"
+2. **Interested:** "Great. Easiest is a short call or WhatsApp so we see what fits; then we send a demo or a quote. What time suits you?" / "حلو. أسهل شي مكالمة قصيرة أو واتساب نشوف شنو يناسبك، وبعدها نرسل لك نموذج أو عرض سعر. أي وقت يناسبك؟" + wa.me/96599494186
+3. **Asks the price:** "Every project is quoted after a short chat, because a landing page and a booking app are very different jobs. Tell me what you need and we'll send a quote." / "كل مشروع نسعّره بعد سوالف قصيرة، لأن صفحة بسيطة غير تطبيق حجوزات. قول لي شنو تحتاج ونرسل لك عرض سعر."
+4. **Not now:** "No problem. Save the post and message us when you're ready." / "ولا يهمك. احفظ البوست وكلمنا وقت ما تكون جاهز." No follow-up push.
+5. **Wrong fit:** thank them, say honestly it's not something we do, no pitch.
+6. **No reply after 2 days:** one nudge only: "Still thinking about the website/app? Happy to answer any question." / "للحين تفكر بالموقع/التطبيق؟ أي سؤال حاضرين." Then stop.
+
+### 5 things Bilal can do himself daily (suggestions only, ~20 min)
+1. Reply to every comment within the first hour after the 20:00 post (instapulse drafts; he sends).
+2. Leave 5-10 real, specific comments on Kuwaiti small-business accounts (clinics, salons, gyms, stores) from @bracketkw: a useful remark, never a pitch.
+3. Answer DMs and WhatsApp the same day; log each enquiry (business type + service, no names) so instapulse can count them.
+4. Share each main post to @bracketkw's Story with a poll or question sticker ("Do you have a website? نعم / لا").
+5. Send the day's reel to 1-2 business owners he knows who'd genuinely find it useful (no mass DMs).
+
+### Needs Bilal
+- Log Chrome's Instagram into @bracketkw (or add it to the switcher) so instapulse can read Insights and DMs.
+- OK (or edit) the profile fixes, the keyword `START`/`ابدأ`, and the DM text.
+- Say why week 2 (10-16 Nov) never went out; nothing has posted since 9 Nov.
+
+### Asks for the research agent
+1. Gulf/Kuwait accounts selling AI agents, apps or SEO/GEO with card A/B-style reels: outliers + first-frame text (T-20261122-05).
+2. What Kuwaiti SMB owners ask about websites/apps/AI chat in public comments (patterns, no names).
+3. Kuwaiti clinic, salon and gym accounts: do they show a link in bio, WhatsApp, or booking? (shapes the hisaab reels' "search → nothing" beat).
+4. Comment-keyword CTAs in the niche: which words get comments, and do the reels with them get more comments?
+
+---
+
+## Earlier brief · updated Sun 8 Nov 2026 (founder-pack orders, final: clinic-first; rest from Fri 6 Nov)
 
 ## NEW 8 Nov: founder-pack findings → orders (top priority from week 3, Tue 17 Nov)
 Bilal ran a business test on Bracket (board review, Kuwait competitor scan, 20 simulated buyers). Results in short:
