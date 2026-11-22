@@ -2,15 +2,16 @@
 
 Made by instamake (T-20261122-06) from `research/strategy-brief.md` "22 Nov 2026: client-enquiry plan" + `research/niche-report.md` cards A–G. **New reels only; the week-02 pack is retired.** Nothing is posted until Bilal says yes in chat.
 
+- **On-screen text English only — Bilal 22 Nov; captions stay EN+AR.** (15:29) No Arabic in the videos; captions below unchanged (Arabic first — English).
 - **Slots (Kuwait time):** MAIN 20:00 · T1 trial 12:30 · T2 trial 16:30. Every trial is posted with Instagram's **Trial** switch on (non-followers only).
-- **Look:** the approved hisaab reel style (paper bg, kinetic Archivo words, red key word, peach stars, white UI cards, EN big + Gulf Arabic under), own `[ BRACKET ]` end card, "Software that gets it done. / برمجيات تنجز الشغل." ("AI that gets it done." on the agent reels).
-- **Length (revised 22 Nov, Bilal: "too long"):** every reel is now 12–15 s: hook (0–2.5 s) → one proof UI beat → payoff (one-line hisaab card or the key line) → end card (~2.5 s) with a closing CTA (Bilal 22 Nov 13:11: "we can help"): `[ BRACKET ]` + slogan, a topic line and a "Comment START · علّق ابدأ" pill (mains AND trials). Topic lines: websites "We'll build it for you. / نبنيه لك." (Mon, Wed) · GEO/SEO "We'll get you found. / نخليهم يلقونك." (Tue, Fri) · AI agents "We'll set it up for you. / نجهزه لك." (Thu, Sun + Wed trials) · apps "We'll build your app. / نبني لك تطبيقك." (Sat + Thu trials). Mains: Mon 14.95 · Tue 13.75 · Wed 13.15 · Thu 14.95 · Fri 14.95 · Sat 14.95 · Sun 14.95 s; each trial = its base length. Voice: 3 short story lines that end before the end card, then the spoken closing line (e.g. "We'll build it for you. Comment start.") over the end card, finishing ≥0.3 s before the video ends. Engine: `_engine/short.js` (re-times the long reels' scenes) + `trials.js` (hook in 2.5 s) + `build.py`.
+- **Look:** the approved hisaab reel style (paper bg, kinetic Archivo words, red key word, peach stars, white UI cards, English-only text), own `[ BRACKET ]` end card, "Software that gets it done." ("AI that gets it done." on the agent reels).
+- **Length (revised 22 Nov, Bilal: "too long"):** every reel is now 12–15 s: hook (0–2.5 s) → one proof UI beat → payoff (one-line hisaab card or the key line) → end card (~2.5 s) with a closing CTA (Bilal 22 Nov 13:11: "we can help"): `[ BRACKET ]` + slogan, a topic line and a "Comment START" pill (mains AND trials). Topic lines: websites "We'll build it for you." (Mon, Wed) · GEO/SEO "We'll get you found." (Tue, Fri) · AI agents "We'll set it up for you." (Thu, Sun + Wed trials) · apps "We'll build your app." (Sat + Thu trials). Mains: Mon 14.95 · Tue 13.75 · Wed 13.15 · Thu 14.95 · Fri 14.95 · Sat 14.95 · Sun 14.95 s; each trial = its base length. Voice: 3 short story lines that end before the end card, then the spoken closing line (e.g. "We'll build it for you. Comment start.") over the end card, finishing ≥0.3 s before the video ends. Engine: `_engine/short.js` (re-times the long reels' scenes) + `trials.js` (hook in 2.5 s) + `build.py`.
 - **Audio:** voice `af_heart` 1.0, no pitch shift, story voice ends before the end card, closing CTA line spoken over it (never says "Bracket"); a different original track per video (see `audio-kit/MUSIC-LOG.md`). Mix: music ~0.22, ducked under the voice.
 - **Files:** final mp4s in `week-03/` (and `/home/claude/out/week-03/`). Engine + scripts in `week-03/_engine/` (`kit.js`, `dayN-*.js`, `trials.js`, `build.py`).
 - **Series:** "Hisaab / حسبة دقيقة" #01–#05 (Mon, Thu, Fri, Sat, Sun). Every number on a calculator card is labelled **Example / مثال**, one line of maths per card, arithmetic checked: 4×15=60 a month · 3×20=60 a week · 2×15=30 a week · 10×8=80 a month · 3×25=75 a week.
 - **Services covered:** Websites (Mon, Wed), GEO + SEO (Tue), AI agents (Thu, Sun + Wed trials), SEO (Fri), Mobile apps (Sat + Thu/Sat trials).
 - **CTA:** every MAIN caption: "Comment START / علّق ابدأ" (approved keyword). Trials: caption keeps the share line ("Send this to a business owner"); the video's end card now also shows "Comment START" (Bilal 22 Nov).
-- **Hook check (all 21 reels):** passed. Frame 0 already moving (words blurring in + a UI card a viewer knows: search bar, DM, WhatsApp, Google pages, phone, missed call), claim lands at ~0.9–1.3 s EN + AR, voice starts at 0.2 s on the subject, works on mute, about the viewer's business.
+- **Hook check (all 21 reels):** passed. Frame 0 already moving (words blurring in + a UI card a viewer knows: search bar, DM, WhatsApp, Google pages, phone, missed call), claim lands at ~0.9–1.3 s on screen, voice starts at 0.2 s on the subject, works on mute, about the viewer's business.
 - **Not made (brief extras):** the Wed 19:00 "5 ways" carousel and Sat 19:00 "How to start" carousel (pin-only). Brief's Wed/Thu/Sat "remake of the better trial" mains were made in advance as new reels; swap the hook after Friday's trial check if Instapulse says so.
 
 Core hashtags (every post): #الكويت #Kuwait #مشاريع_الكويت #KuwaitBusiness. Topic tags rotate per post.
@@ -35,7 +36,7 @@ Comment START and we'll DM you.
 #الكويت #Kuwait #مشاريع_الكويت #KuwaitBusiness #تصميم_مواقع #مواقع_الكويت #موقع_الكتروني #WebDesign #WebsiteDesign #SmallBusinessKuwait #متجر_الكتروني #انستقرام #حسبة_دقيقة
 
 - Hook: "I have Instagram. Why a website?" / "عندي انستقرام… ليش موقع؟" (brief Mon M). Search phrase: "website Kuwait / تصميم مواقع الكويت".
-- Cover (pick 1): **"HISAAB #01 · Why a website? / ليش موقع؟"** · alt: "Instagram only? / بس انستقرام؟"
+- Cover (pick 1): **"HISAAB #01 · Why a website?"** · alt: "Instagram only?"
 - CTA: Comment START. Goal: shares + DMs. Audience: Instagram-only shop owners.
 - Alt text: "Animated reel: a customer searches a shop's name and finds nothing, then an example calculation of lost orders."
 
@@ -48,7 +49,7 @@ Trial caption (both, same text):
 Your customer looked you up. What did they find? Website design in Kuwait.
 Send this to a business owner who only sells on Instagram.
 #الكويت #Kuwait #مشاريع_الكويت #تصميم_مواقع #WebDesign #SmallBusinessKuwait #موقع_الكتروني #KuwaitBusiness #انستقرام #متجر_الكتروني
-- Cover: "Nothing came up. / ما طلع شي." (A) · "Answered next day / الرد ثاني يوم" (B). Alt text as main.
+- Cover: "Nothing came up." (A) · "Answered next day" (B). Alt text as main.
 
 ---
 
@@ -70,7 +71,7 @@ Comment START and we'll DM you.
 #الكويت #Kuwait #مشاريع_الكويت #KuwaitBusiness #ChatGPT #الذكاء_الاصطناعي #GEO #SEO #AISearch #تسويق_رقمي #السيو #ظهور_في_قوقل #DigitalMarketingKuwait
 
 - Hook: "Customers aren't asking Google any more. They're asking ChatGPT." (brief Tue M). Search phrase: "ChatGPT / ظهور في الذكاء الاصطناعي".
-- Cover: **"They ask ChatGPT now / يسألون ChatGPT"** · alt: "Are you in the AI answer? / انت بالجواب؟"
+- Cover: **"They ask ChatGPT now"** · alt: "Are you in the AI answer?"
 - CTA: Comment START. Goal: shares + saves. AI answer is labelled DEMO / نموذج; no ranking or citation promise.
 - Alt text: "Animated reel: a search bar is crossed out, an AI assistant answers a local question with other businesses listed, then the GEO and SEO fix."
 
@@ -83,7 +84,7 @@ Trial caption:
 Ask ChatGPT about your business and area. Are you in the answer?
 Send this to a business owner who needs to see it.
 #الكويت #Kuwait #ChatGPT #الذكاء_الاصطناعي #GEO #SEO #السالمية #حولي #مشاريع_الكويت #AISearch
-- Cover: "Clinic in Salmiya? / عيادة بالسالمية؟" (A) · "Salon in Hawalli? / صالون بحولي؟" (B).
+- Cover: "Clinic in Salmiya?" (A) · "Salon in Hawalli?" (B).
 
 ---
 
@@ -105,7 +106,7 @@ Comment START and we'll DM you.
 #الكويت #Kuwait #مشاريع_الكويت #KuwaitBusiness #تصميم_مواقع #موقع_الكتروني #مواقع_الكويت #WebDesign #OwnYourWebsite #انستقرام #متجر_الكتروني #SmallBusinessKuwait
 
 - Hook: "You decorated the shop. But the landlord is Instagram." (card D, "what if", no claim about how often accounts are banned). Search phrase: "website Kuwait / موقع الكتروني".
-- Cover: **"The landlord is Instagram / المالك انستقرام"** · alt: "Rented shop? / محل بالإيجار؟"
+- Cover: **"The landlord is Instagram"** · alt: "Rented shop?"
 - CTA: Comment START. Goal: saves + comments (people argue about it).
 - Alt text: "Animated reel: an Instagram profile on a museum plinth shows 'account unavailable', then an arrow from the profile to a website the owner controls."
 
@@ -119,7 +120,7 @@ Trial caption:
 Who answers your customers after closing? An AI agent for WhatsApp.
 Send this to the owner who still answers every message himself.
 #الكويت #Kuwait #واتساب #WhatsAppBusiness #الذكاء_الاصطناعي #AIagent #مشاريع_الكويت #KuwaitBusiness #حجوزات #خدمة_العملاء
-- Cover: "1 a.m. Who answers? / منو يرد؟" (A) · "After closing? / بعد الدوام؟" (B).
+- Cover: "1 a.m. Who answers?" (A) · "After closing?" (B).
 
 ---
 
@@ -143,7 +144,7 @@ Comment START and we'll DM you.
 #الكويت #Kuwait #مشاريع_الكويت #KuwaitBusiness #واتساب #WhatsAppBusiness #الذكاء_الاصطناعي #AIagent #AIautomation #حجوزات #خدمة_العملاء #حسبة_دقيقة
 
 - Hook: "What does your WhatsApp do at 11 PM?" (card C). Brief said "Wed's winner": both Wed hooks lead into this same body, so swap the opening in after the trial check if one clearly wins. Search phrase: "WhatsApp booking / حجز واتساب".
-- Cover: **"HISAAB #02 · 11 PM / الساعة ١١"** · alt: "Who answers at night? / منو يرد بالليل؟"
+- Cover: **"HISAAB #02 · 11 PM"** · alt: "Who answers at night?"
 - CTA: Comment START. Goal: DMs. No chat demo in the short cut.
 - Alt text: "Animated reel: a late-night WhatsApp booking request is answered next morning, too late, then an example calculation and the AI agent fix."
 
@@ -157,7 +158,7 @@ Trial caption:
 Same customers every week. A simple app reminds them. Apps in Kuwait.
 Send this to a business owner with regulars.
 #الكويت #Kuwait #تطبيقات #تطبيق_جوال #AppDevelopment #MobileApp #مشاريع_الكويت #KuwaitBusiness #LoyaltyApp #نقاط_ولاء
-- Cover: "An app can wait? / التطبيق بعدين؟" (A) · "Still no app? / ما عندك تطبيق؟" (B).
+- Cover: "An app can wait?" (A) · "Still no app?" (B).
 
 ---
 
@@ -181,7 +182,7 @@ Comment START and we'll DM you.
 #الكويت #Kuwait #مشاريع_الكويت #KuwaitBusiness #SEO #السيو #قوقل #GoogleBusinessProfile #LocalSEO #تسويق_رقمي #ظهور_في_قوقل #حسبة_دقيقة
 
 - Hook: "You're on Google. Page 3." (brief Fri M). No ranking promise. Search phrase: "SEO Kuwait / السيو".
-- Cover: **"HISAAB #03 · Page 3 / الصفحة ٣"** · alt: "On Google… page 3 / بالصفحة الثالثة"
+- Cover: **"HISAAB #03 · Page 3"** · alt: "On Google… page 3"
 - CTA: Comment START. Goal: saves + shares.
 - Alt text: "Animated reel: a business sits on page 3 of search results, a cursor stays on page 1, then an example calculation and the SEO fix."
 
@@ -194,7 +195,7 @@ Trial caption:
 Patients search before they call. Who shows up? SEO for clinics.
 Send this to a clinic owner.
 #الكويت #Kuwait #SEO #السيو #عيادات_الكويت #LocalSEO #قريب_مني #GoogleBusinessProfile #مشاريع_الكويت #KuwaitBusiness
-- Cover: "Clinic owners / أصحاب العيادات" (A) · "Near me? / قريب مني؟" (B).
+- Cover: "Clinic owners" (A) · "Near me?" (B).
 
 ---
 
@@ -218,7 +219,7 @@ Comment START and we'll DM you.
 #الكويت #Kuwait #مشاريع_الكويت #KuwaitBusiness #تطبيقات #تطبيق_جوال #AppDevelopment #MobileApp #LoyaltyApp #نقاط_ولاء #تطوير_تطبيقات #حسبة_دقيقة
 
 - Hook: "You think: apps are for big companies." (belief, card A; brief said "Thu's winning app hook": both Thu hooks lead into this same body, swap the opening if one wins). Search phrase: "app Kuwait / تطبيق".
-- Cover: **"HISAAB #04 · Apps aren't just for big companies / التطبيق مو بس للكبار"** · alt: "Your regulars / زباينك الدايمين"
+- Cover: **"HISAAB #04 · Apps aren't just for big companies"** · alt: "Your regulars"
 - CTA: Comment START. Goal: shares + DMs. No app demo in the short cut.
 - Alt text: "Animated reel: a 4-week visit grid where some regulars stop coming, then an example calculation and the app fix."
 
@@ -231,7 +232,7 @@ Trial caption:
 Same faces every week. Still no app? Apps for gyms and salons.
 Send this to a gym or salon owner.
 #الكويت #Kuwait #تطبيقات #تطبيق_جوال #جيم_الكويت #صالونات_الكويت #AppDevelopment #MobileApp #مشاريع_الكويت #KuwaitBusiness
-- Cover: "Gym owners / أصحاب الجيم" (A) · "Salon owners / أصحاب الصالونات" (B).
+- Cover: "Gym owners" (A) · "Salon owners" (B).
 
 ---
 
@@ -255,7 +256,7 @@ Comment START and we'll DM you.
 #الكويت #Kuwait #مشاريع_الكويت #KuwaitBusiness #عيادات_الكويت #الذكاء_الاصطناعي #AIagent #واتساب #WhatsAppBusiness #مواعيد #خدمة_العملاء #حسبة_دقيقة
 
 - Hook: "Missed call. Lost patient." (brief Sun M, clinic niche). Search phrase: "clinic booking WhatsApp / حجز عيادة واتساب".
-- Cover: **"HISAAB #05 · Missed call / مكالمة فايتة"** · alt: "Lost patient? / مراجع راح؟"
+- Cover: **"HISAAB #05 · Missed call"** · alt: "Lost patient?"
 - CTA: Comment START. Goal: DMs.
 - Alt text: "Animated reel: a missed-call counter rises and the caller books elsewhere, then an example calculation and the AI agent fix."
 
@@ -268,4 +269,4 @@ Trial caption:
 Missed call. Lost job. An AI agent that texts back on WhatsApp.
 Send this to a business owner whose phone never stops.
 #الكويت #Kuwait #مشاريع_الكويت #KuwaitBusiness #تكييف #صيانة_مكيفات #صالونات_الكويت #الذكاء_الاصطناعي #AIagent #واتساب
-- Cover: "Lost job / شغلة راحت" (A) · "Lost booking / حجز راح" (B).
+- Cover: "Lost job" (A) · "Lost booking" (B).

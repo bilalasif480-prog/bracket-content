@@ -99,3 +99,4 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-22 15:30 pm — Bilal: remove Arabic text from reels. On-screen text now English only (captions stay EN+AR). Profile updated; instamake re-rendering all 21 before Mon 12:27.
 2026-11-22 15:34 pm — Bilal: captions English-only too (Arabic hashtags kept for search).
 2026-11-22 15:45 pm — Bilal: leave the captions as they were (EN+AR). Only on-screen text is English-only.
+2026-11-22 15:53 instamake T-20261122-06 — on-screen text English only (Bilal 15:29): all 21 week-03 reels re-rendered with no Arabic on screen (render.js strips it; end card pill 'Comment START'), same timing/voice/music/lengths. Captions unchanged EN+AR (Bilal 15:44). week-03 + out/week-03-short overwritten. Not committed, nothing posted.

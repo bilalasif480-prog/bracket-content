@@ -234,7 +234,7 @@ function calc1(t, a, o) {
   const y0 = 450 + float(t, 3), kc = eb(seg(tr, 0.15, 0.5));
   let c = card(110, y0, 860, 570, 48) + pill(150, y0 + 40, 'EXAMPLE', 'مثال', C.red, 290);
   const ol = eo(seg(tr, 0.35, 0.6));
-  c += html(150, y0 + 130, 780, 120, `<div style="${EN(44, C.ink)}letter-spacing:-1px;opacity:${f(ol)}">${esc(o.lab)}</div><div style="${AR(32, C.mute)}direction:rtl;text-align:left;opacity:${f(ol)}">${esc(o.labAr)}</div>`);
+  c += html(150, y0 + 135, 780, 120, `<div style="${EN(39, C.ink)}letter-spacing:-1px;opacity:${f(ol)}">${esc(o.lab)}</div><div style="${AR(32, C.mute)}direction:rtl;text-align:left;opacity:${f(ol)}">${esc(o.labAr)}</div>`);
   const ke = seg(tr, 0.5, 1.1), num = v => Math.round(v * eo(ke)).toLocaleString('en-US');
   c += `<text x="540" y="${f(y0 + 345)}" font-family="Archivo" font-weight="900" font-size="120" fill="${C.ink}" text-anchor="middle" letter-spacing="-4" opacity="${f(eo(seg(tr, 0.45, 0.7)))}">${num(o.a)} × ${num(o.b)} KD</text>`;
   if (tr > 1.2) {
