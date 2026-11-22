@@ -67,16 +67,16 @@ M = main post 20:00 · T1 = trial 12:30 · T2 = trial 16:30. Trials T1/T2 on the
 Every reel: `af_heart` 1.0 + its own track; suggested unused style/seeds: house 41, pluck 43, ambient 47, lofi 53, piano 59, oud 61, house 67, pluck 71, ambient 73, lofi 79, piano 83, oud 89, house 97, pluck 101, ambient 103, lofi 107, piano 109, oud 113, house 127.
 Calculator cards: example numbers labelled "مثال / Example", the sum checked twice (one reference reel got its own total wrong).
 
-### Comment-keyword plan (proposal; needs Bilal's OK)
+### Comment-keyword plan (approved by Bilal 22 Nov, relayed by PM: keyword, DM and public reply text as written below)
 - **Keyword:** `START` / `ابدأ` on every main post's caption ("Comment START / علّق ابدأ"). One word for all 5 services so it is easy to count.
 - No ManyChat or other tool (Bilal, 18 Nov). Instapulse checks comments in the first hour after each post and sends this exact DM + a short public reply **only after Bilal turns that on in chat**. Until then, drafts wait for his yes.
-- **Proposed approved DM (Arabic first):**
+- **Approved DM (Arabic first):**
   > هلا 👋 شكراً على تعليقك! إحنا Bracket، شركة برمجيات في الكويت: مواقع، تطبيقات، وكلاء ذكاء اصطناعي، والظهور في قوقل والذكاء الاصطناعي.
   > شنو نوع مشروعك؟ وأي وحدة تحتاج أكثر؟ كلمنا هني أو واتساب: wa.me/96599494186
   > —
   > Hi 👋 thanks for commenting! We're Bracket, a software house in Kuwait: websites, apps, AI agents, SEO and GEO.
   > What's your business, and which one do you need most? Reply here or WhatsApp: wa.me/96599494186
-- **Proposed public reply:** "أرسلنا لك رسالة 📩 / Sent you a DM 📩"
+- **Approved public reply:** "أرسلنا لك رسالة 📩 / Sent you a DM 📩"
 
 ### DM reply scripts for leads (drafts; nothing sent without Bilal's yes; match their language and length)
 1. **Message one (answer first, no pitch):** answer what they asked in 1-2 lines (no prices, no timelines), then one question: "What's your business, and what do you want it to do for you: more bookings, fewer missed messages, or getting found?" / "شنو مجال مشروعك؟ وشنو تبيه يسوي لك: حجوزات أكثر، رسائل ما تضيع، ولا يلقونك بسهولة؟"

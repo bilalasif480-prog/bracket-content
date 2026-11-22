@@ -1,4 +1,4 @@
-# Niche report for instamake (last updated 2026-11-10)
+# Niche report for instamake (last updated 2026-11-22)
 
 Sources: Metricool competitor reels (brand 7919246, 11 Oct-10 Nov 2026) + 12 of those reels WATCHED today in Bilal's Chrome (read-only: nothing liked, followed, saved or downloaded; no screenshots committed). Web research is off (Bilal, 8 Nov). Like/comment/share counts are what Instagram showed under each reel today; views are not shown in the desktop reel viewer.
 
@@ -24,6 +24,125 @@ Bilal sent 3 reels. The PM watched them in Chrome (read-only). The research run 
 
 ### Format card B: "Google → AI answer" (GEO)
 Same style. Hook = "Customers aren't asking Google any more. They're asking ChatGPT." AI chat types a local question; the answer lists other businesses, not yours; blur; why (site, structure, reviews); CTA "comment your business + area".
+
+### Research run T-20261122-05 (2026-11-22, research agent): outliers, reference accounts, format cards C-G
+How: Bilal's Chrome, read-only (nothing liked, followed, saved, commented, DM'd or downloaded; no screenshots kept). ~25 min. Views = the number on each account's Reels grid today; likes / comments / shares = what the reel page showed today. Post dates are decoded from the reel ID. Median = median views of that account's reels since 23 Sep 2026 (last 60 days). Outlier = 3x or more of that median. WATCHED = opened and seen at 3-4 timestamps; caption-only = only the caption was read.
+
+#### Reference accounts (profile section 10 list: 13 accounts)
+| # | Handle | Country | Followers | Sells | Reels (60 d) / median views | Top format | Best reel (views; likes / comments / shares) |
+|---|---|---|---|---|---|---|---|
+| 1 | @febtech.in | India | 2,559 | websites, apps, AI automation | 30 / 1,066 | Animated UI explainer (Hinglish), mascot characters | DekKvJ3DRjF (60.3K; 709 / 180 / 1,110) |
+| 2 | @makeuforward | India | 419 | websites, Shopify, SEO, AI automation | 48 / 823 | Animated UI explainer with voice + subtitles | DebjFPAtYTw (42.6K; 687 / 62 / 931) |
+| 3 | @alphaagency1 | Pakistan (Rs, ".pk" mock sites) | 1,337 | websites, ads, content | 54 / 2,656 | Kinetic serif text + UI cards, money "hisaab" | Deh_w0CgnlJ (99.2K; 1,612 / 139 / 2,447) |
+| 4 | @genesisworks.jo | Jordan (Arabic, Gulf-friendly words) | 1,426 | websites, online stores | 20 / 3,520 | Before/after concept site on a monitor on a real desk | DeCB-Z1OIno (74.7K; 928 / 102 / 1,275) |
+| 5 | @moujtabakhalifa | Gulf/Saudi dialect | 211K | AI for design, ads, marketing, automation (own AI company) + teaching | 11 / 18.5K | Face-cam picture-in-picture over a screen demo, AR+EN subtitles | DfMyXB2AsDX (600K; 8,208 / 34.6K / 7,023) |
+| 6 | @aiwithhazim | Arabic (country not shown) | 8,272 | AI & automation guides / consulting | 39 / 10.1K | Talking head + money hook about AI-built apps | DfAE45cBzQa (145K; 1,938 / 48 / –) caption-only |
+| 7 | @saoudalajme | Kuwait | 38.8K | AI creator (photographer), NOT a seller: format reference only | 34 / 30.8K | Kuwaiti-dialect AI tool demos, comment-keyword CTA | Dewl0ikIm-A (442K) not opened |
+| 8 | @honeywavecreative | US | 32K | websites | see 11-10 section | Face-to-camera skits | DfCubi9RRJJ (494 likes) |
+| 9 | @trywebsight | Kuwait | 1.7K | websites, systems | see 11-10 section | B/W client interview, Gulf Arabic captions | DehDTmutR_c (32 / 6 / 10) |
+| 10 | @codefactorykw | Kuwait | 7,188 | apps, websites ("we take over your stuck app") | 6 / 164 | – (no outliers) | DfwiPcnxSGD (168 views) |
+| 11 | @madeinkwt_ | Kuwait | 2,345 | websites, online stores ("from Instagram to a store") | 2 / 100 | Kinetic Arabic word on dark blue | Df8iMLjxr2k (100 views; 4 / 1) |
+| 12 | @tocaan | Kuwait | 15.6K | apps | see 11-10 section | App logo reveals (avoid) | – |
+| 13 | @linekwt | Kuwait | 18.3K | websites, apps | 0 (last reel 2023) | posts only | – |
+
+Takeaways: (a) no Kuwait seller of websites/apps has a single outlier: their reels get 100-170 views. The engagement in Arabic is with AI creators and one Jordan web seller. Open lane for Bracket. (b) Arabic AI reels with huge comment counts (e.g. @sbuhamad.7, @ghazalyexplains, @ai.withsara, @tech_it25: 1,000-4,000+ comments) are educators using "comment WORD and I'll DM the file". Comments there come from the lead magnet, not the reel; Bracket only uses comment-a-keyword when the profile lists the keyword + approved reply. (c) Not searched this run (time): English-language AI-agent / receptionist sellers. Small Arabic WhatsApp-bot sellers found (@yahya.bots, @growebksa) have under 30 followers and no reach, so not listed.
+
+#### Outlier reels (last 60 days, ≥3x own median)
+| Account | URL | Views (x median) | Likes / comments / shares | Hook (frame 1) | Beats | Seen |
+|---|---|---|---|---|---|---|
+| febtech.in | https://www.instagram.com/reel/DekKvJ3DRjF/ | 60.3K (57x) | 709 / 180 / 1,110 | "Aap sochte…" Instagram page, why a website? | see card A above | WATCHED (PM) |
+| febtech.in | https://www.instagram.com/reel/Dd6zs0jCgAu/ | 9.0K (8.4x) | 29 / 1 / 7 | "Is outdated tech stopping your growth?" | Founder face-cam, AI-style backgrounds, floating UI chips | WATCHED. Low engagement for the views: likely paid, not a format to copy |
+| febtech.in | https://www.instagram.com/reel/Deo2WIaAMsN/ | 3.9K (3.7x) | 47 / 10 / 109 | "raat 11 baje…" moon on navy, time chip "11:00 PM" | Night → Google "cake shop near me" shows the shop → "3 second mein samajh aata hai" phone site with "what you get" tick → "aur ek click mein" WhatsApp button → order chat. Caption: 3 steps + "send this to a friend whose business is only on Instagram" + "Part 3 soon" | WATCHED |
+| febtech.in | https://www.instagram.com/reel/DfL_-VRA9mN/ | 3.5K (3.3x) | 54 / 5 / 44 | "Sharma Aunty's boutique is #1 on Google… shop still empty?" cartoon aunty + shopfront | "Kyunki" empty search bar + magnifier mascot → AI chat names the neighbour's shop "Top pick" → STEP 1/3 SEO, 2/3 AEO (FAQ), 3/3 GEO (reviews, profile) | WATCHED |
+| makeuforward | https://www.instagram.com/reel/DebjFPAtYTw/ | 42.6K (52x) | 687 / 62 / 931 | "Aapki website raat 11 baje kya karti hai?" big moon clock 11:00 | Clock ticks 11:01 → enquiry card "HOT LEAD" → reply went next day 2 pm → "by then he was at the competitor" → shop needs 3 things: WEBSITE (trust), marketing (crowd), AI automation (a salesman who never sleeps). Voice-over + subtitle pill | WATCHED |
+| makeuforward | https://www.instagram.com/reel/DfSUa6Ws9JI/ | 14.1K (17x) | 173 / 4 / 317 | "Customer ab Google nahi, ChatGPT se pooch raha hai" | see card B above | WATCHED (PM) |
+| makeuforward | https://www.instagram.com/reel/DeewuR-ygwo/ | 5.8K (7x) | 59 / 0 / 35 | "Ek client 🌏 Australia se" | Client chat bubble "I need a website for my cleaning business" → "they wanted a site… jo kaam kare!" → build | WATCHED. Uses a real client story: Bracket has none, skip |
+| makeuforward | https://www.instagram.com/reel/DedyLMBtHkl/ | 4.7K (5.8x) | 68 / 7 / 104 | "Ek baat batao… 🤔" | Business is yours, but does Google know you? competitor shows up instead; CTA DM "START" | caption + frame 1 |
+| makeuforward | https://www.instagram.com/reel/DfaSLIos5B0/ | 4.4K (5.3x) | 67 / 0 / 94 | "Kya aap chahte hain" + magnifier over a site | SEO audit in one AI prompt; "screenshot the prompt"; Comment "SEO" | caption + frame 1 |
+| makeuforward | https://www.instagram.com/reel/De14pJFSO_u/ , https://www.instagram.com/reel/DegZtEvN0-U/ | 2.8K (3.4x), 2.5K (3.0x) | – | – | – | not opened |
+| alphaagency1 | https://www.instagram.com/reel/Deh_w0CgnlJ/ | 99.2K (37x) | 1,612 / 139 / 2,447 | "Aap sochte ho website…" (mehngi hai?) red serif "Aap" | Red screen "actually NOT having a website costs more" → DM card "Price kya hai?" ("they look at Instagram") → "Kyun? the competitor's site looks more professional" + mock store → caption maths: 5 lost customers x Rs 10,000 = Rs 50,000 a month, x 12 = Rs 6 lakh (their arithmetic is correct here) | WATCHED |
+| alphaagency1 | https://www.instagram.com/reel/Deu35Wdhhma/ | 85.4K (32x) | 1,414 / 266 / 1,742 | "Dukaan aap ne sajayi, lekin malik…" black screen, white text | "You decorated the shop, but the owner is Instagram" → phone on a museum plinth "Account disabled", "exhibit 03", "status: lost" → "years of work gone in a night" → "on a website everything is yours" + site mock. Gallery/museum art direction | WATCHED |
+| alphaagency1 | https://www.instagram.com/reel/De2qivzgkl7/ | 24.9K (9.4x) | 453 / 48 / 518 | "Socho aapke paas ek…" | You have a salesman who works 24 h, no leave, no salary… but if he's badly dressed, can't answer, goes quiet on price → customer leaves (= your website) | caption + frame 1 |
+| alphaagency1 | https://www.instagram.com/reel/De0C4oBBAB3/ | 20.7K (7.8x) | 326 / 47 / 421 | Clothing on a hanger, "agar aap Instagram pe…" (for clothing brands) | Every launch: "size? colour? price?" DMs till 2 am, stock sells out, customer upset → one system (site) | caption + frame 1 |
+| alphaagency1 | https://www.instagram.com/reel/De5MGOSgeBf/ , https://www.instagram.com/reel/DfIx6MJtWQw/ , https://www.instagram.com/reel/DfVjd5GgZw_/ | 18.3K, 15.9K, 13.8K (5-7x) | 3rd: 220 / 16 / 276 | 3rd: "Aap sochte ho, abhi business chhota hai" | 3rd: see PM table above | 3rd WATCHED (PM), others not opened |
+| genesisworks.jo | https://www.instagram.com/reel/DeCB-Z1OIno/ | 74.7K (21x) | 928 / 102 / 1,275 | "قبل" (before) sticker over a bakery site on an iMac on a messy desk | Plain "before" site → "راسلنا لديمو مجاني" → "after": cinematic 3D product site (pastries floating), desk turns tidy and warm → back to before (loop). Caption: "Imagine your brand at this level" | WATCHED |
+| genesisworks.jo | https://www.instagram.com/reel/DergeEZuywy/ | 15.1K (4.3x) | 143 / 3 / 268 | "بعد" (after) clothing store on monitor | Same before/after desk format, fashion store | WATCHED (frame 1) |
+| genesisworks.jo | https://www.instagram.com/reel/Df7T35WuYLa/ , https://www.instagram.com/reel/DezvIsCxxsf/ | 13.4K, 12.0K (3.4-3.8x) | 1st: 204 / 15 | before/after (clothing store; caption "تبي موقع؟ راسلنا") | concept redesigns of known brands, labelled "concept, not affiliated" | caption-only |
+| moujtabakhalifa | https://www.instagram.com/reel/DfMyXB2AsDX/ | 600K (32x) | 8,208 / 34.6K / 7,023 | "15 موظف" huge over a pixel-art "live office" + "عندي شركة فيها 15 موظف" / "I run a company with 15 employees" | Face-cam box under a live office map of AI agents (one finds trends, one writes, one edits, one posts; lamp on = working) → daily 8:00 summary → weekly meeting on what broke. Bilingual subtitle pills | WATCHED |
+| moujtabakhalifa | https://www.instagram.com/reel/DeMnGfZlSQ7/ | 4.0M (216x) | – | – | – | not opened |
+| aiwithhazim | https://www.instagram.com/reel/DfAE45cBzQa/ | 145K (14x) | 1,938 / 48 / – | "Your AI-built app could cost you $100K before the first sale" | the word "per" (per user, per call) makes the bill grow | caption-only |
+| saoudalajme | https://www.instagram.com/reel/Dewl0ikIm-A/ , https://www.instagram.com/reel/DfIBKOtoKb_/ | 442K, 326K (10-14x) | – | – | Kuwaiti-dialect AI tool demos | not opened |
+
+#### Format card C: "11 PM enquiry" (lost-at-night story) — febtech Deo2WIaAMsN + makeuforward DebjFPAtYTw
+- **Hook mechanism:** a time + a question the owner can't answer well: "What does your website do at 11 PM?"
+- **First frame:** navy night sky, moon/clock showing 11:00, the time in big type; small chip with the time + city.
+- **Beats:** (1) 11:00 clock, question 0-2 s → (2) a customer enquiry card pops in ("new lead") 3-5 s → (3) clock jumps to next day 2 PM, reply goes out, customer already bought elsewhere 6-10 s → (4) light scene: "what you need" in 3 ticks (site that answers, agent that replies and books, found on Google) 11-18 s → (5) WhatsApp/booking button tap, order arrives "while you slept" → end card.
+- **Length / pacing:** 18-25 s; a new card or clock move every ~1 s.
+- **Text:** night = white serif italic + heavy sans, day = dark on paper; subtitle pill at the bottom carries the voice line.
+- **UI used:** clock face, lead/enquiry card, Google result card, phone site with a "what you get" tick, WhatsApp button, chat.
+- **Audio:** calm voice-over (af_heart) + soft music + tick/pop SFX.
+- **CTA:** caption: "Send this to someone whose business is only on Instagram" (share CTA) or "DM 'agent'".
+- **Why it works:** every owner has seen a late DM go cold; the clock jump makes the loss visible without any numbers. Both accounts' versions beat their median (3.7x and 52x) and get more shares than likes.
+
+#### Format card D: "Rented shop" (you don't own your Instagram) — alphaagency1 Deu35Wdhhma
+- **Hook mechanism:** a metaphor that flips a belief: "You decorated the shop. But the landlord is Instagram."
+- **First frame:** black screen, two lines of white text, one grey 3D sphere/shape in a corner.
+- **Beats:** (1) metaphor line 0-3 s → (2) the account on a plinth like a museum piece: "Account disabled", label "status: lost" 4-8 s → (3) "years of work, gone overnight" 9-11 s → (4) "on your website everything is yours": customer list, brand, booking 12-18 s → end card.
+- **Length / pacing:** 18-22 s; slow, gallery-like moves (one change per 1.5 s), blur-in words.
+- **Text:** small grey line + big white word; museum-label micro text (JetBrains Mono suits it).
+- **UI used:** locked phone screen, plinth, site mock with "yours" ticks.
+- **Audio:** low ambient pad, one heavy impact SFX on "disabled".
+- **CTA:** caption: "Save this before you need it" / DM.
+- **Why it works:** fear of losing the account is real for Instagram-only shops (most Bracket buyers sell on Instagram). 32x median, 266 comments: people argue and tag friends. Do NOT claim accounts get banned often: keep it a "what if".
+
+#### Format card E: "Before / After on the desk" — genesisworks.jo DeCB-Z1OIno
+- **Hook mechanism:** before/after reveal; the "قبل" sticker on frame 1 promises the "بعد".
+- **First frame:** a real-looking desk (monitor, mug, tape, boxes) with a plain site on screen and a white "قبل / Before" sticker.
+- **Beats:** (1) before site, messy desk 0-3 s → (2) one line "Imagine your brand like this" 3-5 s → (3) after: the same business as a rich, moving site, desk turns warm and tidy 5-12 s → (4) back to before = loop.
+- **Length / pacing:** 10-15 s; one big change, everything else slow (camera drift).
+- **Text:** only the before/after stickers + one Arabic line; no voice.
+- **UI used:** full desktop site (hero, product grid), then an animated hero.
+- **Audio:** soft music, whoosh on the switch.
+- **CTA:** caption "تبي موقع؟ راسلنا" / "Want one? DM us."
+- **Why it works:** pure visual proof of craft, no claims needed; owners imagine their own shop. 21x median, more shares than likes. Bracket version: invented sample businesses (or a clearly labelled "concept, not affiliated" redesign); never a real client's site without consent.
+
+#### Format card F: "My team of AI agents, live" — moujtabakhalifa DfMyXB2AsDX
+- **Hook mechanism:** surprising number + claim: "I run a company with 15 staff. None of them is human."
+- **First frame:** a live "office map" (top-down rooms, each agent at a desk with a status lamp), the number huge in the middle, bilingual subtitle pill under it; small face-cam box at the bottom.
+- **Beats:** (1) number + claim 0-3 s → (2) zoom into rooms: one agent finds trends, one writes, one edits, one posts; lamp on = working 4-15 s → (3) "every morning I get a summary" card 16-20 s → (4) weekly "what broke and how we fix it" meeting 21-28 s → CTA.
+- **Length / pacing:** 30-45 s; constant zoom/pan, subtitle every line.
+- **Text:** Arabic subtitle pill (white on dark) + English line under it.
+- **UI used:** office map, task cards, morning summary card, chat with a "manager" agent.
+- **Audio:** voice-over (founder's voice in the original; Bracket uses af_heart or the mascots), light music.
+- **CTA:** comment keyword (needs profile keyword + approved reply) or DM "agent".
+- **Why it works:** makes "AI agents" concrete: you SEE the team working. 32x median, 7,023 shares. Bracket can show its own real agent set-up (research, content, reports) as a demo, with no results claimed.
+
+#### Format card G: "The salesman who never sleeps" (metaphor) — alphaagency1 De2qivzgkl7 + makeuforward DebjFPAtYTw
+- **Hook mechanism:** "Imagine you had a salesman who works 24 hours, no days off…" then a twist.
+- **First frame:** paper background, italic serif "Socho aapke paas ek…" ("Imagine you had a…"), red star shape in the corner.
+- **Beats:** (1) the dream salesman 0-4 s → (2) "but what if he…" 3 crosses: looks old, can't answer, goes quiet on price 5-12 s → (3) "that salesman is your website / your WhatsApp" 13-16 s → (4) the fixed version: answers, shows price page or quote button, books, hands over to a person 17-24 s → end card.
+- **Length / pacing:** 20-25 s; one line per 1-1.5 s.
+- **Text:** card A style; ❌ list builds one by one.
+- **UI used:** a character card (the mascot as salesman), ❌ list, chat that answers, booking confirmation.
+- **Audio:** voice-over + soft music, buzzer on each ❌, ding on fix.
+- **CTA:** "Send this to the owner who still answers every DM himself."
+- **Why it works:** a metaphor every owner understands (hiring), with a list that makes people watch to the last ❌. 9.4x median, more shares than likes. Fits AI agents and websites equally.
+
+(Extension of card B, from febtech DfL_-VRA9mN: "#1 on Google, shop still empty" → AI names the neighbour → STEP 1/3 SEO, 2/3 AEO, 3/3 GEO with a mascot. A ready SEO + GEO ladder.)
+
+#### 10 Bracket reel ideas (from these cards; no prices, results or clients; demos labelled)
+| # | Hook EN / Gulf Arabic | Card | Service |
+|---|---|---|---|
+| 1 | "What does your business do at 11 PM?" / "شغلك شنو يسوي الساعة ١١ بالليل؟" | C | AI agents |
+| 2 | "A customer messaged at 11 PM. You replied at 2 PM." / "زبون راسلك ١١ بالليل… ورديت عليه ٢ الظهر." | C | AI agents |
+| 3 | "You decorated the shop. Instagram owns it." / "إنت زينت المحل… بس المالك إنستقرام." | D | Websites |
+| 4 | "If your account disappeared tonight, where would your customers find you?" / "لو حسابك راح الليلة، وين بيلقونك زباينك؟" | D | Websites + SEO |
+| 5 | "Before / After: a Salmiya bakery (sample)" / "قبل / بعد: مخبز بالسالمية (مثال)" | E | Websites |
+| 6 | "Same salon. Same services. Different app." / "نفس الصالون. نفس الخدمات. تطبيق ثاني." (before/after, sample salon) | E | Mobile apps |
+| 7 | "Our team has 5 members. None of them sleeps." / "فريقنا ٥… ولا واحد فيهم ينام." (Bracket's own agents: research, content, reports; demo) | F | AI agents |
+| 8 | "Imagine a salesman who works all night and asks for no salary…" / "تخيل عندك بياع يشتغل طول الليل وما يطلب معاش…" | G | AI agents + Websites |
+| 9 | "#1 on Google. Shop still empty?" / "الأول بقوقل… والمحل فاضي؟" (SEO → GEO steps) | B+ | SEO + GEO |
+| 10 | "Example maths: 3 missed enquiries a week × 4 weeks = 12 a month." / "حسبة مثال: ٣ استفسارات تفوتك بالأسبوع × ٤ أسابيع = ١٢ بالشهر." (labelled "example", no money figure) | A + C | AI agents |
 
 ## Current picture (updated 2026-11-10)
 

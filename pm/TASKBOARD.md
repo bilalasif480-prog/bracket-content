@@ -9,8 +9,8 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
-| T-20261122-06 | bracket | instamake | Week-03 pack: daily trial reels + carousels aimed at enquiries, af_heart voice + new track per reel | queued | T-04, T-05 | 2026-11-22 |
-| T-20261122-05 | bracket | research | Outliers + format cards: Bilal's 3 refs' accounts + Gulf/Kuwait sellers of websites/apps/AI agents/SEO | running | — | 2026-11-22 |
+| T-20261122-06 | bracket | instamake | Week-03 pack (23–29 Nov): 7 main reels + 2 trial hook variants each, af_heart voice + new track per reel | running | — | 2026-11-22 |
+| T-20261122-05 | bracket | research | Outliers + format cards | done — 13 ref accounts, cards C–G, 10 ideas in `research/niche-report.md` | — | 2026-11-22 |
 | T-20261122-04 | bracket | instapulse | Audit @bracketkw + strategy brief for client enquiries | done (public view only: Chrome not logged in as @bracketkw) — `analytics/week-03.md`, `research/strategy-brief.md` | Bilal: log Chrome into @bracketkw | 2026-11-22 |
 | T-20261122-03 | bracket | instamake | Trial reels remaking the 3 reference reels' format (animated UI mockups + kinetic serif type), per research format cards | needs-approval — single-reels/2026-11-22-hisaab-reel/, mp4 off repo | Bilal: OK to post + who answers "WEBSITE" comments | 2026-11-22 |
 | T-20261122-02 | bracket | research | Find reels like Bilal's 3 references | stopped by Bilal; PM wrote format cards A/B from the 3 refs in research/niche-report.md | — | 2026-11-22 |
@@ -81,3 +81,6 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-22 10:02 pm — Bilal: do NOT post the old week-02 pack; make new reels instead. week-02 retired. T-06 instamake builds fresh reels from the 22 Nov brief + research.
 2026-11-22 10:06 am instapulse T-20261122-04 — owner-side pass as @bracketkw (read-only): 30 d 332 views / 301 reached, 97.9% non-followers, 0 saves/shares/follows, 1 like, 10 profile visits, 1 link tap; 0 comments; DMs 0 inbound leads. analytics/week-03.md rewritten; brief: carousels → pin-only extras, Wed/Sat mains now reels, every post needs a share/save/START action. Not committed.
 2026-11-22 10:08 am — Bilal approved comment keyword START / ابدأ. Added business/bracket.md section 10. DM text + profile edits still need his yes.
+2026-11-22 10:08 am instapulse T-20261122-04 — brief: START keyword DM + public reply marked approved (relayed by PM). Profile edit + archiving NOT done: needs Bilal's own confirmation, not an agent relay. Bio as written = 180 chars (>150); short line 3 = 146. Not committed.
+2026-11-22 10:40 pm research T-20261122-05 — niche-report top section extended: 13 reference accounts, outlier table (3 refs + genesisworks.jo, moujtabakhalifa, aiwithhazim, saoudalajme), format cards C-G, 10 bilingual ideas. Kuwait web/app sellers have no outliers (100-170 views). Read-only Chrome, no screenshots, not committed.
+2026-11-22 10:20 am — PM (Bilal's yes in chat): bio + name changed on @bracketkw ('Bracket | Websites & Apps Kuwait'). Fixed-price reel removed from profile grid (web has no archive). Link + archiving 3 old carousels must be done in the app (web can't). Instamake T-06 started.
