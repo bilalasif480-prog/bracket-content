@@ -9,7 +9,7 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
-| T-20261122-06 | bracket | instamake | Week-03 pack (23–29 Nov): 7 main reels + 2 trial hook variants each, af_heart voice + new track per reel | running | — | 2026-11-22 |
+| T-20261122-06 | bracket | instamake | Week-03 pack (23–29 Nov) | needs-approval — 7 mains + 14 trials in `week-03/`, POSTING-PLAN.md, TRIALS.md | Bilal: yes to post the week | 2026-11-22 |
 | T-20261122-05 | bracket | research | Outliers + format cards | done — 13 ref accounts, cards C–G, 10 ideas in `research/niche-report.md` | — | 2026-11-22 |
 | T-20261122-04 | bracket | instapulse | Audit @bracketkw + strategy brief for client enquiries | done (public view only: Chrome not logged in as @bracketkw) — `analytics/week-03.md`, `research/strategy-brief.md` | Bilal: log Chrome into @bracketkw | 2026-11-22 |
 | T-20261122-03 | bracket | instamake | Trial reels remaking the 3 reference reels' format (animated UI mockups + kinetic serif type), per research format cards | needs-approval — single-reels/2026-11-22-hisaab-reel/, mp4 off repo | Bilal: OK to post + who answers "WEBSITE" comments | 2026-11-22 |
@@ -84,3 +84,4 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-22 10:08 am instapulse T-20261122-04 — brief: START keyword DM + public reply marked approved (relayed by PM). Profile edit + archiving NOT done: needs Bilal's own confirmation, not an agent relay. Bio as written = 180 chars (>150); short line 3 = 146. Not committed.
 2026-11-22 10:40 pm research T-20261122-05 — niche-report top section extended: 13 reference accounts, outlier table (3 refs + genesisworks.jo, moujtabakhalifa, aiwithhazim, saoudalajme), format cards C-G, 10 bilingual ideas. Kuwait web/app sellers have no outliers (100-170 views). Read-only Chrome, no screenshots, not committed.
 2026-11-22 10:20 am — PM (Bilal's yes in chat): bio + name changed on @bracketkw ('Bracket | Websites & Apps Kuwait'). Fixed-price reel removed from profile grid (web has no archive). Link + archiving 3 old carousels must be done in the app (web can't). Instamake T-06 started.
+2026-11-22 10:49 instamake T-20261122-06 — week-03 pack made (23–29 Nov): 7 mains (Hisaab #01–#05 + GEO + rented-shop) + 14 trial hook variants, 25–29.5 s, af_heart 1.0, 21 new tracks (MUSIC-LOG). POSTING-PLAN.md, TRIALS.md, content-log updated. Brief's 2 pin carousels not made. Nothing posted, not committed.

@@ -39,3 +39,13 @@ Used topics (don't repeat the same angle within 6 weeks):
 - Reel (both): "One thumb. One chance." — reused single-reels/2026-11-06-one-thumb-reel
 - Deferred to week 3: "Tap it 5 times" reel (brief Mon slot)
 - 2026-11-22, Reel (Format card A, trial): "I have Instagram. Why a website?" / "عندي انستقرام… ليش موقع؟" — Google search finds nothing, DM reply next day, calculator example 4 × 15 KD = 60 KD/month → 360 KD in 6 months, 3 ticks. Files: single-reels/2026-11-22-hisaab-reel/
+
+## Week 3 (23–29 Nov 2026), files in week-03/ (instamake T-20261122-06; new reels only, week-02 retired)
+- Mon main: Hisaab #01 "I have Instagram. Why a website?" (card A, websites), approved hisaab reel with new track. Trials: "searched your name, nothing" / "asked the price on DM, answered next day"
+- Tue main: "Customers aren't asking Google any more. They're asking ChatGPT." (card B, GEO+SEO): AI answer lists others, 3 reasons, GEO/SEO fix. Trials: clinic in Salmiya / salon in Hawalli
+- Wed main: "You decorated the shop. But the landlord is Instagram." (card D, websites): what-if account unavailable → website you own. Trials (AI agents): "1 a.m. who answers?" / "still answering WhatsApp after closing?"
+- Thu main: Hisaab #02 "What does your WhatsApp do at 11 PM?" (card C, AI agents): late booking lost, example 3×20=60/wk → 240 KD/month, demo agent books. Trials (apps): "I'm small, an app can wait" / "same customers every week, still no app?"
+- Fri main: Hisaab #03 "You're on Google. Page 3." (SEO): example 2×15=30/wk → 1,560 KD/yr, 3 SEO fixes. Trials: "Clinic owners: patients search before they call" / "Search near me. Who shows up?"
+- Sat main: Hisaab #04 "Apps are for big companies?" (apps): regulars forget, example 10×8=80/mo → 960 KD/yr, demo loyalty app. Trials: gym / salon owners "still no app?"
+- Sun main: Hisaab #05 "Missed call. Lost patient." (AI agents, clinic): example 3×25=75/wk → 300 KD/month, demo agent texts back. Trials: "lost job" (AC) / "lost booking" (salon)
+- Not made: Wed "5 ways" and Sat "How to start" pin carousels from the brief
