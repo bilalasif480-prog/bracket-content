@@ -1,48 +1,53 @@
 # Instapulse: week 03 audit (read Sun 22 Nov 2026)
 
-Task T-20261122-04. Source: instagram.com in Bilal's Chrome, read-only (nothing liked, followed, commented, sent or changed).
+Task T-20261122-04. Source: instagram.com in Bilal's Chrome, logged in as @bracketkw (second pass, after Bilal switched accounts). Read-only: nothing posted, liked, followed, commented, sent or changed; no DM thread was opened (so nothing was marked seen).
 
-**Blocker: the Instagram account logged in on Chrome is NOT @bracketkw** (the @bracketkw profile shows "Follow" / "Message", i.e. viewed from another account). Per the rules the owner-side step was stopped: **no Insights, no Professional dashboard, no DMs, no per-post reach/saves/shares/watch time** this run. Everything below is what any visitor can see on the public profile. Nothing is estimated.
+**Early-stage mode: 2 followers, 9 posts. Numbers are too small for trends yet.** Last post 9 Nov (13 days with nothing). Bilal: the old week-02 pack is NOT to be posted; new reels will be made.
 
-**Early-stage mode: 2 followers, 9 posts. Numbers are too small for trends yet.**
+## Account (Professional dashboard, last 30 days)
+| Metric | Value |
+|---|---|
+| Views | 332 (followers 2.1%, **non-followers 97.9%**), all from reels |
+| Viewers (accounts reached) | 301 |
+| Interactions | 1 (a like on the 1 Nov reel) |
+| Accounts engaged | 2 |
+| Profile activity | 11 = profile visits 10 + external link taps 1 |
+| Followers | 2 total (followers gained in the period: not shown) |
+| Saves / shares / follows | 0 / 0 / 0 on every post |
+| Average watch time, 3 s hold, most active times | not shown in the web Insights |
 
-## Profile (public view)
+## Profile
 | Item | What shows |
 |---|---|
-| Handle / name field | @bracketkw / "Bracket" (no search words) |
-| Posts / followers / following | 9 / 2 / 3 |
-| Bio | Old offer: "Websites + QA testing in Kuwait", Arabic line about building and testing, "Fixed scope. Fixed price. سعر ثابت", DM "SITE" / راسلنا "موقع" |
-| Link in bio | none |
-| Highlights | none |
-| Pinned posts | none |
-| Grid | 6 reels + 3 carousels, all from the old "websites + QA studio" offer. Clean, consistent look (paper/ink, red-peach mascots). Nothing about apps, AI agents, SEO or GEO. |
-| Last post | **9 Nov 2026**. Nothing posted for 13 days. The week-02 set listed in `week-02/SCHEDULED.md` (Metricool, 10-16 Nov) does not appear on the profile. |
+| Name field | "Bracket" (no search words) |
+| Bio | Old offer: "Websites + QA testing in Kuwait", "Fixed scope. Fixed price. سعر ثابت", DM "SITE" / راسلنا "موقع" |
+| Link in bio | none visible (1 external link tap in 30 days, source not shown) |
+| Highlights / pinned | none / none |
+| Grid | 6 reels + 3 carousels, all "websites + QA studio". Nothing on apps, AI agents, SEO or GEO. Captions on 1 Nov and 7 Nov say "studio". |
 
-Mismatches with `business/bracket.md`: "QA testing" (not sold), "Fixed scope. Fixed price." (words to avoid), "studio" in two captions (1 Nov, 7 Nov), "Link in bio" in captions but no link.
+## Per post (each post's "View insights")
+| Date | Format | Hook | Views | Viewers | Non-follower % | Likes | Comments | Saves | Shares | Follows |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 Nov | Reel | "Your customers will find the bug before you do." | 87 | 81 | 100% | 1 | 0 | 0 | 0 | 0 |
+| 2 Nov | Carousel | "5 signs your website is losing customers" | 4 | 2 | 100% | 0 | 0 | 0 | 0 | 0 |
+| 3 Nov | Reel | "Looks great on your laptop… but on a phone?" | 21 | 18 | 90.5% | 0 | 0 | 0 | 0 | 0 |
+| 4 Nov | Reel | "No hourly clock." | 29 | 29 | 100% | 0 | 0 | 0 | 0 | 0 |
+| 5 Nov | Carousel | "How a Bracket project works, in 4 steps" | 1 | 1 | 100% | 0 | 0 | 0 | 0 | 0 |
+| 6 Nov | Reel | "Still loading… and they're gone." | **110** | 101 | 98.2% | 0 | 0 | 0 | 0 | 0 |
+| 7 Nov | Reel | "Most studios either build it or test it." | 73 | 67 | 98.6% | 0 | 0 | 0 | 0 | 0 |
+| 8 Nov | Carousel | "Before you launch your website: the 8-point checklist" | 5 | 2 | 80% | 0 | 0 | 0 | 0 | 0 |
+| 9 Nov | Reel | "Your contact form works… right?" | **8** | 6 | 87.5% | 0 | 0 | 0 | 0 | 0 |
+Carousel views came almost all "From Profile" (4 of 5, 1 of 1, 4 of 4): carousels are not distributed to new people on this account.
 
-## Per post (public numbers only)
-Views = the play count Instagram shows on the Reels tab to visitors. Likes are hidden on the post pages for visitors except where shown. Carousel views are not shown publicly.
-| Date (Kuwait) | Format | Hook | Views | Comments |
-|---|---|---|---|---|
-| 1 Nov | Reel | "Your customers will find the bug before you do." / "We find it first." | 86 | 0 |
-| 2 Nov | Carousel | "5 signs your website is losing customers" | not shown | not opened |
-| 3 Nov | Reel | "Looks great on your laptop… but on a phone?" / "We test on real phones." | 21 | not opened |
-| 4 Nov | Reel | "No hourly clock." / "Ship date agreed at kickoff." | 29 | not opened |
-| 5 Nov | Carousel | "How a Bracket project works, in 4 steps" | not shown | not opened |
-| 6 Nov | Reel | "Still loading… and they're gone." / "We speed it up." | **109** | 0 |
-| 7 Nov | Reel | "Most studios either build it or test it." / "Nothing falls in the gap." | 72 | 0 |
-| 8 Nov | Carousel | "Before you launch your website: the 8-point checklist" | not shown | 0 |
-| 9 Nov | Reel | "Your contact form works… right?" / "We test every form, end to end." | **7** | 0 |
-
-## Own-median ranking (6 reels)
-- Median views: 50.5 (29 and 72). Winner line 3× = ~152: **no winner**. Flop line ⅓ = ~17: **flop = 9 Nov contact-form reel (7)**.
-- Top 3: speed (109), bug (86), build+test (72). All three open on a customer-side pain shown as a picture (slow loading, a bug, a gap) rather than a claim. The bottom two (phone 21, fixed price 29) and the flop are feature/offer statements. Gap is ~2-4×, across 3 vs 3 posts: a weak pattern, worth acting on.
-- Carousels: no public numbers; week 01 Metricool had them at 0-1 reach.
-- Saves, shares, reach, watch time, follows, profile visits, link taps: **not available** (needs @bracketkw logged in).
+## Own-median ranking
+- Reels median views 51 (29 and 73). Winner line 3× ≈ 153: **no winner**. Flop line ⅓ ≈ 17: **flop = 9 Nov contact-form reel (8)**.
+- Top 3 reels (110, 87, 73) open on a customer-side pain shown as a picture (slow page, a bug, a gap). Bottom 3 (29, 21, 8) are offer/feature lines. ~2-4× gap across 3 vs 3: weak pattern, act on it.
+- Reels vs carousels: 8-110 vs 1-5 views, on every post: **carousels get no reach here**; they only serve profile visitors.
+- The real problem: 301 accounts reached, **0 saves, 0 shares, 0 follows, 1 like**. Reach is normal for 2 followers (Instagram shows reels to non-followers); nothing in the content asks for or earns an action.
 
 ## Comments and DMs
-- Comments on the 5 posts opened: 0. The other 4 were not opened; week 01 Metricool showed 1 interaction in total on them.
-- DMs: **not read** (wrong account logged in). Leads / questions / other: unknown.
-
-## Needs Bilal
-Switch Chrome's Instagram to @bracketkw (or add it to the account switcher), then rerun `instapulse comments` + `instapulse stats` for Insights (last 30 days) and DMs.
+- Comments: 0 on all 9 posts.
+- DMs (Primary 4 threads, General 0, Requests 0):
+  - Leads: **0** inbound.
+  - Questions: 0.
+  - Other: 4 = 1 outbound pitch by Bilal to a prospect (the 239 Parfum demo; no reply in the list, last message ~5 days ago) + 3 threads from individuals ~2 weeks old showing only "sent an attachment" (not opened; likely shared posts or spam; Bilal to check in the app).

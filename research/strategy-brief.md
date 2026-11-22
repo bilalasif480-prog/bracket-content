@@ -2,10 +2,12 @@
 
 ## 22 Nov 2026: client-enquiry plan
 Goal (Bilal, 22 Nov): **enquiries** (DMs, WhatsApp, contact form) for websites, mobile apps, AI agents, SEO and GEO. Real followers only: never buy followers or engagement, no follow-unfollow, no bots.
-**Early-stage mode:** 2 followers, 9 posts, nothing posted since 9 Nov. Insights and DMs were **not** read: the Instagram account logged in on Chrome is not @bracketkw. Full audit: `analytics/week-03.md`. This plan leans on `research/niche-report.md` (format cards A/B from Bilal's 3 reference reels) more than on Bracket's own numbers.
+**Early-stage mode:** 2 followers, 9 posts, nothing posted since 9 Nov. Last 30 days (Insights): 332 views, 301 accounts reached, 97.9% non-followers, **0 saves, 0 shares, 0 follows, 1 like, 0 comments**, 10 profile visits, 1 link tap. DMs: **0 inbound leads**. Full audit: `analytics/week-03.md`. The old week-02 pack is not to be posted (Bilal); new reels only. This plan leans on `research/niche-report.md` (format cards A/B from Bilal's 3 reference reels) more than on Bracket's own numbers.
 The 8 Nov clinic-first brief is kept below for detail; it is now **one strong niche, not the only one**. The profile sells 5 services to all SMBs.
 
-### What's working / what to stop (6 reels, public views)
+### What's working / what to stop (6 reels + 3 carousels, Insights)
+- **Reach isn't the problem, action is.** Reels reach new people (98% non-followers) but nobody saves, shares, follows or comments. Every main post needs one clear action: a "send this to a business owner" share line, a save reason, or the `START` keyword. Judge next week on shares + saves per 1,000 viewers and DMs, not views.
+- **Carousels get no reach here** (1-5 views each, almost all from the profile). Keep them only as profile/pin pieces, never as the day's main slot.
 - **Pain shown as a picture beats a claim.** Speed "Still loading… and they're gone." 109, bug "find the bug before you do" 86, "nothing falls in the gap" 72 vs "No hourly clock." 29, "real phones" 21, contact form 7 (median 50.5). Keep opening on what the customer sees going wrong.
 - **Stop:** feature/offer lines as hooks ("we test every form", "fixed price"); QA as the topic; "studio", "fixed scope/price" anywhere; "Link in bio" while there is no link; silent gaps (13 days with nothing).
 - **Start:** Format card A "belief → phone-UI proof → hisaab" (Bilal's favourite; the reference reels got far more shares than likes) and card B "Google → AI answer" for GEO. These are pain-as-picture, so they fit what already worked.
@@ -50,15 +52,17 @@ M = main post 20:00 · T1 = trial 12:30 · T2 = trial 16:30. Trials T1/T2 on the
 | Mon 23 | T1/T2 | A reel, A/B | Websites | A: "Your customer searched your name. Nothing came up." / "عميلك دوّر اسمك… وما طلع شي." · B: "Asked the price on DM. Answered 2 days later." / "سأل عن السعر بالخاص… والرد بعد يومين." | 3 s hold |
 | Tue 24 | M | B reel | GEO | "Customers aren't asking Google any more. They're asking ChatGPT." / "العملاء ما صاروا يسألون قوقل… يسألون ChatGPT." | Shares + saves |
 | Tue 24 | T1/T2 | B reel, A/B | GEO | A: "Ask ChatGPT for a clinic in Salmiya. Are you in the answer?" / "اسأل ChatGPT عن عيادة بالسالمية… انت موجود بالجواب؟" · B: same, salon in Hawalli / صالون بحولي | Non-follower reach |
-| Wed 25 | M | Carousel 6 slides (pin) | All 5 | "One software house. 5 ways to get you customers." / "شركة برمجيات وحدة… ٥ طرق تجيب لك عملاء." | Saves + profile visits |
+| Wed 25 | M | A reel, Hisaab #02 (remake of Mon's better trial) | Websites | Mon's winning hook (search → nothing / DM → 2 days) | Shares + DMs |
+| Wed 25 | 19:00 extra | Carousel 6 slides (pin only, not judged on reach) | All 5 | "One software house. 5 ways to get you customers." / "شركة برمجيات وحدة… ٥ طرق تجيب لك عملاء." | Profile visitors understand the offer |
 | Wed 25 | T1/T2 | A reel, A/B | AI agents | A: "1 a.m. A customer wants to book. Who answers?" / "الساعة ١ بالليل… عميل يبي يحجز. منو يرد؟" · B: "Still answering WhatsApp after closing?" / "للحين ترد على الواتساب بعد الدوام؟" | 3 s hold |
-| Thu 26 | M | A reel, Hisaab #02 (remake of Wed's better trial) | AI agents | Wed's winner; agent answers, books, hands over to a person, you approve | DMs |
+| Thu 26 | M | A reel, Hisaab #03 (remake of Wed's better trial) | AI agents | Wed's winner; agent answers, books, hands over to a person, you approve | DMs |
 | Thu 26 | T1/T2 | A reel, A/B | Mobile apps | A: "\"I'm small. An app can wait.\"" / "\"مشروعي صغير… التطبيق بعدين.\"" · B: "Same customers every week. Still no app?" / "نفس الزباين كل أسبوع… وللحين ما عندك تطبيق؟" | 3 s hold |
-| Fri 27 | M | A reel, Hisaab #03 | SEO | "You're on Google. Page 3." / "انت موجود في قوقل… بالصفحة الثالثة." | Saves + shares |
+| Fri 27 | M | A reel, Hisaab #04 | SEO | "You're on Google. Page 3." / "انت موجود في قوقل… بالصفحة الثالثة." | Saves + shares |
 | Fri 27 | T1/T2 | A reel, A/B | SEO (clinic niche) | A: "Clinic owners: patients search before they call." / "أصحاب العيادات: المراجع يدوّر قبل لا يتصل." · B: "Search \"near me\". Who shows up?" / "دوّر \"قريب مني\"… منو يطلع؟" | Non-follower reach |
-| Sat 28 | M | Carousel 5 slides (pin) | All 5 | "How to start with Bracket: 3 steps" (DM/WhatsApp → short call → demo/quote) / "كيف تبدأ ويانا: ٣ خطوات" | DMs |
+| Sat 28 | M | A reel, Hisaab #05 (remake of Thu's better app trial) | Mobile apps | Thu's winning app hook | Shares + DMs |
+| Sat 28 | 19:00 extra | Carousel 5 slides (pin only) | All 5 | "How to start with Bracket: 3 steps" (DM/WhatsApp → short call → demo/quote) / "كيف تبدأ ويانا: ٣ خطوات" | DMs from profile visitors |
 | Sat 28 | T1/T2 | A reel, A/B | Mobile apps | Thu's better app hook, two business types: gym / salon | 3 s hold |
-| Sun 29 | M | A reel, Hisaab #04 | AI agents (clinic) | "Missed call. Lost patient." / "مكالمة فايتة… مراجع راح." (demo, labelled) | DMs |
+| Sun 29 | M | A reel, Hisaab #06 | AI agents (clinic) | "Missed call. Lost patient." / "مكالمة فايتة… مراجع راح." (demo, labelled) | DMs |
 | Sun 29 | T1/T2 | A reel, A/B | AI agents | A: "Missed call. Lost job." (AC/home service) / "مكالمة فايتة… شغلة راحت." · B: same for a salon / صالون | Non-follower reach |
 Every reel: `af_heart` 1.0 + its own track; suggested unused style/seeds: house 41, pluck 43, ambient 47, lofi 53, piano 59, oud 61, house 67, pluck 71, ambient 73, lofi 79, piano 83, oud 89, house 97, pluck 101, ambient 103, lofi 107, piano 109, oud 113, house 127.
 Calculator cards: example numbers labelled "مثال / Example", the sum checked twice (one reference reel got its own total wrong).
@@ -90,9 +94,9 @@ Calculator cards: example numbers labelled "مثال / Example", the sum checked
 5. Send the day's reel to 1-2 business owners he knows who'd genuinely find it useful (no mass DMs).
 
 ### Needs Bilal
-- Log Chrome's Instagram into @bracketkw (or add it to the switcher) so instapulse can read Insights and DMs.
+- Check the 3 old "sent an attachment" DM threads in the app (not opened by instapulse) and the 239 Parfum thread (no reply yet).
 - OK (or edit) the profile fixes, the keyword `START`/`ابدأ`, and the DM text.
-- Say why week 2 (10-16 Nov) never went out; nothing has posted since 9 Nov.
+- Turn on posting again: nothing since 9 Nov; old week-02 pack stays unposted (his call).
 
 ### Asks for the research agent
 1. Gulf/Kuwait accounts selling AI agents, apps or SEO/GEO with card A/B-style reels: outliers + first-frame text (T-20261122-05).
