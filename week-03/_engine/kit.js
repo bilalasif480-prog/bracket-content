@@ -169,7 +169,7 @@ function tickList(t, a, items, o = {}) {
 // "one minute, do the maths" card. rows: {at,en,ar,val:(num,k)=>string}. total: {en, ar, value, at}
 function calc(t, a, o) {
   const tr = t - a; let s = '';
-  s += lbl(`HISAAB #${o.n}`, 70, 225, 30, C.red, 'start');
+  s += lbl(`QUICK MATHS #${o.n}`, 70, 225, 30, C.red, 'start');
   s += html(360, 190, 260, 50, `<span style="${AR(30, C.red)}">· حسبة دقيقة</span>`, 'direction:rtl;text-align:left;');
   s += kin(250, [['One', C.ink, 1], ['minute.', C.ink, 1], ['\n'], ['Do', C.ink], ['the', C.ink], ['maths:', C.red]], t, a + 0.1, 84, { step: 0.18, h: 200 });
   s += kinAr(430, 'دقيقة… احسبها:', t, a + 0.5, 64);
@@ -191,7 +191,7 @@ function calc(t, a, o) {
     s += `<rect x="150" y="${f(y0 + 700)}" width="780" height="160" rx="32" fill="${C.red}" opacity="${f(op)}"/>`;
     s += `<text x="190" y="${f(y0 + 790)}" font-family="Archivo" font-weight="900" font-size="44" fill="#fff" opacity="${f(op)}">${T.en}</text>`;
     s += html(190, y0 + 800, 330, 50, `<span style="${AR(30, '#fff')}">${T.ar}</span>`, 'direction:rtl;text-align:left;opacity:' + f(op));
-    s += `<g transform="translate(900 ${f(y0 + 812)}) scale(${f(popk)})"><text x="0" y="0" font-family="Archivo" font-weight="900" font-size="${T.size || 100}" fill="#fff" text-anchor="end" letter-spacing="-4">${Math.round(T.value * eo(kt)).toLocaleString('en-US')} KD</text></g>`;
+    s += `<g transform="translate(900 ${f(y0 + 812)}) scale(${f(popk)})"><text x="0" y="0" font-family="Archivo" font-weight="900" font-size="${T.size || 100}" fill="#fff" text-anchor="end" letter-spacing="-4">£${Math.round(T.value * eo(kt)).toLocaleString('en-US')}</text></g>`;
   }
   return s;
 }
@@ -204,7 +204,7 @@ function endCard(t, a, o = {}) {
   s += `<text x="${f(170 + spread)}" y="830" font-family="Archivo" font-weight="900" font-size="150" fill="${C.peach}" text-anchor="middle">[</text>`;
   s += `<text x="${f(910 - spread)}" y="830" font-family="Archivo" font-weight="900" font-size="150" fill="${C.peach}" text-anchor="middle">]</text>`;
   s += `<text x="540" y="822" font-family="Archivo" font-weight="900" font-size="${f(118 * k)}" fill="#fff" text-anchor="middle" letter-spacing="-4">BRACKET</text>`;
-  s += lbl('SOFTWARE HOUSE · KUWAIT', 540, 900, 30, C.peach);
+  s += lbl('SOFTWARE HOUSE · BASED IN KUWAIT', 540, 900, 30, C.peach);
   s += `</g>`;
   const ai = o.ai;
   s += kin(1060, ai ? [['AI', '#fff'], ['that', '#fff'], ['gets', '#fff'], ['it', '#fff'], ['done.', C.peach]] : [['Software', '#fff'], ['that', '#fff'], ['gets', '#fff'], ['it', '#fff'], ['done.', C.peach]], t, a + 0.6, 66, { step: 0.16 });
@@ -227,7 +227,7 @@ const endFast = (t, a, o) => t < a ? '' : endCard(a + (t - a) * 1.6, a, o);
 // one-line hisaab: o = {n, lab, labAr, a:[v,'4'], b:15, total:60, per:'a month', perAr:'بالشهر', fix, fixAr, dark}
 function calc1(t, a, o) {
   const tr = t - a; let s = '';
-  s += lbl(`HISAAB #${o.n}`, 70, 225, 30, C.red, 'start');
+  s += lbl(`QUICK MATHS #${o.n}`, 70, 225, 30, C.red, 'start');
   s += html(360, 190, 260, 50, `<span style="${AR(30, C.red)}">· حسبة دقيقة</span>`, 'direction:rtl;text-align:left;');
   s += kinS(255, 'Do the *maths:*', t, a + 0.05, 104, { step: 0.15 });
   s += kinAr(390, 'احسبها:', t, a + 0.3, 66);
@@ -236,13 +236,13 @@ function calc1(t, a, o) {
   const ol = eo(seg(tr, 0.35, 0.6));
   c += html(150, y0 + 135, 780, 120, `<div style="${EN(39, C.ink)}letter-spacing:-1px;opacity:${f(ol)}">${esc(o.lab)}</div><div style="${AR(32, C.mute)}direction:rtl;text-align:left;opacity:${f(ol)}">${esc(o.labAr)}</div>`);
   const ke = seg(tr, 0.5, 1.1), num = v => Math.round(v * eo(ke)).toLocaleString('en-US');
-  c += `<text x="540" y="${f(y0 + 345)}" font-family="Archivo" font-weight="900" font-size="120" fill="${C.ink}" text-anchor="middle" letter-spacing="-4" opacity="${f(eo(seg(tr, 0.45, 0.7)))}">${num(o.a)} × ${num(o.b)} KD</text>`;
+  c += `<text x="540" y="${f(y0 + 345)}" font-family="Archivo" font-weight="900" font-size="120" fill="${C.ink}" text-anchor="middle" letter-spacing="-4" opacity="${f(eo(seg(tr, 0.45, 0.7)))}">${num(o.a)} × £${num(o.b)}</text>`;
   if (tr > 1.2) {
     const op = eo(seg(tr, 1.2, 1.45)), kt = seg(tr, 1.3, 2.0), pk = 1 + 0.1 * Math.sin(clamp((tr - 2.0) / 0.35) * Math.PI);
     c += `<rect x="150" y="${f(y0 + 385)}" width="780" height="150" rx="32" fill="${C.red}" opacity="${f(op)}"/>`;
     c += `<text x="190" y="${f(y0 + 477)}" font-family="Archivo" font-weight="900" font-size="50" fill="#fff" opacity="${f(op)}">${esc(o.per)}</text>`;
     c += html(190, y0 + 468, 330, 54, `<span style="${AR(32, '#fff')}">${esc(o.perAr)}</span>`, 'direction:rtl;text-align:left;opacity:' + f(op));
-    c += `<g transform="translate(900 ${f(y0 + 497)}) scale(${f(pk)})"><text x="0" y="0" font-family="Archivo" font-weight="900" font-size="104" fill="#fff" text-anchor="end" letter-spacing="-4" opacity="${f(op)}">= ${Math.round(o.total * eo(kt)).toLocaleString('en-US')} KD</text></g>`;
+    c += `<g transform="translate(900 ${f(y0 + 497)}) scale(${f(pk)})"><text x="0" y="0" font-family="Archivo" font-weight="900" font-size="104" fill="#fff" text-anchor="end" letter-spacing="-4" opacity="${f(op)}">= £${Math.round(o.total * eo(kt)).toLocaleString('en-US')}</text></g>`;
   }
   s += pop(540, y0 + 285, kc, c);
   const fa = a + (o.fixAt ?? 2.3);
@@ -260,7 +260,7 @@ function endHelp(t, a, o = {}) {
   s += `<text x="${f(170 + spread)}" y="700" font-family="Archivo" font-weight="900" font-size="150" fill="${C.peach}" text-anchor="middle">[</text>`;
   s += `<text x="${f(910 - spread)}" y="700" font-family="Archivo" font-weight="900" font-size="150" fill="${C.peach}" text-anchor="middle">]</text>`;
   s += `<text x="540" y="692" font-family="Archivo" font-weight="900" font-size="${f(118 * k)}" fill="#fff" text-anchor="middle" letter-spacing="-4">BRACKET</text>`;
-  s += lbl('SOFTWARE HOUSE · KUWAIT', 540, 770, 30, C.peach);
+  s += lbl('SOFTWARE HOUSE · BASED IN KUWAIT', 540, 770, 30, C.peach);
   s += `</g>`;
   s += kin(840, o.ai ? [['AI', '#fff'], ['that', '#fff'], ['gets', '#fff'], ['it', '#fff'], ['done.', C.peach]] : [['Software', '#fff'], ['that', '#fff'], ['gets', '#fff'], ['it', '#fff'], ['done.', C.peach]], tf, a + 0.35, 64, { step: 0.12 });
     const h = o.help || { en: 'We can help you with this.', ar: 'نقدر نساعدك في هذا.' };

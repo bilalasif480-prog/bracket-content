@@ -186,8 +186,8 @@ function sMaths(t) {
   const num = (v, k) => Math.round(v * eo(k));
   const rows = [
     { at: 1.0, en: 'Lost orders a month', ar: 'طلبات ضايعة بالشهر', val: k => `${num(4, k)}` },
-    { at: 1.6, en: 'Each order', ar: 'كل طلب', val: k => `× ${num(15, k)} KD` },
-    { at: 2.2, en: 'Every month', ar: 'كل شهر', val: k => `= ${num(60, k)} KD`, col: C.ink },
+    { at: 1.6, en: 'Each order', ar: 'كل طلب', val: k => `× £${num(25, k)}` },
+    { at: 2.2, en: 'Every month', ar: 'كل شهر', val: k => `= £${num(100, k)}`, col: C.ink },
     { at: 2.9, en: 'In 6 months', ar: 'في ٦ شهور', val: k => `× 6`, col: C.ink },
   ];
   rows.forEach((r, i) => {
@@ -205,7 +205,7 @@ function sMaths(t) {
     s += `<rect x="150" y="${f(y0 + 700)}" width="780" height="160" rx="32" fill="${C.red}" opacity="${f(eo(seg(tr, 3.5, 3.8)))}"/>`;
     s += `<text x="190" y="${f(y0 + 800)}" font-family="Archivo" font-weight="900" font-size="48" fill="#fff" opacity="${f(eo(seg(tr, 3.5, 3.8)))}">Lost</text>`;
     s += html(190, y0 + 812, 300, 50, `<span style="${AR(30, '#fff')}">ضاع عليك</span>`, 'direction:rtl;text-align:left;opacity:' + f(eo(seg(tr, 3.5, 3.8))));
-    s += `<g transform="translate(900 ${f(y0 + 812)}) scale(${f(pop)})"><text x="0" y="0" font-family="Archivo" font-weight="900" font-size="104" fill="#fff" text-anchor="end" letter-spacing="-4">${Math.round(360 * eo(kt))} KD</text></g>`;
+    s += `<g transform="translate(900 ${f(y0 + 812)}) scale(${f(pop)})"><text x="0" y="0" font-family="Archivo" font-weight="900" font-size="104" fill="#fff" text-anchor="end" letter-spacing="-4">£${Math.round(600 * eo(kt))}</text></g>`;
   }
   return scene(t, S.maths, S.ticks, s);
 }
@@ -244,7 +244,7 @@ function sEnd(t) {
   s += `<text x="${f(170 + spread)}" y="830" font-family="Archivo" font-weight="900" font-size="150" fill="${C.peach}" text-anchor="middle">[</text>`;
   s += `<text x="${f(910 - spread)}" y="830" font-family="Archivo" font-weight="900" font-size="150" fill="${C.peach}" text-anchor="middle">]</text>`;
   s += `<text x="540" y="822" font-family="Archivo" font-weight="900" font-size="${f(118 * k)}" fill="#fff" text-anchor="middle" letter-spacing="-4">BRACKET</text>`;
-  s += lbl('SOFTWARE HOUSE · KUWAIT', 540, 900, 30, C.peach);
+  s += lbl('SOFTWARE HOUSE · BASED IN KUWAIT', 540, 900, 30, C.peach);
   s += `</g>`;
   s += kin(1060, [['Software', '#fff'], ['that', '#fff'], ['gets', '#fff'], ['it', '#fff'], ['done.', C.peach]], t, a + 0.6, 66, { step: 0.16 });
   s += kinAr(1170, 'برمجيات تنجز الشغل.', t, a + 1.1, 54, '#d8d3cf');

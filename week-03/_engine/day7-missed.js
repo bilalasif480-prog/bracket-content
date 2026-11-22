@@ -1,5 +1,5 @@
 // Day 7 (Sun 29 Nov) MAIN · Format card A (+G's "fixed version") · AI agents (clinic) · HISAAB #05
-// Hook: "Missed call. Lost patient."  Body is business-neutral so the AC / salon trials fit it. Demo labelled.
+// Hook: "Missed call. Lost patient."  Body is business-neutral so the trades / salon trials fit it. Demo labelled.
 const K = require('./kit');
 const { C, seg, eo, eb, f, kinS, kinAr, card, bg, scene, hookScene, float, lbl, pop, html, AR, EN } = K;
 
@@ -65,11 +65,11 @@ function sMaths(t) {
     n: '05',
     rows: [
       { at: 1.0, en: 'Lost bookings a week', ar: 'حجوزات ضايعة بالأسبوع', val: (n, k) => `${n(3, k)}` },
-      { at: 1.6, en: 'Each visit', ar: 'كل زيارة', val: (n, k) => `× ${n(25, k)} KD` },
-      { at: 2.2, en: 'Every week', ar: 'كل أسبوع', val: (n, k) => `= ${n(75, k)} KD` },
+      { at: 1.6, en: 'Each visit', ar: 'كل زيارة', val: (n, k) => `× £${n(40, k)}` },
+      { at: 2.2, en: 'Every week', ar: 'كل أسبوع', val: (n, k) => `= £${n(120, k)}` },
       { at: 2.9, en: 'In 4 weeks', ar: 'في ٤ أسابيع', val: () => `× 4` },
     ],
-    total: { at: 3.6, en: 'Lost a month', ar: 'ضاع عليك بالشهر', value: 300 },
+    total: { at: 3.6, en: 'Lost a month', ar: 'ضاع عليك بالشهر', value: 480 },
   }));
 }
 

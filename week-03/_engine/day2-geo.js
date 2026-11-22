@@ -20,7 +20,7 @@ function hookMain(t) {
   const ks = seg(t, 1.0, 1.4);
   s += `<line x1="160" y1="${f(y0 + 85)}" x2="${f(160 + 760 * ks)}" y2="${f(y0 + 85)}" stroke="${C.red}" stroke-width="12" stroke-linecap="round"/>`;
   const ka = eb(seg(t, 1.5, 2.0)), y1 = 1230 + float(t, 1);
-  s += pop(540, y1 + 110, ka, aiBox(y1, 'Best clinic in Salmiya?', 1, t));
+  s += pop(540, y1 + 110, ka, aiBox(y1, 'Best clinic in Manchester?', 1, t));
   return hookScene(t, S.ask, s);
 }
 function aiBox(y, q, n, t) {
@@ -32,7 +32,7 @@ function aiBox(y, q, n, t) {
 }
 
 function make(o = {}) {
-  const biz = o.biz || { q: 'Best clinic in Salmiya?', qAr: 'أحسن عيادة بالسالمية؟', en: 'clinic', ar: 'عيادتك' };
+  const biz = o.biz || { q: 'Best clinic in Manchester?', qAr: '', en: 'clinic', ar: 'عيادتك' };
   function sAsk(t) {
     const a = S.ask, tr = t - a; let s = '';
     s += kinS(270, 'They *type…*', t, a + 0.1, 104);

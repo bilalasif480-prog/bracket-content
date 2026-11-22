@@ -68,11 +68,11 @@ function sMaths(t) {
     n: '03',
     rows: [
       { at: 1.0, en: 'Extra customers', ar: 'زيادة بالأسبوع لو لقوك', val: (n, k) => `+${n(2, k)}` },
-      { at: 1.6, en: 'Each visit', ar: 'كل زيارة', val: (n, k) => `× ${n(15, k)} KD` },
-      { at: 2.2, en: 'Every week', ar: 'كل أسبوع', val: (n, k) => `= ${n(30, k)} KD` },
+      { at: 1.6, en: 'Each visit', ar: 'كل زيارة', val: (n, k) => `× £${n(30, k)}` },
+      { at: 2.2, en: 'Every week', ar: 'كل أسبوع', val: (n, k) => `= £${n(60, k)}` },
       { at: 2.9, en: 'In a year', ar: 'في سنة، ٥٢ أسبوع', val: () => `× 52` },
     ],
-    total: { at: 3.6, en: 'Missed', ar: 'فاتك بالسنة', value: 1560, size: 84 },
+    total: { at: 3.6, en: 'Missed', ar: 'فاتك بالسنة', value: 3120, size: 84 },
   }));
 }
 

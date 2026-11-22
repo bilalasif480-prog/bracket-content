@@ -57,11 +57,11 @@ function sMaths(t) {
     n: '02',
     rows: [
       { at: 1.0, en: 'Late enquiries a week', ar: 'رسائل بعد الدوام بالأسبوع', val: (n, k) => `${n(3, k)}` },
-      { at: 1.6, en: 'Each booking', ar: 'كل حجز', val: (n, k) => `× ${n(20, k)} KD` },
-      { at: 2.2, en: 'Every week', ar: 'كل أسبوع', val: (n, k) => `= ${n(60, k)} KD` },
+      { at: 1.6, en: 'Each booking', ar: 'كل حجز', val: (n, k) => `× £${n(30, k)}` },
+      { at: 2.2, en: 'Every week', ar: 'كل أسبوع', val: (n, k) => `= £${n(90, k)}` },
       { at: 2.9, en: 'In 4 weeks', ar: 'في ٤ أسابيع', val: () => `× 4` },
     ],
-    total: { at: 3.6, en: 'Lost a month', ar: 'ضاع عليك بالشهر', value: 240 },
+    total: { at: 3.6, en: 'Lost a month', ar: 'ضاع عليك بالشهر', value: 360 },
   }));
 }
 

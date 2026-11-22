@@ -83,15 +83,15 @@ const T = {
     { y: 760, ar: 'سأل عن السعر بالخاص… والرد ثاني يوم.', at: 1.2, size: 60 },
   ], t => dmProp(t, 960 + float(t)))],
   'day2-trialA': [geo, H([
-    { y: 240, s: 'Ask *ChatGPT* for a | clinic in Salmiya.', at: -0.4, size: 82 },
+    { y: 240, s: 'Ask *ChatGPT* for a | clinic in Didsbury.', at: -0.4, size: 82 },
     { y: 460, s: 'Are *you* in | the answer?', at: 0.8, size: 100 },
-    { y: 720, ar: 'اسأل ChatGPT عن عيادة بالسالمية… انت موجود بالجواب؟', at: 1.2, size: 50 },
-  ], t => aiAsk(t, 920 + float(t), 'Best clinic in Salmiya?'))],
-  'day2-trialB': [() => require('./day2-geo').make({ hook: true, biz: { q: 'Best salon in Hawalli?', qAr: 'أحسن صالون بحولي؟', en: 'salon', ar: 'صالونك', not: 'مو موجود' } }), H([
-    { y: 240, s: 'Ask *ChatGPT* for a | salon in Hawalli.', at: -0.4, size: 82 },
+    { y: 720, ar: 'انت موجود بالجواب؟', at: 1.2, size: 50 },
+  ], t => aiAsk(t, 920 + float(t), 'Best clinic in Didsbury?'))],
+  'day2-trialB': [() => require('./day2-geo').make({ hook: true, biz: { q: 'Best salon in Chorlton?', qAr: '', en: 'salon', ar: 'صالونك', not: 'مو موجود' } }), H([
+    { y: 240, s: 'Ask *ChatGPT* for a | salon in Chorlton.', at: -0.4, size: 82 },
     { y: 460, s: 'Are *you* in | the answer?', at: 0.8, size: 100 },
-    { y: 720, ar: 'اسأل ChatGPT عن صالون بحولي… انت موجود بالجواب؟', at: 1.2, size: 50 },
-  ], t => aiAsk(t, 920 + float(t), 'Best salon in Hawalli?')), true],
+    { y: 720, ar: 'انت موجود بالجواب؟', at: 1.2, size: 50 },
+  ], t => aiAsk(t, 920 + float(t), 'Best salon in Chorlton?')), true],
   'day3-trialA': [night, H([
     { y: 760, s: '*1* *a.m.* A customer | wants to book.', at: -0.4, size: 88 },
     { y: 1000, s: 'Who *answers?*', at: 0.9, size: 116 },
@@ -136,7 +136,7 @@ const T = {
     { y: 270, s: 'Missed *call.*', at: -0.4, size: 140, step: 0.2 },
     { y: 460, s: 'Lost *job.*', at: 0.7, size: 140, step: 0.2 },
     { y: 660, ar: 'مكالمة فايتة… شغلة راحت.', at: 1.2, size: 76, col: C.red },
-  ], t => tagChip('AC · HOME SERVICE', 860) + require('./day7-missed').missedCard(t, -0.1, 980 + float(t)))],
+  ], t => tagChip('TRADES · HOME SERVICE', 860) + require('./day7-missed').missedCard(t, -0.1, 980 + float(t)))],
   'day7-trialB': [missed, H([
     { y: 270, s: 'Missed *call.*', at: -0.4, size: 140, step: 0.2 },
     { y: 470, s: 'Lost *booking.*', at: 0.7, size: 118, step: 0.2 },
@@ -153,7 +153,7 @@ const NEW_CUT = 2.5;
 const BASEDAY = { day1: 'day1', day2: 'day2', day3: 'day4', day4: 'day6', day5: 'day5', day6: 'day6', day7: 'day7' };
 const short = require('./short');
 const b = key === 'day2-trialB'
-  ? short.build('day2', { biz: { q: 'Best salon in Hawalli?', qAr: 'أحسن صالون بحولي؟', en: 'salon', ar: 'صالونك', not: 'مو موجود' } })
+  ? short.build('day2', { biz: { q: 'Best salon in Chorlton?', qAr: '', en: 'salon', ar: 'صالونك', not: 'مو موجود' } })
   : short.build(BASEDAY[key.slice(0, 4)]);
 module.exports = { dur: b.dur, cut: NEW_CUT, frame: t => t < NEW_CUT ? K.bg(t, mode) + hook(t * CUT / NEW_CUT) : b.frame(t) };
 module.exports.full = key === 'day2-trialB'; // body differs (salon query) -> render the whole reel

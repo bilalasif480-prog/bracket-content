@@ -71,11 +71,11 @@ function sMaths(t) {
     n: '04',
     rows: [
       { at: 1.0, en: 'Skipped visits a month', ar: 'زيارات فاتت بالشهر', val: (n, k) => `${n(10, k)}` },
-      { at: 1.6, en: 'Each visit', ar: 'كل زيارة', val: (n, k) => `× ${n(8, k)} KD` },
-      { at: 2.2, en: 'Every month', ar: 'كل شهر', val: (n, k) => `= ${n(80, k)} KD` },
+      { at: 1.6, en: 'Each visit', ar: 'كل زيارة', val: (n, k) => `× £${n(12, k)}` },
+      { at: 2.2, en: 'Every month', ar: 'كل شهر', val: (n, k) => `= £${n(120, k)}` },
       { at: 2.9, en: 'In 12 months', ar: 'في ١٢ شهر', val: () => `× 12` },
     ],
-    total: { at: 3.6, en: 'Lost a year', ar: 'ضاع عليك بالسنة', value: 960 },
+    total: { at: 3.6, en: 'Lost a year', ar: 'ضاع عليك بالسنة', value: 1440 },
   }));
 }
 

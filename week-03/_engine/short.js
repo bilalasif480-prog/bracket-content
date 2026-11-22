@@ -14,7 +14,7 @@ function build(day, o = {}) {
     const m = require('./hisaab');
     end = 12.4; dur = 14.95;
     hook = W(m.sHook, 0, 3.6, 0, H); proof = W(m.sSearch, 3.6, 8.4, H, P);
-    pay = t => K.scene(t, P, end, K.calc1(t, P, { n: '01', lab: 'Lost orders a month × each order', labAr: 'طلبات ضايعة بالشهر × كل طلب', a: 4, b: 15, total: 60, per: 'a month', perAr: 'بالشهر',
+    pay = t => K.scene(t, P, end, K.calc1(t, P, { n: '01', lab: 'Lost orders a month × each order', labAr: 'طلبات ضايعة بالشهر × كل طلب', a: 4, b: 25, total: 100, per: 'a month', perAr: 'بالشهر',
       fix: 'The *fix:* a website | they can *find.*', fixAr: 'الحل: موقع يلقونه في قوقل.' }));
     mode = t => 'paper';
   } else if (day === 'day2') {
@@ -31,28 +31,28 @@ function build(day, o = {}) {
     const m = require('./day4-night');
     end = 12.4; dur = 14.95; ai = true;
     hook = W(m.hookMain, 0, 3.6, 0, H); proof = W(m.sMorning, 8.4, 13.4, H, P);
-    pay = t => K.scene(t, P, end, K.calc1(t, P, { n: '02', lab: 'Late messages a week × each booking', labAr: 'رسائل بعد الدوام بالأسبوع × كل حجز', a: 3, b: 20, total: 60, per: 'a week', perAr: 'بالأسبوع',
+    pay = t => K.scene(t, P, end, K.calc1(t, P, { n: '02', lab: 'Late messages a week × each booking', labAr: 'رسائل بعد الدوام بالأسبوع × كل حجز', a: 3, b: 30, total: 90, per: 'a week', perAr: 'بالأسبوع',
       fix: 'The *fix:* an AI agent | that replies at *night.*', fixAr: 'الحل: وكيل ذكاء اصطناعي يرد بالليل.' }));
     mode = t => t < H ? 'night' : 'paper';
   } else if (day === 'day5') {
     const m = require('./day5-seo');
     end = 12.4; dur = 14.95;
     hook = W(m.hookMain, 0, 3.6, 0, H); proof = W(m.sPage3, 8.4, 13.2, H, P);
-    pay = t => K.scene(t, P, end, K.calc1(t, P, { n: '03', lab: 'Extra customers a week × each visit', labAr: 'زباين زيادة بالأسبوع × كل زيارة', a: 2, b: 15, total: 30, per: 'a week', perAr: 'بالأسبوع',
+    pay = t => K.scene(t, P, end, K.calc1(t, P, { n: '03', lab: 'Extra customers a week × each visit', labAr: 'زباين زيادة بالأسبوع × كل زيارة', a: 2, b: 30, total: 60, per: 'a week', perAr: 'بالأسبوع',
       fix: 'The *fix:* SEO basics, | so they *find* you.', fixAr: 'الحل: أساسيات SEO… عشان يلقونك.' }));
     mode = t => t >= H && t < P ? 'dark' : 'paper';
   } else if (day === 'day6') {
     const m = require('./day6-app');
     end = 12.4; dur = 14.95;
     hook = W(m.hookMain, 0, 3.6, 0, H); proof = W(m.sForget, 8.4, 13.2, H, P);
-    pay = t => K.scene(t, P, end, K.calc1(t, P, { n: '04', lab: 'Skipped visits a month × each visit', labAr: 'زيارات فاتت بالشهر × كل زيارة', a: 10, b: 8, total: 80, per: 'a month', perAr: 'بالشهر',
+    pay = t => K.scene(t, P, end, K.calc1(t, P, { n: '04', lab: 'Skipped visits a month × each visit', labAr: 'زيارات فاتت بالشهر × كل زيارة', a: 10, b: 12, total: 120, per: 'a month', perAr: 'بالشهر',
       fix: 'The *fix:* a simple app | that *reminds* them.', fixAr: 'الحل: تطبيق بسيط يذكّرهم.' }));
     mode = t => t >= H && t < P ? 'dark' : 'paper';
   } else if (day === 'day7') {
     const m = require('./day7-missed');
     end = 12.4; dur = 14.95; ai = true;
     hook = W(m.hookMain, 0, 3.6, 0, H); proof = W(m.sNext, 8.4, 13.2, H, P);
-    pay = t => K.scene(t, P, end, K.calc1(t, P, { n: '05', lab: 'Lost bookings a week × each visit', labAr: 'حجوزات ضايعة بالأسبوع × كل زيارة', a: 3, b: 25, total: 75, per: 'a week', perAr: 'بالأسبوع',
+    pay = t => K.scene(t, P, end, K.calc1(t, P, { n: '05', lab: 'Lost bookings a week × each visit', labAr: 'حجوزات ضايعة بالأسبوع × كل زيارة', a: 3, b: 40, total: 120, per: 'a week', perAr: 'بالأسبوع',
       fix: 'The *fix:* an AI agent | that *texts* them back.', fixAr: 'الحل: وكيل ذكاء اصطناعي يرد عليهم بالواتساب.' }));
     mode = t => t >= H && t < P ? 'dark' : 'paper';
   } else throw new Error('unknown day ' + day);

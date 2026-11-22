@@ -5,7 +5,7 @@ import json, os, subprocess, sys
 REPO, MODEL, FINAL = sys.argv[1], sys.argv[2], sys.argv[3]
 ONLY = sys.argv[4:]
 ENG = os.path.join(REPO, 'week-03/_engine'); OUT = os.path.join(ENG, 'out'); TMP = '/tmp/w03short'
-MIX = '/home/claude/scr/mix.py'
+MIX = os.environ.get('MIX', '/home/claude/scr/mix.py')
 
 # base reels: video, duration, end card, scene changes, dings, taps, voice lines (line 1 = hook)
 # closing CTA line over the end card (Bilal 22 Nov 13:11), end card ~2.2 s
@@ -13,7 +13,7 @@ MIX = '/home/claude/scr/mix.py'
 BASE = {
  'day1': dict(video='day1-short.mp4', dur=14.95, end=12.4, whoosh=[2.5, 6.8], tap=[3.2, 3.5, 3.8], ding=[5.2, 8.8],
    lines=[[0.2, "I have Instagram. Why a website?"], [2.7, "Your customer searches. Nothing comes up."],
-          [7.0, "For example, four lost orders at fifteen dinars. Sixty a month."],
+          [7.0, "For example, four lost orders at twenty-five pounds. A hundred a month."],
           [12.2, "We'll build it for you. Comment start."]]),
  'day2': dict(video='day2-short.mp4', dur=13.75, end=11.2, whoosh=[2.5, 6.8], tap=[0.7], ding=[4.6, 7.5, 8.2],
    lines=[[0.2, "Customers stopped Googling. They ask ChatGPT."], [2.7, "And the answer names other clinics. Not you."],
@@ -25,27 +25,27 @@ BASE = {
           [10.4, "We'll build it for you. Comment start."]]),
  'day4': dict(video='day4-short.mp4', dur=14.95, end=12.4, whoosh=[2.5, 6.8], tap=[3.4, 4.4], ding=[8.8],
    lines=[[0.2, "What does your WhatsApp do at eleven at night?"], [2.9, "You reply in the morning. They already booked elsewhere."],
-          [7.0, "For example, three late messages at twenty dinars. Sixty a week."],
+          [7.0, "For example, three late messages at thirty pounds. Ninety a week."],
           [12.2, "We'll set it up for you. Comment start."]]),
  'day5': dict(video='day5-short.mp4', dur=14.95, end=12.4, whoosh=[2.5, 6.8], tap=[], ding=[8.8],
    lines=[[0.2, "You're on Google. On page three."], [2.6, "Almost nobody scrolls that far. They call someone else."],
-          [7.0, "For example, two more customers at fifteen dinars. Thirty a week."],
+          [7.0, "For example, two more customers at thirty pounds. Sixty a week."],
           [12.2, "We'll get you found. Comment start."]]),
  'day6': dict(video='day6-short.mp4', dur=14.95, end=12.4, whoosh=[2.5, 6.8], tap=[], ding=[8.8],
    lines=[[0.2, "You think apps are only for big companies."], [2.7, "Then one week, your regulars forget. And try next door."],
-          [7.0, "For example, ten skipped visits at eight dinars. Eighty a month."],
+          [7.0, "For example, ten skipped visits at twelve pounds. A hundred and twenty a month."],
           [12.2, "We'll build your app. Comment start."]]),
  'day7': dict(video='day7-short.mp4', dur=14.95, end=12.4, whoosh=[2.5, 6.8], tap=[], ding=[3.9, 8.8],
    lines=[[0.2, "Missed call. Lost patient."], [2.4, "You're busy. So they call the next one."],
-          [7.0, "Example: three lost bookings at twenty five dinars. Seventy five a week."],
+          [7.0, "Example: three lost bookings at forty pounds. A hundred and twenty a week."],
           [12.2, "We'll set it up for you. Comment start."]]),
 }
 # reel id -> (base, new hook line or None, music style, seed, extra line overrides)
 REELS = {
  'day1-main':   ('day1', None, 'house', 41), 'day1-trialA': ('day1', "Your customer searched your name. Nothing came up.", 'pluck', 43),
  'day1-trialB': ('day1', "They asked the price on DM. You answered the next day.", 'ambient', 47),
- 'day2-main':   ('day2', None, 'lofi', 53), 'day2-trialA': ('day2', "Ask ChatGPT for a clinic in Salmiya. Are you in the answer?", 'piano', 59),
- 'day2-trialB': ('day2', "Ask ChatGPT for a salon in Hawalli. Are you in the answer?", 'oud', 61,
+ 'day2-main':   ('day2', None, 'lofi', 53), 'day2-trialA': ('day2', "Ask ChatGPT for a clinic in Didsbury. Are you in the answer?", 'piano', 59),
+ 'day2-trialB': ('day2', "Ask ChatGPT for a salon in Chorlton. Are you in the answer?", 'oud', 61,
                  {1: "And the answer names other salons. Not you."}),
  'day3-main':   ('day3', None, 'ambient', 73),
  'day3-trialA': ('day4', "One a.m. A customer wants to book. Who answers?", 'house', 67),
