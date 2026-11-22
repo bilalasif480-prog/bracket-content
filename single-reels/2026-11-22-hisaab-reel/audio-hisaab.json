@@ -1,0 +1,11 @@
+{
+  "video": "single-reels/2026-11-22-hisaab-reel/hisaab.mp4",
+  "duration": 29.5,
+  "music_drop": 3.6,
+  "end_card": 26.8,
+  "whoosh": [3.6, 8.4, 13.2, 17.4, 23.2],
+  "tap": [4.35, 4.5, 4.65, 4.8, 4.95, 5.1, 5.25, 9.0, 20.95, 21.4],
+  "ding": [6.6, 23.9, 24.65, 25.4],
+  "lines": [[0.2, "You think: I have Instagram. Why a website?"], [3.8, "Your customer searches your name. Nothing."], [8.6, "They message you. You reply the next day."], [13.4, "So they buy from the shop with a website."], [17.6, "Four lost orders a month. In six months, that's three hundred sixty dinars."]],
+  "voices": [["am_fenrir", 0.95, -1.5]]
+}

@@ -9,6 +9,8 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
+| T-20261122-03 | bracket | instamake | Trial reels remaking the 3 reference reels' format (animated UI mockups + kinetic serif type), per research format cards | needs-approval — single-reels/2026-11-22-hisaab-reel/, mp4 off repo | Bilal: OK to post + who answers "WEBSITE" comments | 2026-11-22 |
+| T-20261122-02 | bracket | research | Find reels like Bilal's 3 references | stopped by Bilal; PM wrote format cards A/B from the 3 refs in research/niche-report.md | — | 2026-11-22 |
 | T-20261122-01 | bracket | bracket-geo | Re-audit final Website + AI visibility baseline | 15/20 (was 5/20); 0/10 visibility (not live); `geo/bracket-audit.md`, `geo/bracket-visibility.md` | 2026-11-22 |
 | T-20261118-16 | bracket | websitebuilder | Light redesign, 16 AR pages (RTL) | done | 2026-11-22 |
 | T-20261118-15 | bracket | websitebuilder | Light redesign: v2 design system, Three.js 3D heroes, 16 EN pages | done | 2026-11-22 |
@@ -66,3 +68,5 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-22 08:35 pm — Bilal: added page loader like his video (from 'bilal copy 2'): [ BRACKET ], 000→100 counter, red bar, brackets fly apart. New loader.css + loader.js in Website, linked on 32 pages (EN+AR), added to build-dist.sh. Shows once per visit.
 2026-11-22 09:30 pm — bracket-geo: final site 15/20; loader + 600 KB 3D file on every page are the main SEO risks (fixes wait on Bilal's OK); favicon/font 'missing' items were PM staging artifacts. Visibility baseline 0/10; next check ~22 Dec.
 2026-11-22 09:40 pm — Fix 1+2 (Bilal OK): loader skips bots/speed tests, shorter (min 0.9s, max 2.5s, waits for HTML not full load); bracket-3d.js (600 KB) no longer a page script — loader.js loads it after page load + idle, people only, all pages keep their 3D/motion. Tested: humans content ~1.9s (was 4–8s), Googlebot ~0.1s with no 3D request. 32 pages updated, build OK.
+2026-11-22 09:42 instamake T-20261122-03 — hisaab reel (Format card A) rendered, 29.5 s, am_fenrir voice + music/SFX and no-music versions; files in single-reels/2026-11-22-hisaab-reel/, mp4 not committed. Not posted.
+2026-11-22 09:50 pm — Bilal sent 3 reference reels; research stopped early on his word, PM wrote format cards; instamake made 'hisaab' reel (29.5 s, EN+AR, voice). Waiting on Bilal; nothing posted. Note: shared lib.js endCard() still says 'QA testing & web build studio' — needs updating.

@@ -38,3 +38,4 @@ Used topics (don't repeat the same angle within 6 weeks):
 - Carousel (test): "QA words, in Kuwaiti. Save this." — bug, smoke test, regression, RTL check, real device
 - Reel (both): "One thumb. One chance." — reused single-reels/2026-11-06-one-thumb-reel
 - Deferred to week 3: "Tap it 5 times" reel (brief Mon slot)
+- 2026-11-22, Reel (Format card A, trial): "I have Instagram. Why a website?" / "عندي انستقرام… ليش موقع؟" — Google search finds nothing, DM reply next day, calculator example 4 × 15 KD = 60 KD/month → 360 KD in 6 months, 3 ticks. Files: single-reels/2026-11-22-hisaab-reel/

@@ -2,6 +2,29 @@
 
 Sources: Metricool competitor reels (brand 7919246, 11 Oct-10 Nov 2026) + 12 of those reels WATCHED today in Bilal's Chrome (read-only: nothing liked, followed, saved or downloaded; no screenshots committed). Web research is off (Bilal, 8 Nov). Like/comment/share counts are what Instagram showed under each reel today; views are not shown in the desktop reel viewer.
 
+
+## Reference style from Bilal (2026-11-22): animated UI explainer reels
+Bilal sent 3 reels. The PM watched them in Chrome (read-only). The research run was stopped early by Bilal, so this section only covers these 3 reels.
+
+| Account | URL | Hook | Beats / UI shown | Likes / comments / shares |
+|---|---|---|---|---|
+| @febtech.in | https://www.instagram.com/reel/DekKvJ3DRjF/ | "Aap sochte…" (Instagram page hai, toh website kyun?) | Google search bar types your name → empty results; DM chat "Price kya hai?" + clock (reply 2 days later); dark scene + warning "sabse bura?"; "ek minute, hisaab lagao" calculator card | 709 / 180 / 1,110 |
+| @makeuforward | https://www.instagram.com/reel/DfSUa6Ws9JI/ | "Customer ab Google nahi, ChatGPT se pooch raha hai" | AI chat input typing → AI answer lists other businesses → blur → "Kyunki AI…" (needs website, SEO, reviews) | 173 / 4 / 317 |
+| @alphaagency1 | https://www.instagram.com/reel/DfVjd5GgZw_/ | "Aap sochte ho, abhi business chhota hai" | To-do card (website = "Kal"); growth curve + struck-out "bada hone ke baad nahi"; calculator "4 extra order × Rs 5,000" labelled "sirf misaal" (their total is wrong: we never copy that) | 220 / 16 / 276 |
+
+### Format card A: "Belief → phone-UI proof → hisaab"
+- **Hook mechanism:** a belief the owner has ("I have Instagram, why a website?" / "I'm small, later"), on screen at 0 s.
+- **First frame:** paper-grey background, 2-3 kinetic words (italic serif + heavy sans), the key word big in the accent colour.
+- **Beats:** (1) belief 0-3 s → (2) customer searches, finds nothing (search UI) → (3) customer DMs, waits (chat UI + clock) → (4) customer buys from someone else / "worst part" on a dark scene → (5) "one minute, do the maths" calculator card, a hypothetical labelled "example" → (6) the fix in 3 ticks → end card.
+- **Length / pacing:** 20-35 s; a new word or UI move every 0.5-1 s; nothing static for more than 2 s.
+- **Text:** words appear one by one, blur-in, the key word in the accent colour; white rounded UI cards with soft shadows; corner star/sparkle shapes; thin wavy line.
+- **Audio:** soft music + UI sounds (typing, pop, tick); no face, no voice needed.
+- **CTA:** caption only: "Comment WEBSITE".
+- **Why it works:** the viewer sees their own customer's journey on a phone they know, so it's easy to relate to and easy to share ("send this to the shop owner"). The shares are far higher than the likes.
+
+### Format card B: "Google → AI answer" (GEO)
+Same style. Hook = "Customers aren't asking Google any more. They're asking ChatGPT." AI chat types a local question; the answer lists other businesses, not yours; blur; why (site, structure, reviews); CTA "comment your business + area".
+
 ## Current picture (updated 2026-11-10)
 
 ### Service providers tracked (Metricool → Competitors)

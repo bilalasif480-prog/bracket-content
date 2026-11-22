@@ -1,0 +1,12 @@
+{
+  "name": "bracket-reel-engine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shared render engine for Bracket Instagram reels and carousels",
+  "dependencies": {
+    "@fontsource/archivo": "^5.3.0",
+    "@fontsource/ibm-plex-sans-arabic": "^5.3.0",
+    "@fontsource/jetbrains-mono": "^5.3.0",
+    "playwright": "^1.64.1"
+  }
+}
