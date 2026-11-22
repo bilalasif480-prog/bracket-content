@@ -3,7 +3,7 @@
 This public repo is the single place where Bilal's agents keep their files.
 
 ## The business is a software house (changed 18 Nov 2026)
-Bracket is a **software house** in Kuwait (never "studio" or "agency"). It sells five services:
+Bracket is a **software house** based in Kuwait (never "studio" or "agency"). Since 22 Nov 2026 it targets **UK businesses, Manchester first**, English only (British spelling, £). It sells five services:
 **websites, mobile apps, AI agents, SEO and GEO**. QA testing is not sold on its own.
 The full, current list lives in `business/bracket.md` — always read it.
 
@@ -61,5 +61,5 @@ Before pushing: `git pull --rebase origin main`. Commit with a short message nam
 
 ## Shared rules
 - Bracket is a software house (websites, apps, AI agents, SEO, GEO). Never invent stats, clients, prices, results or testimonials.
-- Everything on screen and in captions is bilingual: English + natural Gulf Arabic.
+- Everything on screen and in captions is English only, British spelling (22 Nov 2026: UK target). No Arabic.
 - This repo is public: never commit passwords, tokens, personal data, commenters' names or DM text.

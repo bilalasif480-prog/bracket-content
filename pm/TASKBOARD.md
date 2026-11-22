@@ -9,8 +9,12 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
+| T-20261122-17 | bracket | websiteqa + bracket-hacker | QA + security after UK changes / Arabic removal | queued (after T-16) | — | 2026-11-22 |
+| T-20261122-16 | bracket | websitebuilder | Remove Arabic (/ar/, switch, hreflang, AR articles; backup first) + UK copy, British spelling, Manchester page, "Based in Kuwait, working with UK clients" | queued (after T-15) | Mac on | 2026-11-22 |
+| T-20261122-15 | bracket | bracket-geo | UK/Manchester SEO + GEO plan: keywords, page targets, copy changes, Manchester page brief | running | — | 2026-11-22 |
+| T-20261122-14 | bracket | instamake | Remake week-03 for UK: £ maths, UK/Manchester captions + hashtags, English only | running | — | 2026-11-22 |
 | T-20261122-07 | bracket | salesman | Find perfume brands on Instagram with no website: (A) new brands, (B) big-following brands selling only via WhatsApp. Brief: `pm/briefs/salesman-perfume-leads.md` | queued — on hold (Bilal: don't run yet) | Bilal: say go | 2026-11-22 |
-| T-20261122-06 | bracket | instamake | Week-03 pack (23–29 Nov) | approved by Bilal 22 Nov 13:43 — posting 23–29 Nov via scheduled runs (12:30 / 16:30 trials, 20:00 main) | Mac on + Chrome open | 2026-11-22 |
+| T-20261122-06 | bracket | instamake | Week-03 pack (23–29 Nov), Kuwait version | PAUSED 22 Nov 22:58 (Bilal: UK shift) — 3 posting tasks disabled; remake in T-14 | — | 2026-11-22 |
 | T-20261122-05 | bracket | research | Outliers + format cards | done — 13 ref accounts, cards C–G, 10 ideas in `research/niche-report.md` | — | 2026-11-22 |
 | T-20261122-04 | bracket | instapulse | Audit @bracketkw + strategy brief for client enquiries | done (public view only: Chrome not logged in as @bracketkw) — `analytics/week-03.md`, `research/strategy-brief.md` | Bilal: log Chrome into @bracketkw | 2026-11-22 |
 | T-20261122-03 | bracket | instamake | Trial reels remaking the 3 reference reels' format (animated UI mockups + kinetic serif type), per research format cards | needs-approval — single-reels/2026-11-22-hisaab-reel/, mp4 off repo | Bilal: OK to post + who answers "WEBSITE" comments | 2026-11-22 |
@@ -101,3 +105,4 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-22 15:45 pm — Bilal: leave the captions as they were (EN+AR). Only on-screen text is English-only.
 2026-11-22 15:53 instamake T-20261122-06 — on-screen text English only (Bilal 15:29): all 21 week-03 reels re-rendered with no Arabic on screen (render.js strips it; end card pill 'Comment START'), same timing/voice/music/lengths. Captions unchanged EN+AR (Bilal 15:44). week-03 + out/week-03-short overwritten. Not committed, nothing posted.
 2026-11-22 22:16 instapulse — daily check (read-only, Chrome as @bracketkw): 0 new comments, 0 START, 0 new DMs (General/Requests empty), 0 leads; no trials live yet (week-03 starts Mon 23). Figures in analytics/week-03.md. Nothing sent.
+2026-11-22 22:58 pm — Bilal: target the UK (Manchester first), show Bracket is based in Kuwait. Paused week-03 posting (Kuwait pack), profile + CLAUDE.md → UK/English-only/£, Arabic site to be deleted with backup, bio change approved, old posts kept. T-14..T-17 opened.
