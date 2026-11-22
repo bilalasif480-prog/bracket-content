@@ -146,8 +146,14 @@ const T = {
 
 const key = process.env.TRIAL;
 if (!T[key]) throw new Error('set TRIAL to one of ' + Object.keys(T).join(', '));
-const [base, hook] = T[key];
+const hook = T[key][1];
 const mode = key.startsWith('day3') ? 'night' : 'paper';
-const b = base();
-module.exports = K.withHook(b, CUT, hook, mode);
+// SHORT cut (T-20261122-06 revision): the hook is played in 2.5 s (its 3.6 s timing re-timed), then the day's short main from 2.5 s
+const NEW_CUT = 2.5;
+const BASEDAY = { day1: 'day1', day2: 'day2', day3: 'day4', day4: 'day6', day5: 'day5', day6: 'day6', day7: 'day7' };
+const short = require('./short');
+const b = key === 'day2-trialB'
+  ? short.build('day2', { biz: { q: 'Best salon in Hawalli?', qAr: 'أحسن صالون بحولي؟', en: 'salon', ar: 'صالونك', not: 'مو موجود' } })
+  : short.build(BASEDAY[key.slice(0, 4)]);
+module.exports = { dur: b.dur, cut: NEW_CUT, frame: t => t < NEW_CUT ? K.bg(t, mode) + hook(t * CUT / NEW_CUT) : b.frame(t) };
 module.exports.full = key === 'day2-trialB'; // body differs (salon query) -> render the whole reel

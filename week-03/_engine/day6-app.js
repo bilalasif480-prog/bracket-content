@@ -115,7 +115,7 @@ function sApp(t) {
 }
 
 module.exports = {
-  dur: DUR, S, homeScreen,
+  dur: DUR, S, homeScreen, hookMain, sForget,
   frame(t) {
     const mode = (t >= S.forget && t < S.maths) || t >= S.end ? 'dark' : 'paper';
     return bg(t, mode) + hookMain(t) + sRegulars(t) + sForget(t) + sMaths(t) + sApp(t) + K.endCard(t, S.end);

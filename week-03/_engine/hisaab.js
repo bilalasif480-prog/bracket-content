@@ -252,7 +252,7 @@ function sEnd(t) {
 }
 
 module.exports = {
-  dur: DUR,
+  dur: DUR, S, bg, sHook, sSearch,
   frame(t) {
     const dark = (t >= S.worst && t < S.maths) || t >= S.end;
     return bg(t, dark) + sHook(t) + sSearch(t) + sDM(t) + sWorst(t) + sMaths(t) + sTicks(t) + sEnd(t);

@@ -49,3 +49,4 @@ Used topics (don't repeat the same angle within 6 weeks):
 - Sat main: Hisaab #04 "Apps are for big companies?" (apps): regulars forget, example 10×8=80/mo → 960 KD/yr, demo loyalty app. Trials: gym / salon owners "still no app?"
 - Sun main: Hisaab #05 "Missed call. Lost patient." (AI agents, clinic): example 3×25=75/wk → 300 KD/month, demo agent texts back. Trials: "lost job" (AC) / "lost booking" (salon)
 - Not made: Wed "5 ways" and Sat "How to start" pin carousels from the brief
+- 22 Nov revision (Bilal: too long): all 21 week-03 reels re-cut to 12–15 s (hook → one proof beat → one-line hisaab or key line → end card). Hisaab cards now one line: 4×15=60/mo · 3×20=60/wk · 2×15=30/wk · 10×8=80/mo · 3×25=75/wk; the long totals and the demo agent/app screens were cut.

@@ -83,7 +83,7 @@ function sAgent(t) {
 }
 
 module.exports = {
-  dur: DUR, S,
+  dur: DUR, S, hookMain, sMorning,
   frame(t) {
     const mode = t < S.morning ? 'night' : t >= S.end ? 'dark' : 'paper';
     return bg(t, mode) + hookMain(t) + sLead(t) + sMorning(t) + sMaths(t) + sAgent(t) + K.endCard(t, S.end, { ai: true });

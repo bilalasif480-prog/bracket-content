@@ -89,7 +89,7 @@ function sFix(t) {
 }
 
 module.exports = {
-  dur: DUR, S,
+  dur: DUR, S, hookMain, sPage3,
   frame(t) {
     const mode = (t >= S.page3 && t < S.maths) || t >= S.end ? 'dark' : 'paper';
     return bg(t, mode) + hookMain(t) + sSearch(t) + sPage3(t) + sMaths(t) + sFix(t) + K.endCard(t, S.end);

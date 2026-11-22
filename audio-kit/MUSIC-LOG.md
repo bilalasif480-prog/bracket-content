@@ -29,3 +29,5 @@ Make a track: `python3 -I audio-kit/bg_music.py <style> <seed> <duration> <out.w
 | 2026-11-22 | week-03 day7-main hisaab #05 missed call | house | 127 |
 | 2026-11-22 | week-03 day7-trialA | pluck | 131 |
 | 2026-11-22 | week-03 day7-trialB | ambient | 137 |
+
+week-03 duration note (22 Nov): all 21 week-03 tracks above were regenerated with the same style+seed at the short-cut lengths: 14.0 s (Mon, Thu–Sun and their trials, plus Wed trials), 12.8 s (Tue + trials), 12.2 s (Wed main).

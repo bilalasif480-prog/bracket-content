@@ -216,6 +216,40 @@ function endCard(t, a, o = {}) {
 function withHook(base, cut, hookFn, mode = 'paper') {
   return { dur: base.dur, cut, frame: t => t < cut ? bg(t, mode) + hookFn(t) : base.frame(t) };
 }
+
+// ---- short cut (T-20261122-06 revision, 12–15 s reels) ----
+// play an old scene fn (built for [oA,oB]) inside a new window [nA,nB]: time is remapped linearly
+function warp(fn, oA, oB, nA, nB) {
+  return t => (t < nA - 0.01 || t > nB + 0.01) ? '' : fn(oA + (t - nA) * (oB - oA) / (nB - nA));
+}
+// end card played 1.6x so it fits ~1.6 s
+const endFast = (t, a, o) => t < a ? '' : endCard(a + (t - a) * 1.6, a, o);
+// one-line hisaab: o = {n, lab, labAr, a:[v,'4'], b:15, total:60, per:'a month', perAr:'بالشهر', fix, fixAr, dark}
+function calc1(t, a, o) {
+  const tr = t - a; let s = '';
+  s += lbl(`HISAAB #${o.n}`, 70, 225, 30, C.red, 'start');
+  s += html(360, 190, 260, 50, `<span style="${AR(30, C.red)}">· حسبة دقيقة</span>`, 'direction:rtl;text-align:left;');
+  s += kinS(255, 'Do the *maths:*', t, a + 0.05, 104, { step: 0.15 });
+  s += kinAr(390, 'احسبها:', t, a + 0.3, 66);
+  const y0 = 520 + float(t, 3), kc = eb(seg(tr, 0.15, 0.5));
+  let c = card(110, y0, 860, 570, 48) + pill(150, y0 + 40, 'EXAMPLE', 'مثال', C.red, 290);
+  const ol = eo(seg(tr, 0.35, 0.6));
+  c += html(150, y0 + 120, 780, 120, `<div style="${EN(40, C.ink)}letter-spacing:-1px;opacity:${f(ol)}">${esc(o.lab)}</div><div style="${AR(32, C.mute)}direction:rtl;text-align:left;opacity:${f(ol)}">${esc(o.labAr)}</div>`);
+  const ke = seg(tr, 0.5, 1.1), num = v => Math.round(v * eo(ke)).toLocaleString('en-US');
+  c += `<text x="540" y="${f(y0 + 345)}" font-family="Archivo" font-weight="900" font-size="120" fill="${C.ink}" text-anchor="middle" letter-spacing="-4" opacity="${f(eo(seg(tr, 0.45, 0.7)))}">${num(o.a)} × ${num(o.b)} KD</text>`;
+  if (tr > 1.2) {
+    const op = eo(seg(tr, 1.2, 1.45)), kt = seg(tr, 1.3, 2.0), pk = 1 + 0.1 * Math.sin(clamp((tr - 2.0) / 0.35) * Math.PI);
+    c += `<rect x="150" y="${f(y0 + 385)}" width="780" height="150" rx="32" fill="${C.red}" opacity="${f(op)}"/>`;
+    c += `<text x="190" y="${f(y0 + 455)}" font-family="Archivo" font-weight="900" font-size="46" fill="#fff" opacity="${f(op)}">${esc(o.per)}</text>`;
+    c += html(190, y0 + 468, 330, 54, `<span style="${AR(32, '#fff')}">${esc(o.perAr)}</span>`, 'direction:rtl;text-align:left;opacity:' + f(op));
+    c += `<g transform="translate(900 ${f(y0 + 497)}) scale(${f(pk)})"><text x="0" y="0" font-family="Archivo" font-weight="900" font-size="104" fill="#fff" text-anchor="end" letter-spacing="-4" opacity="${f(op)}">= ${Math.round(o.total * eo(kt)).toLocaleString('en-US')} KD</text></g>`;
+  }
+  s += pop(540, y0 + 285, kc, c);
+  const fa = a + (o.fixAt ?? 2.3);
+  s += kinS(1150, o.fix, t, fa, o.fixSize || 74, { step: 0.13 });
+  s += kinAr(o.fixArY || 1345, o.fixAr, t, fa + 0.35, 52, C.mute, 0.1);
+  return s;
+}
 const demoTag = (x, y) => pill(x, y, 'DEMO', 'نموذج', C.red, 250);
 
-module.exports = { C, clamp, seg, eo, eb, f, esc, html, word, EN, AR, kin, kinS, kinAr, card, star, wavy, bg, scene, hookScene, float, lbl, pop, pill, clock, timeChip, moon, searchCard, resultRows, chatCard, phone, tickList, calc, endCard, withHook, demoTag };
+module.exports = { C, clamp, seg, eo, eb, f, esc, html, word, EN, AR, kin, kinS, kinAr, card, star, wavy, bg, scene, hookScene, float, lbl, pop, pill, clock, timeChip, moon, searchCard, resultRows, chatCard, phone, tickList, calc, endCard, withHook, demoTag, warp, endFast, calc1 };

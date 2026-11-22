@@ -107,7 +107,7 @@ function sKeep(t) {
 }
 
 module.exports = {
-  dur: DUR, S,
+  dur: DUR, S, hookMain, sPlinth, sKeep,
   frame(t) {
     const mode = t < S.yours || t >= S.end ? 'dark' : 'paper';
     return bg(t, mode) + hookMain(t) + sPlinth(t) + sGone(t) + sYours(t) + sKeep(t) + K.endCard(t, S.end);

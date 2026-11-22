@@ -1,6 +1,6 @@
 # Week 3 trial reels (Mon 23 – Sun 29 Nov 2026)
 
-Rule: each pair changes ONE thing, the first 3.6 s (hook line + first frame + the first voice line). From 3.6 s on, the video is frame-for-frame the base reel. Same length, caption, cover style and post time per slot. Every trial gets its own background track (needed by Bilal's audio rule; logged in `audio-kit/MUSIC-LOG.md`).
+Rule: each pair changes ONE thing, the first 2.5 s (hook line + first frame + the first voice line). From 2.5 s on (short cut, 22 Nov), the video is frame-for-frame the base reel. Same length, caption, cover style and post time per slot. Every trial gets its own background track (needed by Bilal's audio rule; logged in `audio-kit/MUSIC-LOG.md`).
 Post with Instagram's **Trial** switch on: T1 12:30, T2 16:30 Kuwait. Caption CTA = share line (mains carry "Comment START").
 **Decides it (Instapulse, Fri 27 + next Fri):** 3 s hold rate first, then average watch-through; shares per 1,000 views as tie-break. Not likes. Promote a trial only when Instapulse says Promote.
 

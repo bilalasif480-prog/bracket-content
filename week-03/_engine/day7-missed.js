@@ -91,7 +91,7 @@ function sAgent(t) {
 }
 
 module.exports = {
-  dur: DUR, S, missedCard,
+  dur: DUR, S, missedCard, hookMain, sNext,
   frame(t) {
     const mode = (t >= S.next && t < S.maths) || t >= S.end ? 'dark' : 'paper';
     return bg(t, mode) + hookMain(t) + sBusy(t) + sNext(t) + sMaths(t) + sAgent(t) + K.endCard(t, S.end, { ai: true });

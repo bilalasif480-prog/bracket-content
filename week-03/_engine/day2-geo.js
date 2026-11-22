@@ -109,7 +109,7 @@ function make(o = {}) {
       const mode = (t >= S.why && t < S.fix) || t >= S.end ? 'dark' : 'paper';
       return bg(t, mode) + (o.hook ? '' : hookMain(t)) + sAsk(t) + sAnswer(t) + sWhy(t) + sFix(t) + K.endCard(t, S.end);
     },
-    aiBox,
+    aiBox, hookMain, sAnswer, sFix,
   };
 }
 const main = make();
