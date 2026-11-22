@@ -38,7 +38,7 @@ Last updated: 2026-11-18 by Bilal (via PM): Bracket is a software house again �
   on Google or in AI answers.
 
 ## 4. Voice
-- **Languages:** English + natural Gulf Arabic. The website has a full Arabic version (`/ar/`, RTL) of every page. On screen: English headline with Arabic under it
+- **Languages:** English + natural Gulf Arabic. **Reels: on-screen text English only (Bilal, 22 Nov 2026); captions stay Arabic first + English.** The website has a full Arabic version (`/ar/`, RTL) of every page. On screen: English headline with Arabic under it
   at ~70% size. In captions: Arabic first, then a `—` line, then English. Mixed hashtags.
 - **Tone:** short, plain, direct. No hype, no corporate filler.
 - **Slogan:** "Software that gets it done." — Arabic: "برمجيات تنجز الشغل." (picked by PM for Bilal, 18 Nov 2026). "AI that gets it done." stays as the AI-agents line.
