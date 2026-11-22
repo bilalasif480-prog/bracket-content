@@ -1,5 +1,7 @@
 # Audio kit: voice-over + original music + sound effects for reels
 
+**Update 22 Nov 2026 (Bilal):** default voice is now `["af_heart", 1.0]` (no pitch shift). Every reel uses a different background track from `bg_music.py`, logged in `MUSIC-LOG.md`.
+
 Approved by Bilal on 6 Nov 2026 (test reel "Got an app idea?").
 
 Rules:
