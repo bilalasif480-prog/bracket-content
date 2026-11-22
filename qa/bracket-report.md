@@ -1,4 +1,39 @@
-# QA report: Bracket website — UK retarget, 22 Nov 2026 (T-20261122-17, QA half)
+# QA report: Bracket website — UK retarget, 22 Nov 2026
+
+## Retest 22 Nov (T-20261122-19, after websitebuilder T-20261122-18)
+
+**Overall: PASS. 0 Critical, 0 High, 0 Medium, 0 Low open.** All 11 findings from T-17 (1 High, 3 Medium, 7 Low) are closed: 10 fixed, M1 closed by Bilal's approval. Read-only: the Website folder was staged into the cloud (no `_backups/`, `_build/`), served with `python3 -m http.server`, Playwright 1.64.1 on the cloud's headless Chromium. No site file was changed.
+
+| # | Finding | Retest | Proof |
+|---|---|---|---|
+| H1 | `og-image.png` Arabic + "Kuwait" label | **PASS** | Viewed the file (1200×630): "SOFTWARE HOUSE · BASED IN KUWAIT", "[ BRACKET ]", "Software that gets it done.", "Built for UK businesses.", "Websites // Mobile apps // AI agents // SEO // GEO". English only, no Arabic. `og:image:alt` on every page matches it ("…a software house based in Kuwait building … for UK businesses"). |
+| M1 | Ownership line / "Bracket Software House" without Bilal's OK | **Closed (approved)** | "You own your domain, code and accounts" and "video calls at UK-friendly hours" approved by Bilal in chat 22 Nov; "Bracket Software House" chosen by the PM. Not a finding. |
+| M2 | Privacy page lacks UK GDPR basics | **PASS** | `privacy.html` has "If you're in the UK": what is collected, lawful basis (steps at your request before a contract + legitimate interest in answering enquiries), handled in Kuwait outside the UK (Gmail/Google, WhatsApp/Meta), kept "as long as needed … then deleted", rights to see/correct/delete, complaint to the ICO (ico.org.uk). "Last updated 22 Nov 2026". No invented certifications, registrations or fixed retention periods. |
+| M3 | `articles.css` not in `build-dist.sh` | **PASS** | Ran `./build-dist.sh https://example.co.uk` on a container copy: "dist/ ready: 57 files", `articles.css` present, **0 missing local `href`/`src`** across all dist pages, every JSON-LD block parses. Served `dist/`: the 5 articles load with 0 console errors and 0 4xx; `.quick-answer` has its 6px accent border and `.article` its 70ch width (styled). |
+| L1 | manchester title 62 chars | **PASS** | "Websites, Apps & AI Agents for Manchester \| Bracket" = 51. |
+| L2 | Home H1 longer than plan | **PASS** | "Websites, apps and AI agents for UK businesses". |
+| L3 | careers meta 109 chars | **PASS** | 143 chars. |
+| L4 | README says work.html is noindex | **PASS** | README now says `work.html` is indexed and in `sitemap.xml`; `work.html` has no robots meta (matches). |
+| L5 | Tap targets < 44px at 390 | **PASS** | Measured after reveal animations finish (0 running animations, no transform): contact side card email / WhatsApp / Instagram 44px each (min-height 44px; my earlier 39–42px was taken mid reveal animation); article "Related" links 44px and 52.8px; header brand, every footer link and mobile-menu link 44px. |
+| L6 | Schema logo was a design sheet | **PASS** | `#org` `logo` → `export/png/bracket-icon-180.png`: viewed, a clean square orange `[ ]` mark on dark, 180×180 (≥ 112), copied into `dist/` by the build. |
+| L7 | RTL leftovers + FOUNDER comment | **PASS** | 0 `dir=` attributes, 0 `rtl` checks in `bracket-3d.js`, 0 computed RTL, 0 HTML comments on any page (FOUNDER PHOTO comment gone), 0 Arabic characters in any HTML/CSS/JS/txt/xml/json. Cosmetic only: the CSS comment at the top of `articles.css` still mentions `ar/articles/*.html` (no effect; tidy next time). |
+
+### Regression (all 26 pages: 21 root incl. 404 + booking, 5 articles)
+
+| Check | Result |
+|---|---|
+| 26 pages × 1440×900 and 390×844 (loader + 3D running, scrolled through, settled) | PASS: all 200, **0 console errors**, 0 page errors, 0 failed/4xx requests, 0 external requests, 1 H1 per page |
+| Broken links | PASS: 0 missing local `href`/`src` in the source and in `dist/` |
+| Horizontal scroll | PASS: `scrollWidth` ≤ viewport on all 52 runs |
+| Services dropdown | PASS: hover opens (Websites, Mobile apps, AI agents, SEO, GEO, All services), click SEO → `seo.html`, Enter → `aria-expanded=true`, Esc → false |
+| Mobile menu (390) | PASS: desktop nav hidden, menu button shown; tap opens (`aria-expanded=true`), all links 44px+, tap Contact → `contact.html`, menu closed |
+| Contact / booking | PASS: `?service=geo` preselects GEO; `booking.html` forwards to `contact.html` |
+
+Nothing left open from QA. Not covered (unchanged): real Safari/iOS and anything that needs the deployed URL (see `qa/bracket-launch-check.md`).
+
+---
+
+## Earlier round: T-20261122-17 (QA half), before the fixes
 
 Agent: websiteqa · Site: `/Users/bilal/Desktop/bilal copy/Website/` (final site, not deployed), read through the device shell and copied into the cloud (no `_backups/`, `_build/`; `export/` only for the 3 icon files the pages use, checksums matched) · Served with `python3 -m http.server`, plus a second server sending the site's own `_headers` CSP · Profile: `business/bracket.md` (22 Nov UK update) · Spec: `geo/bracket-uk-plan.md` · **Read-only: no site file was changed.**
 
