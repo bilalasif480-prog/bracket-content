@@ -51,3 +51,8 @@ Carousel views came almost all "From Profile" (4 of 5, 1 of 1, 4 of 4): carousel
   - Leads: **0** inbound.
   - Questions: 0.
   - Other: 4 = 1 outbound pitch by Bilal to a prospect (the 239 Parfum demo; no reply in the list, last message ~5 days ago) + 3 threads from individuals ~2 weeks old showing only "sent an attachment" (not opened; likely shared posts or spam; Bilal to check in the app).
+
+## Daily log
+| Date (Kuwait) | Followers | Posts on grid | New comments (3 d) | START comments | New DMs (Primary/General/Requests) | Leads | Trials 24–72 h old |
+|---|---|---|---|---|---|---|---|
+| Sun 22 Nov 21:16 | 2 | 8 | 0 | 0 | 0 / 0 / 0 | 0 | 0 (week-03 not posted yet; first trials Mon 23 12:30) |
