@@ -97,3 +97,4 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-22 14:35 pm — (T-20261122-11/12/13) trust pages + 6 articles (EN+AR) added to Website (54 files, build OK 89 files). Bilal skipped client naming + licence; photo pending. QA stopped on Bilal's request; security test launch was blocked by safety check — both still needed before launch.
 2026-11-22 14:45 pm — Bilal couldn't find Articles (footer only): added 'Articles / المقالات' to top nav + mobile menu on all 50 pages (EN, AR, articles). Fits on one line down to tablet width.
 2026-11-22 15:30 pm — Bilal: remove Arabic text from reels. On-screen text now English only (captions stay EN+AR). Profile updated; instamake re-rendering all 21 before Mon 12:27.
+2026-11-22 15:34 pm — Bilal: captions English-only too (Arabic hashtags kept for search).

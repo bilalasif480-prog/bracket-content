@@ -8,6 +8,17 @@ const only = process.argv[3] ? process.argv[3].split(',').map(Number) : null; //
 const reel = require('./' + name + '.js');
 const OUTNAME = process.env.OUTNAME || name; // FROM/TO (seconds) render a part only, e.g. a trial's new opening
 const FPS = 30;
+// On-screen text English only (Bilal 22 Nov 15:29; captions stay EN+AR). Set KEEP_AR=1 to render the old bilingual look.
+const AR_CH = /[\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFF]/;
+function noAr(svg) {
+  if (process.env.KEEP_AR) return svg;
+  return svg
+    .replace(/<span[^>]*PlexAr[^>]*>[^<]*<\/span>/g, '')
+    .replace(/<div[^>]*PlexAr[^>]*>[^<]*<\/div>/g, '')
+    .replace(/<text[^>]*PlexAr[^>]*>[^<]*<\/text>/g, '')
+    .replace(/>([^<]*)</g, (m, x) => AR_CH.test(x) ? '>' + x.replace(/[\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFF\u0660-\u0669]+/g, '').replace(/\s*·\s*$/, '').replace(/^\s*·\s*/, '') + '<' : m);
+}
+
 const b64 = p => fs.readFileSync(path.join(__dirname, 'node_modules/@fontsource', p)).toString('base64');
 const fonts = `
 @font-face{font-family:Archivo;font-weight:800;src:url(data:font/woff2;base64,${b64('archivo/files/archivo-latin-800-normal.woff2')})}
@@ -22,7 +33,7 @@ const fonts = `
   await page.setContent(`<html><head><style>${fonts} html,body{margin:0;background:#000}svg{display:block}</style></head><body><div id="s"></div></body></html>`);
   await page.evaluate(() => Promise.all([document.fonts.load('900 40px Archivo'), document.fonts.load('800 40px Archivo'), document.fonts.load('italic 800 40px Archivo'), document.fonts.load('700 40px JB'), document.fonts.load('700 40px PlexAr', 'عربي')]));
   const draw = async t => {
-    const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">${reel.frame(t)}</svg>`;
+    const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">${noAr(reel.frame(t))}</svg>`;
     await page.evaluate(h => { document.getElementById('s').innerHTML = h; }, svg);
   };
   const out = path.join(__dirname, 'out');

@@ -92,10 +92,12 @@ for rid, spec in REELS.items():
     cue = dict(duration=base['dur'], music_drop=2.5, end_card=base['end'], whoosh=base['whoosh'], tap=base['tap'], ding=base['ding'],
                lines=lines, voices=[['af_heart', 1.0]])
     json.dump(cue, open(f'{d}/cue.json', 'w'))
-    r = subprocess.run(['python3', '-I', os.path.join(REPO, 'audio-kit/make_audio.py'), MODEL, f'{d}/cue.json', d], capture_output=True, text=True, check=True)
-    vend = r.stdout.strip().split()[-1]
-    run(['python3', '-I', os.path.join(REPO, 'audio-kit/bg_music.py'), style, str(seed), str(base['dur']), f'{d}/music.wav'])
-    run(['python3', '-I', MIX, f'{d}/audio-af_heart-nomusic.wav', f'{d}/music.wav', f'{d}/mix.wav'])
+    if os.environ.get('MUXONLY') and os.path.exists(f'{d}/mix.wav'): vend = 'same'  # video-only change: reuse the mixed audio
+    else:
+        r = subprocess.run(['python3', '-I', os.path.join(REPO, 'audio-kit/make_audio.py'), MODEL, f'{d}/cue.json', d], capture_output=True, text=True, check=True)
+        vend = r.stdout.strip().split()[-1]
+        run(['python3', '-I', os.path.join(REPO, 'audio-kit/bg_music.py'), style, str(seed), str(base['dur']), f'{d}/music.wav'])
+        run(['python3', '-I', MIX, f'{d}/audio-af_heart-nomusic.wav', f'{d}/music.wav', f'{d}/mix.wav'])
     vid = video_for(rid, b)
     name = NAMES.get(rid, rid)
     out = os.path.join(FINAL, name + '.mp4')
