@@ -25,9 +25,20 @@ Perfume brands that sell on Instagram (Kuwait / Gulf first) and have **no websit
 
 ## For each lead, record
 Handle, group (A or B), follower count (as shown, not guessed), how they take orders,
-bio link, why they fit, and a short DM pitch draft (EN + Gulf Arabic).
+WhatsApp listed? (yes/no, never the number), why they fit, and message drafts (EN + Gulf Arabic):
+- Instagram DM draft (for every lead)
+- WhatsApp draft (only if they list WhatsApp for orders), slightly different wording from the DM
+
+## Sending (after Bilal's yes only)
+1. Bilal approves a list in chat (which leads, which channel).
+2. Salesman opens Bilal's Chrome (Mac on, logged into @bracketkw and WhatsApp Web).
+3. Instagram: sends the DM from @bracketkw.
+4. WhatsApp: reads the number from the business's bio at that moment, sends via web.whatsapp.com.
+5. Limits: max 15 a day per channel, no links in the first message, spaced out, stop on any warning or block.
+6. Logs each send (handle, channel, date, sent/failed) in `sales/bracket-leads.md`. No numbers, no replies' text.
+7. Replies go to Bilal; the salesman drafts answers but doesn't reply without his yes.
 
 ## Rules
-- Draft only. Nothing gets sent; Bilal sends.
+- Nothing gets sent without Bilal's yes on that exact list in chat.
 - No invented numbers, clients or results. Prices only if Bilal gives them.
 - Repo is public: handles of public business accounts are fine; no DM text, phone numbers or personal names.

@@ -21,6 +21,7 @@ run's chat. Everything else (research, drafts, renders, reports, commits) needs 
 ## Where the files live
 This repo replaces the old Mac folder `/Users/bilal/Desktop/bilal copy/instagram-reels/`. Wherever a skill mentions that Mac path, use the same path inside this repo instead. Never use the Mac or device tools: every agent runs 100% in the cloud. Exception (Bilal, 8 Nov 2026): the Research agent may use Claude in Chrome on Bilal's Mac, read-only, to watch competitors' reels when the laptop is on; if it isn't, it skips the Chrome step. It never commits screenshots.
 No Metricool or any other social tool (Bilal, 18 Nov 2026): Instamake and Instapulse go to instagram.com in Bilal's Chrome (Claude in Chrome) to post, read Insights, comments and DMs. That needs his Mac on with Chrome open; if it isn't, they don't post and say what is waiting.
+Salesman sending (Bilal, 22 Nov 2026): the Salesman may use Bilal's Chrome to send outreach on instagram.com (DM from @bracketkw) and on web.whatsapp.com (Bilal's WhatsApp, only to businesses that list WhatsApp publicly for orders). It sends only the exact messages Bilal approved in that run's chat, max 15 a day per channel, no links in the first message, and stops if Instagram or WhatsApp shows any warning. Phone numbers are read live from the business's bio at send time and never written to this repo.
 
 ## Agents and who owns what
 Every agent also reads `business/<slug>.md` first.
