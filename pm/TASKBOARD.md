@@ -9,6 +9,7 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
+| T-20261122-07 | bracket | salesman | Find perfume brands on Instagram with no website: (A) new brands, (B) big-following brands selling only via WhatsApp. Brief: `pm/briefs/salesman-perfume-leads.md` | queued — on hold (Bilal: don't run yet) | Bilal: say go | 2026-11-22 |
 | T-20261122-06 | bracket | instamake | Week-03 pack (23–29 Nov) | needs-approval — 7 mains + 14 trials in `week-03/`, POSTING-PLAN.md, TRIALS.md | Bilal: yes to post the week | 2026-11-22 |
 | T-20261122-05 | bracket | research | Outliers + format cards | done — 13 ref accounts, cards C–G, 10 ideas in `research/niche-report.md` | — | 2026-11-22 |
 | T-20261122-04 | bracket | instapulse | Audit @bracketkw + strategy brief for client enquiries | done (public view only: Chrome not logged in as @bracketkw) — `analytics/week-03.md`, `research/strategy-brief.md` | Bilal: log Chrome into @bracketkw | 2026-11-22 |
