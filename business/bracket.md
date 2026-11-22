@@ -81,3 +81,12 @@ Last updated: 2026-11-18 by Bilal (via PM): Bracket is a software house again �
 - This repo is public: never commit passwords, tokens, personal data, commenters' names or DM text.
 - All agents run in the cloud. The only exception: the research agent may use Claude in Chrome on
   Bilal's Mac, read-only, when the laptop is on.
+
+## 10. Instagram growth settings (added 22 Nov 2026)
+- **Handle:** @bracketkw, Professional account, logged in on Bilal's Chrome (checked 22 Nov).
+- **Goal:** enquiries (DMs / WhatsApp) for the five services; real followers only.
+- **Comment keyword:** `START` / `ابدأ` — approved by Bilal 22 Nov 2026. One keyword on every main post.
+- **Approved keyword DM / public reply:** draft in `research/strategy-brief.md` (22 Nov), waiting for Bilal's OK before any is sent.
+- **Audio:** voice `af_heart` 1.0, a different original background track every reel (`audio-kit/MUSIC-LOG.md`).
+- **Volume:** 1 main post a day (20:00) + 2 trial reels a day.
+- **Old week-02 pack:** retired, never post (Bilal, 22 Nov).
