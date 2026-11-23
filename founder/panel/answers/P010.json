@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I've already been stung by a web designer who took my money and sat on my site. A company in Kuwait with no UK office, no reviews and no past clients, wanting 50% upfront by PayPal? Same risk again, and this time they're even further away.",
+  "objection": "There's nobody to show me it works. If they go quiet after I pay half, I can't walk into an office, and I've got nothing to chase them with.",
+  "would_change_my_mind": "A few real Manchester businesses I can actually ring or visit who say they delivered on time, plus a small deposit with most of the money paid only once the site is live.",
+  "price_too_cheap": 250,
+  "price_cheap": 500,
+  "price_expensive": 1200,
+  "price_too_expensive": 2000
+}

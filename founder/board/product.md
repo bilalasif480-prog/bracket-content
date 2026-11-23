@@ -1,27 +1,29 @@
 # Product lens
-Score: 4/10 | Vote: FUND IF
+Score: 4 | Vote: FUND IF
 
 ## What is strong
-- **The craft shows in the parts nobody sees.** The site has schema, llms.txt and security headers, and every build gets a QA and security pass. A business that takes care where nobody looks is likely to take care where buyers do.
-- **The trust lines are honest and simple.** "You approve", "Clear scope first", "We don't promise rankings", "We don't pretend to have a UK office", and a demo labelled as not a real chat. That honesty is part of the product.
-- **The process is easy to follow.** Tell us, get a scope and quote, we build and check, you launch after your yes. A buyer can see the whole path before they start.
-- **There is already a sharp product hidden inside it.** The perfume pitch is an online store plus a WhatsApp agent for brands that take orders only on WhatsApp. A buyer can picture that in one sentence.
+- **Craft is visible where nobody looks.** The site is plain HTML/CSS/JS with schema, llms.txt, security headers and no trackers. Those are the hidden parts, and here they are done properly.
+- **The process is designed from the buyer's side.** Talk, written scope, design you approve, build, check, launch after your yes, support window. The client owns the domain, code and accounts. The buyer's main fears are answered before they ask.
+- **The trust lines are honest.** No promised rankings, "no UK office" said openly, the time difference explained, one contact. With no proof yet, that candour is the right instinct.
+- **The WhatsApp booking-agent demo** lets a visitor experience the product instead of reading about it, and it is labelled honestly.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **No focus.** Five services get equal weight, for two different markets (UK small businesses on the website, Kuwait and Gulf businesses in the sales activity), run by one person with a full-time job. When a business does everything, the buyer can't tell what it is best at, and one person can't do five things brilliantly.
-2. **The experience breaks between the touchpoints.** A Manchester buyer sees a site for UK businesses, then gets a Gmail address, a +965 WhatsApp number, PayPal and an Instagram in Gulf Arabic. A Kuwait perfume brand gets an English-only site that is about Manchester. Wherever one touchpoint hands over to the next, the story changes, and that's where a buyer stops trusting it.
-3. **The first five minutes have nothing to show.** No prices, no case studies, and the only work shown is the site itself. The buyer has to write in and wait for a quote before they can see what they would get. The free homepage demo is the one moment that shows the product, and it is only used in outbound sales.
+1. **No focus.** Five services "with equal weight", across websites, apps, AI agents, SEO and GEO, for any SMB, "UK and international". Nothing has been cut, so there is no one thing done brilliantly, and the headline cannot say what Bracket is in one sentence that a Manchester owner remembers.
+2. **Seams in the first five minutes.** A UK buyer meets a site with no domain, a Gmail address, a +965 WhatsApp number, PayPal only and no work to look at except the site itself. Each one is a small break in the experience. Together they tell the buyer this is not finished.
+3. **Nobody owns the whole experience after launch.** One person with a full-time job, building through AI agents, sells products that need ongoing care (care plans, monthly SEO/GEO, agents on £109/month). Where work passes between agents and the one human, and when the client is in a different time zone, is exactly where quality slips and the buyer feels it.
 
 ## The questions I would ask the founder
-- In one sentence, what is Bracket? Which customer, in which country?
-- Which one of the five services would you keep if you had to cut the other four?
-- Walk me through a perfume brand's first five minutes after it says yes. What does it see, touch and receive?
-- Who answers the WhatsApp agent's hand-offs at 2 a.m. or during your day job? What happens when an agent gets it wrong?
-- Was the AC contractor paid, and how would they describe the experience?
-- How many hours a week can you give this? (Not stated.)
+- In one sentence, what does Bracket do and for whom?
+- If you could keep only one of the five services, which would it be, and why that one?
+- Walk me through a Manchester owner's first five minutes, from the first touchpoint to the first reply. What do they see, and when?
+- Is it Manchester first or UK and international? The profile and the site disagree.
+- How many hours a week can you give clients, and who answers when a live agent or a client's site breaks during UK working hours?
+- Where do you check the agents' output before a client sees it?
+- Are there plans for a domain, a matching email, UK-friendly payment and a UK contact route?
 
 ## If FUND IF: the conditions
-1. Pick one market and one lead product, for example a store plus a WhatsApp ordering agent for Kuwait Instagram brands. Make the website, language, contact details, payment and content all tell that one story.
-2. Cut or hide the other services until the lead product has a delivered, documented result, with the client's permission to show it.
-3. Show the product before the quote: a fixed starter package, or the demo moved onto the site.
-4. Write down how the WhatsApp hand-off to a person works, and test it end to end before it goes to any client.
+1. Pick one lead service and one buyer type (the booking agent plus the site it lives on is the clearest candidate), and make the other services add-ons, not equal headlines.
+2. Rewrite the headline so it says that one thing in one sentence, and make the site and the business profile agree on the market.
+3. Before any outreach, close the first-touch seams: deploy on a real domain, use matching email, and give buyers a payment and contact route a UK buyer expects.
+4. Ship one complete client journey (even a paid pilot) end to end, including post-launch support, and publish it as the first case study.
+5. Write a support promise the founder can actually keep with his hours, and state the response times.
