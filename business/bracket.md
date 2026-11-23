@@ -27,7 +27,8 @@ Last updated: 2026-11-22 by Bilal (via PM): Bracket now targets the UK (Manchest
   - **GEO** — getting found and cited in AI answers (ChatGPT, Perplexity, Gemini, Google AI Overviews).
 - **Does NOT sell:** QA / testing as a stand-alone service (PM assumption 18 Nov 2026).
   Every build is still checked before launch — that is part of the job, not a product.
-- **Prices on the site:** none, anywhere (Bilal, 18 Nov 2026). Every service says "Get a quote".
+- **Prices (official, Bilal 23 Nov 2026, GBP):** website Starter £655 · website Business £1,315 · online store from £2,195 · care plan £43/month · AI agent £875 setup + £109/month · mobile app from £3,995 · local SEO £325/month · GEO £215/month (£490/month with SEO) · SEO + GEO audit £215. Payment 50/20/30 via PayPal.
+- **Prices on the site:** "from" prices only, on each service page (websites from £655, apps from £3,995, AI agents from £875 + £109/month, local SEO from £325/month, GEO from £215/month). Exact price always comes in a written scope and quote. Never say "we don't list prices".
 - **Promises:** no reply-time or turnaround promises (no "within 1 business day", no "in minutes").
 
 ## 3. Who it sells to
@@ -35,7 +36,7 @@ Last updated: 2026-11-22 by Bilal (via PM): Bracket now targets the UK (Manchest
   cafés, restaurants, salons, clinics, gyms, trades and home services, estate agents, shops and
   online stores. Not Kuwait or the Gulf any more.
 - **Where they are:** Instagram, Google, WhatsApp.
-- **Money:** pounds (£) in any example maths. Never KD. Still no prices for Bracket's own services.
+- **Money:** pounds (£). Never KD. Only quote Bracket's own prices from the official list above; use "from" prices in public content.
 - **What they worry about:** slow replies losing customers, leads going cold, social media
   going quiet, staff time eaten by repeat work, no proper website or app, and not showing up
   on Google or in AI answers.
