@@ -1,0 +1,7 @@
+# Bracket (software house)
+
+- What it is: a one-person software house based in Kuwait (founder Bilal) that builds websites, mobile apps and AI agents and does SEO and GEO (getting found in Google and in AI answers).
+- Who it is for: CONFLICT. The website (not yet live) targets UK small businesses, "Manchester first" (cafés, restaurants, salons, clinics, gyms, trades, estate agents, shops), served remotely from Kuwait. The business profile and current outreach target Kuwait/Gulf small businesses on Instagram and WhatsApp, starting with Kuwait perfume brands that sell on Instagram with no website.
+- What it sells, at what price: five services (websites, iOS/Android apps, AI agents: customer WhatsApp answer-and-book, sales lead-finder, marketing/social, custom; SEO; GEO). No prices anywhere: every job gets a written scope and a quote. Price levels not set yet.
+- Where and how: remote. Customers come via Instagram (@bracketkw), WhatsApp, email and a website contact form. Payment by PayPal. Delivered by Bilal using AI agents for design, build, QA and security checks.
+- Budget and constraints: one person, who also has a full-time QA/project-coordination job. New business, no public case studies, no testimonials, no numbers to quote. One client so far (an AC contractor booking system in Kuwait; payment status not stated); pitch demos sent to two Kuwait perfume brands, not clients. Marketing budget not stated.
