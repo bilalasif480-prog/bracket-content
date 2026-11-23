@@ -9,6 +9,7 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
+| T-20261123-10 | bracket | instamake | New MAIN reel: founding offer (first 5 clients, no upfront payment) + 6 new trial reels from the updated website; existing week-03 reels untouched | running | — | 2026-11-23 |
 | T-20261123-01 | bracket | pm (founder skill) | Founder board + competitors + 20-buyer panel on the UK website | done — `founder/SUMMARY.md`; 0/20 buy, trust is the blocker | — | 2026-11-23 |
 | T-20261123-01 | bracket | websitebuilder | Remove "UK" from big headings only (H1s + article card titles on articles hub) | done — 10 H1s + 3 article card h3s on articles.html; UK kept in titles/metas/og/JSON-LD/body/FAQ/privacy/llms.txt/Manchester; backup `_backups/before-heading-change-2026-11-23/`; not deployed | — | 2026-11-23 |
 | T-20261122-19 | bracket | websiteqa | Retest UK site after fixes (T-18) | done — PASS 0C/0H/0M/0L: og-image English-only, articles.css in dist (57 files, 0 missing refs, articles styled), privacy UK block factual, all 7 Lows fixed (tap targets 44px once animations settle). Regression 26 pages × 1440/390: 0 console errors, 0 broken links, no h-scroll, dropdown + mobile menu OK. `qa/bracket-report.md` | — | 2026-11-22 |
@@ -122,3 +123,4 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-23 16:05 pm — Bilal OK: cost FAQs (home, apps, AI agents, where-we-work) + website-cost article + llms.txt now match the 'from' prices (no more 'we don't list prices'); footer/body lines now 'UK and international businesses remotely' (25+ files). Backup in Website/_backups/before-price-faq-fix-2026-11-23. Profile: official £ price list + 'from' prices on site.
 2026-11-23 16:15 pm — Bilal: blur over the 'Start with our guides' line. Cause: bracket-3d.css styled '.also a' inline links as glass cards (backdrop blur + shadow + JS tilt) that smeared across wrapped text. Fixed with a CSS override (plain underlined links) on all 7 pages that use it; backup in Website/_backups.
 2026-11-23 21:20 instapulse — daily check (read-only): 2 followers, 8 posts (none since 9 Nov), 0 new comments, 0 START, 0 new DMs (Primary/General/Requests), 0 leads, 0 trials to judge. analytics/week-03.md
+2026-11-23 22:08 pm — Bilal: keep the week-03 reels as they are; make 1 new main reel on the founding offer + new trial reels based on the updated Website; send for approval before posting. Instamake T-20261123-10 started.
