@@ -33,3 +33,10 @@ Make a track: `python3 -I audio-kit/bg_music.py <style> <seed> <duration> <out.w
 week-03 duration note (22 Nov, 13:11 revision): all 21 week-03 tracks above regenerated with the same style+seed at the CTA end-card lengths: 14.95 s (Mon, Thu–Sun + their trials, Wed trials), 13.75 s (Tue + trials), 13.15 s (Wed main).
 
 week-03 UK remake (22 Nov, T-20261122-14): all 21 tracks regenerated with the same style+seed as above (one per reel, none shared), new voice lines (£ example maths, Didsbury/Chorlton hooks). Lengths unchanged: 13.15–14.95 s.
+| 2026-11-23 | week-03 extra offer-main (founding offer) | house | 139 |
+| 2026-11-23 | week-03 extra trial-01 (we write the text) | lofi | 149 |
+| 2026-11-23 | week-03 extra trial-02 (ready for Google) | piano | 151 |
+| 2026-11-23 | week-03 extra trial-03 (nothing live without your yes) | pluck | 157 |
+| 2026-11-23 | week-03 extra trial-04 (real phones) | ambient | 163 |
+| 2026-11-23 | week-03 extra trial-05 (from £655, plumber Stockport) | house | 167 |
+| 2026-11-23 | week-03 extra trial-06 (founding offer, see it first) | lofi | 173 |

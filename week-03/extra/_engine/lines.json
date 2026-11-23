@@ -1,0 +1,72 @@
+{
+ "offer-main": [
+  "house",
+  139,
+  [
+   "Your website first. Payment after.",
+   "We build it on a preview link. You review it. Happy? Then you pay.",
+   "No upfront payment for our first five clients. Scope agreed in writing first.",
+   "We'll build it for you. Comment start."
+  ]
+ ],
+ "trial-01": [
+  "lofi",
+  149,
+  [
+   "Not sure what to write on your website?",
+   "One short call, and we write the page text for you.",
+   "You check it on our preview link before anything goes live.",
+   "We'll write it for you. Comment start."
+  ]
+ ],
+ "trial-02": [
+  "piano",
+  151,
+  [
+   "Ready for Google from day one?",
+   "Clear titles, fast pages, a sensible structure. All built in.",
+   "SEO basics from day one. Ongoing SEO is optional.",
+   "We'll build it for you. Comment start."
+  ]
+ ],
+ "trial-03": [
+  "pluck",
+  157,
+  [
+   "Nothing goes live without your yes.",
+   "You see the whole site on a preview link. You say yes. Then it goes live.",
+   "And the scope is written down before any work starts.",
+   "We'll build it for you. Comment start."
+  ]
+ ],
+ "trial-04": [
+  "ambient",
+  163,
+  [
+   "Checked on real phones before launch.",
+   "Built for phones first, and checked on real ones before it goes live.",
+   "WhatsApp or booking built in, card payments, and easy to edit yourself.",
+   "We'll build it for you. Comment start."
+  ]
+ ],
+ "trial-05": [
+  "house",
+  167,
+  [
+   "Plumber in Stockport with no website yet?",
+   "A site built for the phone, with call, WhatsApp or booking built in.",
+   "Websites from six hundred and fifty-five pounds. Exact price in a written quote.",
+   "We'll build it for you. Comment start."
+  ]
+ ],
+ "trial-06": [
+  "lofi",
+  173,
+  [
+   "See your new website before you pay a penny.",
+   "Tell us about your business. Agree the scope in writing. We write and build it.",
+   "You pay only when you're happy. First five clients only.",
+   "Ask for a founding place. Comment start."
+  ]
+ ]
+}
