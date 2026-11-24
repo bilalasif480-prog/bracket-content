@@ -9,7 +9,7 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
-| T-20261123-10 | bracket | instamake | New MAIN reel: founding offer (first 5 clients, no upfront payment) + 6 new trial reels from the updated website; existing week-03 reels untouched | running | — | 2026-11-23 |
+| T-20261123-10 | bracket | instamake | Founding-offer main + 6 website reels | approved by Bilal 24 Nov 16:34 — offer Tue 24 20:00 KW (pinned), trials 12:00 KW Wed 25–Mon 30, normal reels | Mac on | 2026-11-23 |
 | T-20261123-01 | bracket | pm (founder skill) | Founder board + competitors + 20-buyer panel on the UK website | done — `founder/SUMMARY.md`; 0/20 buy, trust is the blocker | — | 2026-11-23 |
 | T-20261123-01 | bracket | websitebuilder | Remove "UK" from big headings only (H1s + article card titles on articles hub) | done — 10 H1s + 3 article card h3s on articles.html; UK kept in titles/metas/og/JSON-LD/body/FAQ/privacy/llms.txt/Manchester; backup `_backups/before-heading-change-2026-11-23/`; not deployed | — | 2026-11-23 |
 | T-20261122-19 | bracket | websiteqa | Retest UK site after fixes (T-18) | done — PASS 0C/0H/0M/0L: og-image English-only, articles.css in dist (57 files, 0 missing refs, articles styled), privacy UK block factual, all 7 Lows fixed (tap targets 44px once animations settle). Regression 26 pages × 1440/390: 0 console errors, 0 broken links, no h-scroll, dropdown + mobile menu OK. `qa/bracket-report.md` | — | 2026-11-22 |
@@ -128,3 +128,4 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-24 14:31 instamake — Tue T1 trial (day1-trialA.mp4) WAITING: instagram.com has no Trial switch, so not posted (would go to followers). Logged in week-03/SCHEDULED.md; asked Bilal.
 2026-11-24 14:52 instamake — Tue T1 (day1-trialA.mp4) posted 14:48 via iPhone Mirroring as a NORMAL reel (not Trial: IG audio notice shared it early, Bilal picked 'Turn off and share'); caption added by edit (5-hashtag cap, other 4 in first comment); first comment posted.
 2026-11-24 15:10 instamake — Bilal: no Trial option on @bracketkw, so the T1/T2 reels this week post as normal reels; 14:30 + 18:30 scheduled tasks updated.
+2026-11-24 16:35 pm — Bilal said YES to week-03/extra: offer-main.mp4 posts Tue 24 at 20:00 Kuwait as an extra main and gets pinned; trial-03, 01, 04, 02, 05, 06 post one a day at 12:00 Kuwait Wed 25 – Mon 30 as NORMAL reels (no Trial option). Captions/first comments from week-03/extra/PLAN.md (max 5 hashtags in caption, rest in first comment).
