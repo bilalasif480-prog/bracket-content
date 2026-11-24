@@ -25,3 +25,9 @@ Post with Instagram's **Trial** switch on: T1 14:30, T2 18:30 Kuwait (11:30 and 
 
 Voice line 1 per trial = the hook line (af_heart 1.0); the other lines are the same as the base reel.
 Trial captions and first comments: see `POSTING-PLAN.md` (one shared caption per pair so only the hook differs).
+
+## Daily checks (Instapulse)
+| Check (Kuwait) | Reel | Age | Views | 3 s hold | Watch-through | Shares | Saves | Verdict |
+|---|---|---|---|---|---|---|---|---|
+| Wed 25 Nov 00:20 | day1-trialB (posted as normal reel 18:33) | ~6 h | 2 (grid count) | not read (<24 h) | — | — | — | Too early; first read Wed evening |
+| Wed 25 Nov 00:20 | day1-trialA (posted 14:48 per SCHEDULED) | — | not found on grid/Reels tab | — | — | — | — | Missing: Bilal to check the app (draft, failed upload or other account?) |
