@@ -133,3 +133,4 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-24 18:30 instamake — Tue T2 (day1-trialB.mp4) posted 18:33 via Chrome as a NORMAL reel: https://www.instagram.com/reel/DgIR2yXKNNY/ ; caption (5 hashtags) + first comment (question + 4 hashtags) done.
 2026-11-24 19:25 pm — Bilal will upload all remaining 26 reels himself today. Sent him numbered mp4s + CAPTIONS.md. Paused the 3 week-03 posting tasks (14:27/18:27/21:57). Pausing the offer (19:57 today) and 11:57 website-reel tasks was blocked by the safety check — Bilal must pause them or they will post duplicates.
 2026-11-24 19:46 pm — All 5 IG posting tasks off. 7 reels scheduled in Meta Business Suite (IG only): 01+08 Tue, 04/09/10/11 Wed, 02 Thu 12:00. Bilal said stop; rest not scheduled.
+2026-11-24 19:50 pm — Bilal: wait until Wednesday to schedule the remaining 19 reels. Stopped the run (nothing new scheduled); reminder set for this session Wed 25 Nov 10:00 Kuwait.
