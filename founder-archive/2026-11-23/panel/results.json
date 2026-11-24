@@ -1,0 +1,140 @@
+{
+ "business": "Bracket, a one-person software house based in Kuwait that builds websites, AI booking agents, SEO and GEO for UK small businesses, remotely",
+ "seed": 146238,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 0,
+ "passes": 20,
+ "buy_rate": 0.0,
+ "by_segment": [
+  [
+   "Established local business (15-40 staff; income = yearly turnover in GBP)",
+   3,
+   0.0
+  ],
+  [
+   "Small team business (4-15 staff; income = yearly turnover in GBP)",
+   8,
+   0.0
+  ],
+  [
+   "Sole trader or micro business (1-3 people; income = yearly turnover in GBP)",
+   9,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Word of mouth only",
+   3,
+   0.0
+  ],
+  [
+   "DIY first",
+   3,
+   0.0
+  ],
+  [
+   "Reads every review",
+   2,
+   0.0
+  ],
+  [
+   "Gets three quotes",
+   4,
+   0.0
+  ],
+  [
+   "Wants it done for them",
+   3,
+   0.0
+  ],
+  [
+   "Burned before",
+   3,
+   0.0
+  ],
+  [
+   "Price first",
+   2,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$414,000 and up",
+   7,
+   0.0
+  ],
+  [
+   "under $88,000",
+   6,
+   0.0
+  ],
+  [
+   "$88,000 to $414,000",
+   7,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   18,
+   [
+    "I only use people someone I know has used, and nobody I know has heard of a firm in Kuwait with no UK clients. I already get web designers DMing me every month and I ignore them all, so this goes in the same pile.",
+    "My Booksy page and Instagram already bring people in, and I'm not handing 50% upfront by PayPal to a company in Kuwait with no UK office and not one past client to show me. On top of that I don't have the time to write content and go back and forth on scopes at midnight after closing."
+   ],
+   [
+    "P001",
+    "P002"
+   ]
+  ],
+  [
+   "habit",
+   1,
+   [
+    "I've already got my Fresha booking page and a free Wix site that does the job, so £655 for a new website plus £109 a month for a bot feels like money I don't need to spend. If I did want one, someone in my Facebook group would know a local person who'd do it cheaper."
+   ],
+   [
+    "P015"
+   ]
+  ],
+  [
+   "price",
+   1,
+   [
+    "£655 is a big chunk of my month when Wix or a mate can knock something up for a hundred quid, and the monthly add-ons would just bleed me. Plus I'd still have to write all the content and answer their questions at midnight after closing."
+   ],
+   [
+    "P017"
+   ]
+  ]
+ ],
+ "why_yes": [],
+ "flip": [
+  "Another owner I know locally telling me they used them, the site came out well and they actually pick up when something breaks.",
+  "A couple of real Manchester businesses like mine I can actually ring or visit, plus them writing all the content themselves so it costs me no time, with payment only once I've seen the design.",
+  "Seeing it actually working for another Manchester salon or barber I could ring up, plus a free trial month before I pay anything.",
+  "Real reviews on Google or Trustpilot from UK small businesses I could actually contact, plus being able to pay by bank transfer with a smaller deposit.",
+  "Two or three real UK businesses I could ring and a live site to look at, plus paying the bulk on launch rather than upfront.",
+  "Two or three real Manchester businesses I can ring or visit that are using their site and the WhatsApp agent, ideally with a free trial of the agent before I pay anything.",
+  "A couple of real Manchester businesses in my Facebook group vouching for them, plus a smaller deposit or paying only once I've seen the design.",
+  "Seeing two or three real Manchester businesses they've done, that I can ring and ask, plus paying less up front so I'm not risking half before I've seen anything.",
+  "A local owner I trust telling me they built their site, it works and they own it, ideally with a smaller deposit so I'm not risking much at the start.",
+  "A few real Manchester businesses I can actually ring or visit who say they delivered on time, plus a small deposit with most of the money paid only once the site is live.",
+  "Real local clients I could phone myself, and no big deposit, so I pay only once I've seen the design working.",
+  "A few real UK clients I could ring or see reviews from, plus them writing all the content for me from one short call, and letting me pay by bank transfer with less up front.",
+  "A couple of real Manchester businesses I can ring that they've done sites for, plus them writing all the content themselves from one short call, and paying the bulk only once it's live.",
+  "A couple of Manchester businesses from my Facebook group vouching for them with live sites I can check, and a smaller deposit, or paying only once I've seen the design.",
+  "A few real UK small businesses like mine recommending them in the group, and a much cheaper starter site, around £300, paid mostly after it's live.",
+  "A few real UK clients I could ring for a reference, plus a much smaller deposit, or paying only once I've seen and approved the design.",
+  "A basic site under £300 with them writing the content for me, and paying the bulk only once it's live.",
+  "A handful of real, checkable reviews from UK businesses on Google or Trustpilot, plus a smaller first payment so I'm not risking half up front.",
+  "Another owner I know in Manchester telling me they built theirs and it actually works",
+  "A couple of real Manchester businesses I can ring who they've built for, and a payment plan where most of the money is only paid once the site is live and working."
+ ],
+ "purchases_first_month_per_buyer": null,
+ "price_answers": 20
+}

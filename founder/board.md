@@ -1,29 +1,32 @@
-# Board verdict: Bracket, UK market (fresh run, 23 Nov 2026)
+# Board verdict: Bracket, updated site (24 Nov 2026)
 
-**Vote: 3 × FUND IF. Average score 3.3 / 10** (Offers 3, Monopoly 3, Product 4).
-Memos in `board/`. Brief: `board/brief.md`.
+**Vote: 2 × FUND IF, 1 × PASS. Average 4.0 / 10** (Offers 4, Monopoly 3 PASS, Product 5).
+Yesterday (before the changes): 3 × FUND IF, average 3.3. Memos in `board/`.
 
-## Risks all three raised
-1. **No focus.** Five equal services for "UK SMEs", and the site now says "UK and international" while the profile says Manchester first. There's no one thing Bracket is known for, so buyers compare on price.
-2. **No proof and no way in yet.** No UK clients, no case studies, no plan for how the first 10 clients arrive, no stated budget, hours or cost to win a client.
-3. **The first five minutes look unfinished to a UK buyer.** No live domain, Gmail address, +965 WhatsApp, PayPal only, and nothing to look at except the site itself.
+## What the changes fixed (all three agree)
+- Pay-only-when-happy for the first 5 takes away the price risk honestly; 5 places is real scarcity.
+- Websites-first with SEO folded in gives a one-sentence promise.
+- "We write the text" removes the job owners put off most.
 
-Raised by two: one person with a full-time job selling monthly products (care plans, SEO/GEO, £109/month agents) that need someone to answer during UK hours.
+## Risks more than one member raised
+1. **The market is still vague** (all three). The site says "UK and internationally", the profile says Manchester first, and "any small business wanting a website" is one of the most crowded markets there is.
+2. **The shop window looks unfinished** (Offers, Product). No live site, no domain, Gmail and a +965 number. The offer removes the money risk, not the fear of wasting weeks on an unknown overseas firm.
+3. **No route to buyers** (Offers, Monopoly). No channel, budget, weekly hours or cost per client.
+4. **Delivery seams for one part-time person** (Product, Offers): turnaround, revisions, what "happy" means.
 
 ## Conditions (checklist)
-- [ ] One lead offer for one buyer. All three point at the same candidate: the WhatsApp/website **booking agent** (plus the site it lives on) for one trade, e.g. salons/barbers or clinics. Other services become add-ons.
-- [ ] Headline says that one thing in one sentence. Site and profile agree on the market (Manchester first, or UK, not "and international").
-- [ ] Fix first-touch trust before any outreach: live site on a real domain, matching business email, card payments as well as PayPal.
-- [ ] A guarantee the numbers can carry, e.g. live in a set number of days or money back, or the monthly fee starts only once the agent takes real bookings. (`/founder-cfo` to check.)
-- [ ] Proof first: one or two UK results (a paid pilot is fine), published with the client's permission.
-- [ ] Written plan for the first 10 clients: channel, weekly hours, measured cost per client.
-- [ ] A support promise Bilal can actually keep with his hours. ⚠️ The Product lens wants stated response times; the business profile bans reply-time promises. Bilal decides.
-- [ ] A review date: no paying UK client by then → change the wedge, don't add services.
+- [ ] Pick one niche in one city (e.g. one trade in Manchester), and make the wording match everywhere. Drop "internationally" or say why it stays.
+- [ ] Put Bracket's own site live on a real domain with a business email **before** outreach.
+- [ ] Define "happy": number of revision rounds, a target time to the first preview.
+  ⚠️ The Product lens also wants a stated reply time; the business profile bans reply-time promises. Bilal decides.
+- [ ] Publish one finished demo site for the chosen niche.
+- [ ] Hide the extra services (apps, agents, GEO) until the founding 5 are done (Product); Offers would build the stack from the niche's real problems instead.
+- [ ] Write down how the first 10 clients arrive and track the cost of each founding client.
+- [ ] Name one advantage a buyer can see that's far better than the alternative, not just cheaper (Monopoly's bar to move from PASS).
 
 ## Where they disagree
-- Product scores highest (4): the craft (schema, security, no trackers), the buyer-side process and the honest demo count as real strengths. Monopoly says none of it is defensible, since anyone with the same AI tools can copy it.
-- Offers sees the prices (£655 site, £325/month SEO) as inviting a price fight; whether they are below UK market is open (`/founder-competitors` answers it).
-- Monopoly is the only one to name GEO, not the booking agent, as a possible wedge, because it's the newest category.
+- **Monopoly passes; the others fund if.** Monopoly says every change is copyable within months and nothing gives Bracket a market it can own. Product says the experience is now clearly better and worth testing with the founding 5.
+- **Extra services:** Product wants them hidden; Offers would keep only the ones that solve the niche buyer's obstacles (Google Business Profile, booking/enquiry flow).
 
 ## The strongest version the board can see
-Not five services for the whole UK. A remote software house that sells one thing to one kind of UK business: a WhatsApp/website agent that answers and books for, say, Manchester salons or clinics, set up with the simple site it lives on, with a set price, a set delivery time and a guarantee tied to real bookings. Proven by one or two published local results before anything else is added, on a real domain with a business email and card payments.
+A remote software house that builds websites for one kind of UK business in one city, with a demo built for that trade, its own site live on a real domain, and the founding 5 offer with a clear definition of "happy". Each of the five becomes a public review in the same niche, so the next client is easier to win. Everything else waits.

@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "I look up everyone on Google and Trustpilot before I even message them, and a company in Kuwait with no UK office and no past clients gives me nothing to check. Paying half up front by PayPal to someone I can't look up feels like a gamble I can't afford.",
-  "objection": "No reviews and no past work to show, so if it goes wrong I've lost half my money to a firm overseas I can't chase. It's good that I'd own my site, but I still worry about the monthly extras creeping up after launch.",
-  "would_change_my_mind": "Real reviews on Google or Trustpilot from UK small businesses I could actually contact, plus being able to pay by bank transfer with a smaller deposit.",
-  "price_too_cheap": 200,
-  "price_cheap": 450,
-  "price_expensive": 900,
-  "price_too_expensive": 1500
+  "reason": "I check Google and Trustpilot before I ring anyone, and there's nothing to check here: no reviews, no past clients, no UK office. Not paying upfront is nice, but I'd still be giving my time to a company in Kuwait I can't vet, and I don't have time for calls and back-and-forth that might go nowhere.",
+  "objection": "Zero reviews and no work to look at. If it goes wrong, who do I chase, and how many evenings do I lose going back and forth on WhatsApp across time zones?",
+  "would_change_my_mind": "Seeing a few genuine Google or Trustpilot reviews from other Manchester small businesses, plus live sites they've actually built that I can click through.",
+  "price_too_cheap": 250,
+  "price_cheap": 500,
+  "price_expensive": 1200,
+  "price_too_expensive": 2000
 }

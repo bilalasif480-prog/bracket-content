@@ -1,29 +1,25 @@
 # Product lens
-Score: 4 | Vote: FUND IF
+Score: 5/10 | Vote: FUND IF
 
 ## What is strong
-- **Craft is visible where nobody looks.** The site is plain HTML/CSS/JS with schema, llms.txt, security headers and no trackers. Those are the hidden parts, and here they are done properly.
-- **The process is designed from the buyer's side.** Talk, written scope, design you approve, build, check, launch after your yes, support window. The client owns the domain, code and accounts. The buyer's main fears are answered before they ask.
-- **The trust lines are honest.** No promised rankings, "no UK office" said openly, the time difference explained, one contact. With no proof yet, that candour is the right instinct.
-- **The WhatsApp booking-agent demo** lets a visitor experience the product instead of reading about it, and it is labelled honestly.
+- **Focus got sharper.** Websites are now the main offer and the headline fits in one sentence: "Websites for small businesses, ready for Google". SEO folded into the website instead of being a separate thing to buy. The Product lens likes that kind of cut.
+- **The experience starts with less effort from the buyer.** "We write the text from one short call", a written scope, a preview link and payment only when happy. That works back from the moment the owner sees a finished site, not from what Bracket wants to sell.
+- **The ending is clear.** The client owns the domain, code and accounts after payment, and there is a support window. The site says what it won't do (no promised rankings, no invented reviews, no UK office). Honest limits are part of good craft.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **No focus.** Five services "with equal weight", across websites, apps, AI agents, SEO and GEO, for any SMB, "UK and international". Nothing has been cut, so there is no one thing done brilliantly, and the headline cannot say what Bracket is in one sentence that a Manchester owner remembers.
-2. **Seams in the first five minutes.** A UK buyer meets a site with no domain, a Gmail address, a +965 WhatsApp number, PayPal only and no work to look at except the site itself. Each one is a small break in the experience. Together they tell the buyer this is not finished.
-3. **Nobody owns the whole experience after launch.** One person with a full-time job, building through AI agents, sells products that need ongoing care (care plans, monthly SEO/GEO, agents on £109/month). Where work passes between agents and the one human, and when the client is in a different time zone, is exactly where quality slips and the buyer feels it.
+1. **The shop window contradicts the product.** A business that sells "websites ready for Google" has no deployed site, no domain, a Gmail address and a +965 WhatsApp number. The buyer's first five minutes are the product, and right now those five minutes look unfinished. This is the seam that matters most.
+2. **Seams in delivery.** One person with a full-time job, a team of AI agents and UK clients in another time zone. Every handoff (call to scope, agents to build, preview to feedback, payment to handover) is a place where it can break. The brief states no weekly hours or turnaround time, so nobody can say how fast a reply or a revision really comes.
+3. **The focus is not finished.** Apps, AI agents, GEO, a care plan and local SEO are still on the site, with their own prices, and the market wording says "UK and internationally" while the profile says Manchester first. Each extra line weakens the one-sentence promise and adds work for one person.
 
 ## The questions I would ask the founder
-- In one sentence, what does Bracket do and for whom?
-- If you could keep only one of the five services, which would it be, and why that one?
-- Walk me through a Manchester owner's first five minutes, from the first touchpoint to the first reply. What do they see, and when?
-- Is it Manchester first or UK and international? The profile and the site disagree.
-- How many hours a week can you give clients, and who answers when a live agent or a client's site breaks during UK working hours?
-- Where do you check the agents' output before a client sees it?
-- Are there plans for a domain, a matching email, UK-friendly payment and a UK contact route?
+- Describe the first five minutes a Manchester owner spends with Bracket, from the first message to the first preview. What do they see, and how long does each step take?
+- What does "happy" mean in "pay only when happy"? How many revision rounds come before a change counts as outside the scope?
+- Who checks the AI agents' output before the client sees it, and what is your quality bar for the parts the client never looks at (speed, accessibility, code)?
+- What would you cut from "More services" if you could keep only one thing?
+- How many hours a week can you give this, and what reply time can you promise a UK client?
 
 ## If FUND IF: the conditions
-1. Pick one lead service and one buyer type (the booking agent plus the site it lives on is the clearest candidate), and make the other services add-ons, not equal headlines.
-2. Rewrite the headline so it says that one thing in one sentence, and make the site and the business profile agree on the market.
-3. Before any outreach, close the first-touch seams: deploy on a real domain, use matching email, and give buyers a payment and contact route a UK buyer expects.
-4. Ship one complete client journey (even a paid pilot) end to end, including post-launch support, and publish it as the first case study.
-5. Write a support promise the founder can actually keep with his hours, and state the response times.
+1. Bracket's own site is live on its own domain with a business email before the first outreach goes out. It should be the best example of the product.
+2. Cut or hide the extra services until the founding 5 websites are delivered. One market wording (UK, Manchester first) everywhere.
+3. Write down the handoffs: a reply time, a build time, a set number of revision rounds, and a human check of every page before the preview link goes out.
+4. Use the founding 5 to test the whole experience end to end and fix each seam before charging the 50/20/30 rate.

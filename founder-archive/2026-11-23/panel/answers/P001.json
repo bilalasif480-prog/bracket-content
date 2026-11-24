@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I only use people someone I know has used, and nobody I know has heard of a firm in Kuwait with no UK clients. I already get web designers DMing me every month and I ignore them all, so this goes in the same pile.",
+  "objection": "No past clients, no UK office, nobody to vouch for them, and it's another monthly fee on top of the build. If it goes wrong I can't pop round, I'm chasing someone on WhatsApp in a different time zone.",
+  "would_change_my_mind": "Another owner I know locally telling me they used them, the site came out well and they actually pick up when something breaks.",
+  "price_too_cheap": 400,
+  "price_cheap": 1200,
+  "price_expensive": 3500,
+  "price_too_expensive": 7000
+}

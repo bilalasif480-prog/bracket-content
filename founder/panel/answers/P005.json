@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "I always get three quotes from local Manchester firms I can meet, and a company in Kuwait with no UK office and nobody to show me doesn't even make the shortlist. With 30 staff and customers finding me on Google Maps, I can't gamble my site on a firm with no track record.",
-  "objection": "No past clients and no one local I can sit across from, so if it goes wrong after I've paid 70% by PayPal, who do I chase? The 'you own your code' line is good, but I've got nothing to prove they'll deliver it.",
-  "would_change_my_mind": "Two or three real UK businesses I could ring and a live site to look at, plus paying the bulk on launch rather than upfront.",
-  "price_too_cheap": 500,
-  "price_cheap": 1500,
-  "price_expensive": 4000,
-  "price_too_expensive": 7000
+  "reason": "I always get three quotes from local firms I can actually go and see, and a Kuwait outfit with no UK office, no past clients and no reviews doesn't make my shortlist. Pay-when-happy is clever, but for a business my size the real cost is my time chasing a firm I can't pop round to.",
+  "objection": "No track record and nobody local I can hold to account. If something breaks after launch or my Google listing drops, I'm messaging someone in another time zone, and I don't have time for back-and-forth calls.",
+  "would_change_my_mind": "Seeing two or three live sites they've built for Manchester businesses like mine, with owners I could ring, plus a written support promise with UK-hours response times.",
+  "price_too_cheap": 400,
+  "price_cheap": 1200,
+  "price_expensive": 3500,
+  "price_too_expensive": 6000
 }

@@ -9,6 +9,7 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
+| T-20261124-01 | bracket | pm (founder skill) | Re-run board + competitors + 20-buyer panel on the updated site | done — `founder/SUMMARY.md`; 1/20 buy (was 0/20), board avg 4.0 (was 3.3) | — | 2026-11-24 |
 | T-20261123-10 | bracket | instamake | Founding-offer main + 6 website reels | approved by Bilal 24 Nov 16:34 — offer Tue 24 20:00 KW (pinned), trials 12:00 KW Wed 25–Mon 30, normal reels | Mac on | 2026-11-23 |
 | T-20261123-01 | bracket | pm (founder skill) | Founder board + competitors + 20-buyer panel on the UK website | done — `founder/SUMMARY.md`; 0/20 buy, trust is the blocker | — | 2026-11-23 |
 | T-20261123-01 | bracket | websitebuilder | Remove "UK" from big headings only (H1s + article card titles on articles hub) | done — 10 H1s + 3 article card h3s on articles.html; UK kept in titles/metas/og/JSON-LD/body/FAQ/privacy/llms.txt/Manchester; backup `_backups/before-heading-change-2026-11-23/`; not deployed | — | 2026-11-23 |

@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I always get three quotes from local firms I can actually meet, and a company in Kuwait with no past clients to show wouldn't make my shortlist. And I'm not letting an AI agent answer my customers on WhatsApp when I can't see it working for anyone else first.",
+  "objection": "No UK clients, no portfolio, no one local I can hold to account, and paying 50% upfront by PayPal to someone abroad. If the AI tells a customer the wrong thing it's my name on it, not theirs.",
+  "would_change_my_mind": "Two or three real Manchester businesses I can ring or visit that are using their site and the WhatsApp agent, ideally with a free trial of the agent before I pay anything.",
+  "price_too_cheap": 400,
+  "price_cheap": 900,
+  "price_expensive": 2500,
+  "price_too_expensive": 4500
+}

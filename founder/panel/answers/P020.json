@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "I've already been burned by a web designer who took my money and left me with half a site. A company in Kuwait with no UK office, no past clients and 50% upfront by PayPal is exactly the setup I swore I'd never fall for again.",
-  "objection": "If they go quiet halfway through I've got no one local to chase and no reviews to check - and then they want monthly fees on top of the build on top of that.",
-  "would_change_my_mind": "A couple of real Manchester businesses I can ring who they've built for, and a payment plan where most of the money is only paid once the site is live and working.",
-  "price_too_cheap": 400,
-  "price_cheap": 1000,
+  "reason": "Pay-on-completion is clever and it does take away the money risk, but I've been burned once and I'm not handing my business's main shopfront to a company in Kuwait with no clients, no reviews and a site of its own that doesn't look finished. I'd rather ask the local Facebook group who they used and go with someone I can actually meet.",
+  "objection": "Nobody can vouch for them. If it drags on or they disappear halfway, I've lost weeks of my time and I'm stuck chasing someone in another time zone, and £655 for a business my size makes me wonder what corners get cut.",
+  "would_change_my_mind": "Seeing two or three finished sites for real UK businesses I could ring and ask, ideally a recommendation from someone in my local group.",
+  "price_too_cheap": 500,
+  "price_cheap": 1200,
   "price_expensive": 3500,
   "price_too_expensive": 6000
 }

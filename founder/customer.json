@@ -1,31 +1,83 @@
 {
-  "business": "Bracket, a one-person software house based in Kuwait that builds websites, AI booking agents, SEO and GEO for UK small businesses, remotely",
-  "target": "Owners of small local businesses in Greater Manchester (cafés, salons, barbers, clinics, gyms, trades, estate agents, small shops) who have no website or one they're unhappy with",
+  "business": "Bracket, a one-person software house based in Kuwait that builds websites for UK small businesses, remotely",
+  "target": "Owners of small local businesses in Greater Manchester (caf\u00e9s, salons, barbers, clinics, gyms, trades, estate agents, small shops) who have no website or one they're unhappy with",
   "where": "Greater Manchester, UK",
-  "age": [24, 62],
+  "age": [
+    24,
+    62
+  ],
   "segments": [
-    {"name": "Sole trader or micro business (1-3 people; income = yearly turnover in GBP)", "share": 0.45, "income": [25000, 120000]},
-    {"name": "Small team business (4-15 staff; income = yearly turnover in GBP)", "share": 0.40, "income": [120000, 600000]},
-    {"name": "Established local business (15-40 staff; income = yearly turnover in GBP)", "share": 0.15, "income": [600000, 2500000]}
+    {
+      "name": "Sole trader or micro business (1-3 people; income = yearly turnover in GBP)",
+      "share": 0.45,
+      "income": [
+        25000,
+        120000
+      ]
+    },
+    {
+      "name": "Small team business (4-15 staff; income = yearly turnover in GBP)",
+      "share": 0.4,
+      "income": [
+        120000,
+        600000
+      ]
+    },
+    {
+      "name": "Established local business (15-40 staff; income = yearly turnover in GBP)",
+      "share": 0.15,
+      "income": [
+        600000,
+        2500000
+      ]
+    }
   ],
   "behaviours": [
-    {"name": "Gets three quotes", "share": 0.20, "how": "Always asks three local firms for quotes and picks the middle one."},
-    {"name": "Burned before", "share": 0.15, "how": "Paid a web designer before and the site was late, unfinished or held hostage; trusts nobody now."},
-    {"name": "DIY first", "share": 0.15, "how": "Built their own page on Wix or uses a Fresha/Booksy page and Instagram, and thinks that's enough."},
-    {"name": "Word of mouth only", "share": 0.15, "how": "Only hires people a friend or another local owner recommends."},
-    {"name": "Reads every review", "share": 0.12, "how": "Checks Google and Trustpilot reviews before contacting anyone."},
-    {"name": "Wants it done for them", "share": 0.13, "how": "Too busy to deal with tech; happy to pay if someone else handles it all."},
-    {"name": "Price first", "share": 0.10, "how": "Picks the cheapest option that looks good enough."}
+    {
+      "name": "Gets three quotes",
+      "share": 0.2,
+      "how": "Always asks three local firms for quotes and picks the middle one."
+    },
+    {
+      "name": "Burned before",
+      "share": 0.15,
+      "how": "Paid a web designer before and the site was late, unfinished or held hostage; trusts nobody now."
+    },
+    {
+      "name": "DIY first",
+      "share": 0.15,
+      "how": "Built their own page on Wix or uses a Fresha/Booksy page and Instagram, and thinks that's enough."
+    },
+    {
+      "name": "Word of mouth only",
+      "share": 0.15,
+      "how": "Only hires people a friend or another local owner recommends."
+    },
+    {
+      "name": "Reads every review",
+      "share": 0.12,
+      "how": "Checks Google and Trustpilot reviews before contacting anyone."
+    },
+    {
+      "name": "Wants it done for them",
+      "share": 0.13,
+      "how": "Too busy to deal with tech; happy to pay if someone else handles it all."
+    },
+    {
+      "name": "Price first",
+      "share": 0.1,
+      "how": "Picks the cheapest option that looks good enough."
+    }
   ],
   "objections": [
-    "They're in Kuwait, not Manchester: what if they disappear with my deposit?",
+    "They're in Kuwait, not Manchester: will they actually finish it and answer when something breaks?",
     "No reviews and no past clients to look at",
     "I already have a Wix page or a Fresha booking page",
     "A local freelancer would do it for less",
-    "An AI agent talking to my customers could get things wrong",
-    "Hidden extras later, or I won't own my site",
-    "I don't have time to write the content and answer their questions",
-    "Paying a monthly fee on top of the build"
+    "What does 'pay when happy' really mean, and is there a catch?",
+    "I don't have time for calls and back-and-forth",
+    "Ongoing monthly costs after launch",
+    "Their own website and email don't look established yet"
   ],
   "habits": [
     "you take most enquiries on WhatsApp and Instagram DMs",

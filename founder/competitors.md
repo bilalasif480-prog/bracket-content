@@ -1,69 +1,52 @@
-# Competitors: Bracket, UK / Manchester small businesses (23 Nov 2026)
+# Competitors: Bracket websites, UK small businesses (24 Nov 2026)
 
-Public sources only; every row links in `competitors.csv`. Prices are each provider's own published figure on the date checked. Ratings were only recorded where the page showed them.
+Public sources only; links in `competitors.csv`. Manchester price data from 23 Nov; the pay-on-completion and pay-monthly rivals were checked 24 Nov. Market is "websites for UK small businesses" because the site now leads with websites.
 
 ## 1. Who is there
-
-**Direct (same thing, same buyer)**
-| Name | Where | Comparable price | Their line |
+**Direct: one-off website builders**
+| Name | Where | Price | Notable |
 |---|---|---|---|
-| Blue Whale Media | Manchester agency | £495+VAT 8-page site; £895+VAT 12-page WordPress | "Award-Winning Web Design Manchester Company" |
-| WebHive Studios | Manchester freelancer | £150 basic; £500 premium incl. logo, 2 months support | small-business sites |
-| DotGO | serves Greater Manchester | small shop £899+VAT, instant online quote | "We design websites for small businesses in Greater Manchester" |
-| Reason8 | Manchester | from £1,995, fixed price | "Fixed-price Web Design from £1,995" |
-| Aware Digital | Manchester / North West | local SEO £449/month, 6 or 12 months | "Local SEO Manchester & Google Business Setup" |
-| Softomate Solutions | UK, online | AI receptionist from £299/month managed; £599 with WhatsApp + Instagram | done-for-you for UK aesthetic clinics |
+| Zafiro | UK, online | packages (price not recorded) | **No payment upfront, pay once built and you're happy, bank transfer** — the same offer as Bracket's |
+| OWTOWT Services | UK, online | £0 upfront, £59/month only if you launch | **Free preview before you pay** |
+| Will Farmer | UK sole designer | Starter £449 | "5–7 days to launch", "1 person — always me" |
+| DotGO | serves Greater Manchester | £499–£999 | "UK-based", 20+ years, says 1,500+ small businesses |
+| Blue Whale Media | Manchester | £495+VAT / £895+VAT | local agency |
+| WebHive Studios | Manchester | £150 / £500 | freelancer |
+| Reason8 | Manchester | from £1,995 | fixed price |
 
-Plus a very long tail: Clutch lists about 1,600 web design companies serving Manchester, and about 1,300 SEO companies.
+**Indirect: pay-monthly websites (zero upfront)**: Opace £50/month with a money-back guarantee and content writing included; Netmatters £44/month; Utopia from £29.99/month; ClickExpose (UK team, price not recorded).
 
-**Indirect (different product, same job: answer and book)**
-Fresha (AI Concierge built into salon booking software), Treatwell AI Receptionist, ANNA Reception £29/month, Fasthosts AI Receptionist from £39/month with a free month, claudIA €59–€199/month with no setup fee.
+**Substitutes**: Wix and similar (£9–£119/month), a free Fresha/Booksy page plus Instagram.
 
-**Substitutes**
-Wix and other builders (£9–£119/month; £16/month can sell online), owners doing their own Google Business Profile, or just a booking-platform page and Instagram.
-
-## 2. Price range vs Bracket
-| Item | Lowest | Median | Highest | Bracket |
-|---|---|---|---|---|
-| Small-business site (named Manchester offers) | £150 | £500 | £1,995 | Starter £655 |
-| Guide ranges, Manchester | basic brochure £800–£2,500 (BizHub365); UK starter tier £500–£1,200 (ProfileTree) | | | inside / below |
-| Local SEO per month | from £149 (The City SEO, London) | entry £150–£500 (GrowthScribe); £400–£800 small-business retainer (BizHub365) | £449 named (Aware Digital) | £325 |
-| AI receptionist / booking agent | £29/month, no setup (ANNA) | £39–£119/month SaaS | £299–£599/month managed (Softomate) | **£875 setup** + £109/month |
-| GEO | US agency guides: $1,500+/month for small business | | | £215/month |
-
-What stands out: Bracket's site and SEO prices sit in the normal Manchester range, neither cheap nor premium. **The AI agent is the outlier.** None of the packaged rivals found shows a setup fee on the pages read (claudIA says plainly it has none), and Fasthosts and claudIA give a free first month. GEO is far cheaper than the agency figures found, but those figures are US-based.
+## 2. Price range for a starter site
+Named one-off offers: lowest £150, **median £495–£500**, highest £1,995. **Bracket: £655.** Guides put a Manchester brochure site at £800–£2,500. So Bracket is mid-range, a bit above the cheapest local options and below the guide figures.
+Pay-monthly alternatives: £29.99–£59/month with nothing upfront.
 
 ## 3. Positioning map (text)
-Axes: **price** (low → high) × **done for you** (DIY → fully managed).
-- Low price, DIY: Wix, ANNA, Fasthosts, claudIA, Fresha.
-- Low price, done for you: WebHive (£150–£500), Blue Whale (£495–£895).
-- Mid price, done for you: **Bracket** (£655 site, £325 SEO), DotGO, Aware Digital.
-- High price, done for you: Reason8 (£1,995), Softomate (£299–£599/month), and the agencies on Clutch with $5,000–$10,000+ minimums.
-Nobody found sells site + booking agent + SEO + GEO as one managed bundle for a single small business. That's partly a gap and partly a sign that small-business buyers don't buy that way.
+Axes: **upfront risk to the buyer** (pay first → pay nothing until happy) × **trust signals** (none → UK-based with reviews and portfolio).
+- Pay first, strong trust: DotGO, Blue Whale, Reason8, the Clutch agencies.
+- Pay first, weak trust: WebHive and most freelancers.
+- Nothing upfront, strong trust: Opace (years in business, 500+ projects claimed, money-back guarantee), Netmatters, ClickExpose (UK-based).
+- Nothing upfront, weak trust: Zafiro, OWTOWT, **Bracket**.
 
-## 4. What customers complain about (web design firms, UK Trustpilot)
-1. **Paid, then the work was never finished or communication stopped.** Website Masters UK: a year after paying, still no working site ([link](https://ca.trustpilot.com/review/www.thewebsitemasters.co.uk)). Dash Media: a project from Nov 2021 "is still not finished", won in small claims ([link](https://nl-be.trustpilot.com/review/dashmedia.co.uk)). A freelancer: "After payment, communication became inconsistent, then stopped entirely" ([link](https://ca.trustpilot.com/review/digitaldavina.com)).
-2. **Hidden fees and upsells.** Webfactory: "HIDDEN CHARGES – BE WARNED!" ([link](https://ca.trustpilot.com/review/webfactory.co.uk)). Yellowball: hidden fees in the contract's fine print ([link](https://www.trustpilot.com/review/weareyellowball.com)). Zeek: thought it was £35 a month, then more was demanded ([link](https://ca.trustpilot.com/review/zeek.design)). Web Design Warrington: a £599 SEO extra, TrustScore 1.8 from 224 reviews ([link](https://nl-be.trustpilot.com/review/www.newworlddigitalmedia.co.uk)).
-3. **Ownership held hostage.** Website Masters UK: the client only wanted "our rightful ownership of our business profile" back ([link](https://nz.trustpilot.com/review/www.thewebsitemasters.co.uk)).
-4. **Work sent overseas without telling them (thin: one source, but directly relevant to Bracket).** A UK buyer: "I was never informed the site would be developed in India" ([link](https://www.complaintsboard.com/webcreationuk-cowboy-website-designers-c436377)).
-5. **Booking platforms: fees that change and marketplaces that show rivals** (from a competitor's own comparison, so biased): Fresha "Was 'free'. Now charge £9.95 per month per person" ([link](https://getslick.com/compare/fresha)).
-
-Each theme comes from a handful of reviews. That's enough to show the themes exist, but not enough to rank them by count.
+## 4. What customers complain about (from 23 Nov research; UK Trustpilot)
+1. Paid, then the site was never finished or the designer went quiet.
+2. Hidden fees and upsells after the first payment.
+3. Ownership of the domain or Google profile held back.
+4. (thin, one source) Work sent overseas without the client being told.
+Bracket's site answers all four in writing. So do several rivals.
 
 ## 5. The gap
-Bracket's website already answers complaints 1–4 almost word for word: written scope and price before work, design approval, "launch after your yes", **you own your domain, code and accounts**, and "based in Kuwait, no UK office" stated up front. That's the gap, and it's real: **trust and transparency for a remote builder**, in a market where the complaints are about money taken, work stalled, hidden extras and hostage accounts.
+**The founding offer is good, but it isn't unique.** At least two UK rivals already say "no payment upfront, pay when you're happy" or "see it before you pay", and pay-monthly firms offer zero upfront from about £30–£59/month. Removing payment risk fixes yesterday's top objection, but it doesn't make Bracket stand out.
 
-But the gap only works if Bracket can prove it. At the moment the site promises the opposite of the complaints with nothing to back it up (no clients, no reviews). Easy ways to make the claims checkable:
-- A published fixed price per package (already partly done) and **"no extras without your written OK"**.
-- Payment tied to progress (the 50/20/30 split already does this; say so on the site).
-- Handover checklist up front (domain, code and logins in the client's name from day one).
-- For the remote worry: one named person and regular previews.
+What's left that nobody found does well:
+- **One niche, shown.** None of the rivals found leads with a single trade. A finished demo site for, say, Manchester salons or trades would be something a buyer can see before talking to anyone.
+- **Text written for you, from one call, at a one-off price.** Opace includes content writing but on a monthly plan; the one-off builders mostly expect the client to supply text.
+- **Speed and named person.** Will Farmer competes on "5–7 days" and "always me". Bracket says neither.
 
-On the AI agent: as a stand-alone product it competes with £29–£119/month SaaS that has no setup fee and is built into the booking tools salons already use. The board's favourite wedge (a booking agent) is weaker than it looked. A booking agent only makes sense **bundled with the site**, or for businesses those platforms don't serve (trades, clinics outside Fresha/Treatwell).
+The honest answer: no strong gap yet. The biggest difference between Bracket and Zafiro/OWTOWT-type rivals is that they are UK-based. Bracket can only close that with proof (live site, real domain, the first reviews).
 
 ## 6. The threat
-- **Fresha and Treatwell** can switch on AI booking for their huge salon bases overnight. They already have, so salons are the worst niche for a stand-alone agent.
-- **Any Manchester freelancer using the same AI build tools** can match Bracket's process and undercut it (WebHive is already at £150–£500).
-- **Website builders' AI tools** (Wix and others) keep moving the DIY option closer to "done for you".
-
-Next: `/founder-consumer` uses complaints 1–4 as real buyer objections and tests whether "Kuwait-based, remote" kills the deal.
+- Pay-monthly firms can drop to £0 upfront and include text writing at no visible cost.
+- Any UK freelancer can add "pay when happy" in an afternoon (Zafiro and OWTOWT already have).
+- Builders' AI tools keep making DIY good enough for sole traders.

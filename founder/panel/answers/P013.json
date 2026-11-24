@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "I've already had one web bloke chasing me this month, and this lot are in Kuwait with no clients to show me. I'm not sending half up front by PayPal to someone I can't pop round and see. And it still sounds like I'd be writing all the words and answering their questions, which is the bit I don't have time for.",
-  "objection": "No past clients, nobody in the UK, and 50% up front by PayPal. If it goes wrong I've no one local to chase, and I'd still have to do the content myself.",
-  "would_change_my_mind": "A couple of real Manchester businesses I can ring that they've done sites for, plus them writing all the content themselves from one short call, and paying the bulk only once it's live.",
+  "reason": "I get web people cold-messaging me every month, and this lot are in Kuwait with no UK office and not one client I can ring or a review I can read. Pay-when-happy is clever, but my time is the real cost, and I'm not spending hours on video calls chasing someone abroad if it goes sideways.",
+  "objection": "Who looks after it once it's live? If something breaks on a busy Saturday, I'd be WhatsApping someone in a different time zone, and I'd bet the 'optional' £325 a month turns into something I'm pushed into.",
+  "would_change_my_mind": "Two or three real UK small businesses like mine that they've built for, which I could actually look at and ring, plus a clear fixed yearly price for hosting and looking after it so I know there's no surprise monthly bill.",
   "price_too_cheap": 300,
-  "price_cheap": 700,
-  "price_expensive": 2000,
-  "price_too_expensive": 3500
+  "price_cheap": 800,
+  "price_expensive": 2500,
+  "price_too_expensive": 4500
 }

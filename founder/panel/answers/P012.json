@@ -2,12 +2,12 @@
   "id": "P012",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "I'd love someone to just handle it all, but a company in Kuwait with no past clients, no UK office and half the money up front by PayPal is too much of a gamble for me. Plus 'tell them what you need' and 'approve the design' sounds like I'm still the one writing the content and chasing it.",
-  "objection": "If it goes wrong I've paid half to someone abroad I can't visit and can't look up any reviews for, and I still don't have time to write all the words and answer their questions.",
-  "would_change_my_mind": "A few real UK clients I could ring or see reviews from, plus them writing all the content for me from one short call, and letting me pay by bank transfer with less up front.",
+  "reason_code": "price",
+  "reason": "Paying only when I'm happy is nice, but nothing tells me what I'll be paying every month after launch for hosting, the domain or someone to fix things, and SEO at £325 a month on top is more than I'd spend. They hand me the logins and walk off, and I don't have time to look after a website myself.",
+  "objection": "The hidden monthly costs after it goes live, and who actually looks after it when something breaks, especially a company in Kuwait I've never heard of with no reviews.",
+  "would_change_my_mind": "One fixed, all-in price that includes hosting, domain and small updates for a low set monthly fee, written down, so I never have to touch the tech.",
   "price_too_cheap": 250,
-  "price_cheap": 500,
+  "price_cheap": 450,
   "price_expensive": 1200,
   "price_too_expensive": 2000
 }

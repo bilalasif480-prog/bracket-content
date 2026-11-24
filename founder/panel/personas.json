@@ -7,7 +7,7 @@
   "income": 1678000,
   "behaviour": "Word of mouth only",
   "behaviour_how": "Only hires people a friend or another local owner recommends.",
-  "objection": "Paying a monthly fee on top of the build",
+  "objection": "Their own website and email don't look established yet",
   "habit": "you've had a web designer cold-call or DM you this month"
  },
  {
@@ -18,7 +18,7 @@
   "income": 531000,
   "behaviour": "DIY first",
   "behaviour_how": "Built their own page on Wix or uses a Fresha/Booksy page and Instagram, and thinks that's enough.",
-  "objection": "I don't have time to write the content and answer their questions",
+  "objection": "Ongoing monthly costs after launch",
   "habit": "you answer messages late at night after closing"
  },
  {
@@ -29,7 +29,7 @@
   "income": 75000,
   "behaviour": "DIY first",
   "behaviour_how": "Built their own page on Wix or uses a Fresha/Booksy page and Instagram, and thinks that's enough.",
-  "objection": "An AI agent talking to my customers could get things wrong",
+  "objection": "What does 'pay when happy' really mean, and is there a catch?",
   "habit": "you answer messages late at night after closing"
  },
  {
@@ -40,7 +40,7 @@
   "income": 45000,
   "behaviour": "Reads every review",
   "behaviour_how": "Checks Google and Trustpilot reviews before contacting anyone.",
-  "objection": "Hidden extras later, or I won't own my site",
+  "objection": "I don't have time for calls and back-and-forth",
   "habit": "you pay your accountant and suppliers by bank transfer, not PayPal"
  },
  {
@@ -51,7 +51,7 @@
   "income": 816000,
   "behaviour": "Gets three quotes",
   "behaviour_how": "Always asks three local firms for quotes and picks the middle one.",
-  "objection": "Hidden extras later, or I won't own my site",
+  "objection": "I don't have time for calls and back-and-forth",
   "habit": "customers mostly find you on Google Maps"
  },
  {
@@ -62,7 +62,7 @@
   "income": 414000,
   "behaviour": "Gets three quotes",
   "behaviour_how": "Always asks three local firms for quotes and picks the middle one.",
-  "objection": "An AI agent talking to my customers could get things wrong",
+  "objection": "What does 'pay when happy' really mean, and is there a catch?",
   "habit": "you take most enquiries on WhatsApp and Instagram DMs"
  },
  {
@@ -84,7 +84,7 @@
   "income": 88000,
   "behaviour": "Wants it done for them",
   "behaviour_how": "Too busy to deal with tech; happy to pay if someone else handles it all.",
-  "objection": "An AI agent talking to my customers could get things wrong",
+  "objection": "What does 'pay when happy' really mean, and is there a catch?",
   "habit": "you've had a web designer cold-call or DM you this month"
  },
  {
@@ -95,7 +95,7 @@
   "income": 174000,
   "behaviour": "Word of mouth only",
   "behaviour_how": "Only hires people a friend or another local owner recommends.",
-  "objection": "Hidden extras later, or I won't own my site",
+  "objection": "I don't have time for calls and back-and-forth",
   "habit": "you take most enquiries on WhatsApp and Instagram DMs"
  },
  {
@@ -117,7 +117,7 @@
   "income": 122000,
   "behaviour": "Burned before",
   "behaviour_how": "Paid a web designer before and the site was late, unfinished or held hostage; trusts nobody now.",
-  "objection": "They're in Kuwait, not Manchester: what if they disappear with my deposit?",
+  "objection": "They're in Kuwait, not Manchester: will they actually finish it and answer when something breaks?",
   "habit": "you've had a web designer cold-call or DM you this month"
  },
  {
@@ -128,7 +128,7 @@
   "income": 64000,
   "behaviour": "Wants it done for them",
   "behaviour_how": "Too busy to deal with tech; happy to pay if someone else handles it all.",
-  "objection": "I don't have time to write the content and answer their questions",
+  "objection": "Ongoing monthly costs after launch",
   "habit": "you pay your accountant and suppliers by bank transfer, not PayPal"
  },
  {
@@ -139,7 +139,7 @@
   "income": 382000,
   "behaviour": "Wants it done for them",
   "behaviour_how": "Too busy to deal with tech; happy to pay if someone else handles it all.",
-  "objection": "I don't have time to write the content and answer their questions",
+  "objection": "Ongoing monthly costs after launch",
   "habit": "you've had a web designer cold-call or DM you this month"
  },
  {
@@ -150,7 +150,7 @@
   "income": 94000,
   "behaviour": "Gets three quotes",
   "behaviour_how": "Always asks three local firms for quotes and picks the middle one.",
-  "objection": "They're in Kuwait, not Manchester: what if they disappear with my deposit?",
+  "objection": "They're in Kuwait, not Manchester: will they actually finish it and answer when something breaks?",
   "habit": "you're in a local business Facebook group where people swap recommendations"
  },
  {
@@ -172,7 +172,7 @@
   "income": 598000,
   "behaviour": "Gets three quotes",
   "behaviour_how": "Always asks three local firms for quotes and picks the middle one.",
-  "objection": "They're in Kuwait, not Manchester: what if they disappear with my deposit?",
+  "objection": "They're in Kuwait, not Manchester: will they actually finish it and answer when something breaks?",
   "habit": "you take most enquiries on WhatsApp and Instagram DMs"
  },
  {
@@ -183,7 +183,7 @@
   "income": 31000,
   "behaviour": "Price first",
   "behaviour_how": "Picks the cheapest option that looks good enough.",
-  "objection": "I don't have time to write the content and answer their questions",
+  "objection": "Ongoing monthly costs after launch",
   "habit": "you answer messages late at night after closing"
  },
  {
@@ -194,7 +194,7 @@
   "income": 377000,
   "behaviour": "Reads every review",
   "behaviour_how": "Checks Google and Trustpilot reviews before contacting anyone.",
-  "objection": "They're in Kuwait, not Manchester: what if they disappear with my deposit?",
+  "objection": "They're in Kuwait, not Manchester: will they actually finish it and answer when something breaks?",
   "habit": "customers mostly find you on Google Maps"
  },
  {
@@ -205,7 +205,7 @@
   "income": 505000,
   "behaviour": "Word of mouth only",
   "behaviour_how": "Only hires people a friend or another local owner recommends.",
-  "objection": "Paying a monthly fee on top of the build",
+  "objection": "Their own website and email don't look established yet",
   "habit": "you answer messages late at night after closing"
  },
  {
@@ -216,7 +216,7 @@
   "income": 697000,
   "behaviour": "Burned before",
   "behaviour_how": "Paid a web designer before and the site was late, unfinished or held hostage; trusts nobody now.",
-  "objection": "Paying a monthly fee on top of the build",
+  "objection": "Their own website and email don't look established yet",
   "habit": "you're in a local business Facebook group where people swap recommendations"
  }
 ]

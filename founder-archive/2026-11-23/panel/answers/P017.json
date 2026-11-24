@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "£655 is a big chunk of my month when Wix or a mate can knock something up for a hundred quid, and the monthly add-ons would just bleed me. Plus I'd still have to write all the content and answer their questions at midnight after closing.",
+  "objection": "A company in Kuwait with no past clients to show me, wanting 50% up front by PayPal. If it goes wrong, who do I even chase?",
+  "would_change_my_mind": "A basic site under £300 with them writing the content for me, and paying the bulk only once it's live.",
+  "price_too_cheap": 80,
+  "price_cheap": 200,
+  "price_expensive": 400,
+  "price_too_expensive": 650
+}

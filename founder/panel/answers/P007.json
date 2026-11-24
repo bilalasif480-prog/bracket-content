@@ -2,12 +2,12 @@
   "id": "P007",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "My Fresha page and Instagram already get me bookings, so I don't really need a website. And I'm not sending 50% upfront by PayPal to a company in Kuwait with no reviews and nobody I can ask about them.",
-  "objection": "No reviews and no past clients. If it goes wrong I've got no one local to chase, and half my money's already gone before I've seen anything.",
-  "would_change_my_mind": "A couple of real Manchester businesses in my Facebook group vouching for them, plus a smaller deposit or paying only once I've seen the design.",
+  "reason_code": "need",
+  "reason": "My bookings come through Fresha and Instagram, and I already have a Wix page I made myself, so I don't really see what £655 gets me that I don't have. Paying only when I'm happy is nice, but a company in Kuwait with no reviews and nobody local I can ask about them isn't something I'd jump at.",
+  "objection": "No reviews, no past work to look at, and they're abroad. If something breaks after I've paid, who do I actually chase? Nobody in my Facebook group has heard of them.",
+  "would_change_my_mind": "Someone in my local business group I trust saying they used them and it actually brought them more bookings, not just a nicer-looking page.",
   "price_too_cheap": 150,
   "price_cheap": 300,
-  "price_expensive": 550,
-  "price_too_expensive": 900
+  "price_expensive": 600,
+  "price_too_expensive": 1000
 }

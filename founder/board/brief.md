@@ -1,24 +1,22 @@
-# Board brief: Bracket
+# Board brief: Bracket (updated site, 24 Nov 2026)
 
 (Stand-alone. Everything here is what the founder, his business profile and his website say. Nothing added.)
 
 ## The business
-Bracket is a one-person software house based in Kuwait, founded and run by Bilal, who also works full time in a QA and project-coordination job. It builds with a team of AI agents (design, build, QA, security testing). Since 22 Nov 2026 it targets **UK small and medium businesses, Manchester first**, English only (British spelling, £). Its five services have equal weight:
-1. Websites: business sites, landing pages, online stores, web apps.
-2. Mobile apps: iOS/Android, customer or staff, admin dashboard.
-3. AI agents: customer agent that answers and books on WhatsApp/website chat and hands hard cases to a person; sales agent (finds prospects, drafts first messages); marketing agent (niche research, drafts posts); custom agents.
-4. SEO: technical fixes, content, Google Business Profile.
-5. GEO: getting cited in ChatGPT, Perplexity, Gemini, Google AI Overviews.
+Bracket is a one-person software house based in Kuwait, run by Bilal, who also works full time in a QA and project-coordination job. It builds with a team of AI agents (design, build, QA, security testing). It has no UK office and says so on every page.
+
+## What changed on 23 Nov 2026 (after a first review found 0 of 20 simulated UK buyers would buy, mostly on trust)
+- **Websites are now the main offer.** Headline: "Websites for small businesses, ready for Google". Apps, AI agents and GEO moved to a small "More services" section; SEO folded into websites ("every site built ready for Google; ongoing SEO is an optional extra").
+- **Founding client offer**, prominent on the homepage: for the first 5 clients, no upfront payment. Scope agreed in writing, the full site built, the client reviews it on Bracket's preview link and pays only when happy. The site stays on the preview link until paid; files, domain and logins are handed over after payment; changes outside the scope are quoted separately; founding clients agree to an honest public review if they're happy.
+- **"We write the text"**: page text written from one short call.
+- **Payment**: bank transfer or PayPal (was PayPal only).
+- Market wording: "small businesses in the UK and internationally". The business profile still says UK, Manchester first.
 
 ## Prices (official, GBP)
-Website Starter £655 · website Business £1,315 · online store from £2,195 · care plan £43/month · AI agent £875 setup + £109/month · mobile app from £3,995 · local SEO £325/month · GEO £215/month (£490/month with SEO) · SEO + GEO audit £215. Payment 50% / 20% / 30% via PayPal. The site shows "from" prices; every job gets a written scope and quote.
+Website Starter £655 · Business £1,315 · online store from £2,195 · care plan £43/month · local SEO from £325/month (optional). Also: apps from £3,995 · AI agent £875 setup + £109/month · GEO £215/month. After the founding 5: 50% / 20% / 30%.
 
-## The website (English, en-GB; built, not deployed; no domain yet)
-- Headline "Websites, apps and AI agents for growing businesses", "Software house · For UK businesses". Body says UK **and international**; a "where we work" page for UK & international clients, remote from Kuwait. The business profile says Manchester first; the site no longer has a Manchester page.
-- Process: talk → written scope & quote → design you approve → build → check before launch → launch after your yes → support window. Client owns domain, code and accounts.
-- Trust lines: "Checked before launch", "You approve", "Clear scope first", no promised rankings, "no UK office" said openly, time difference explained, one contact (Bilal).
-- Proof: none. Work page says there are no case studies; the only project shown is the site itself (plain HTML/CSS/JS, Three.js 3D scenes, schema, llms.txt, security headers, no trackers). Invites visitors to be "our first case study".
-- A WhatsApp booking-agent demo on the homepage, labelled illustrative. Articles/guides (e.g. cost of a website in the UK, do you need a website if you sell on Instagram). Contact: form, Gmail, +965 WhatsApp, Instagram. PayPal only.
-
-## Traction
-No UK clients yet. Earlier Kuwait work (one AC contractor booking system, two free demo sites for perfume brands) is outside the new market and is not shown. Marketing budget, weekly hours available and cost to win a client: not stated.
+## Still true
+- No clients, reviews or case studies in the UK. Website not deployed; no domain chosen. Contact is a Gmail address and a Kuwait (+965) WhatsApp number.
+- Process: tell us → written scope & quote → write and build → preview link → launch after your yes → guide and support window. Client owns domain, code and accounts after payment.
+- Honest limits on the site: no promised rankings, no invented reviews, no UK office.
+- Marketing budget, weekly hours and cost to win a client: not stated.

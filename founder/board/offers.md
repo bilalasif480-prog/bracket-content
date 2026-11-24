@@ -1,27 +1,28 @@
 # Offers lens
-Score: 3/10 | Vote: FUND IF
+Score: 4/10 | Vote: FUND IF
 
 ## What is strong
-- **The buyers have money and can be reached.** UK small businesses already pay for websites, SEO and booking help, and they list themselves publicly (Google Business Profile, Instagram, directories). The market passes on "money" and "easy to find".
-- **Effort is already low for the buyer.** One contact, a written scope first, "you approve" at each step, the client owns domain, code and accounts, and a fixed process. That lowers the effort and sacrifice side of the value equation.
-- **Honesty is a trust asset.** No promised rankings, "no UK office" said openly, a demo labelled illustrative. Nothing has to be walked back later.
-- **The AI agent has a real outcome attached.** "Answers and books on WhatsApp/website chat" is a result a buyer can picture (fewer missed bookings), not a deliverable. It is the closest thing here to a dream outcome.
+- **Risk reversal is now real.** "Pay only when happy", with no upfront payment for the first five clients, is the right move for the trust problem the first review found. It lifts perceived likelihood without making up any proof.
+- **Effort is cut on purpose.** "We write the text" from one short call takes away the job small businesses put off most. Written scope, a preview link before payment, and handing over the domain, code and accounts lower the sacrifice further.
+- **The scarcity is honest.** Five founding places is a real limit, and the honest review asked in return is a fair trade.
+- **The focus is better.** One clear main offer (websites ready for Google) replaces five services, so the stack can be judged at all.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **Likelihood is close to zero.** No UK clients, no case studies, a site that is not deployed and has no domain, a +965 number, Gmail and PayPal only, run part-time from Kuwait. A UK buyer has almost no reason to believe the outcome will happen. This lens says most offers die here, and this one does.
-2. **No market chosen, so no stack.** Five services at equal weight, for "UK and international" small and medium businesses (the site has dropped the Manchester focus the profile still claims). A generic market means a generic offer: there is no specific buyer whose problems can be listed and solved one by one, so nothing is stacked, named or guaranteed.
-3. **It reads as "cheaper", which is a commodity.** Prices like £655 for a site and £325/month for SEO, sold as deliverables (a website, an audit) rather than outcomes, invite comparison on price alone. Whether these sit below or at UK market rates is an open question, but either way nothing makes saying no feel stupid.
+1. **The market is undefined and crowded.** "Small businesses in the UK and internationally" is not a market, and the profile says Manchester. UK small-business websites are a busy category, so the four market tests (pain, money, reach, growth) can't be scored until one niche in one city is chosen. A weak or vague market is the most common reason this lens passes.
+2. **Likelihood still rests on promises.** With no case studies, no deployed site, no domain, a Gmail address and a +965 WhatsApp number, a UK buyer has nothing to check. The guarantee covers price risk, not the fear of wasting weeks on an overseas unknown.
+3. **Without a sharp outcome, it is sold on price.** "Ready for Google" with no promised rankings leaves a site, not a result such as calls or bookings. Without a named dream outcome and a time to it, buyers compare on price, and £655 against local freelancers and DIY builders is a commodity fight.
 
 ## The questions I would ask the founder
-- Which one UK niche has a painful, costly problem you can fix, and how do you know they feel it?
-- What result do they get, in how many days, and what will you guarantee if it does not happen?
-- What proof can you show a UK buyer in 30 days: a pilot, a free first case study with permission to publish, a recorded demo on their real data?
-- How many hours a week can you deliver, and what happens to a client's timeline when your day job is busy?
-- What do UK competitors charge for the same outcome, and could you double your price and still be the obvious choice?
-- What does it cost you to win one client, and what is your marketing budget? (Both unknown.)
+- Which trade, in which city, has a painful and costly website problem and money to fix it?
+- What result does the buyer get, by when? How many days from the call to a live preview?
+- With a full-time job, how many weekly hours go into Bracket, and how many builds can actually run at once?
+- What does one client cost to win, and through which channel?
+- If a founding client never says "happy", what is your limit on rework before you walk away?
+- Could the Business tier sell at double the price with a stronger stack? If not, why not?
 
 ## If FUND IF: the conditions
-1. Pick one niche and lead with one outcome-named offer (for example the booking agent for one trade), with the other services as add-ons or bonuses in the stack.
-2. A real guarantee the numbers can carry (for example: live in a set number of days or money back; or pay the monthly fee only after the agent has taken real bookings).
-3. Proof before scale: at least one or two published UK results with the client's permission.
-4. Fix the trust basics a UK buyer checks: live site on a domain, a business email, card payments, and a clear answer on hours and response time.
+1. Pick one niche in one city, and rewrite the headline around that buyer's outcome rather than "websites".
+2. Deploy the site on its own domain with a business email, and publish one finished demo build for that niche before any outreach.
+3. Put a time on the offer (a set number of days to preview) and say plainly what "happy" means, including the number of revision rounds.
+4. Build the stack from the niche's real obstacles on the way to the outcome (for example the Google Business Profile, booking or enquiry flow, and copy), not from the service list.
+5. Track and report what it costs to win each founding client before the 50/20/30 terms start.

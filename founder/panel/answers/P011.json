@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "I've already been burned by a designer who took my money and never finished, and now a company in Kuwait with no UK office and no past clients wants half up front by PayPal. I'm not handing over 50% to people I can't go and find if it goes wrong.",
-  "objection": "If they vanish with my deposit there's nothing I can do from Manchester. No clients to ring, no office, no track record, just an Instagram page.",
-  "would_change_my_mind": "Real local clients I could phone myself, and no big deposit, so I pay only once I've seen the design working.",
-  "price_too_cheap": 300,
-  "price_cheap": 600,
-  "price_expensive": 1500,
-  "price_too_expensive": 2500
+  "reason": "Not paying until I'm happy is the first offer that actually speaks to what happened to me last time, I'll give them that. But they've got no clients, no reviews and they're in Kuwait, so I'm not handing my business over to be their first test case when I've already been through this once.",
+  "objection": "When something breaks on a Saturday morning, who do I ring? They're thousands of miles away with nobody local, and I've no proof they'll still be answering in six months once they've had their money.",
+  "would_change_my_mind": "Talking to one or two real UK business owners they've already built for, plus a written monthly support plan with a guaranteed response time when something goes wrong.",
+  "price_too_cheap": 250,
+  "price_cheap": 500,
+  "price_expensive": 1200,
+  "price_too_expensive": 2000
 }

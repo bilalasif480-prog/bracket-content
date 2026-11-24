@@ -2,7 +2,7 @@
  "n": 20,
  "seed": 146238,
  "customer": {
-  "business": "Bracket, a one-person software house based in Kuwait that builds websites, AI booking agents, SEO and GEO for UK small businesses, remotely",
+  "business": "Bracket, a one-person software house based in Kuwait that builds websites for UK small businesses, remotely",
   "target": "Owners of small local businesses in Greater Manchester (cafés, salons, barbers, clinics, gyms, trades, estate agents, small shops) who have no website or one they're unhappy with",
   "where": "Greater Manchester, UK",
   "age": [
@@ -73,14 +73,14 @@
    }
   ],
   "objections": [
-   "They're in Kuwait, not Manchester: what if they disappear with my deposit?",
+   "They're in Kuwait, not Manchester: will they actually finish it and answer when something breaks?",
    "No reviews and no past clients to look at",
    "I already have a Wix page or a Fresha booking page",
    "A local freelancer would do it for less",
-   "An AI agent talking to my customers could get things wrong",
-   "Hidden extras later, or I won't own my site",
-   "I don't have time to write the content and answer their questions",
-   "Paying a monthly fee on top of the build"
+   "What does 'pay when happy' really mean, and is there a catch?",
+   "I don't have time for calls and back-and-forth",
+   "Ongoing monthly costs after launch",
+   "Their own website and email don't look established yet"
   ],
   "habits": [
    "you take most enquiries on WhatsApp and Instagram DMs",
@@ -91,5 +91,5 @@
    "you're in a local business Facebook group where people swap recommendations"
   ]
  },
- "pitch": "Bracket is a software house based in Kuwait that builds websites, mobile apps and AI agents for UK small businesses, remotely by WhatsApp, email and video call. It has no UK office and no past clients to show yet.\nWebsites from £655. An AI agent that answers and books your customers on WhatsApp or your website from £875 setup plus £109 a month. Local SEO from £325 a month. GEO (getting mentioned in ChatGPT and other AI answers) from £215 a month.\nYou tell them what you need, get a written scope and a quote, approve the design before they build, and nothing goes live without your yes. You own your domain, code and accounts.\nYou pay 50% to start, 20% when you approve the design, 30% at launch, by PayPal.\nYou find them through their website or Instagram @bracketkw."
+ "pitch": "Bracket is a software house based in Kuwait that builds websites for small businesses in the UK, remotely by WhatsApp, email and video call. It has no UK office and no past clients or reviews to show yet.\nWebsites from £655, built for phones and ready for Google. They can write the page text for you from one short call. Ongoing SEO is an optional extra from £325 a month.\nFounding client offer, first 5 clients only: no upfront payment. You agree the scope in writing, they build the full site, you review it on their preview link and pay only when you're happy, by bank transfer or PayPal. Files, domain and logins are handed over after payment; changes outside the scope cost extra. In return, you agree to an honest public review if you're happy.\nYou find them through their website or Instagram @bracketkw."
 }
