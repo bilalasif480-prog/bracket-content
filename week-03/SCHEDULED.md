@@ -10,7 +10,7 @@ Times are Kuwait time. TRIAL = posted with Instagram's Trial switch on.
 Note (Bilal, 24 Nov 2026): @bracketkw has no Trial reel option, so all 14 T1/T2 reels this week go up as NORMAL reels at their slots (14:30 / 18:30 Kuwait). Instagram caps captions at 5 hashtags: the first 5 go in the caption, the rest in our first comment.
 
 ## Scheduled in Meta Business Suite (24 Nov, Bilal's request; Instagram only)
-Bilal stopped the scheduling at 19:45 after 7 reels. Remaining reels (12–26 in /home/claude/out/upload numbering) are NOT scheduled; Bilal will post them himself.
+7 reels scheduled 24 Nov; the remaining 19 scheduled 25 Nov by instaupload (Bilal's request), Instagram only.
 | n | file | date | time (Kuwait) |
 |---|---|---|---|
 | 01 | extra/offer-main.mp4 | 24 Nov | 20:00 |
@@ -20,3 +20,22 @@ Bilal stopped the scheduling at 19:45 after 7 reels. Remaining reels (12–26 in
 | 10 | day2-trialB.mp4 | 25 Nov | 18:30 |
 | 11 | day2-main-geo-chatgpt.mp4 | 25 Nov | 22:00 |
 | 02 | extra/trial-01.mp4 | 26 Nov | 12:00 |
+| 12 | day3-trialA.mp4 | 26 Nov | 14:30 |
+| 13 | day3-trialB.mp4 | 26 Nov | 18:30 |
+| 14 | day3-main-rented-shop.mp4 | 26 Nov | 22:00 |
+| 05 | extra/trial-04.mp4 | 27 Nov | 12:00 |
+| 15 | day4-trialA.mp4 | 27 Nov | 14:30 |
+| 16 | day4-trialB.mp4 | 27 Nov | 18:30 |
+| 17 | day4-main-hisaab02-ai-agent-night.mp4 | 27 Nov | 22:00 |
+| 03 | extra/trial-02.mp4 | 28 Nov | 12:00 |
+| 18 | day5-trialA.mp4 | 28 Nov | 14:30 |
+| 19 | day5-trialB.mp4 | 28 Nov | 18:30 |
+| 20 | day5-main-hisaab03-seo-page3.mp4 | 28 Nov | 22:00 |
+| 06 | extra/trial-05.mp4 | 29 Nov | 12:00 |
+| 21 | day6-trialA.mp4 | 29 Nov | 14:30 |
+| 22 | day6-trialB.mp4 | 29 Nov | 18:30 |
+| 23 | day6-main-hisaab04-app.mp4 | 29 Nov | 22:00 |
+| 07 | extra/trial-06.mp4 | 30 Nov | 12:00 |
+| 24 | day7-trialA.mp4 | 30 Nov | 14:30 |
+| 25 | day7-trialB.mp4 | 30 Nov | 18:30 |
+| 26 | day7-main-hisaab05-missed-call.mp4 | 30 Nov | 22:00 |
