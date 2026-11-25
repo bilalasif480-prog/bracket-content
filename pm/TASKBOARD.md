@@ -9,6 +9,7 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
+| T-20261125-03 | bracket | salesman | Manchester independent cafés: find (A) no site / (B) weak site, note each café's problem, draft personal IG DMs with the limited-time free website + booking offer (café pays own domain/hosting), demos via PM for best leads. Brief: `pm/briefs/salesman-uk-cafes.md`, log: `sales/bracket-leads.md` | **set up, NOT started** — waiting for Bilal's "start" | Bilal: say start | 2026-11-25 |
 | T-20261125-02 | bracket | pm (founder skill) | Founder re-run #4 (café page, TODOs gone, optional care plan) | done — board 4.3, panel 0/20; site edits no longer move it, real UK proof needed | — | 2026-11-25 |
 | T-20261125-01 | bracket | pm (founder skill) | Founder re-run #3 on 25 Nov site | done — `founder/SUMMARY.md`; board 4.7 (3 × FUND IF), panel 0/20 (noise vs 1/20); blocker is real UK proof, not site copy | — | 2026-11-25 |
 | T-20261124-01 | bracket | pm (founder skill) | Re-run board + competitors + 20-buyer panel on the updated site | done — `founder/SUMMARY.md`; 1/20 buy (was 0/20), board avg 4.0 (was 3.3) | — | 2026-11-24 |
@@ -21,7 +22,7 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 | T-20261122-16 | bracket | websitebuilder | Remove Arabic (/ar/, switch, hreflang, AR articles; backup first) + UK copy, British spelling, Manchester page, "Based in Kuwait, working with UK clients" | done — 20 pages + 5 articles (UK slugs) + new manchester.html; 36 301s in _redirects + vercel.json; backup `_backups/before-uk-2026-11-22/` in Website; not deployed | — | 2026-11-22 |
 | T-20261122-15 | bracket | bracket-geo | UK/Manchester SEO + GEO plan: keywords, page targets, copy changes, Manchester page brief | done, `geo/bracket-uk-plan.md` | — | 2026-11-22 |
 | T-20261122-14 | bracket | instamake | Remake week-03 for UK: £ maths, UK/Manchester captions + hashtags, English only | approved by Bilal 22 Nov 23:27 — posting Tue 24 – Mon 30 Nov via scheduled runs (14:30 / 18:30 trials, 22:00 main Kuwait = 11:30/15:30/19:00 UK) | Mac on + Chrome open | 2026-11-22 |
-| T-20261122-07 | bracket | salesman | Find perfume brands on Instagram with no website: (A) new brands, (B) big-following brands selling only via WhatsApp. Brief: `pm/briefs/salesman-perfume-leads.md` | queued — on hold (Bilal: don't run yet) | Bilal: say go | 2026-11-22 |
+| T-20261122-07 | bracket | salesman | RETIRED 25 Nov (replaced by T-20261125-03) — Find perfume brands on Instagram with no website: (A) new brands, (B) big-following brands selling only via WhatsApp. Brief: `pm/briefs/salesman-perfume-leads.md` | retired | — | 2026-11-25 |
 | T-20261122-06 | bracket | instamake | Week-03 pack (23–29 Nov), Kuwait version | PAUSED 22 Nov 22:58 (Bilal: UK shift) — 3 posting tasks disabled; remake in T-14 | — | 2026-11-22 |
 | T-20261122-05 | bracket | research | Outliers + format cards | done — 13 ref accounts, cards C–G, 10 ideas in `research/niche-report.md` | — | 2026-11-22 |
 | T-20261122-04 | bracket | instapulse | Audit @bracketkw + strategy brief for client enquiries | done (public view only: Chrome not logged in as @bracketkw) — `analytics/week-03.md`, `research/strategy-brief.md` | Bilal: log Chrome into @bracketkw | 2026-11-22 |

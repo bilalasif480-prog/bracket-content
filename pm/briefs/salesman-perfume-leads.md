@@ -1,6 +1,6 @@
 # Salesman brief: perfume brands on Instagram (set 22 Nov 2026)
 
-Status: **on hold** — Bilal said don't run the agent yet. Run only when he says go.
+Status: **RETIRED 25 Nov 2026** — replaced by `pm/briefs/salesman-uk-cafes.md` (Bracket now targets UK cafés). Previously: on hold — Bilal said don't run the agent yet. Run only when he says go.
 Task: T-20261122-07. Business: `bracket` (read `business/bracket.md` first).
 Output when run: `sales/bracket-leads.md`.
 
