@@ -31,3 +31,6 @@ Trial captions and first comments: see `POSTING-PLAN.md` (one shared caption per
 |---|---|---|---|---|---|---|---|---|
 | Wed 25 Nov 00:20 | day1-trialB (posted as normal reel 18:33) | ~6 h | 2 (grid count) | not read (<24 h) | — | — | — | Too early; first read Wed evening |
 | Wed 25 Nov 00:20 | day1-trialA (posted 14:48 per SCHEDULED) | — | not found on grid/Reels tab | — | — | — | — | Missing: Bilal to check the app (draft, failed upload or other account?) |
+| Wed 25 Nov 21:30 | day1-trialB (normal reel, 18:33 Tue) | ~27 h | 4 (100% non-followers) | not shown on web | avg watch 0:02 | 0 | 0 | No result yet (<200 views) |
+| Wed 25 Nov 21:30 | day1-trialA (14:48 Tue per SCHEDULED) | — | still not on grid/Reels tab | — | — | — | — | Missing: Bilal to check |
+| Wed 25 Nov 21:30 | trial-03 12:00, day2-trialA 14:30, day2-trialB 18:30 (Wed) | <24 h | 1 each (grid) | — | — | — | — | Too early; first read Thu evening |

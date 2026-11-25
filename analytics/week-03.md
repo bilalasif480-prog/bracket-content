@@ -58,3 +58,4 @@ Carousel views came almost all "From Profile" (4 of 5, 1 of 1, 4 of 4): carousel
 | Sun 22 Nov 22:16 | 2 | 8 | 0 | 0 | 0 / 0 / 0 | 0 | 0 (week-03 not posted yet; first trials Mon 23 12:30) |
 | Mon 23 Nov 21:15 | 2 | 8 (newest 8 Nov) | 0 | 0 | 0 / 0 / 0 | 0 | 0 (nothing posted since 9 Nov; first week-03 trials Tue 24) |
 | Tue 24 Nov 24:20 (run late; fired 23:29) | 2 | 11 (3 new: T2 trialB 18:33 = 2 views, offer-main 20:00 = 0 views, hisaab01 22:00 = 3 views; grid counts) | 0 (only our own first comment) | 0 | 0 / 0 / 0 | 0 | 0 (T1 trialA posted 14:48 is NOT on the grid or Reels tab; others <24 h old) |
+| Wed 25 Nov 21:30 | 2 | 14 (Wed: trial-03, day2-trialA, day2-trialB = 1 view each; Tue: trialB 4, offer-main 6, hisaab01 7; grid counts) | 0 on our posts | 0 | 0 new inbound / 0 / 0 (1 automated DM from a creator after our comment on their post = other) | 0 | 1 (day1-trialB: 4 views, 100% non-followers, avg watch 0:02, 0 shares/saves/follows, 1 comment = our own) |
