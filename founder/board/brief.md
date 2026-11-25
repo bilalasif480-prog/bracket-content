@@ -1,22 +1,27 @@
-# Board brief: Bracket (updated site, 24 Nov 2026)
+# Board brief: Bracket (site as of 25 Nov 2026)
 
 (Stand-alone. Everything here is what the founder, his business profile and his website say. Nothing added.)
 
 ## The business
-Bracket is a one-person software house based in Kuwait, run by Bilal, who also works full time in a QA and project-coordination job. It builds with a team of AI agents (design, build, QA, security testing). It has no UK office and says so on every page.
+Bracket is the name Bilal works under as a **freelance web developer**. He is one person, works remotely from Kuwait and has a full-time QA/project-coordination job alongside. He builds with a team of AI agents (design, build, QA, security testing). The site now says plainly "Bracket is me, Bilal" and "no UK office or team".
 
-## What changed on 23 Nov 2026 (after a first review found 0 of 20 simulated UK buyers would buy, mostly on trust)
-- **Websites are now the main offer.** Headline: "Websites for small businesses, ready for Google". Apps, AI agents and GEO moved to a small "More services" section; SEO folded into websites ("every site built ready for Google; ongoing SEO is an optional extra").
-- **Founding client offer**, prominent on the homepage: for the first 5 clients, no upfront payment. Scope agreed in writing, the full site built, the client reviews it on Bracket's preview link and pays only when happy. The site stays on the preview link until paid; files, domain and logins are handed over after payment; changes outside the scope are quoted separately; founding clients agree to an honest public review if they're happy.
-- **"We write the text"**: page text written from one short call.
-- **Payment**: bank transfer or PayPal (was PayPal only).
-- Market wording: "small businesses in the UK and internationally". The business profile still says UK, Manchester first.
+## Offer (homepage)
+- Headline: "Websites for small businesses, ready for Google". Intro: "Hi, I'm Bilal. I build websites for small businesses in the UK and internationally…"
+- Websites from £655. After launch, a care plan at £43/month (hosting, small fixes, updates). Ongoing local SEO optional from £325/month. Apps, AI agents and GEO sit in a small "More services" section.
+- "We write the text" from one short call.
+- **Founding client offer, first 5 clients:** no upfront payment; scope in writing; full site built; client reviews it on Bilal's preview link and pays only when happy; **2 rounds of changes included**; **domain registered in the client's name from the start**; files and logins handed over after payment; extra pages/features quoted separately; honest public review if happy. Payment by bank transfer or PayPal.
+- "Meet Bilal" section with his photo; About page in first person.
 
-## Prices (official, GBP)
-Website Starter £655 · Business £1,315 · online store from £2,195 · care plan £43/month · local SEO from £325/month (optional). Also: apps from £3,995 · AI agent £875 setup + £109/month · GEO £215/month. After the founding 5: 50% / 20% / 30%.
+## Proof on the site (new)
+- **Real case study:** an online booking system with an owner dashboard, built for an air conditioning company in Kuwait (client anonymous; screenshots blurred, test data; 4-step booking, live availability, booking reference, owner dashboard, 25-second screen recording). The "problem" and "results" sections still show visible "TODO for Bilal" placeholders.
+- **Demo site** for a made-up plumber, "Kestrel Lane Plumbing", clearly labelled "Demo, not a real client".
+- Bracket's own site as a project.
+- Still no UK clients or reviews.
 
-## Still true
-- No clients, reviews or case studies in the UK. Website not deployed; no domain chosen. Contact is a Gmail address and a Kuwait (+965) WhatsApp number.
-- Process: tell us → written scope & quote → write and build → preview link → launch after your yes → guide and support window. Client owns domain, code and accounts after payment.
-- Honest limits on the site: no promised rankings, no invented reviews, no UK office.
-- Marketing budget, weekly hours and cost to win a client: not stated.
+## Unchanged
+- Site built, not deployed; no domain yet (Bilal plans bracketkw.co.uk). Contact: Gmail address, Kuwait (+965) WhatsApp, Instagram @bracketkw.
+- Market wording "UK and internationally"; business profile says UK, Manchester first. Bilal has chosen **small cafés** as the first outreach niche (via Instagram DMs), but the site does not mention cafés.
+- No stated marketing budget, weekly hours or cost to win a client.
+
+## History
+23 Nov: 0 of 20 simulated UK buyers would buy (trust). 24 Nov after websites-first + pay-when-happy: 1 of 20; main remaining worries were proof, after-launch support, monthly costs, the meaning of "happy", and domain ownership. Today's changes answer the last three.

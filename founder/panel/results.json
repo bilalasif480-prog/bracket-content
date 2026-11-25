@@ -4,15 +4,10 @@
  "dealt": 20,
  "answered": 20,
  "skipped": [],
- "buys": 1,
- "passes": 19,
- "buy_rate": 0.05,
+ "buys": 0,
+ "passes": 20,
+ "buy_rate": 0.0,
  "by_segment": [
-  [
-   "Sole trader or micro business (1-3 people; income = yearly turnover in GBP)",
-   9,
-   0.1111111111111111
-  ],
   [
    "Established local business (15-40 staff; income = yearly turnover in GBP)",
    3,
@@ -22,14 +17,14 @@
    "Small team business (4-15 staff; income = yearly turnover in GBP)",
    8,
    0.0
+  ],
+  [
+   "Sole trader or micro business (1-3 people; income = yearly turnover in GBP)",
+   9,
+   0.0
   ]
  ],
  "by_behaviour": [
-  [
-   "Burned before",
-   3,
-   0.3333333333333333
-  ],
   [
    "Word of mouth only",
    3,
@@ -56,17 +51,17 @@
    0.0
   ],
   [
+   "Burned before",
+   3,
+   0.0
+  ],
+  [
    "Price first",
    2,
    0.0
   ]
  ],
  "by_income": [
-  [
-   "$88,000 to $414,000",
-   7,
-   0.14285714285714285
-  ],
   [
    "$414,000 and up",
    7,
@@ -76,79 +71,84 @@
    "under $88,000",
    6,
    0.0
+  ],
+  [
+   "$88,000 to $414,000",
+   7,
+   0.0
   ]
  ],
  "why_not": [
   [
    "trust",
-   13,
+   11,
    [
-    "I only hire people another owner I know has used, and this lot are in Kuwait with no clients or reviews to show. Pay-on-approval is clever, but I'm not spending my staff's time briefing a stranger just because it costs nothing upfront.",
-    "I check Google and Trustpilot before I ring anyone, and there's nothing to check here: no reviews, no past clients, no UK office. Not paying upfront is nice, but I'd still be giving my time to a company in Kuwait I can't vet, and I don't have time for calls and back-and-forth that might go nowhere."
+    "I check Google and Trustpilot before I contact anyone, and there's nothing to check here: no UK reviews, one anonymous project in Kuwait and a demo for a made-up plumber. Pay-when-happy is nice, but I'd still be giving up hours to calls and rounds of changes with someone I can't vet.",
+    "Pay-when-happy sounds good, but I get these DMs every month and this one is a bloke in Kuwait with no UK clients and a made-up plumber demo. I want it done for me and not to babysit it, and I can't tell yet if he'll still be answering when something breaks at 9am on a Saturday."
    ],
    [
-    "P001",
-    "P004"
+    "P004",
+    "P008"
    ]
   ],
   [
-   "need",
-   3,
+   "habit",
+   6,
    [
-    "My Fresha page and Instagram already bring the bookings in, and I knocked up the Wix page myself. I don't see what £655 gets me that I haven't already got, and then they're straight in with £325 a month for SEO.",
-    "My Booksy page and Instagram already get me booked, and I knocked up a Wix page myself, so I can't see what a £655 site does that I'm missing. Pay-when-happy is a nice touch but it doesn't solve a problem I actually have."
+    "I only hire people another owner I know has used, and I've already had a web designer cold-messaging me this month. A freelancer in Kuwait with no UK clients or reviews just isn't someone I'd hand my business's face to, however good the no-upfront-payment bit sounds.",
+    "My Fresha page and Instagram already bring the bookings in, and I knocked up the Wix bit myself. Paying nothing upfront is nice, but I'd still be signing up for £43 a month forever plus someone pushing £325 SEO at me, for a problem I don't really feel I've got."
    ],
    [
-    "P002",
-    "P003"
+    "P001",
+    "P002"
    ]
   ],
   [
    "price",
-   3,
+   2,
    [
-    "Paying only when I'm happy is nice, but nothing tells me what I'll be paying every month after launch for hosting, the domain or someone to fix things, and SEO at £325 a month on top is more than I'd spend. They hand me the logins and walk off, and I don't have time to look after a website myself.",
-    "I've already got a Fresha booking page that's free and does the job, and Wix is about £15 a month if I want something nicer. £655 to a company in Kuwait with no reviews is a lot when nobody in my Facebook group has heard of them."
+    "I've already got a Wix page and Fresha takes my bookings, so £655 plus £43 a month is a lot more than the few quid I pay now for something that does the job. Paying only when I'm happy is nice, but it doesn't make the ongoing cost any smaller.",
+    "Pay-when-happy is decent, but £655 plus £43 every month is over £1,100 in the first year, and I can knock something up on Wix or get a cheap freelancer for way less. Money's tight and a site isn't top of my list right now."
    ],
    [
-    "P012",
-    "P015"
+    "P015",
+    "P017"
    ]
-  ]
- ],
- "why_yes": [
+  ],
   [
-   "trust",
+   "need",
    1,
    [
-    "Normally no reviews and no past clients is an instant no for me after last time, but here I don't pay a penny until the site is finished and I've seen it working on the preview link, so they can't take my money and vanish. I'd try it, cautiously, with the scope nailed down in writing first."
+    "My Fresha page takes the bookings and Instagram brings people in, so I don't see what a £655 site plus £43 a month gets me that I don't already have. The pay-when-happy bit is nice, but no risk doesn't mean I need it."
    ],
    [
-    "P010"
+    "P003"
    ]
   ]
  ],
+ "why_yes": [],
  "flip": [
-  "A local owner I trust telling me they built their site and it's been solid for a while.",
-  "Proof it actually gets more bookings than my Fresha page does, like a UK business my size showing real numbers. Plus one fixed price in writing that covers everything, with no monthly fees after launch.",
-  "Proof it gets more bookings than my Booksy page alone, like a real UK salon or barber they've done showing the numbers, and someone I can actually get on WhatsApp after hours.",
-  "Seeing a few genuine Google or Trustpilot reviews from other Manchester small businesses, plus live sites they've actually built that I can click through.",
-  "Seeing two or three live sites they've built for Manchester businesses like mine, with owners I could ring, plus a written support promise with UK-hours response times.",
-  "A couple of real Manchester businesses I can look up and message about their site, plus a written contract under UK law that says the domain is registered in my name from day one.",
-  "Someone in my local business group I trust saying they used them and it actually brought them more bookings, not just a nicer-looking page.",
-  "A 10-minute video call where I see a real site they've built and a fixed written price that covers a couple of rounds of changes, with the domain registered in my name from day one.",
-  "Another Manchester owner I know telling me they built their site and it was painless, done mostly over WhatsApp without a load of calls.",
-  "Talking to one or two real UK business owners they've already built for, plus a written monthly support plan with a guaranteed response time when something goes wrong.",
-  "One fixed, all-in price that includes hosting, domain and small updates for a low set monthly fee, written down, so I never have to touch the tech.",
-  "Two or three real UK small businesses like mine that they've built for, which I could actually look at and ring, plus a clear fixed yearly price for hosting and looking after it so I know there's no surprise monthly bill.",
-  "A couple of Manchester businesses I can actually ring or see recommended in my local group, plus a written promise of who fixes things and how fast after launch, with a small monthly support price stated up front.",
-  "Someone in my local Facebook group recommending them, plus a price closer to £300.",
-  "A couple of real Manchester businesses I could ring who've used them, plus a written support promise with a UK phone number and a guaranteed response time.",
-  "A clear total under about £400 with hosting and domain included for the first year in writing, and no monthly fees unless I ask for them.",
-  "Two or three real reviews from other Greater Manchester businesses I can look up and maybe ring, plus a written support promise (response time, UK hours) for after launch.",
-  "A local owner I know in Manchester telling me they built theirs and it was good.",
-  "Seeing two or three finished sites for real UK businesses I could ring and ask, ideally a recommendation from someone in my local group."
+  "A local owner I trust telling me he built their site and that he was reliable afterwards.",
+  "Seeing proof it brings in more bookings than my Fresha page does, like a local Manchester business similar to mine showing the numbers, and a care plan I can cancel any month or skip completely.",
+  "Proof that a proper site gets a business like mine more bookings than Fresha and Instagram do, like a UK salon or barber with real numbers.",
+  "A handful of real, named UK reviews on Google or Trustpilot from businesses like mine, ideally ones I could call or visit.",
+  "A couple of real Manchester businesses like mine I could ring and ask about him, so he can sit in my three quotes as a proper option.",
+  "Two or three real UK small business owners, ideally in Greater Manchester, I could message on WhatsApp who'd tell me he delivered and still answers after launch.",
+  "Someone in my local Facebook group posting that he did their site and it actually brought in more bookings than their Booksy page.",
+  "A 10-minute video call where he shows me a site he's already mocked up for my business, plus one UK owner I can actually message who says he delivered.",
+  "Another Manchester owner I trust telling me he built their site, it was painless and he still answers their WhatsApps months later.",
+  "A written delivery date with a penalty if he misses it, plus one real UK owner I can message who says he finished on time.",
+  "Talking on the phone to a real UK business owner he's already built for, who tells me he finished on time and still answers when something breaks.",
+  "A couple of real Manchester businesses I can ring who say he's sorted everything for them, plus a clear promise in writing of what the £43 covers and that I can leave with my site anytime.",
+  "Two or three UK business owners I can actually ring who say he delivered and still answers his phone months later, plus a plain written promise that I can take the site and hosting elsewhere any time with no fee.",
+  "Someone in my local business Facebook group saying he built their site and still answers quickly months later.",
+  "If someone local in my Facebook group vouched for him and the monthly care plan was optional or around £10-15, I'd let him build it since I'd pay nothing until I'm happy.",
+  "A couple of Manchester business owners I could actually ring who'd say he built their site and still looks after it, plus a written response time for fixes on the care plan.",
+  "A one-off price around £300-£400 with no monthly care plan required, or cheap hosting I can run myself after handover.",
+  "A handful of real, checkable Google or Trustpilot reviews from UK small businesses I can actually ring, plus a written response time for fixes.",
+  "Another owner I know in Manchester telling me he built their site and it's been fine for a few months.",
+  "Two or three UK business owners I can actually ring, or someone in my local Facebook group vouching that he delivered on time and handed everything over."
  ],
- "purchases_first_month_per_buyer": 1.0,
+ "purchases_first_month_per_buyer": null,
  "price_answers": 20
 }

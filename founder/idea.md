@@ -1,8 +1,7 @@
-# Bracket (software house)
+# Bracket (freelance web developer, Bilal)
 
-- What it is: a one-person software house based in Kuwait (founder Bilal, no UK office) that builds websites for small businesses, remotely. Since 23 Nov 2026 the site leads with websites only; apps, AI agents and GEO are listed below as "More services".
-- Who it is for: small businesses in the UK and internationally (site wording); the business profile says UK, Manchester first. Cafés, restaurants, salons, clinics, gyms, trades, estate agents, shops and online stores.
-- What it sells, at what price (GBP, official): website Starter £655 · Business £1,315 · online store from £2,195 · care plan £43/month · optional local SEO from £325/month. Others: apps from £3,995, AI agents £875 setup + £109/month, GEO £215/month. Every site "ready for Google" (SEO basics included). Bracket can write the page text from one short call.
-- Opening offer: "Founding client offer" for the first 5 clients: no upfront payment. Scope agreed in writing, full site built, client reviews it on Bracket's preview link and pays only when happy. Site stays on the preview link until paid; files, domain and logins handed over after payment; out-of-scope changes quoted separately; founding clients agree to an honest public review if happy. After that, payment is 50/20/30. Payment by bank transfer or PayPal.
-- Where and how: fully remote (WhatsApp with a Kuwait number, Gmail address, video calls). Website built but not deployed; no domain yet. Instagram @bracketkw. Built by Bilal with AI agents (design, build, QA, security checks).
-- Budget and constraints: one person with a full-time QA/project-coordination job. No clients, reviews or case studies in the UK yet. Marketing budget and weekly hours not stated.
+- What it is: Bilal, a one-person freelance web developer working remotely from Kuwait under the name Bracket, building websites for small businesses (apps, AI agents, GEO as extras).
+- Who it is for: small businesses in the UK (Manchester first per profile; site says UK and internationally). First outreach niche chosen: small cafés.
+- What it sells, at what price: websites from £655; care plan £43/month; optional local SEO from £325/month. Founding offer for the first 5: no upfront payment, pay when happy, 2 rounds of changes, domain in the client's name from day one, honest review in return. Bank transfer or PayPal.
+- Where and how: remote by WhatsApp, email, video call. Site not deployed yet; domain planned bracketkw.co.uk.
+- Budget and constraints: one person with a full-time job; no UK clients or reviews yet; one real (anonymous, Kuwait) case study and one labelled demo.

@@ -1,0 +1,4 @@
+Bracket is a software house based in Kuwait that builds websites for small businesses in the UK, remotely by WhatsApp, email and video call. It has no UK office and no past clients or reviews to show yet.
+Websites from £655, built for phones and ready for Google. They can write the page text for you from one short call. Ongoing SEO is an optional extra from £325 a month.
+Founding client offer, first 5 clients only: no upfront payment. You agree the scope in writing, they build the full site, you review it on their preview link and pay only when you're happy, by bank transfer or PayPal. Files, domain and logins are handed over after payment; changes outside the scope cost extra. In return, you agree to an honest public review if you're happy.
+You find them through their website or Instagram @bracketkw.

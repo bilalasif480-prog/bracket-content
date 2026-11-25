@@ -1,32 +1,35 @@
-# Founder check #2: updated site (24 Nov 2026) — before vs after
+# Founder check #3: site as of 25 Nov 2026 — three runs compared
 
-Yesterday's run is in `founder-archive/2026-11-23/`. Same 20 buyer cards (seed 146238) both days, so the panel numbers compare fairly.
+Same 20 buyer cards (seed 146238) every run. Earlier runs: `founder-archive/2026-11-23/`, `founder-archive/2026-11-24/`.
 
-| | 23 Nov (before) | 24 Nov (after) |
-|---|---|---|
-| Board | 3 × FUND IF, avg 3.3 | 2 × FUND IF + 1 PASS, avg 4.0 |
-| Panel | 0 buy / 20 | **1 buy / 20** |
-| Passing on trust | 18 | 13 (+1 buyer who still named trust) |
-| Price answers (median) | bargain £550 · expensive £1,200 | bargain £500 · expensive £1,200 |
+| | 23 Nov | 24 Nov | 25 Nov |
+|---|---|---|---|
+| Board avg | 3.3 | 4.0 (1 PASS) | **4.7** (3 × FUND IF) |
+| Panel buys | 0/20 | 1/20 | **0/20** |
+| No because of trust | 18 | 13 | 11 (+6 "only hire who a local owner recommends") |
+| Price: bargain / expensive (median) | £550 / £1,200 | £500 / £1,200 | £550 / £1,500 |
 
-## What the changes fixed
-- Pay-when-happy took away the "they'll run off with my deposit" fear. The one buyer (burned before) bought because of it.
-- Websites-first gave a one-sentence promise; the board scored Product 5 (was 4).
+## Read this first
+1 → 0 buyers is noise at 20 buyers, not a step back. The board likes each version more, but the panel is stuck near zero because what buyers ask for now is **something the website can't provide: a real UK owner who vouches for Bilal.** More site edits won't move this. The next gain comes from the first real clients.
 
-## What's still blocking
-1. **No proof** (most buyers): no clients, reviews or anyone local to vouch. Pay-when-happy protects their money, not their time.
-2. **New top worry: after launch.** "Who fixes it when it breaks?" Several want a written support promise, a UK-hours contact, and the domain in their name from day one.
-3. **Unclear running costs.** The offer doesn't say hosting/domain/updates per month; the £325/month SEO line reads as an upsell.
-4. **"Happy" and "out of scope" undefined.** Buyers see the catch there; they want a set number of revision rounds.
-5. **Need:** salons/barbers on Fresha/Booksy + Wix don't see what a £655 site adds.
-6. **Competitors:** pay-when-happy isn't unique — Zafiro and OWTOWT (both UK) offer the same, and pay-monthly firms do £0 upfront from ~£30–£59/month.
-7. **Board:** pick one niche in one city; put the site live on a real domain + business email before outreach.
+## What today's buyers asked for (new or louder)
+1. **"Who answers after launch?"** Most common worry. Several want a written fix/response time on the care plan and a promise they can leave with their site any time.
+2. **The care plan reads as compulsory and endless.** £655 + £43/month ≈ £1,171 in year one; price-led buyers want it optional or cheaper.
+3. **"Honest review in return" reads as "you're my test client"** to some.
+4. Min (yesterday's only yes) now wants a written delivery date.
+5. Salons/barbers on Fresha/Booksy still see no need.
 
-## Quick fixes worth testing next
-- Register the domain in the client's name from day one (move "handed over after payment" to files/logins only).
-- State 2 revision rounds and what counts as out of scope.
-- One all-in yearly figure for hosting + domain + small fixes (the £43/month care plan exists; show it plainly).
-- Show the care plan, not SEO, as the main "after launch" option.
-- Build one demo site for one niche (e.g. trades, not salons) and put it on the Work page.
+## Board conditions (all three)
+- Remove the visible "TODO for Bilal" text on the case study (fill with real facts or delete).
+- Deploy on bracketkw.co.uk + matching email before outreach.
+- A café page + café demo with table booking/ordering, which the DMs link to.
+- Founding round: websites + care plan only.
 
-Simulated buyers: good for finding objections, not for predicting sales. Confirm with real owners.
+## Gap (competitors)
+Narrow but real: booking/ordering websites for independent cafés, from someone who has built a booking system, with no money upfront. No rival found says that.
+
+## Next
+1. Fix the TODOs, go live on the domain.
+2. Make the care plan clearly optional/cancel any month; add "you can move your site any time, free".
+3. Build the café demo; set up the salesman for Manchester cafés.
+4. Win 1–2 real cafés; then re-run this check.

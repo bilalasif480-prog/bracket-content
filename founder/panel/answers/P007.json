@@ -2,12 +2,12 @@
   "id": "P007",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "need",
-  "reason": "My bookings come through Fresha and Instagram, and I already have a Wix page I made myself, so I don't really see what £655 gets me that I don't have. Paying only when I'm happy is nice, but a company in Kuwait with no reviews and nobody local I can ask about them isn't something I'd jump at.",
-  "objection": "No reviews, no past work to look at, and they're abroad. If something breaks after I've paid, who do I actually chase? Nobody in my Facebook group has heard of them.",
-  "would_change_my_mind": "Someone in my local business group I trust saying they used them and it actually brought them more bookings, not just a nicer-looking page.",
+  "reason_code": "habit",
+  "reason": "My Booksy page and Instagram already get me bookings, and I built my own Wix page for free, so I don't see what £655 plus £43 a month gets me that I haven't already got. Paying only when I'm happy is a nice touch, but it doesn't solve a problem I actually have.",
+  "objection": "No reviews and no past clients in the UK to look at, just one anonymous job in Kuwait and a made-up plumber demo. If something breaks I'm chasing someone on WhatsApp in a different time zone, and nobody in my Facebook group has used him.",
+  "would_change_my_mind": "Someone in my local Facebook group posting that he did their site and it actually brought in more bookings than their Booksy page.",
   "price_too_cheap": 150,
   "price_cheap": 300,
-  "price_expensive": 600,
-  "price_too_expensive": 1000
+  "price_expensive": 550,
+  "price_too_expensive": 900
 }

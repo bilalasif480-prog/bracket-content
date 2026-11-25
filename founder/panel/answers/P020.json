@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Pay-on-completion is clever and it does take away the money risk, but I've been burned once and I'm not handing my business's main shopfront to a company in Kuwait with no clients, no reviews and a site of its own that doesn't look finished. I'd rather ask the local Facebook group who they used and go with someone I can actually meet.",
-  "objection": "Nobody can vouch for them. If it drags on or they disappear halfway, I've lost weeks of my time and I'm stuck chasing someone in another time zone, and £655 for a business my size makes me wonder what corners get cut.",
-  "would_change_my_mind": "Seeing two or three finished sites for real UK businesses I could ring and ask, ideally a recommendation from someone in my local group.",
+  "reason": "Pay-when-happy is clever and I'll admit it takes the money risk away, but my last designer cost me months, not just money. A one-man operation in Kuwait with no UK clients, no reviews and a site that doesn't look established yet isn't who I hand a 30-staff business's front door to.",
+  "objection": "If he goes quiet halfway through or after launch, I've got nobody local to chase, I'm stuck again and I've lost another few months. And £655 for a business our size makes me wonder what corners get cut.",
+  "would_change_my_mind": "Two or three UK business owners I can actually ring, or someone in my local Facebook group vouching that he delivered on time and handed everything over.",
   "price_too_cheap": 500,
-  "price_cheap": 1200,
-  "price_expensive": 3500,
-  "price_too_expensive": 6000
+  "price_cheap": 1500,
+  "price_expensive": 4000,
+  "price_too_expensive": 8000
 }

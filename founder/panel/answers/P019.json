@@ -2,12 +2,12 @@
   "id": "P019",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "I only hire people another owner I know has used, and nobody I know has heard of a Kuwait outfit with no clients. Pay-on-approval is clever, but my time going back and forth on WhatsApp at midnight still costs me if it goes wrong.",
-  "objection": "No reviews, no past work, no UK presence, and their own site and Instagram don't look established yet, so why would I trust them with my business's face online?",
-  "would_change_my_mind": "A local owner I know in Manchester telling me they built theirs and it was good.",
-  "price_too_cheap": 250,
-  "price_cheap": 600,
-  "price_expensive": 1800,
-  "price_too_expensive": 3500
+  "reason_code": "habit",
+  "reason": "I only hire people a mate or another local owner has used and vouched for, and nobody I know has heard of this guy. Pay-when-happy is decent, but I'm not handing my business's site to a stranger in Kuwait off an Instagram page.",
+  "objection": "No UK clients, no reviews, one anonymous project and a demo for a made-up plumber. His own setup doesn't look established, so why would I trust him with mine, and who do I chase if it breaks at 11pm?",
+  "would_change_my_mind": "Another owner I know in Manchester telling me he built their site and it's been fine for a few months.",
+  "price_too_cheap": 200,
+  "price_cheap": 500,
+  "price_expensive": 1500,
+  "price_too_expensive": 3000
 }

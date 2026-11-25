@@ -1,6 +1,6 @@
-# Competitors: Bracket websites, UK small businesses (24 Nov 2026)
+# Competitors: Bracket websites, UK small businesses (updated 25 Nov 2026)
 
-Public sources only; links in `competitors.csv`. Manchester price data from 23 Nov; the pay-on-completion and pay-monthly rivals were checked 24 Nov. Market is "websites for UK small businesses" because the site now leads with websites.
+Public sources only; links in `competitors.csv`. Rival data from 23–24 Nov (unchanged market, not re-searched); sections 3 and 5 updated for today's site. Manchester price data from 23 Nov; the pay-on-completion and pay-monthly rivals were checked 24 Nov. Market is "websites for UK small businesses" because the site now leads with websites.
 
 ## 1. Who is there
 **Direct: one-off website builders**
@@ -27,7 +27,7 @@ Axes: **upfront risk to the buyer** (pay first → pay nothing until happy) × *
 - Pay first, strong trust: DotGO, Blue Whale, Reason8, the Clutch agencies.
 - Pay first, weak trust: WebHive and most freelancers.
 - Nothing upfront, strong trust: Opace (years in business, 500+ projects claimed, money-back guarantee), Netmatters, ClickExpose (UK-based).
-- Nothing upfront, weak trust: Zafiro, OWTOWT, **Bracket**.
+- Nothing upfront, weak trust: Zafiro, OWTOWT. **Bracket** has moved a little toward the middle: a named person with a photo, one real (anonymous, Kuwait) case study, a labelled demo, the domain in the client's name. Still no UK reviews or live domain.
 
 ## 4. What customers complain about (from 23 Nov research; UK Trustpilot)
 1. Paid, then the site was never finished or the designer went quiet.
@@ -36,15 +36,13 @@ Axes: **upfront risk to the buyer** (pay first → pay nothing until happy) × *
 4. (thin, one source) Work sent overseas without the client being told.
 Bracket's site answers all four in writing. So do several rivals.
 
-## 5. The gap
-**The founding offer is good, but it isn't unique.** At least two UK rivals already say "no payment upfront, pay when you're happy" or "see it before you pay", and pay-monthly firms offer zero upfront from about £30–£59/month. Removing payment risk fixes yesterday's top objection, but it doesn't make Bracket stand out.
+## 5. The gap (updated)
+Pay-when-happy is still not unique (Zafiro, OWTOWT; pay-monthly firms from ~£30–£59/month with £0 upfront). What Bracket now has that the rivals found don't show:
+- **A real booking system build.** None of the one-off builders found leads with booking/ordering for a specific trade. For cafés, table booking or click-and-collect ordering is a real reason to pick Bracket over a £150–£500 brochure site.
+- **Domain in your name from day one + 2 rounds included**, stated up front. Answers complaint 3 (ownership held hostage) more directly than most rivals' pages.
+- **One named person, honest about being remote.** Will Farmer competes on "always me"; Bracket now does too, but without his UK base or "5–7 days".
 
-What's left that nobody found does well:
-- **One niche, shown.** None of the rivals found leads with a single trade. A finished demo site for, say, Manchester salons or trades would be something a buyer can see before talking to anyone.
-- **Text written for you, from one call, at a one-off price.** Opace includes content writing but on a monthly plan; the one-off builders mostly expect the client to supply text.
-- **Speed and named person.** Will Farmer competes on "5–7 days" and "always me". Bracket says neither.
-
-The honest answer: no strong gap yet. The biggest difference between Bracket and Zafiro/OWTOWT-type rivals is that they are UK-based. Bracket can only close that with proof (live site, real domain, the first reviews).
+So the gap is narrow but real: **booking/ordering websites for independent cafés, from someone who has built a booking system, with no money upfront.** No rival found says that. It only works once the café page and demo exist and the case study has no TODOs.
 
 ## 6. The threat
 - Pay-monthly firms can drop to £0 upfront and include text writing at no visible cost.

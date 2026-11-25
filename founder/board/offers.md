@@ -1,28 +1,28 @@
 # Offers lens
-Score: 4/10 | Vote: FUND IF
+Score: 5/10 | Vote: FUND IF
 
 ## What is strong
-- **Risk reversal is now real.** "Pay only when happy", with no upfront payment for the first five clients, is the right move for the trust problem the first review found. It lifts perceived likelihood without making up any proof.
-- **Effort is cut on purpose.** "We write the text" from one short call takes away the job small businesses put off most. Written scope, a preview link before payment, and handing over the domain, code and accounts lower the sacrifice further.
-- **The scarcity is honest.** Five founding places is a real limit, and the honest review asked in return is a fair trade.
-- **The focus is better.** One clear main offer (websites ready for Google) replaces five services, so the stack can be judged at all.
+- **Risk reversal is real.** Pay only when happy, no upfront payment, scope in writing, 2 rounds of changes, domain in the client's name from day one. That is a genuine guarantee, not decoration, and it targets the exact trust worries the buyer panel raised.
+- **Low effort for the buyer.** "We write the text" from one short call removes the biggest chore in a small-business website.
+- **Scarcity is honest.** "First 5 clients" is a real limit tied to a real reason (no reviews yet).
+- **The stack has started.** Build, copy, care plan, optional local SEO: the parts of a fuller offer are already there.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **The market is undefined and crowded.** "Small businesses in the UK and internationally" is not a market, and the profile says Manchester. UK small-business websites are a busy category, so the four market tests (pain, money, reach, growth) can't be scored until one niche in one city is chosen. A weak or vague market is the most common reason this lens passes.
-2. **Likelihood still rests on promises.** With no case studies, no deployed site, no domain, a Gmail address and a +965 WhatsApp number, a UK buyer has nothing to check. The guarantee covers price risk, not the fear of wasting weeks on an overseas unknown.
-3. **Without a sharp outcome, it is sold on price.** "Ready for Google" with no promised rankings leaves a site, not a result such as calls or bookings. Without a named dream outcome and a time to it, buyers compare on price, and £655 against local freelancers and DIY builders is a commodity fight.
+1. **Likelihood is still low.** The value equation fails on proof first. No UK clients or reviews, a case study with visible "TODO for Bilal" placeholders, a demo labelled "not a real client", a Kuwait WhatsApp and a Gmail address, no live domain. A UK café owner has little reason to believe the result will happen, and pay-when-happy only half fixes that: it removes money risk, not time risk.
+2. **The market is weak and the offer does not name it.** Small cafés are reachable on Instagram, but this lens asks whether the pain is massive and whether they have money to spend. Neither is shown. The site says "UK and internationally" and never mentions cafés, so the café owner the DMs reach does not see themselves on the page.
+3. **The dream outcome is generic, so it becomes a price race.** "Websites for small businesses, ready for Google" is what every competitor says. With no named result (more bookings, more orders, being found for "café near me") and no delivery time, the buyer compares on price, and "from £655" invites that.
 
 ## The questions I would ask the founder
-- Which trade, in which city, has a painful and costly website problem and money to fix it?
-- What result does the buyer get, by when? How many days from the call to a live preview?
-- With a full-time job, how many weekly hours go into Bracket, and how many builds can actually run at once?
-- What does one client cost to win, and through which channel?
-- If a founding client never says "happy", what is your limit on rework before you walk away?
-- Could the Business tier sell at double the price with a stronger stack? If not, why not?
+- What specific result does a café owner want from a website, and how would you measure it for them?
+- How many days from the call to a live site? Will you put that in writing?
+- What does a café actually lose today without a site, and is that pain big enough to act on? (Open question: no evidence yet.)
+- Why would a Manchester café trust someone in Kuwait with no UK review? What is the one piece of proof you can get in the next 30 days?
+- Could you double the price for cafés, with a stronger outcome, and still be the obvious choice?
+- What does winning one client cost you in hours, and how many hours a week can you give this alongside a full-time job?
 
 ## If FUND IF: the conditions
-1. Pick one niche in one city, and rewrite the headline around that buyer's outcome rather than "websites".
-2. Deploy the site on its own domain with a business email, and publish one finished demo build for that niche before any outreach.
-3. Put a time on the offer (a set number of days to preview) and say plainly what "happy" means, including the number of revision rounds.
-4. Build the stack from the niche's real obstacles on the way to the outcome (for example the Google Business Profile, booking or enquiry flow, and copy), not from the service list.
-5. Track and report what it costs to win each founding client before the 50/20/30 terms start.
+1. **Fix the proof before any outreach.** Remove every TODO placeholder, deploy on the real domain, and add a UK contact route. One finished, honest case study beats three half-done ones.
+2. **Name the niche on the page.** A café-specific landing page with a café demo and a café-specific outcome (for example menu, opening hours and Google Maps presence), matching the DMs.
+3. **Add speed to the guarantee.** A stated delivery time in writing, so the offer covers time as well as money.
+4. **Name the offer** around the outcome, not the deliverable, and keep the founding-client limit real.
+5. **Answer the market question** with real evidence (5 to 10 café owner conversations) before spending on growth.

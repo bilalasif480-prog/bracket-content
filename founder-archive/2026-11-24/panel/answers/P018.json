@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I don't contact anyone I can't check on Google or Trustpilot first, and they've got zero reviews and nobody in Manchester. Paying only at the end is nice, but it doesn't tell me who fixes the site at 9pm when the booking form breaks.",
+  "objection": "They're in Kuwait with no past clients. Who answers when something breaks after I've paid and they've handed it over, and will they still be around in a year?",
+  "would_change_my_mind": "Two or three real reviews from other Greater Manchester businesses I can look up and maybe ring, plus a written support promise (response time, UK hours) for after launch.",
+  "price_too_cheap": 300,
+  "price_cheap": 700,
+  "price_expensive": 1800,
+  "price_too_expensive": 3000
+}
