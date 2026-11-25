@@ -34,7 +34,12 @@ Replaces the Kuwait perfume brief (`pm/briefs/salesman-perfume-leads.md`, retire
 
 ## 6. Channels and rules
 - **Instagram DM first.** Email only to **limited companies**, with an easy opt-out. **No cold WhatsApp messages and no cold texts.**
-- **Pace:** 10 messages per batch, then wait 6 hours. **Max 2 batches (20 messages) a day**, during UK daytime.
+- **Pace:** 10 messages per batch, then wait 6 hours. **Max 2 batches (20 messages) a day.**
+- **Send times (Bilal, 25 Nov 2026): weekdays only (Mon–Fri), never weekends.**
+  - Batch 1: about **9–10 a.m. UK time** (12–1 p.m. Kuwait in winter).
+  - Batch 2: about **3–4 p.m. UK time** (6–7 p.m. Kuwait in winter).
+  - Never send during the **12–2 p.m. UK lunch rush**.
+  - Kuwait is 3 hours ahead of the UK in winter, 2 hours in British Summer Time (from late March): then the Kuwait times are 11 a.m.–12 p.m. and 5–6 p.m. Always go by UK time.
 - **Stop** if Instagram shows any warning or block.
 - **Every batch needs Bilal's yes in chat** before anything is sent. Never reply to anyone without his yes.
 
