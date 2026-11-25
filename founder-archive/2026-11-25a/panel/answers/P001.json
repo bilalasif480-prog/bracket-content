@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I only hire people another owner I know has used, and I've already had a web designer cold-messaging me this month. A freelancer in Kuwait with no UK clients or reviews just isn't someone I'd hand my business's face to, however good the no-upfront-payment bit sounds.",
+  "objection": "Nobody I know has used him, and his own website and Instagram don't look established yet. If something goes wrong, there's no one local I can ring or turn up to see.",
+  "would_change_my_mind": "A local owner I trust telling me he built their site and that he was reliable afterwards.",
+  "price_too_cheap": 500,
+  "price_cheap": 1500,
+  "price_expensive": 4000,
+  "price_too_expensive": 8000
+}

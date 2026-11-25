@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I always get three quotes from local firms and go with the middle one. A one-man operation in Kuwait with no UK clients or reviews at £655 would probably be the cheapest quote, not the middle, so I'd likely use him as a price check and then hire someone in Manchester I can meet.",
+  "objection": "'Pay when happy' sounds nice, but what's the catch? If I'm not happy after two rounds, do I just walk away, or does it turn into an argument over 'out of scope' extras with someone I can't pop round and see? And who fixes it if he disappears after I've paid?",
+  "would_change_my_mind": "Two or three real UK small business owners, ideally in Greater Manchester, I could message on WhatsApp who'd tell me he delivered and still answers after launch.",
+  "price_too_cheap": 400,
+  "price_cheap": 800,
+  "price_expensive": 1800,
+  "price_too_expensive": 3000
+}

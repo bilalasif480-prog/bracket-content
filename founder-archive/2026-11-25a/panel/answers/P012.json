@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Not paying upfront is nice, but I want someone to take the whole thing off my plate for years, and a one-man freelancer in Kuwait with no UK clients isn't who I'd trust to still be there when something breaks. I'd also be signing up for £43 a month forever, plus they'd nudge me towards £325 SEO.",
+  "objection": "Ongoing monthly costs that never stop, paid to someone I can't pop round to see, who might disappear and leave me stuck with a site I don't know how to manage.",
+  "would_change_my_mind": "A couple of real Manchester businesses I can ring who say he's sorted everything for them, plus a clear promise in writing of what the £43 covers and that I can leave with my site anytime.",
+  "price_too_cheap": 250,
+  "price_cheap": 500,
+  "price_expensive": 1200,
+  "price_too_expensive": 2000
+}

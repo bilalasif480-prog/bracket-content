@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Paying only at the end is a clever hook, but I'm handing my business's front door to a one-man band in Kuwait with no UK clients and no reviews. I've already had designers DMing me this month and I'm not shopping, so this goes on the 'maybe later' pile.",
-  "objection": "If he's busy, gets a better client or just vanishes, who looks after my site? That £43 a month care plan is only worth anything if he's still around in two years, and then there's the SEO upsell at £325 a month on top. I don't want to be stuck with ongoing costs to someone I can't reach in my time zone.",
-  "would_change_my_mind": "Two or three UK business owners I can actually ring who say he delivered and still answers his phone months later, plus a plain written promise that I can take the site and hosting elsewhere any time with no fee.",
-  "price_too_cheap": 400,
-  "price_cheap": 900,
-  "price_expensive": 2500,
-  "price_too_expensive": 4500
+  "reason": "Honestly the pay-when-happy bit and the £43 cancel-any-month plan answer my usual worry about monthly costs, but I've had three designers chasing me this month and this one is a single person in Kuwait with no UK clients or reviews. I want someone who'll just handle it for years, and I can't tell if he'll still be around or answer quickly when something breaks on a Saturday.",
+  "objection": "If it's just one bloke abroad and he disappears or gets busy, I'm left with a site nobody's looking after and I'm the one who has to sort it, which is exactly what I'm paying to avoid.",
+  "would_change_my_mind": "A couple of real UK business owners I could ring or read reviews from, saying he built their site and still answers within the day.",
+  "price_too_cheap": 300,
+  "price_cheap": 700,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
 }

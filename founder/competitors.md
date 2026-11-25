@@ -1,4 +1,4 @@
-# Competitors: Bracket websites, UK small businesses (updated 25 Nov 2026)
+# Competitors: Bracket websites, UK small businesses (updated 25 Nov 2026, 15:30)
 
 Public sources only; links in `competitors.csv`. Rival data from 23–24 Nov (unchanged market, not re-searched); sections 3 and 5 updated for today's site. Manchester price data from 23 Nov; the pay-on-completion and pay-monthly rivals were checked 24 Nov. Market is "websites for UK small businesses" because the site now leads with websites.
 
@@ -42,7 +42,7 @@ Pay-when-happy is still not unique (Zafiro, OWTOWT; pay-monthly firms from ~£30
 - **Domain in your name from day one + 2 rounds included**, stated up front. Answers complaint 3 (ownership held hostage) more directly than most rivals' pages.
 - **One named person, honest about being remote.** Will Farmer competes on "always me"; Bracket now does too, but without his UK base or "5–7 days".
 
-So the gap is narrow but real: **booking/ordering websites for independent cafés, from someone who has built a booking system, with no money upfront.** No rival found says that. It only works once the café page and demo exist and the case study has no TODOs.
+So the gap is narrow but real: **booking/ordering websites for independent cafés, from someone who has built a booking system, with no money upfront.** No rival found says that. As of 15:30 the café page, café demo and finished case study exist, so Bracket now says this on its site. It is still narrow: Fresha/Booksy-type platforms and pay-monthly builders could add café booking cheaply, and nothing is proven until a real café uses it.
 
 ## 6. The threat
 - Pay-monthly firms can drop to £0 upfront and include text writing at no visible cost.

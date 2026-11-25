@@ -2,12 +2,12 @@
   "id": "P002",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "My Fresha page and Instagram already bring the bookings in, and I knocked up the Wix bit myself. Paying nothing upfront is nice, but I'd still be signing up for £43 a month forever plus someone pushing £325 SEO at me, for a problem I don't really feel I've got.",
-  "objection": "It's the monthly bills after launch. One more subscription on top of Fresha and Wix, from a bloke in Kuwait I can't pop round to if it breaks, and no UK clients to ask about him.",
-  "would_change_my_mind": "Seeing proof it brings in more bookings than my Fresha page does, like a local Manchester business similar to mine showing the numbers, and a care plan I can cancel any month or skip completely.",
+  "reason_code": "need",
+  "reason": "My Fresha page and Instagram already get people booked in, and I can tweak the Wix page myself at midnight when I'm done for the day. Pay-when-happy is a nice touch, but I don't see what a new site does that I haven't already got.",
+  "objection": "It's never just the £655. It turns into £43 a month for hosting, then someone telling me I need £325 a month for SEO, and I've got one more monthly bill for something I could mostly do myself. Plus he's in Kuwait with no UK reviews, so if it breaks on a Saturday who do I actually ring?",
+  "would_change_my_mind": "Hard numbers showing a local business like mine got noticeably more bookings from a proper site than from Fresha plus Instagram, from a UK owner I could actually message.",
   "price_too_cheap": 200,
   "price_cheap": 450,
-  "price_expensive": 900,
-  "price_too_expensive": 1500
+  "price_expensive": 1200,
+  "price_too_expensive": 2500
 }

@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "When I need something like this I ring three local firms, get quotes and go with the middle one. A one-man outfit in Kuwait with no UK clients and a demo site for a made-up plumber wouldn't even make my shortlist, and pay-when-happy doesn't change that.",
-  "objection": "He's not local and there's no one in Manchester who's used him. If something breaks on a Saturday I want someone I can actually reach, not a WhatsApp chat across time zones. And at £655 for a business my size it looks too cheap to be serious.",
-  "would_change_my_mind": "A couple of real Manchester businesses like mine I could ring and ask about him, so he can sit in my three quotes as a proper option.",
+  "reason": "When I need a website I ring three local firms, get three quotes and go with the middle one. A lone freelancer in Kuwait with no UK clients or reviews wouldn't make my shortlist, even with pay-when-happy.",
+  "objection": "With 30-odd staff I can't take a punt on someone with no UK track record, in a different time zone, and I don't have time to chase him on WhatsApp if something breaks.",
+  "would_change_my_mind": "A few reviews from Manchester businesses my size that I could ring, plus a fixed quote I can put next to two local ones without having to get on a call.",
   "price_too_cheap": 500,
-  "price_cheap": 1200,
-  "price_expensive": 3500,
-  "price_too_expensive": 6000
+  "price_cheap": 1500,
+  "price_expensive": 4000,
+  "price_too_expensive": 8000
 }

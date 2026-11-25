@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "price",
-  "reason": "I've already got a Wix page and Fresha takes my bookings, so £655 plus £43 a month is a lot more than the few quid I pay now for something that does the job. Paying only when I'm happy is nice, but it doesn't make the ongoing cost any smaller.",
-  "objection": "The £43 a month on top of £655 feels steep when Wix costs me far less, and I can't ask anyone in my Facebook group whether he's any good because there are no UK reviews yet.",
-  "would_change_my_mind": "If someone local in my Facebook group vouched for him and the monthly care plan was optional or around £10-15, I'd let him build it since I'd pay nothing until I'm happy.",
-  "price_too_cheap": 150,
-  "price_cheap": 300,
-  "price_expensive": 500,
-  "price_too_expensive": 800
+  "reason": "I already pay next to nothing for my Wix page and my Fresha booking link, and people find me fine through those and the Facebook group. £655 plus £43 a month is real money for me when what I've got already does the job well enough.",
+  "objection": "Why would I pay hundreds for a new site from someone in Kuwait with no UK reviews when my Wix page cost me a few quid a month and Fresha already handles bookings? The pay-later bit is nice, but it doesn't make the £655 or the monthly fee any smaller.",
+  "would_change_my_mind": "If someone in my local Facebook group posted that he'd built their site and it actually brought them more bookings, and the price came down closer to £300 with no monthly fee needed.",
+  "price_too_cheap": 100,
+  "price_cheap": 250,
+  "price_expensive": 450,
+  "price_too_expensive": 700
 }

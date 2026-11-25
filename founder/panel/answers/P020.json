@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Pay-when-happy is clever and I'll admit it takes the money risk away, but my last designer cost me months, not just money. A one-man operation in Kuwait with no UK clients, no reviews and a site that doesn't look established yet isn't who I hand a 30-staff business's front door to.",
-  "objection": "If he goes quiet halfway through or after launch, I've got nobody local to chase, I'm stuck again and I've lost another few months. And £655 for a business our size makes me wonder what corners get cut.",
-  "would_change_my_mind": "Two or three UK business owners I can actually ring, or someone in my local Facebook group vouching that he delivered on time and handed everything over.",
+  "reason": "Pay-when-happy is clever, I'll give him that, but I've been left with a half-finished site before and the money wasn't the worst of it, it was months of chasing. A one-man outfit in Kuwait with no UK clients, made-up demo sites and nobody in my Facebook group vouching for him isn't someone I'll hand my business's front door to.",
+  "objection": "If he goes quiet halfway through or the time difference drags it out, I've lost weeks again and there's nobody local to hold to account. And at £655 for a business my size I'd wonder what corners are being cut.",
+  "would_change_my_mind": "A couple of UK business owners I can actually ring, or someone in my local group recommending him after he's delivered for them.",
   "price_too_cheap": 500,
-  "price_cheap": 1500,
-  "price_expensive": 4000,
-  "price_too_expensive": 8000
+  "price_cheap": 1200,
+  "price_expensive": 3500,
+  "price_too_expensive": 7000
 }

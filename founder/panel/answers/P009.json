@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "I only hire people another owner I know has used, and nobody round here has heard of a lad working from Kuwait with no UK clients. Pay-when-happy is nice, but it still means calls, scope documents and two rounds of back-and-forth I haven't got time for.",
-  "objection": "No one I know has used him, and if something breaks on a Saturday I've got nobody local to ring, just a WhatsApp to someone five hours away.",
-  "would_change_my_mind": "Another Manchester owner I trust telling me he built their site, it was painless and he still answers their WhatsApps months later.",
+  "reason": "I only use people another owner round here has used and vouches for, and nobody I know has heard of this lad. No upfront payment is decent, but a stranger in Kuwait with no UK reviews still means calls, back-and-forth and my time, which I haven't got.",
+  "objection": "Nobody I know has used him. If it goes sideways or he disappears after launch, I've no one local to chase and I've lost weeks of my time.",
+  "would_change_my_mind": "Another Manchester owner I know telling me he built their site, it was painless and he's still answering their WhatsApps months later.",
   "price_too_cheap": 300,
-  "price_cheap": 600,
-  "price_expensive": 1500,
-  "price_too_expensive": 2500
+  "price_cheap": 700,
+  "price_expensive": 2000,
+  "price_too_expensive": 3500
 }

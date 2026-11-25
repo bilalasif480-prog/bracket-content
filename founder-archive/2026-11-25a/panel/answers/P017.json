@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Pay-when-happy is decent, but £655 plus £43 every month is over £1,100 in the first year, and I can knock something up on Wix or get a cheap freelancer for way less. Money's tight and a site isn't top of my list right now.",
+  "objection": "The £43 a month that never stops. Once I'm on it I'm stuck paying forever for hosting and small fixes I could probably do myself, and it's a bloke abroad with no UK reviews.",
+  "would_change_my_mind": "A one-off price around £300-£400 with no monthly care plan required, or cheap hosting I can run myself after handover.",
+  "price_too_cheap": 100,
+  "price_cheap": 250,
+  "price_expensive": 450,
+  "price_too_expensive": 700
+}

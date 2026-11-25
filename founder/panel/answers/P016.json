@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "I always get three quotes from local firms and go with the middle one, and a lone freelancer in Kuwait with no UK clients or reviews wouldn't even make my shortlist. Pay-when-happy is nice, but my worry isn't the deposit, it's who picks up when the site breaks in two years.",
-  "objection": "He's in Kuwait, not Manchester, with no UK track record. Will he actually finish it, and will he still be answering my WhatsApps when something goes wrong after launch?",
-  "would_change_my_mind": "A couple of Manchester business owners I could actually ring who'd say he built their site and still looks after it, plus a written response time for fixes on the care plan.",
+  "reason": "I always get three quotes from local firms and go with the middle one, and a lone freelancer in Kuwait with no UK clients or reviews isn't going to make my shortlist. Not paying upfront is nice, but the build isn't what worries me. What worries me is who picks up when the site breaks on a busy Saturday.",
+  "objection": "He's in Kuwait, not Manchester. If something breaks or he just disappears, I've got nobody local to ring, and £655 is so far below what local firms quote that I'd wonder what's missing.",
+  "would_change_my_mind": "Two or three Manchester businesses I can actually ring who say he built their site and still answers quickly when something goes wrong.",
   "price_too_cheap": 400,
-  "price_cheap": 1200,
-  "price_expensive": 3500,
-  "price_too_expensive": 6000
+  "price_cheap": 900,
+  "price_expensive": 2500,
+  "price_too_expensive": 4000
 }

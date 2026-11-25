@@ -1,28 +1,26 @@
 # Product lens
-Score: 6/10 | Vote: FUND IF
+Score: 5 | Vote: FUND IF
 
 ## What is strong
-- **Focus has improved a lot.** Websites now lead the offer and the other services sit in "More services". The headline, "Websites for small businesses, ready for Google", fits in one sentence.
-- **The founding offer is built around the buyer's experience.** The client pays nothing upfront, reviews a live preview, pays only when happy, owns the domain from day one and gets the files and logins handed over. Each of these answers a fear a buyer raised in testing.
-- **Honest about who it is.** "Bracket is me, Bilal" removes a gap between what the business claims and what it is, and a gap like that is where trust breaks.
-- **"We write the text" from one short call** takes a real chore off the buyer.
+- The offer itself has been simplified well: a website, a price "from £655", an optional £43/month care plan you can cancel, and "your site is yours". A café owner can grasp that quickly.
+- Pay-when-happy, 2 rounds of changes, and the domain in the client's name from day one remove the scariest parts of buying. That is designing the experience from the buyer's worries back.
+- A niche page now exists (cafés: menu, hours, maps, booking or click-and-collect, phones first). That is the start of saying no to everything else.
+- There is real craft evidence: a working booking system with dashboard, technician view, confirmations and payment, shown on video.
 
 ## What would kill it (the top 3, most dangerous first)
-1. **Visible gaps in the craft.** A business selling websites has "TODO for Bilal" placeholders on its own case study, has no domain, has not deployed its site and uses a Gmail address. The product lens treats the shop window as the product. A buyer who sees an unfinished page will expect an unfinished site.
-2. **The first touch and the landing page don't match.** Outreach goes to UK cafés over Instagram, but the site says "UK and internationally", never mentions cafés and offers only a +965 WhatsApp number. The buyer meets one promise in the DM and a different one on the page.
-3. **Too many offers for one person with a day job.** The care plan, local SEO, apps, AI agents and GEO each need ongoing work after launch. If support is slow once the client has paid, the product has failed, whatever the build was like. Nobody has said how many hours a week Bilal can give.
+1. **The first five minutes are broken.** The buyer arrives from an Instagram DM to a site that is not yet deployed, has no domain, and offers a Gmail address and a Kuwait (+965) WhatsApp. For a Manchester café that is a seam at the very first touch, and it contradicts the polish the product promises.
+2. **No single product yet.** The homepage says "small businesses, UK and internationally"; the profile says Manchester; the outreach says cafés; "More services" still lists apps, AI agents and GEO. A café owner who clicks through from a café DM lands on a general page. The pitch still needs more than one sentence.
+3. **The proof is the wrong shape.** The one real case is an AC booking system in Kuwait; the café proof is a made-up demo whose booking form is front-end only. A café owner wants to see a café site that takes real bookings. If the demo does not actually work end to end, it shows exactly the corner-cutting this lens looks for.
 
 ## The questions I would ask the founder
-- In one sentence, what does a café owner get, and how soon?
-- Walk me through the first five minutes after a café owner taps your DM link. What do they see, and what makes them trust it?
-- What is your reply time once the site is live? Who covers when your day job comes first?
-- How many hours a week do you have, and how many sites at once can you deliver to this standard?
-- What does "happy" mean in writing, and what happens if the client is still not happy after the 2 rounds of changes?
-- Which "More services" items would you cut for the next 90 days?
+- In one sentence, what does a Manchester café get from you that it cannot get elsewhere?
+- Walk me through the café owner's journey: DM, link, call, preview, payment, handover, first booking. Who handles each step, and how quickly, given a full-time job and a Kuwait time zone?
+- What do you cut so the café is the whole product: the general homepage, apps, AI agents, GEO, "internationally"?
+- Does Fernleaf's booking and ordering actually work, and which booking or ordering tool will a real café run on after launch?
+- What happens when a café's site breaks on a Saturday morning? What response time does the care plan promise? (Not stated.)
 
 ## If FUND IF: the conditions
-1. Remove every placeholder. Finish the case study's problem and results sections using only real, checkable facts, or take those sections out.
-2. Deploy the site on its own domain with a matching email address before the first message goes out.
-3. Make the landing page match the outreach: a café-specific page or section that the DMs link to, using café examples.
-4. Write down the after-launch experience: support hours, how fast you reply, what the £43/month covers, and a clear definition of "happy".
-5. For the founding round, sell websites and the care plan only. Pause the other services until the five founding clients are delivered.
+1. Deploy on bracketkw.co.uk with a matching email address and a UK-friendly contact route before any DM goes out.
+2. Make the café page the front door for café outreach, written as one sentence a café owner would repeat, with other services moved out of sight.
+3. Make the Fernleaf demo work end to end (a booking and an order that actually arrive) so the proof matches the promise.
+4. Write down the after-launch experience: response hours in UK time, what the care plan covers, and the handover steps.
