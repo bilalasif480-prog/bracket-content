@@ -156,3 +156,4 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 2026-11-26 14:12 pm T-20261126-05 — test run of UK problems research (nothing written); Reddit unreachable, dropped from brief, Friday task and sheet
 2026-11-26 14:26 pm T-20261126-05 — AnswerThePublic limit set to 3 searches a day (signed-in free account) in research brief + Friday task
 2026-11-26 14:44 pm — Friday 19:37 reels task: 28 → 14 reels (2/day 14:30 + 22:00), ≥7 from UK problems sheet, hook rules a–d (0.0 s hook, 7–9 s, ≥4 rotating templates, "we can help" ending) + hook-check table, 2 face-to-camera ideas. Friday report task already said 14, unchanged.
+2026-11-26 16:05 pm — Bilal: every reel gets its own cover (hook in big text, brand style, grid-safe), set as the cover when scheduling in Business Suite. Friday make-reels task updated (covers + schedule.json 'cover' field + contact sheet). Scheduling step: upload each cover via Business Suite's custom thumbnail/cover option.
