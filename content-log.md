@@ -52,3 +52,19 @@ Used topics (don't repeat the same angle within 6 weeks):
 - 22 Nov revision (Bilal: too long): all 21 week-03 reels re-cut to 12–15 s (hook → one proof beat → one-line hisaab or key line → end card). Hisaab cards now one line: 4×15=60/mo · 3×20=60/wk · 2×15=30/wk · 10×8=80/mo · 3×25=75/wk; the long totals and the demo agent/app screens were cut.
 - 22 Nov UK remake (T-20261122-14, Kuwait version paused by Bilal): same 21 reels and hooks, re-dated Tue 24 – Mon 30 Nov. On screen: £ example maths (4×£25=£100/mo · 3×£30=£90/wk · 2×£30=£60/wk · 10×£12=£120/mo · 3×£40=£120/wk), series renamed "Quick maths", GEO trials now clinic in Didsbury / salon in Chorlton (main: "best clinic in Manchester?"), AC tag → trades, end card "SOFTWARE HOUSE · BASED IN KUWAIT". Captions English only, British spelling, Manchester search phrases, #ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness core tags. Slots 14:30 / 18:30 / 22:00 Kuwait (11:30 / 15:30 / 19:00 UK).
 - 23 Nov extras (instamake T-20261123-10, files in week-03/extra/, week-03 reels unchanged): MAIN "Your website first. Payment after." (founding offer: no upfront payment for first 5 clients, preview link → review → pay when happy, 5 founding places, scope in writing). Trials from the updated website: "Not sure what to write? We write it." · "Ready for Google from day one" · "Nothing goes live without your yes" · "Checked on real phones before launch" · "Plumber in Stockport? Websites from £655" · "See your website before you pay" (offer, second angle).
+
+## Week 4 (1–7 Dec 2026), files in week-04/ (instamake, made 26 Nov; 2 a day, 14 s, cover per reel)
+- 01 Tue 14:30: "Is your website losing you customers before it even loads?" (#1 About to break (stress); Websites; Slow / weak café website)
+- 02 Tue 22:00: "Is your business in the AI answer?" (#5 Split-screen reaction; GEO; "How do you get ChatGPT to recommend your business?") — BILAL FILMS
+- 03 Wed 14:30: "Worried a website means a big bill before you've seen anything?" (#4 Expectation vs reality; Websites (founding offer); "Do I need a website for my small business?" + cost worry)
+- 04 Wed 22:00: "Who answers your bookings at 11 pm?" (#2 Countdown / clock → payoff; AI agents; "AI receptionist for small business")
+- 05 Thu 14:30: "Can you book a table on this website in under 10 seconds?" (#3 Challenge question; Websites; "Best table booking system for small café UK")
+- 06 Thu 22:00: "Why isn't my business showing on Google Maps?" (#9 Danger POV; Local SEO; "Why is my business not showing on Google Maps?")
+- 07 Fri 14:30: "Is your contact form actually sending?" (#1 About to break (stress); Websites; Missed enquiries)
+- 08 Fri 22:00: "Me answering WhatsApp, emails and website chats at 11 pm." (#8 Relatable meme caption; AI agents; Owner time & admin / messages after hours)
+- 09 Sat 14:30: "Where does your paper stamp card end up?" (#4 Expectation vs reality; Mobile apps; "Loyalty scheme for small café" / repeat customers)
+- 10 Sat 22:00: "No website yet? Here's one being built for a Manchester barber (demo)." (#7 Satisfying build; Websites; "Do I need a website for my small business?" / no website)
+- 11 Sun 14:30: "Café owners: it's not just a website." (#7 Satisfying build (feature chips) + one-niche hook; Websites; "How to get my café on Google Maps" + "table booking system")
+- 12 Sun 22:00: "Is your menu still a blurry PDF?" (#6 Pattern interrupt; Websites (cafés/restaurants); Café/restaurant menu only on paper or PDF) — BILAL FILMS
+- 13 Mon 14:30: "Which café would ChatGPT recommend?" (#3 Challenge question (split screen); GEO + SEO; "How do you get ChatGPT to recommend your business?")
+- 14 Mon 22:00: ""I'll send you the price in DM." That's how you lose them." (Bold text punch at 0.0 s (card H quote) + #2 clock; Websites; Price questions stuck in DMs / slow replies)

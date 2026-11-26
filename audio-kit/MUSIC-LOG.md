@@ -45,3 +45,16 @@ week-03 UK remake (22 Nov, T-20261122-14): all 21 tracks regenerated with the sa
 | 2026-11-26 | hook-test-c (satisfying build, single-reels) | pluck | 193 |
 | 2026-11-26 | hook-test-d (my process in 4 steps, single-reels) | piano | 197 |
 | 2026-11-26 | hook-test-e (before / after, built by me, single-reels) | house | 199 |
+
+| 2026-11-26 | week-04 01-slow-site | ambient | 211 |
+| 2026-11-26 | week-04 03-pay-upfront | house | 223 |
+| 2026-11-26 | week-04 04-night-booking | lofi | 227 |
+| 2026-11-26 | week-04 05-book-challenge | pluck | 229 |
+| 2026-11-26 | week-04 06-maps-invisible | piano | 233 |
+| 2026-11-26 | week-04 07-broken-form | house | 239 |
+| 2026-11-26 | week-04 08-juggling-messages | lofi | 241 |
+| 2026-11-26 | week-04 09-stamp-card | piano | 251 |
+| 2026-11-26 | week-04 10-barber-build | pluck | 257 |
+| 2026-11-26 | week-04 11-cafe-whole-system | house | 263 |
+| 2026-11-26 | week-04 13-ai-pick | ambient | 269 |
+| 2026-11-26 | week-04 14-price-dm | lofi | 271 |
