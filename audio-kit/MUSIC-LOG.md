@@ -41,3 +41,5 @@ week-03 UK remake (22 Nov, T-20261122-14): all 21 tracks regenerated with the sa
 | 2026-11-23 | week-03 extra trial-05 (from £655, plumber Stockport) | house | 167 |
 | 2026-11-23 | week-03 extra trial-06 (founding offer, see it first) | lofi | 173 |
 | 2026-11-26 | hook-test (about to break, single-reels) | ambient | 181 |
+| 2026-11-26 | hook-test-b (expectation vs reality, single-reels) | house | 191 |
+| 2026-11-26 | hook-test-c (satisfying build, single-reels) | pluck | 193 |
