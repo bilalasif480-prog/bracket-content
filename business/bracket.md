@@ -102,3 +102,4 @@ Last updated: 2026-11-22 by Bilal (via PM): Bracket now targets the UK (Manchest
 
 - **Reel rules from 26 Nov 2026 (week-03 got 1–8 views, ~2 s avg watch):** hook fully visible at 0.0 s (no fade-in), 12–15 s long (Bilal changed from 7–9 s on 26 Nov), 2 reels a day (14:30 + 22:00 Kuwait), rotate at least 4 templates, plus 2 face-to-camera reels a week that Bilal films. Bilal to comment daily on UK/Manchester small-business accounts; first Meta ad test after the 4 Dec report.
 - **Voice rule (Bilal, 26 Nov 2026):** every reel's voice-over ends with a short spoken offer line tied to its problem (e.g. "Is this your problem? We can fix it for you."); never say "Bracket" in the voice.
+- **Reel end card (Bilal, 26 Nov 2026 17:12):** only the [ BRACKET ] logo + "Comment START". No "Software house" or "Based in Kuwait" on end cards or covers. Never imply a UK office.
