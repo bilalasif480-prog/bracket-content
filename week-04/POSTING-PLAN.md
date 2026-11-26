@@ -1,336 +1,337 @@
-# Week 04 posting plan · Tue 1 – Mon 7 Dec 2026 (instamake, made 26 Nov 2026)
+# Week 04 posting plan · Tue 1 – Mon 7 Dec 2026 · CARTOON pack (instamake, made 26 Nov 2026)
 
-Inputs: analytics/week-03.md + research/strategy-brief.md (26 Nov week-04 plan), research/niche-report.md (26 Nov: cards H, I, 10 ideas), research/uk-problems.md (sheet top 5), research/hooks-bank.md (@theo.vizuals formulas, frame-0 rules, top 5), research/website-facts.md (founding offer, 30 days of free fixes, "we write the text", café page). Missing: the UK web/app builders' top-reel technique cards and "USE NEXT WEEK" checklist (research carried them to next week), so formats came from cards C/H/I and the hooks bank.
+Replaces the earlier week-04 pack (Bilal 26 Nov 23:11: "Make a new week 4 batch of 14 reels in the cartoon style... Use the cartoon style for all future reels"). Same 14 problems as the old plan (research sheet + hooks bank), remade as cartoon scenes; 3 swaps for variety: the two "Bilal films" slots are now cartoons (02 GEO split screen, 12 price-in-DM → AI agents), and "café whole system" became a GEO florist game show (11). Reels 04, 06 and 14 are Bilal's approved test reels (cartoon-1/2/3), re-cut: characters 25% bigger, reel 04's pigeon note no longer clips at the right edge, reel 06 moved from a café to a barber.
 
-**Rules applied to every reel:** frame 0 already moving with the hook fully readable (no fade/blur-in) · 14.0 s (hook → problem → fix → what Bracket builds → 1.8 s end card) · something changes at least every 1.5 s · loops (last 0.3 s crossfades to frame 0) · end card = `[ BRACKET ]` + Comment START only · voice af_heart 1.0, never says "Bracket", ends with a problem-specific offer line, ends ≥0.7 s before the video ends · a new original bg_music.py track per reel, ducked under the voice · demos labelled DEMO, example prices labelled EXAMPLE · only official "from" prices · no UK office implied.
+**Every reel:** 15.0 s, 1080x1920 · frame 0 already moving with 2+ characters · punchline by ~5–6.5 s · then the Bracket service that fixes it with its official "from" price · something changes at least every 1.5 s · end card (last 1.6 s) = `[ BRACKET ]` + Comment START only · voice Kokoro af_heart 1.0 (no pitch shift), never says "Bracket", ends with an offer line tied to the problem, ends before the video does · new original bg_music.py track per reel at ~0.22, ducked under the voice, plus light SFX · every app/site/map mock labelled DEMO · no "freelance web developer", no UK office implied, no invented clients/results/reviews/stats.
 
-**Volume/times:** 2 a day, 14:30 and 22:00 Kuwait (11:30 / 19:00 UK), as the brief says (no most-active-times data yet). 12 rendered + 2 "Bilal films". If his clips aren't in, slots 02 and 12 move to the next free 22:00 slot and nothing else changes.
+**Times:** 2 a day, 14:30 and 22:00 Kuwait (11:30 / 19:00 UK). Normal reels (no Trial switch), each with its own cover.
 
-**Templates in order (no two in a row the same):** dark phone POV · split-screen face (film) · invoice→reality flip · night chat · challenge timer · map POV · laptop form · meme bar · falling object→app · block build · feature chips · face (film) · split AI · quote punch. 12 distinct looks.
+**Services:** websites 6 (01, 03, 05, 07, 10, 14) · AI agents 3 (04, 08, 12) · local SEO 2 (06, 13) · GEO 2 (02, 11) · apps 1 (09).
 
-**Services:** websites 8 (01, 03, 05, 07, 10, 11, 12 film B, 14) · AI agents 2 (04, 08) · local SEO 1 (06) · GEO 2 (02, 13) · apps 1 (09). Sheet problems used: 8 of the 23 rows (Maps, AI receptionist, ChatGPT, do I need a website, café booking, café loyalty, missed enquiries, owner time).
+**Settings:** clothes shop, curry house, plumber, café, gym, barber, estate agent, dental clinic, bakery, pet groomer, florists, nail bar, locksmith, salon. Men and women, varied skin tones and hair.
 
-## Hook check (all 12 rendered reels, frames 0 / 7 / 13 s checked with Read)
-Frame 0 moving and readable on mute ✓ · recognisable thing (phone, chat, map, form, invoice, stamp card) ✓ · big element ≥40% of frame ✓ · something happens before 3 s ✓ · first voice word within 0.15 s ✓ · about the viewer's business ✓ · end card = logo + Comment START only ✓ · voice ends before the video ✓ (12.7–13.3 s of 14.0 s).
+**QA (Read on frames 0 / 4 / 8 / 11 / 14.2 s of every final mp4):** no clipped text, no text over faces, limbs intact, nothing cut at the edges except characters walking in/out, end card = logo + pill only, voice ends before the video (12.7–13.8 s of 15.0 s). Covers checked at 150 px wide.
+
+`SHOT-LIST.md` (Bilal-films clips) is from the old pack; none of these 14 reels needs filming.
 
 ## 01 · Tuesday 1 December 2026 · 14:30 Kuwait · Websites
 
-- **File:** `01-slow-site.mp4` · **Cover:** `covers/01-slow-site.jpg`
-- **Problem (research):** Slow / weak café website (sheet: No or weak website)
-- **Source format:** Remake of our own best reel "Still loading… and they're gone." (110 views)
-- **Hook formula:** #1 About to break (stress) · **Template:** Dark phone POV (spinner, thumb drifting to back)
-- **Voice (af_heart 1.0):** "Your café's website is still loading, and your customer is about to leave." / "They tap back and book next door." / "A fast page shows the menu and a booking button straight away." / "Slow site losing you tables? I'll build you a fast one."
-- **Music:** ambient 211
-- **Alt text:** A café website stuck loading on a phone while a thumb moves to the back button, then the same page loading fast and a table booked in one tap (demo).
+- **File:** `01-slow-shop-site.mp4` · **Cover:** `covers/01-slow-shop-site.jpg` ("Still loading...")
+- **Setting:** Clothes shop
+- **Problem (research):** Slow / weak website (sheet: No or weak website)
+- **Hook formula:** #1 About to break (stress) · **Frame 0:** Customer already tapping her foot at a site stuck on "Loading... 2%"; the shop owner waves hopefully.
+- **The joke:** She waits so long her hair grows to the floor and a cobweb forms; she taps BACK and sprints off; the owner dives after her, face-plants, and a pigeon walks over him. The site finishes loading to nobody ("Loaded! (nobody here)").
+- **The fix:** A fast DEMO shop page loads at once, she zooms back in and orders in one tap. · **Tag:** Websites from £655
+- **Voice (af_heart 1.0, ends 13.75 s):** "Your shop's website is still loading." / "And she's gone." / "A fast website shows your products straight away." / "Slow website losing you sales? We can build you a fast one."
+- **Music:** piano 9211
+- **Alt text:** Cartoon: a customer waits so long for a clothes shop website to load that her hair grows to the floor; she leaves, the owner face-plants, then a fast demo site lets her order in one tap.
 - **Caption:**
 
 ```
-Is your website losing you customers before it even loads?
+How long does your website take to load on your phone?
 
-When a café page takes too long on a phone, people tap back and book next door. A fast page shows the menu, opening hours and a Book a table button straight away.
+When a shop page takes too long on a phone, people tap back and buy somewhere else. A fast page shows your products straight away.
 
 Websites from £655, built for phones first. Comment START and I'll tell you what yours needs.
 
-How long does your site take to load on your phone?
-
-#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #CafeOwner #SmallBusinessWebsite
+#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #ShopOwner #SmallBusinessWebsite
 ```
 
 ## 02 · Tuesday 1 December 2026 · 22:00 Kuwait · GEO
 
-- **File:** `02-bilal-films-ai-answer.mp4 (Bilal films)` · **Cover:** `covers/02-bilal-films-ai-answer.jpg`
+- **File:** `02-ai-answer-curry.mp4` · **Cover:** `covers/02-ai-answer-curry.jpg` ("Is AI ignoring you?")
+- **Setting:** Curry house (split screen: customer on sofa / owner in his kitchen)
 - **Problem (research):** "How do you get ChatGPT to recommend your business?" (sheet top 5 #3)
-- **Source format:** Hooks-bank split-screen reaction (@theo.vizuals #8 dashcam + face)
-- **Hook formula:** #5 Split-screen reaction · **Template:** BILAL FILMS (face-to-camera, split screen)
-- **Voice (af_heart 1.0):** (0.0 s, already watching the screen) "Is my café in the AI answer?" / "I asked ChatGPT for the best café in Ancoats. If you're not in this answer, your customers can't find you here." / "Is this your problem? I can fix it for you."
-- **Music:** Bilal's own voice; add a new bg_music.py track (ducked) when editing
-- **Alt text:** Split screen: a ChatGPT answer loading for "best café in Ancoats" on top, Bilal watching to see if the café is named below.
+- **Hook formula:** #5 Split-screen reaction · **Frame 0:** Top: customer asks an AI assistant "Best curry near Rusholme?". Bottom: the chef already waving, hoping.
+- **The joke:** The AI lists four other places; the chef climbs on a table shouting "US!! US!!", then falls backwards into his own curry pot (only his legs kick out).
+- **The fix:** GEO ticks (menu, opening hours, address + area) and the DEMO answer now includes "Your Curry House"; the chef pops out of the pot and the customer walks in. · **Tag:** GEO from £215/month
+- **Voice (af_heart 1.0, ends 13.49 s):** "Your customer asks AI for the best curry nearby." / "It names everyone except you." / "GEO helps AI tools read your details." / "Not showing up in AI answers? We can help with that."
+- **Music:** lofi 9212
+- **Alt text:** Cartoon split screen: a customer asks an AI for the best curry nearby while the restaurant owner waves to be picked, falls into a curry pot, then appears in the demo AI answer.
 - **Caption:**
 
 ```
-Is your business in the AI answer?
+Have you ever asked ChatGPT about your own restaurant?
 
-More people ask ChatGPT where to eat, who to call and where to book. If it can't read clear details about your business, it names someone else.
+More people ask AI tools where to eat. If they can't read clear details about your restaurant, they name someone else.
 
 GEO from £215/month. Comment START and I'll check what AI tools can see about you.
 
-Have you ever asked ChatGPT about your own business?
-
-#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #ChatGPT #LocalBusiness
+#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #ChatGPT #RestaurantOwner
 ```
 
 ## 03 · Wednesday 2 December 2026 · 14:30 Kuwait · Websites (founding offer)
 
-- **File:** `03-pay-upfront.mp4` · **Cover:** `covers/03-pay-upfront.jpg`
+- **File:** `03-website-first.mp4` · **Cover:** `covers/03-website-first.jpg` ("Website first. Pay when happy.")
+- **Setting:** Plumber in a bathroom
 - **Problem (research):** "Do I need a website for my small business?" + cost worry (sheet top 5 #4)
-- **Source format:** Niche card H offer close (alphaagency1, "free demo, no advance")
-- **Hook formula:** #4 Expectation vs reality · **Template:** Invoice drop → paper flip
-- **Voice (af_heart 1.0):** "You think a website means a big bill before you see a thing." / "First five clients: your site is built on a preview link." / "Two rounds of changes. You pay when you're happy." / "Worried about paying upfront? See yours first."
-- **Music:** house 223
-- **Alt text:** An invoice stamped "pay upfront" flips into a phone showing a café site on a preview link, with four steps ending in "pay when you're happy".
+- **Hook formula:** #4 Expectation vs reality · **Frame 0:** "Expectation: a big bill upfront." The plumber walks in with his toolbox as a giant invoice falls on him.
+- **The joke:** SPLAT: the invoice flattens him; his mate peels him up; a second "EXTRA CHANGES" invoice drops, he jumps it, a pipe bursts in his face, he slips and lands in the bath with his legs kicking.
+- **The fix:** "Reality:" a preview-link panel ticks Built on a preview link, 2 rounds of changes, Pay only when you're happy. · **Tag:** Your website first. You pay only when you're happy. (First 5 clients · websites from £655)
+- **Voice (af_heart 1.0, ends 13.8 s):** "You think a website means a big bill upfront." / "And then it gets worse." / "First five clients: your website first. You pay only when you're happy." / "Worried about paying upfront? See yours first."
+- **Music:** pluck 9213
+- **Alt text:** Cartoon: a plumber is flattened by a giant upfront invoice and ends up in the bath, then a preview-link panel shows the website is built first and paid for only when he is happy.
 - **Caption:**
 
 ```
-Worried a website means a big bill before you've seen anything?
+What stops you getting a website right now?
 
 For my first 5 website clients: the scope is agreed in writing, the full site is built on a preview link, you get 2 rounds of changes, and you pay only when you're happy. Your domain is in your name from day one.
 
-Comment START to ask for a founding place.
+Websites from £655. Comment START to ask for a founding place.
 
-What stops you getting a website right now?
-
-#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #SmallBusinessWebsite #WebDesignUK
+#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #PlumberUK #SmallBusinessWebsite
 ```
 
 ## 04 · Wednesday 2 December 2026 · 22:00 Kuwait · AI agents
 
-- **File:** `04-night-booking.mp4` · **Cover:** `covers/04-night-booking.jpg`
-- **Problem (research):** "AI receptionist for small business" (sheet top 5 #2, +70% UK searches)
-- **Source format:** Research format card C "11 PM enquiry" (febtech + makeuforward), Bilal's preferred test-reel-3 style
-- **Hook formula:** #2 Countdown / clock → payoff · **Template:** Night phone-chat story (navy, time-lapse)
-- **Voice (af_heart 1.0):** "Eleven at night. A customer wants a table for six." / "You reply at nine. They've booked somewhere else." / "An AI agent replies at once, books it, and passes tricky ones to you." / "Missing bookings at night? We'll set it up for you."
-- **Music:** lofi 227
-- **Alt text:** A WhatsApp message at 23:04 asking for a table for six, a reply at 09:12 too late, then the same message answered and booked at night by an AI agent (demo).
+- **File:** `04-night-bookings.mp4` · **Cover:** `covers/04-night-bookings.jpg` ("Bookings at midnight?")
+- **Setting:** Café owner's bedroom at night (approved test reel 1, re-cut)
+- **Problem (research):** "AI receptionist for small business" (sheet top 5 #2)
+- **Hook formula:** #1 About to break (stress) · **Frame 0:** The café owner is mid-flop onto his bed, still in his apron.
+- **The joke:** A pigeon drops a "table for 4??" note, customers drop onto the bed, a woman knocks at the window, a rider skids in, the cat lands on him and the bed collapses: CRASH.
+- **The fix:** A robot AI agent runs in and books tables in the DEMO chat while he sleeps; the pigeon leaves with "✓ booked". · **Tag:** AI agents from £875 setup + £109/month
+- **Voice (af_heart 1.0, ends 13.17 s):** "Café owner. Finally in bed." / "Then everyone wants a table." / "Or let an AI agent answer and book, while you sleep." / "Missing bookings at night? We can fix that for you."
+- **Music:** pluck 9201
+- **Alt text:** Cartoon: a café owner trying to sleep is buried by customers wanting tables until the bed collapses, then a robot AI agent books the tables in a demo chat while he sleeps.
 - **Caption:**
 
 ```
-Who answers your bookings at 11 pm?
+How many booking messages are waiting for you every morning?
 
-A customer asks for a table at night. You reply in the morning. They've already booked somewhere else. An AI agent can reply straight away, book the table and pass tricky questions to you.
+Customers ask for tables late at night. An AI agent can answer, book the table and pass tricky questions to you, while you sleep.
 
-AI agents from £875 setup + £109/month. Comment START and I'll show you how it would work for you.
+AI agents from £875 setup + £109/month. Comment START and I'll show you how it would work for your café.
 
-How many messages do you get after closing?
-
-#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #AIReceptionist #RestaurantOwner
+#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #CafeOwner #AIAgents
 ```
 
 ## 05 · Thursday 3 December 2026 · 14:30 Kuwait · Websites
 
-- **File:** `05-book-challenge.mp4` · **Cover:** `covers/05-book-challenge.jpg`
-- **Problem (research):** "Best table booking system for small café UK" (sheet top 5 #5)
-- **Source format:** Hooks-bank challenge question (@theo.vizuals 847K "who can escape")
-- **Hook formula:** #3 Challenge question · **Template:** Challenge + big timer (peach)
-- **Voice (af_heart 1.0):** "Can you book a table on this website in under ten seconds?" / "Pop-ups. A PDF menu. Time's up." / "On a proper site, it's four taps and the table's booked." / "Losing bookings to a messy site? I'll build you a better one."
-- **Music:** pluck 229
-- **Alt text:** A timer races to 10 seconds while a thumb fights pop-ups on a messy restaurant site (demo), then a clean site books a table in 4 taps (demo).
+- **File:** `05-gym-10-seconds.mp4` · **Cover:** `covers/05-gym-10-seconds.jpg` ("Book in 10 seconds?")
+- **Setting:** Gym
+- **Problem (research):** "Best booking system for a small business UK" (sheet: booking)
+- **Hook formula:** #3 Challenge question · **Frame 0:** "Can she book a class in 10 seconds?" with a timer already counting down from 10 while she taps.
+- **The joke:** A cookie banner turns into a giant cookie that bonks her, she karate-chops a newsletter pop-up, trips on a 14-page PDF timetable, time runs out and she collapses; the owner drops his dumbbell on his foot.
+- **The fix:** A clean DEMO gym page: Spin 6pm → Book → Booked ✓ in 3 taps. · **Tag:** Websites from £655
+- **Voice (af_heart 1.0, ends 13.74 s):** "Can she book a class on this gym's website in ten seconds?" / "Time's up." / "On a proper website, it's three taps and she's booked." / "Members giving up on your website? We can build you a better one."
+- **Music:** house 9214
+- **Alt text:** Cartoon: a gym member races a 10-second timer through cookie banners, pop-ups and a PDF timetable and collapses, then books a class in three taps on a clean demo site.
 - **Caption:**
 
 ```
-Can you book a table on this website in under 10 seconds?
+How many taps does it take to book on your website?
 
-Pop-ups, a PDF menu and an "email us" form. Your customers give up long before you see them. On a proper site it takes 4 taps.
+Pop-ups, a PDF timetable and "call us 9 to 5". Members give up long before they book. On a proper site it's three taps.
 
-Café and restaurant websites with booking built in, from £655. Comment START and I'll test yours.
+Gym and studio websites with class booking built in, from £655. Comment START and I'll test yours.
 
-How many taps does it take on your site?
-
-#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #RestaurantWebsite #CafeOwner
+#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #GymOwner #SmallBusinessWebsite
 ```
 
 ## 06 · Thursday 3 December 2026 · 22:00 Kuwait · Local SEO
 
-- **File:** `06-maps-invisible.mp4` · **Cover:** `covers/06-maps-invisible.jpg`
+- **File:** `06-cant-find-barber.mp4` · **Cover:** `covers/06-cant-find-barber.jpg` ("They can't find you.")
+- **Setting:** Barber shop street (approved test reel 2, moved from café to barber)
 - **Problem (research):** "Why is my business not showing on Google Maps?" (sheet top 5 #1)
-- **Source format:** Hooks-bank danger POV (@theo.vizuals 6M bike in rain)
-- **Hook formula:** #9 Danger POV · **Template:** Full-screen map POV
-- **Voice (af_heart 1.0):** "Your customer searches plumber near me. None of these pins are you." / "Open today, but invisible on Google Maps." / "A complete Google Business Profile helps locals find you." / "Not showing up on Google? We're here to help."
-- **Music:** piano 233
-- **Alt text:** A Google Maps search for "plumber near me" shows three pins but not your business, then a profile checklist fills in and your pin appears (demo).
+- **Hook formula:** #3 Challenge question · **Frame 0:** "Will he find the barber?" over a customer already sprinting past, staring at his phone; the barber waves "Over here!!".
+- **The joke:** His map shows a "?" where the barber is, passers-by walk past, a pigeon is the only customer ("...not you."), and he runs straight into a lamppost: BONK.
+- **The fix:** A giant map pin drops on the roof, the DEMO map shows "Barber · 2 min walk" and everyone walks in. · **Tag:** Local SEO from £325/month
+- **Voice (af_heart 1.0, ends 13.71 s):** "He needs a haircut. The barber is right there." / "But it's not on his map." / "Local SEO helps you show up on the map." / "Customers walking right past you? We can fix that for you."
+- **Music:** lofi 9202
+- **Alt text:** Cartoon: a customer runs past a barber shop because it is missing from his phone map and hits a lamppost, then a map pin drops on the shop and everyone walks in.
 - **Caption:**
 
 ```
-Why isn't my business showing on Google Maps?
+If someone searched "barber near me" on your street right now, would they find you?
 
-Your customer searches "plumber near me", sees three pins and calls one of them. A complete Google Business Profile (right category, hours, area you cover, photos, website linked, reviews) helps locals find you.
+A complete Google Business Profile (right category, hours, photos, website linked, reviews) helps people nearby find you on the map.
 
 Local SEO from £325/month. Comment START and I'll check your profile.
 
-When did you last update your Google Business Profile?
-
-#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #GoogleBusinessProfile #LocalSEO
+#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #ManchesterBarber #LocalSEO
 ```
 
 ## 07 · Friday 4 December 2026 · 14:30 Kuwait · Websites
 
-- **File:** `07-broken-form.mp4` · **Cover:** `covers/07-broken-form.jpg`
+- **File:** `07-form-nowhere.mp4` · **Cover:** `covers/07-form-nowhere.jpg` ("Your form goes nowhere.")
+- **Setting:** Estate agent's office
 - **Problem (research):** Missed enquiries (sheet: Missed messages/enquiries)
-- **Source format:** Remake of our own "Your customers will find the bug before you do." (87 views)
-- **Hook formula:** #1 About to break (stress) · **Template:** Light laptop browser + rage clicks
-- **Voice (af_heart 1.0):** "Your customer fills in your form, taps send, and nothing happens." / "The booking never reaches you." / "Every form I build is tested on real phones before launch." / "Is your form losing bookings? I can fix it for you."
-- **Music:** house 239
-- **Alt text:** A salon booking form shows "something went wrong" after many clicks, the inbox stays empty, then the same form sends and an email arrives (demo).
+- **Hook formula:** #1 About to break (stress) · **Frame 0:** A couple already typing into a DEMO "Book a viewing" form while the agent waits by her phone.
+- **The joke:** They tap SEND: the message loops around as a paper plane and nosedives into the bin (CRUNCH); the second one is stolen by a pigeon; the agent grows a cobweb and falls asleep while they leave for the next agent.
+- **The fix:** "Checked on real phones": the plane lands in her hand, "Sat 11:00 ✓", she throws them the keys. · **Tag:** Websites from £655
+- **Voice (af_heart 1.0, ends 13.49 s):** "They fill in your form and tap send." / "And it goes nowhere." / "Every form I build is checked on real phones." / "Is your form losing enquiries? We can fix that for you."
+- **Music:** ambient 9215
+- **Alt text:** Cartoon: a couple send a viewing request from an estate agent website, but it flies into the bin and a pigeon steals the next one; then the fixed demo form delivers the request and the agent hands over keys.
 - **Caption:**
 
 ```
-Is your contact form actually sending?
+When did you last test your own contact form on your phone?
 
-A customer fills in your form, taps Send and nothing happens. You never hear about it. Every form I build is tested on real phones before launch, and every site comes with 30 days of free fixes.
+If your form doesn't actually send, the enquiry never reaches you and the customer thinks you ignored them. Every form I build is checked on real phones before launch.
 
-Comment START and I'll check your form.
+Websites from £655. Comment START and I'll test yours.
 
-When did you last test your own contact form?
-
-#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #SmallBusinessWebsite #HairSalon
+#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #EstateAgentUK #SmallBusinessWebsite
 ```
 
 ## 08 · Friday 4 December 2026 · 22:00 Kuwait · AI agents
 
-- **File:** `08-juggling-messages.mp4` · **Cover:** `covers/08-juggling-messages.jpg`
+- **File:** `08-juggling-messages.mp4` · **Cover:** `covers/08-juggling-messages.jpg` ("11 pm. 99+ messages.")
+- **Setting:** Dental clinic reception
 - **Problem (research):** Owner time & admin / messages after hours (sheet)
-- **Source format:** Hooks-bank relatable meme caption (@theo.vizuals 302K)
-- **Hook formula:** #8 Relatable meme caption · **Template:** Meme caption bar + juggling app icons
-- **Voice (af_heart 1.0):** "WhatsApp, emails, website chats, all at eleven at night." / "And one always drops." / "An AI agent answers first, books, and passes the hard ones to you." / "Drowning in messages? We'll set it up for you."
-- **Music:** lofi 241
-- **Alt text:** Two hands juggle WhatsApp, email, phone and chat icons with unread badges until one drops, then an AI agent inbox (demo) answers and books messages.
+- **Hook formula:** #8 Relatable meme caption · **Frame 0:** White caption bar "Me answering WhatsApp, emails and DMs at 11 pm" over the receptionist already juggling message icons.
+- **The joke:** More icons fly in (99+), a patient with a swollen cheek rings the desk bell, and the whole pile crashes down and buries him; only his hand waves out.
+- **The fix:** A robot AI agent takes the desk: "Tue 9:30 is free. Booked ✓" and "Passing you to the team now"; the receptionist drinks his tea. · **Tag:** AI agents from £875 setup + £109/month
+- **Voice (af_heart 1.0, ends 13.32 s):** "WhatsApp, emails and DMs, all at eleven at night." / "Something always drops." / "An AI agent answers, books, and passes tricky ones to you." / "Drowning in messages? We can set one up."
+- **Music:** pluck 9216
+- **Alt text:** Cartoon: a dental clinic receptionist juggles message icons until they bury him, then a robot AI agent books a check-up and passes an urgent message to the team in a demo inbox.
 - **Caption:**
 
 ```
-Me answering WhatsApp, emails and website chats at 11 pm.
+How many messages do you answer after closing?
 
-One always drops. An AI agent can answer first on WhatsApp and website chat, book what it can, and pass the hard ones to you. You approve how it works.
+WhatsApp, emails, DMs, website chat. An AI agent can answer the routine ones, book appointments and pass anything urgent to your team.
 
-AI agents from £875 setup + £109/month. Comment START and I'll tell you what it could take off your plate.
+AI agents from £875 setup + £109/month. Comment START and I'll show you how it would work for you.
 
-Which app do your customers message you on most?
-
-#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #AIAgent #SmallBusinessOwner
+#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #ClinicOwner #AIAgents
 ```
 
 ## 09 · Saturday 5 December 2026 · 14:30 Kuwait · Mobile apps
 
-- **File:** `09-stamp-card.mp4` · **Cover:** `covers/09-stamp-card.jpg`
+- **File:** `09-stamp-card-pigeon.mp4` · **Cover:** `covers/09-stamp-card-pigeon.jpg` ("Stamp card: GONE.")
+- **Setting:** Bakery
 - **Problem (research):** "Loyalty scheme for small café" / repeat customers (sheet top 5 #5)
-- **Source format:** Niche report idea #10 + hooks-bank expectation vs reality
-- **Hook formula:** #4 Expectation vs reality · **Template:** Falling object → app reveal (kraft → peach)
-- **Voice (af_heart 1.0):** "Your paper stamp card ends up in the bin, seven stamps and all." / "On their phone, the stamps stay, and the app reminds them to come back." / "Loyalty, menu and order-ahead in one app." / "Regulars drifting away? We can build your app."
-- **Music:** piano 251
-- **Alt text:** A paper coffee stamp card tumbles into a bin, then a café app (demo) fills its last stamps and unlocks a free coffee.
+- **Hook formula:** #6 Pattern interrupt · **Frame 0:** A pigeon swoops in and snatches a paper stamp card with 9 of 10 stamps.
+- **The joke:** He chases it, it drops in a puddle, he dives in (SPLASH) and the card is soggy; the baker hands him a new blank card... and the pigeon steals that too.
+- **The fix:** A DEMO bakery app: the 10th stamp lands, "Free bun!", and the pigeon gets the crumbs. · **Tag:** Apps from £3,995
+- **Voice (af_heart 1.0, ends 13.19 s):** "Nine stamps. One more for a free bun." / "Gone." / "With your own app, the stamps live on their phone." / "Regulars losing their cards? We can build your app."
+- **Music:** piano 9217
+- **Alt text:** Cartoon: a pigeon steals a customer's nearly full paper stamp card, twice, then a demo bakery app adds the tenth stamp and gives him a free bun.
 - **Caption:**
 
 ```
-Where does your paper stamp card end up?
+Where do your customers' paper stamp cards end up?
 
-Usually in the bin, stamps and all. In an app the stamps stay on their phone, and a reminder brings them back for their free coffee. Menu and order-ahead live in the same app.
+Paper cards get lost, washed and binned. In your own app the stamps live on their phone, and regulars come back for the free one.
 
-Mobile apps from £3,995 (demo app shown). Comment START and I'll tell you if an app makes sense for you.
+Apps from £3,995. Comment START and I'll tell you what your app could do.
 
-Do your regulars still use a paper card?
-
-#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #CafeOwner #LoyaltyApp
+#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #BakeryOwner #LoyaltyApp
 ```
 
 ## 10 · Saturday 5 December 2026 · 22:00 Kuwait · Websites
 
-- **File:** `10-barber-build.mp4` · **Cover:** `covers/10-barber-build.jpg`
+- **File:** `10-groomer-build.mp4` · **Cover:** `covers/10-groomer-build.jpg` ("No website yet?")
+- **Setting:** Pet groomer
 - **Problem (research):** "Do I need a website for my small business?" / no website (sheet top 5 #4)
-- **Source format:** Hooks-bank satisfying build + build-reel template (reel10.js)
-- **Hook formula:** #7 Satisfying build · **Template:** Colour-block canvas, blocks snapping in
-- **Voice (af_heart 1.0):** "Building a website for a Manchester barber, block by block." / "I write the words for you, from one short call." / "Booking, map, hours and WhatsApp, checked on a phone." / "No website yet? I'll build yours."
-- **Music:** pluck 257
-- **Alt text:** A barber shop website (demo) assembles block by block, then shows on a phone where a "Book a chair" button is tapped and booked.
+- **Hook formula:** #7 Satisfying build · **Frame 0:** Website blocks already slamming into a giant phone ("Building a site for a pet groomer (demo)").
+- **The joke:** The "Book a groom" button bounces off and bonks the cat; the groomer catches it and slots it in; a customer books, and the cat comes out with a poodle pom-pom cut.
+- **The fix:** The finished DEMO site: booking, prices list, map, hours, text written for her, chat button. · **Tag:** Websites from £655
+- **Voice (af_heart 1.0, ends 12.73 s):** "Building a website for a pet groomer, block by block." / "Booking, prices, map and hours." / "And I write the words for you, from one short call." / "No website yet? We can build yours."
+- **Music:** lofi 9218
+- **Alt text:** Cartoon: a demo website for a pet groomer builds itself block by block on a giant phone; the booking button bonks the cat, a customer books, and the cat ends up with a poodle cut.
 - **Caption:**
 
 ```
-No website yet? Here's one being built for a Manchester barber (demo).
+No website yet? What would yours need?
 
-Header, photo, your words (I write them from one short call), booking button, services, map and hours, Google reviews link and WhatsApp. Then it's checked on a phone before it goes live.
+Booking, prices, map and opening hours, built for phones first. You don't have to write the words: I write the text from one short call.
 
 Websites from £655. Comment START and I'll tell you what yours needs.
 
-What would you want on your site first?
-
-#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #BarberShop #SmallBusinessWebsite
+#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #PetGroomer #SmallBusinessWebsite
 ```
 
-## 11 · Sunday 6 December 2026 · 14:30 Kuwait · Websites
+## 11 · Sunday 6 December 2026 · 14:30 Kuwait · GEO
 
-- **File:** `11-cafe-whole-system.mp4` · **Cover:** `covers/11-cafe-whole-system.jpg`
-- **Problem (research):** "How to get my café on Google Maps" + "table booking system" (sheet top 5 #5)
-- **Source format:** Research format card I "One niche, whole system" (makeuforward)
-- **Hook formula:** #7 Satisfying build (feature chips) + one-niche hook · **Template:** Feature chips flying onto a phone (red)
-- **Voice (af_heart 1.0):** "Café owners, it's not just a website." / "Menu, hours, map, table booking and click-and-collect, all in one place." / "Ready for Google, and you can edit it yourself." / "Want all this for your café? I'll build it for you."
-- **Music:** house 263
-- **Alt text:** Feature chips (menu, hours, map, booking, click-and-collect, payments) fly onto a café website on a phone (demo) and a table gets booked.
-- **Caption:**
-
-```
-Café owners: it's not just a website.
-
-Menu, opening hours, map, table booking, click-and-collect and card payments, ready for Google, and you can edit it yourself. I write the text for you.
-
-Café websites from £655. Comment START and I'll tell you what yours needs.
-
-Which of these does your café still not have?
-
-#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #CafeOwner #ManchesterCafe
-```
-
-## 12 · Sunday 6 December 2026 · 22:00 Kuwait · Websites (cafés/restaurants)
-
-- **File:** `12-bilal-films-paper-menu.mp4 (Bilal films)` · **Cover:** `covers/12-bilal-films-paper-menu.jpg`
-- **Problem (research):** Café/restaurant menu only on paper or PDF (sheet: No or weak website)
-- **Source format:** Hooks-bank pattern interrupt (@theo.vizuals 847K cardboard bite)
-- **Hook formula:** #6 Pattern interrupt · **Template:** BILAL FILMS (face-to-camera, menu tear)
-- **Voice (af_heart 1.0):** (0.0 s, already tearing the menu, no "hi") "Your menu shouldn't live on paper." / "Most customers check the menu on their phone before they come in. If yours is a blurry PDF, they go next door." / "Want a proper menu page? I can build it for you."
-- **Music:** Bilal's own voice; add a new bg_music.py track (ducked) when editing
-- **Alt text:** Bilal tears a printed menu in half and explains why customers want a menu page they can read on their phone.
-- **Caption:**
-
-```
-Is your menu still a blurry PDF?
-
-Most customers check the menu on their phone before they come in. A proper menu page loads fast, is easy to read and sits next to your booking button.
-
-Café and restaurant websites from £655. Comment START and I'll look at yours.
-
-Where is your menu right now: paper, PDF or a web page?
-
-#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #RestaurantOwner #CafeOwner
-```
-
-## 13 · Monday 7 December 2026 · 14:30 Kuwait · GEO + SEO
-
-- **File:** `13-ai-pick.mp4` · **Cover:** `covers/13-ai-pick.jpg`
+- **File:** `11-florist-ai-pick.mp4` · **Cover:** `covers/11-florist-ai-pick.jpg` ("Will AI pick you?")
+- **Setting:** Game-show stage, two florists
 - **Problem (research):** "How do you get ChatGPT to recommend your business?" (sheet top 5 #3)
-- **Source format:** Hooks-bank challenge question in a split screen (formula #3 + #5 without a face)
-- **Hook formula:** #3 Challenge question (split screen) · **Template:** Split screen + AI chat (dark)
-- **Voice (af_heart 1.0):** "Two cafés. Which one does ChatGPT recommend?" / "The one whose website clearly shows the menu, hours and booking." / "AI tools can only recommend what they can read." / "Not showing up in AI answers? We're here to help."
-- **Music:** ambient 269
-- **Alt text:** Two cafés side by side (demo): an AI chat recommends the one whose website lists menu, hours and booking; the Instagram-only one is not mentioned.
+- **Hook formula:** #3 Challenge question · **Frame 0:** "Which florist will the AI pick?" with two florists bouncing on podiums under an AI ANSWER screen.
+- **The joke:** Florist A holds up a clear website, "YOU" holds up just a photo; the AI says "???" then "I pick: Florist A" and a trapdoor drops "YOU" through the floor.
+- **The fix:** She springs back with clear details (hours, delivery area, FAQs) and the DEMO answer shows "Also recommended: Your Florist". · **Tag:** GEO from £215/month
+- **Voice (af_heart 1.0, ends 13.49 s):** "Two florists. Which one will the AI pick?" / "The one it can actually read." / "GEO makes your details easy for AI to read." / "Not showing up in AI answers? We can help with that."
+- **Music:** house 9219
+- **Alt text:** Cartoon game show: an AI picks the florist with a clear website and the other florist drops through a trapdoor, then returns with clear details and appears in the demo AI answer.
 - **Caption:**
 
 ```
-Which café would ChatGPT recommend?
+Have you checked what AI tools say about your business?
 
-The one it can read. Café A has a site with its menu, hours, booking and FAQs. Café B is Instagram only. AI tools can only recommend what they can read.
+AI tools can only mention what they can read. Clear hours, services, area and FAQs on your website make it easier for them.
 
-GEO from £215/month (£490/month with local SEO). No promises of AI citations, just a business that's easy to read. Comment START and I'll check yours.
+GEO from £215/month. Comment START and I'll check what AI tools can see about you.
 
-Would ChatGPT know your opening hours?
+#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #Florist #ChatGPT
+```
 
-#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #ChatGPT #GEO
+## 12 · Sunday 6 December 2026 · 22:00 Kuwait · AI agents
+
+- **File:** `12-price-waiting.mp4` · **Cover:** `covers/12-price-waiting.jpg` ("She asked your price.")
+- **Setting:** Nail bar
+- **Problem (research):** Price questions stuck in DMs / slow replies (sheet: Missed messages)
+- **Hook formula:** #2 Countdown / clock → payoff · **Frame 0:** "She asks your price at 9 pm..." with a WAITING clock already racing next to her message.
+- **The joke:** The clock races to hours, she grows a cobweb, her hair turns grey and she gets a walking stick; the reply finally comes "next day" and she has gone, leaving a "Booked elsewhere" note and a pigeon.
+- **The fix:** A robot AI agent replies in the DEMO chat with the price list and books "Sat 2pm ✓"; she walks in young again. · **Tag:** AI agents from £875 setup + £109/month
+- **Voice (af_heart 1.0, ends 13.52 s):** "She asks your price at nine pm." / "You reply tomorrow. She's long gone." / "An AI agent answers prices and books her in." / "Losing customers while you're busy? We can set one up for you."
+- **Music:** ambient 9220
+- **Alt text:** Cartoon: a customer waits for a nail bar to reply to her price question until she grows old and leaves, then a robot AI agent answers and books her in a demo chat.
+- **Caption:**
+
+```
+How long do price questions wait in your DMs?
+
+When your hands are busy, price questions wait, and people book somewhere else. An AI agent can answer them, send your price list and book the appointment.
+
+AI agents from £875 setup + £109/month. Comment START and I'll show you how it would work for you.
+
+#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #NailSalon #AIAgents
+```
+
+## 13 · Monday 7 December 2026 · 14:30 Kuwait · Local SEO
+
+- **File:** `13-locksmith-map.mp4` · **Cover:** `covers/13-locksmith-map.jpg` ("Next door. Not on the map.")
+- **Setting:** Street at night, locksmith next door
+- **Problem (research):** "Why is my business not showing on Google Maps?" (sheet top 5 #1)
+- **Hook formula:** #9 Danger POV · **Frame 0:** "POV: locked out at 11 pm." The door slams and a man in pyjamas jumps as his slipper flies.
+- **The joke:** A rain cloud follows only him, his map shows no locksmith, he gets stuck in his own window with his legs kicking while the locksmith walks right past, then the cat shuts the window and he drops into a puddle.
+- **The fix:** A DEMO Google Business Profile ticks category, hours, area covered, photos + phone; the pin drops "Locksmith · 1 min walk" and she opens his door. · **Tag:** Local SEO from £325/month
+- **Voice (af_heart 1.0, ends 13.13 s):** "Locked out at eleven pm. He searches locksmith near me." / "You're next door, but not on the map." / "A complete Google profile helps people nearby find you." / "Not on Google Maps? We can help with that."
+- **Music:** piano 9221
+- **Alt text:** Cartoon: a man locked out at night cannot find a locksmith on his phone map even though one is next door; after a demo Google profile is completed, the pin appears and she opens his door.
+- **Caption:**
+
+```
+When did you last update your Google Business Profile?
+
+Someone nearby searches "locksmith near me" and you're not on the map, even though you're next door. A complete Google Business Profile helps people nearby find you.
+
+Local SEO from £325/month. Comment START and I'll check your profile.
+
+#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #LocksmithUK #LocalSEO
 ```
 
 ## 14 · Monday 7 December 2026 · 22:00 Kuwait · Websites
 
-- **File:** `14-price-dm.mp4` · **Cover:** `covers/14-price-dm.jpg`
-- **Problem (research):** Price questions stuck in DMs / slow replies (sheet: Missed messages)
-- **Source format:** Research format card H "The wait is the problem" (alphaagency1)
-- **Hook formula:** Bold text punch at 0.0 s (card H quote) + #2 clock · **Template:** Quote in a circle → DM clock → shop page
-- **Voice (af_heart 1.0):** "I'll send you the price in DM. That's how you lose them." / "They ask at midnight. You reply at eleven. They've bought elsewhere." / "Put your prices on your site, and they order at midnight." / "Losing sales in the DMs? I can fix that for you."
-- **Music:** lofi 271
-- **Alt text:** A huge quote "I'll send you the price in DM" in a circle, then a midnight DM answered too late, then a bakery site (demo, example prices) taking an order at 00:07.
+- **File:** `14-old-website.mp4` · **Cover:** `covers/14-old-website.jpg` ("Is your website this old?")
+- **Setting:** Salon (approved test reel 3)
+- **Problem (research):** Old / weak website (sheet: No or weak website)
+- **Hook formula:** #4 Expectation vs reality · **Frame 0:** "Expectation: book in seconds." Three customers stroll up to a giant phone showing a blinking 1990s site.
+- **The joke:** The BOOK button falls off and bonks a customer, another falls asleep at "Loading... 1%", the third says "Nope." and walks to the shop next door; a tumbleweed rolls by.
+- **The fix:** The owner swaps in a clean DEMO salon site and everyone books a haircut in 3 taps. · **Tag:** Websites from £655
+- **Voice (af_heart 1.0, ends 13.69 s):** "Customers want to book online." / "Your old website has other plans." / "With a new website, booking takes three taps." / "Old website scaring customers off? We can fix that for you."
+- **Music:** house 9203
+- **Alt text:** Cartoon: customers try to book on an ancient salon website, get bonked and fall asleep, then book a haircut in three taps on a clean demo site.
 - **Caption:**
 
 ```
-"I'll send you the price in DM." That's how you lose them.
+When did you last try booking on your own website, on your phone?
 
-They ask at midnight, you reply at 11, and they've already ordered somewhere else. Put your prices, sizes and delivery on your own site and they can order while you sleep.
+If your website looks like this, customers give up before they book. A new site where they can book in a few taps.
 
 Websites from £655. Comment START and I'll tell you what yours needs.
 
-How many "price?" DMs do you get a week?
-
-#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #Bakery #OnlineShop
+#ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness #ManchesterSalon #WebDesignUK
 ```

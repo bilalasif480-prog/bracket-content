@@ -58,3 +58,19 @@ week-03 UK remake (22 Nov, T-20261122-14): all 21 tracks regenerated with the sa
 | 2026-11-26 | week-04 11-cafe-whole-system | house | 263 |
 | 2026-11-26 | week-04 13-ai-pick | ambient | 269 |
 | 2026-11-26 | week-04 14-price-dm | lofi | 271 |
+
+week-04 CARTOON pack (26 Nov, replaces the week-04 tracks above; 01–14 below). 9201–9203 first used for the 26 Nov cartoon test reels, now reused only by the same 3 reels (04, 06, 14).
+| 2026-11-26 | week-04 cartoon 01-slow-shop-site | piano | 9211 |
+| 2026-11-26 | week-04 cartoon 02-ai-answer-curry | lofi | 9212 |
+| 2026-11-26 | week-04 cartoon 03-website-first | pluck | 9213 |
+| 2026-11-26 | week-04 cartoon 04-night-bookings | pluck | 9201 |
+| 2026-11-26 | week-04 cartoon 05-gym-10-seconds | house | 9214 |
+| 2026-11-26 | week-04 cartoon 06-cant-find-barber | lofi | 9202 |
+| 2026-11-26 | week-04 cartoon 07-form-nowhere | ambient | 9215 |
+| 2026-11-26 | week-04 cartoon 08-juggling-messages | pluck | 9216 |
+| 2026-11-26 | week-04 cartoon 09-stamp-card-pigeon | piano | 9217 |
+| 2026-11-26 | week-04 cartoon 10-groomer-build | lofi | 9218 |
+| 2026-11-26 | week-04 cartoon 11-florist-ai-pick | house | 9219 |
+| 2026-11-26 | week-04 cartoon 12-price-waiting | ambient | 9220 |
+| 2026-11-26 | week-04 cartoon 13-locksmith-map | piano | 9221 |
+| 2026-11-26 | week-04 cartoon 14-old-website | house | 9203 |
