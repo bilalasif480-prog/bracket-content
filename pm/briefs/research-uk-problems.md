@@ -11,6 +11,8 @@ Runs inside the Friday 18:47 research task (after the trends and website check).
 
 Cover several business types each week (cafés, salons, clinics, gyms, trades, estate agents, shops). Aim for 15–30 new rows.
 
+**Find a mix of problem types, not only websites (Bilal, 26 Nov 2026).** Each week cover at least five of: getting found (Google, Maps), not mentioned in AI answers (ChatGPT, Perplexity, AI Overviews), bookings and orders (no online booking, no click-and-collect, no-shows), missed messages and enquiries (after hours, too many DMs, slow replies), repeat customers (loyalty, rebooking), reviews and trust, owners' time and admin, no or weak website. Search terms should match, e.g. "missed calls salon", "how to get my café on Google Maps", "is my business on ChatGPT", "online booking for barbers UK", "loyalty app small café".
+
 ## Where it goes
 Google Sheet **"Bracket — UK problems & searches (weekly research)"**, tab **Findings** (in Bilal's Google Drive; the task prompt has its ID). One row per problem/question:
 
@@ -27,7 +29,9 @@ Google Sheet **"Bracket — UK problems & searches (weekly research)"**, tab **F
 | Sales message angle | the result to promise that business type, one line |
 | Used in | left blank; filled when used (reel / site / sales) |
 | Website status | "Suggested" for new rows with an article/FAQ idea |
-| Suggested reply (Reddit only) | For every Reddit row: a short, genuinely helpful reply Bilal can post himself from his personal account (added 26 Nov 2026). Answer the question first with something useful they can do today; 3–6 sentences; plain British English; no hard sell, no links. Mention Bracket only if that subreddit's rules allow self-promotion (check the sidebar/rules) and only as a light last line ("I build websites for small businesses, happy to help if useful"); if the rules ban it or are unclear, don't mention Bracket. Never invent results. Leave blank for non-Reddit rows. |
+| Problem type (column M) | Getting found (Google/Maps) / Not in AI answers / Bookings & orders / Missed messages / enquiries / Repeat customers / Reviews & trust / Owner time & admin / No or weak website / Other |
+| Bracket service that fixes it (column N) | Website / AI agent / SEO / GEO / App / None (not something we do). Map honestly: missed messages after hours → AI agent; not found on Google → SEO; not in AI answers → GEO; no booking/ordering or no site → Website; repeat customers → App (or Website with booking for small businesses). If nothing Bracket sells fixes it, say None. |
+| Suggested reply (Reddit only, column L) | For every Reddit row: a short, genuinely helpful reply Bilal can post himself from his personal account (added 26 Nov 2026). Answer the question first with something useful they can do today; 3–6 sentences; plain British English; no hard sell, no links. Mention Bracket only if that subreddit's rules allow self-promotion (check the sidebar/rules) and only as a light last line ("I build websites for small businesses, happy to help if useful"); if the rules ban it or are unclear, don't mention Bracket. Never invent results. Leave blank for non-Reddit rows. |
 
 Don't repeat a problem already in the sheet; raise its "How often" instead.
 

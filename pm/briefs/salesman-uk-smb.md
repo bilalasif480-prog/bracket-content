@@ -85,3 +85,24 @@ When a café agrees to a call, prepare a short note for Bilal (in chat, not the 
 
 ### Tracking columns (updated)
 business handle · business type · decision-maker role · group (A/B) · problem found · score · grade · company type · channel · first sent · follow-up sent · status.
+
+## 9. Added 26 Nov 2026: pitch the service that fixes their real problem; SEO/GEO check
+
+### 9a. Which service to pitch
+- Pitch the Bracket service that fixes **that business's** biggest real problem (see the research sheet's "Bracket service that fixes it" column for the business type, and what you see on their own pages):
+  - no website, weak site, no booking/ordering/quote form → **Website** (with booking/ordering)
+  - missed messages or calls after hours, the same questions all day → **AI agent** (answers and books on WhatsApp/website chat, hands over to a person)
+  - not showing on Google or Maps → **SEO**
+  - not mentioned when you ask ChatGPT/Perplexity → **GEO**
+  - customers who come back often and would use an app → **App**
+- **Websites stay the main offer.** Lead with a website whenever a website (or a rebuilt one) fixes the problem; mention one other service only when it clearly fits better. Never pitch more than one main service in a first message.
+- **The free limited-time offer is for the website** (plus its booking/ordering/quote feature). For other services: no price in the first message; offer a free quick look or idea, and if they're interested Bilal sends a written quote using the official prices in `business/bracket.md`. Never invent prices.
+
+### 9b. Quick SEO and GEO check (businesses that already have a website)
+- **SEO:** page title and description present; mobile speed (Google PageSpeed Insights, mobile); Google Business Profile exists and links to the site; opening hours and location clear on the site.
+- **GEO:** ask ChatGPT or Perplexity one local question for their type and area (e.g. "best brunch in Didsbury") and note whether they're mentioned.
+- Use **one clear, honest finding** in the first message (e.g. "your site takes a while to load on a phone", "when I asked ChatGPT for brunch in Didsbury, you didn't come up"). No made-up scores, no ranking or citation promises.
+- Log the findings in the lead tracker ("SEO/GEO finding" column).
+
+### Tracking columns (updated)
+business handle · business type · decision-maker role · group (A/B) · problem found · problem type · service pitched · SEO/GEO finding · score · grade · company type · channel · first sent · follow-up sent · status.
