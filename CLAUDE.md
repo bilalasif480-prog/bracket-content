@@ -21,7 +21,7 @@ run's chat. Everything else (research, drafts, renders, reports, commits) needs 
 ## Where the files live
 This repo replaces the old Mac folder `/Users/bilal/Desktop/bilal copy/instagram-reels/`. Wherever a skill mentions that Mac path, use the same path inside this repo instead. Never use the Mac or device tools: every agent runs 100% in the cloud. Exception (Bilal, 8 Nov 2026): the Research agent may use Claude in Chrome on Bilal's Mac, read-only, to watch competitors' reels when the laptop is on; if it isn't, it skips the Chrome step. It never commits screenshots.
 No Metricool or any other social tool (Bilal, 18 Nov 2026): Instamake and Instapulse go to instagram.com in Bilal's Chrome (Claude in Chrome) to post, read Insights, comments and DMs. That needs his Mac on with Chrome open; if it isn't, they don't post and say what is waiting.
-Salesman sending (Bilal, 25 Nov 2026; replaces 22 Nov): the Salesman may use Bilal's Chrome to send Instagram DMs from @bracketkw to UK café leads (brief: `pm/briefs/salesman-uk-cafes.md`). Email only to limited companies, with an opt-out. No cold WhatsApp messages and no cold texts. Pace: batches of 10, max 20 a day, weekdays only: batch 1 about 9–10 a.m. UK, batch 2 about 3–4 p.m. UK, never in the 12–2 p.m. UK lunch rush or at weekends. It sends only the exact batch Bilal approved in that run's chat, no links in the first message, and stops on any Instagram warning. No phone numbers, personal names, emails or DM text in this repo.
+Salesman sending (Bilal, 25 Nov 2026; replaces 22 Nov): the Salesman may use Bilal's Chrome to send Instagram DMs from @bracketkw to UK small-business leads, Manchester first, all business types (brief: `pm/briefs/salesman-uk-smb.md`). Email only to limited companies, with an opt-out. No cold WhatsApp messages and no cold texts. Pace: batches of 10, max 20 a day, weekdays only: batch 1 about 9–10 a.m. UK, batch 2 about 3–4 p.m. UK, never in the 12–2 p.m. UK lunch rush or at weekends. It sends only the exact batch Bilal approved in that run's chat, no links in the first message, and stops on any Instagram warning. No phone numbers, personal names, emails or DM text in this repo.
 
 ## Agents and who owns what
 Every agent also reads `business/<slug>.md` first.
@@ -29,7 +29,7 @@ Every agent also reads `business/<slug>.md` first.
 | Agent | When (Kuwait time) | Reads | Writes (owns) |
 |---|---|---|---|
 | PM | on request from Bilal | everything | `pm/TASKBOARD.md`, `pm/reports/` |
-| Research | daily 08:45 | `research/strategy-brief.md` | `research/niche-report.md` |
+| Research | Friday 18:47 (trends, website check, UK problems + searches) | `research/strategy-brief.md`, `pm/briefs/research-uk-problems.md` | `research/niche-report.md`, `research/website-facts.md`, `research/uk-problems.md`, the Google Sheet "Bracket — UK problems & searches (weekly research)" |
 | Instapulse | Friday 17:43 | Instagram (Chrome), `research/niche-report.md`, `week-NN/POSTING-PLAN.md` | `research/strategy-brief.md`, `analytics/week-NN.md` |
 | Instamake | Saturday 14:58 | `research/*`, `content-log.md`, newest `week-NN/`, `audio-kit/` | new `week-NN/` (incl. `trials/`, `TRIALS.md`), `content-log.md`, posts on Instagram (Chrome) after Bilal's yes |
 | Instaupload | with instamake | `week-NN/POSTING-PLAN.md` | `week-NN/SCHEDULED.md` |
