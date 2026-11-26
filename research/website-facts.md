@@ -2,7 +2,7 @@
 
 Source: the site files in Bilal's "bilal copy/Website" folder on his Mac, read-only (files last saved 26 Nov 08:36). Read: index, services, websites, cafes, how-we-work, contact, where-we-work, work, articles, about, careers. Nothing in the folder was changed. The site isn't deployed yet (no domain).
 
-## PROFILE NEEDS UPDATE (for the PM; the research agent doesn't edit the profile)
+## PROFILE NEEDS UPDATE — DONE 26 Nov 2026 (Bilal: "do it all"; profile and CLAUDE.md updated to "me, Bilal: a freelance web developer", not used in reels)
 1. **Who Bracket is:** the site says "Bracket is me, Bilal: a freelance web developer", written in the first person ("I build…"). The profile says Bracket is a **software house** and never a studio or agency. Bilal or the PM needs to choose one wording, and reels and captions should follow it.
 2. **Websites first:** the site's main service is websites ("Websites first. More when you need it."), with apps, AI agents, SEO and GEO as "more services". The profile says all five services have equal weight.
 3. **Founding client offer** (not in the profile): the first 5 website clients pay nothing upfront and pay only when they're happy. Conditions: the scope is agreed in writing, the full site is built on a preview link, 2 rounds of changes are included, the domain is registered in the client's name from the start, the site stays on the preview link until it's paid for, files and logins are handed over after payment, extra work is quoted separately, and a happy client agrees to an honest public review. This doesn't fit the profile's payment line ("50/20/30 via PayPal"), at least for founding clients.

@@ -2,8 +2,8 @@
 
 This public repo is the single place where Bilal's agents keep their files.
 
-## The business is a software house (changed 18 Nov 2026)
-Bracket is a **software house** based in Kuwait (never "studio" or "agency"). Since 22 Nov 2026 it targets **UK businesses, Manchester first**, English only (British spelling, £). It sells five services:
+## The business: "me, Bilal: a freelance web developer" (changed 26 Nov 2026; was "software house")
+Bracket is **Bilal, a freelance web developer** working remotely from Kuwait (never "studio" or "agency"; no longer "software house"). Websites first. **Reels, covers, end cards and reel captions never use the "freelance web developer" wording** (Bilal, 26 Nov 2026). Since 22 Nov 2026 it targets **UK businesses, Manchester first**, English only (British spelling, £). It sells five services:
 **websites, mobile apps, AI agents, SEO and GEO**. QA testing is not sold on its own.
 The full, current list lives in `business/bracket.md` — always read it.
 
@@ -60,6 +60,6 @@ In `week-NN/_engine/`: `npm i playwright@1.64.1 @fontsource/archivo @fontsource/
 Before pushing: `git pull --rebase origin main`. Commit with a short message naming the agent, e.g. `instamake: week-03 pack`. Keep files small: reels 1080x1920 ~15-20 s mp4 (a few MB), slides PNG.
 
 ## Shared rules
-- Bracket is a software house (websites, apps, AI agents, SEO, GEO). Never invent stats, clients, prices, results or testimonials.
+- Bracket is Bilal, a freelance web developer (websites first; also apps, AI agents, SEO, GEO); not in reels. Never invent stats, clients, prices, results or testimonials.
 - Everything on screen and in captions is English only, British spelling (22 Nov 2026: UK target). No Arabic.
 - This repo is public: never commit passwords, tokens, personal data, commenters' names or DM text.
