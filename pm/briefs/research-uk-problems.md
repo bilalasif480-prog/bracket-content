@@ -1,6 +1,6 @@
 # Research brief: what UK small businesses search for and struggle with (set 26 Nov 2026)
 
-Runs inside the Friday 18:47 research task (after the trends and website check). **Read only: never post, comment, DM or message anyone on Reddit, Google or anywhere else.**
+Runs inside the Friday 18:47 research task (after the trends and website check). **Read only: never post, comment, DM or message anyone on Reddit, Google or anywhere else.** Suggested Reddit replies are drafts in the sheet only; Bilal reads, edits and posts them himself.
 
 ## Where to look (UK only)
 - **Google Trends** (United Kingdom, past 3 months): rising and top queries for small-business website topics, e.g. "website for small business", "online booking", "table booking", "click and collect", "Google Business Profile", "salon booking", "plumber quote".
@@ -27,6 +27,7 @@ Google Sheet **"Bracket — UK problems & searches (weekly research)"**, tab **F
 | Sales message angle | the result to promise that business type, one line |
 | Used in | left blank; filled when used (reel / site / sales) |
 | Website status | "Suggested" for new rows with an article/FAQ idea |
+| Suggested reply (Reddit only) | For every Reddit row: a short, genuinely helpful reply Bilal can post himself from his personal account (added 26 Nov 2026). Answer the question first with something useful they can do today; 3–6 sentences; plain British English; no hard sell, no links. Mention Bracket only if that subreddit's rules allow self-promotion (check the sidebar/rules) and only as a light last line ("I build websites for small businesses, happy to help if useful"); if the rules ban it or are unclear, don't mention Bracket. Never invent results. Leave blank for non-Reddit rows. |
 
 Don't repeat a problem already in the sheet; raise its "How often" instead.
 
