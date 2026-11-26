@@ -4,7 +4,7 @@ Runs inside the Friday 18:47 research task (after the trends and website check).
 
 ## Where to look (UK only)
 - **Google Trends** (United Kingdom, past 3 months): rising and top queries. Use business-specific terms (general ones like "missed calls" or "online booking" return consumer noise), e.g. "website for small business", "online booking", "table booking", "click and collect", "Google Business Profile", "salon booking", "plumber quote".
-- **AnswerThePublic** (UK): only 1 free search a day without an account, so use it on the week's most important topic. **AlsoAsked**: 3 free searches a day; set the location to United Kingdom first (it defaults to New York). If a tool needs a login or hits a free limit, skip it and say so.
+- **AnswerThePublic** (UK): Bilal's Chrome is signed in to a free account with 3 searches a day, so use them on the week's 3 most important topics (set the country to UK). **AlsoAsked**: 3 free searches a day; set the location to United Kingdom first (it defaults to New York). If a tool needs a login or hits a free limit, skip it and say so.
 - **Google autocomplete and "People also ask"** for the same topics (google.co.uk redirects, so use google.com with `&gl=uk`).
 - Optional: Google Maps reviews of local businesses that mention a problem (e.g. "couldn't book online").
 
