@@ -4,10 +4,10 @@ Brief: `pm/briefs/salesman-uk-cafes.md`. Status: **not started** (waiting for Bi
 Public repo: business handles only. No phone numbers, personal names, emails or DM text.
 
 ## Leads
-| # | café handle | group (A/B) | problem found | company type | channel | date | status |
-|---|---|---|---|---|---|---|---|
+| # | café handle | decision-maker role | group (A/B) | problem found | score | grade | company type | channel | first sent | follow-up sent | status |
+|---|---|---|---|---|---|---|---|---|---|---|---|
 
-Status: drafted / sent / replied / call / won / no
+Grade: A 80+ · B 60–79 · C <60 (skip). Status: drafted / sent / followed-up / replied / call / won / no
 
 ## Weekly totals
 | week | sent | replies | calls | wins |

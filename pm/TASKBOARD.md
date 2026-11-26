@@ -9,6 +9,7 @@ Status: `queued` → `running` → `done` | `blocked` | `needs-approval`
 
 | id | business | agent | task | status | needs from | updated |
 |---|---|---|---|---|---|---|
+| T-20261126-01 | bracket | pm | Reference reel (AI sales team): added decision-maker, 0–100 lead score + grade, one follow-up after 3 weekdays, objection answers and call prep to the salesman brief; talking-head format card for research/instamake | done — `pm/briefs/salesman-uk-cafes.md` §8, `pm/briefs/reel-format-talking-head.md`; salesman still NOT started | — | 2026-11-26 |
 | T-20261125-03 | bracket | salesman | Manchester independent cafés: find (A) no site / (B) weak site, note each café's problem, draft personal IG DMs with the limited-time free website + booking offer (café pays own domain/hosting), demos via PM for best leads. Brief: `pm/briefs/salesman-uk-cafes.md`, log: `sales/bracket-leads.md` | **set up, NOT started** — waiting for Bilal's "start" | Bilal: say start | 2026-11-25 |
 | T-20261125-02 | bracket | pm (founder skill) | Founder re-run #4 (café page, TODOs gone, optional care plan) | done — board 4.3, panel 0/20; site edits no longer move it, real UK proof needed | — | 2026-11-25 |
 | T-20261125-01 | bracket | pm (founder skill) | Founder re-run #3 on 25 Nov site | done — `founder/SUMMARY.md`; board 4.7 (3 × FUND IF), panel 0/20 (noise vs 1/20); blocker is real UK proof, not site copy | — | 2026-11-25 |

@@ -47,3 +47,40 @@ Replaces the Kuwait perfume brief (`pm/briefs/salesman-perfume-leads.md`, retire
 - Log each lead in `sales/bracket-leads.md`: café handle, group (A/B), problem found, company type, channel, date, status (drafted / sent / replied / call / won / no).
 - Weekly totals: sent, replies, calls, wins.
 - **The repo is public:** no phone numbers, personal names, email addresses or DM text. Drafts for Bilal's approval go to him in chat, not the repo.
+
+## 8. Added 26 Nov 2026 (from a reference reel Bilal shared: an AI "sales team" with research, decision-maker, scoring, follow-ups and call notes)
+
+### 8a. Find the decision-maker
+- For each café, note **who decides**: owner / manager / unknown, and whether the Instagram account is run by the owner. Use only what the café shows publicly (bio, posts, Google listing, Companies House officers for Ltd).
+- **Role only in the repo** ("owner", "manager"). Names stay out of the public repo; put them in the draft you show Bilal in chat if needed.
+
+### 8b. Score every lead (0–100) and grade it
+| Points | Signal |
+|---|---|
+| 25 | Problem size: no website (25) / weak site with no booking or ordering (15–20) / small issues (5) |
+| 20 | Active: posted on Instagram in the last 30 days, replies to comments |
+| 15 | Busy: lots of Google reviews or Instagram engagement (they'd lose real custom) |
+| 15 | Fit: table service or takeaway, so booking/ordering clearly helps |
+| 15 | Reachable: owner-run account, DMs open |
+| 10 | Independent, one or two sites (not a chain or franchise) |
+Grade: **A 80+** (send first; candidate for a demo) · **B 60–79** (send) · **C under 60** (skip for now). Log the score and grade. Each batch of 10 is filled from A, then B.
+
+### 8c. Follow-ups
+- If no reply after **3 weekdays**, draft **one** short, friendly follow-up (new angle, no pressure, still no link). If no reply after that, mark **no** and stop. Never more than 2 messages in total to a café that hasn't replied.
+- Follow-ups count towards the 20-a-day limit and need Bilal's yes like any batch.
+
+### 8d. Objection answers (ready replies for Bilal to approve)
+Keep these as drafts the salesman adapts per café:
+- "What's the catch?" → It's free for a few cafés because I need real UK examples; you'd only cover your own domain and hosting, in your name, and an honest review if you're happy.
+- "How much is hosting?" → Usually a few pounds a month; I'll help you set it up in your name.
+- "You're not in the UK." → True, I work remotely from Kuwait at UK-friendly hours, by WhatsApp, email and video call; your domain and site stay yours whatever happens.
+- "I already have Fresha / Instagram." → Keep them; the site adds your menu, hours and booking in one place Google can find, and links to them.
+- "Who fixes it if it breaks?" → I do; the care plan is optional and can be cancelled any month, and you can move the site any time.
+- "No time." → One short call, or a form; I write the text and do the rest.
+Never promise results, rankings or reply times.
+
+### 8e. Call prep notes
+When a café agrees to a call, prepare a short note for Bilal (in chat, not the repo): what they sell, their problem, score/grade, likely objections with answers, what to show (their demo or the Fernleaf demo), and the next step to ask for.
+
+### Tracking columns (updated)
+café handle · decision-maker role · group (A/B) · problem found · score · grade · company type · channel · first sent · follow-up sent · status.
