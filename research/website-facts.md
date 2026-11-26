@@ -26,3 +26,12 @@ Source: the site files in Bilal's "bilal copy/Website" folder on his Mac, read-o
 
 ## Changed since last week
 This file is new (first website check), so there's no earlier version to compare with. Compared with what the profile and the reels have used so far, these are new: the founding client offer (no upfront payment, first 5), 30 days of free fixes, "we write the text", the "freelance web developer, Bilal" wording, the AC booking case study, the demo café app, the articles section and the where-we-work page.
+
+## Website changes made 26 Nov 2026 (Bilal: "do it, everything should be the same")
+Edited in the Website folder on Bilal's Mac. The originals are backed up in `_backups/before-freelance-wording-2026-11-26/`. `dist/` was refreshed by copying files; nothing was uploaded.
+- Every page and article now speaks in the first person ("I", "me", "my") instead of "we", "us", "our", to match "Bracket is me, Bilal: a freelance web developer". "We" stays only where it means Bilal and the client together (we agree the scope, we agree a timeline, can we meet?) and inside quoted customer messages.
+- The slogan is now "Websites that get it done" (was "Software that gets it done").
+- The Careers page is unlinked from every menu and footer. It was already `noindex`, and the file is kept.
+- 21 approved FAQs were added, with matching FAQ structured data: seo 5, cafes 4, geo 2, customer-agent 5, custom-agent 1, websites 3, apps 1. Five of them link to existing articles. No new article pages were created.
+- llms.txt: "Where I work" and "How I work".
+- Instagram: no changes. Bilal asked for the bio to be reverted; it was restored to the original text, and the name was never changed.
