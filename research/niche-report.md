@@ -1,6 +1,54 @@
 Hooks bank: see research/hooks-bank.md (added 26 Nov from @theo.vizuals).
 
-# Niche report for instamake (last updated 2026-11-22)
+# Niche report for instamake (last updated 2026-11-26)
+
+## This week (26 Nov): new outliers + trends
+How: Bilal's Chrome, read-only (nothing liked, followed, saved, commented or DM'd; no screenshots kept). Views are the numbers on each account's Reels grid today, and dates are decoded from the reel ID. Outlier means 3x or more the account's median for the last ~12 reels. Accounts checked: @makeuforward, @febtech.in, @alphaagency1, @genesisworks.jo, @moujtabakhalifa, @aiwithhazim, @theo.vizuals. The Kuwait accounts had no outliers last time and weren't re-checked. **Not done this run:** UK/Manchester web-design accounts with short reels (strategy brief asks 1 and 3) and the 1–2 vs 4 reels a day check (ask 4). They are carried to next week.
+
+| Account | URL | Date | Views (x median) | Likes / comments | Hook (frame 1 / caption) | Beats |
+|---|---|---|---|---|---|---|
+| alphaagency1 | https://www.instagram.com/reel/Df8GYUPgnt3/ | 19 Nov | 7.6K (~3x) | 158 / 40 | A white circle on black, red serif text: "Toh… 'Price DM kar di hai'" (the "price sent in DM" line) | Midnight DM asking "price?", reply at 11 am, the customer has already bought elsewhere. Clocks drifting on paper ("the problem wasn't the product, it was the wait"). Website with price, size and delivery on show. **Offer: a free demo website from your Instagram page, no advance, comment "DEMO", first 10 pages this week** |
+| genesisworks.jo | https://www.instagram.com/reel/DgAPHWvRXwb/ | 21 Nov | 32.5K (~10x) | 325 / 9 (401 shares shown) | A desk with a monitor and the sticker "message us privately about your site". A sneaker-shop site is already moving at 0 s | A before/after site on a real desk (card E), with the product grid animating ("Ten pairs. One light each.") and one Arabic line. CTA: DM us |
+| genesisworks.jo | https://www.instagram.com/reel/Df7T35WuYLa/ | 19 Nov | 16.4K (~5x) | – | The same desk before/after format | Same as above |
+| makeuforward | https://www.instagram.com/reel/DgDg04BRIw6/ | 22 Nov | 3.8K (~6x) | 63 / 9 | "Real estate agents: not just a website, a whole property platform" | A feature tour for one niche: smart search, 360° tours, a calculator, viewing booking, WhatsApp enquiry, an AI assistant, an admin dashboard. CTA: DM "WEBSITE" |
+| theo.vizuals | https://www.instagram.com/reel/DfsZ8QNJXsk/ | 13 Nov | 134K (~9x) | 616 / 11 | Text-hook template (see hooks-bank) | Lead magnet in the bio |
+| aiwithhazim | https://www.instagram.com/reel/DgFEAUDhbMC/ | 23 Nov | 48K (~4x) | 1,056 / 2,556 | "China made a free version of Claude Code" | Tool news, then "comment CODE and I'll DM the link". The comments come from the lead magnet |
+| moujtabakhalifa | https://www.instagram.com/reel/DfxYBdxjbTk/ | 15 Nov | 51K (~4x) | 686 / 1,126 | "Before you pay for a bigger Claude Code plan… install these 5 add-ons" | A numbered list, then "comment the keyword". Same lead-magnet engine |
+| febtech.in | – | – | none ≥3x (best 1.8K vs ~780 median) | – | – | – |
+
+**Trends this week**
+1. **"Free demo from your own Instagram / no advance" offers are spreading.** alphaagency1's best reel in a month pairs the midnight-DM pain with "a free demo, no advance, pay only if you like it". This is the same idea as Bracket's **founding client offer** (no upfront payment, pay when happy). We can say it truthfully because it's on Bracket's site.
+2. **Before/after on a real desk keeps winning** (genesisworks.jo: 2 outliers in 7 days, more shares than likes). The site is already moving at 0 s, with one line of text and no voice. This fits the hooks-bank frame-0 rule.
+3. **One-niche feature tours** ("not just a website, a whole platform for estate agents") beat the general reels on makeuforward.
+4. Comment-keyword lead magnets drive the huge comment counts (aiwithhazim, moujtabakhalifa). Bracket only uses `START` with the approved reply.
+
+### Format card H: "The wait is the problem" + offer close (alphaagency1 Df8GYUPgnt3)
+- **Hook:** a phrase the owner says every day, in quotes: "'I've sent you the price in DM.'" Big red serif in a white circle on black, so text and motion arrive together at 0 s.
+- **Beats:** (1) the quote 0–2 s → (2) a 12:04 am "price?" DM, then a reply at 11:02 am 2–5 s → (3) "already bought elsewhere": a clock blurs out 5–7 s → (4) a website showing price, sizes and delivery, so the customer orders at night 7–11 s → (5) the offer line 11–14 s.
+- **Bracket version:** the founding offer is spoken as "Your website first. You pay only when you're happy." (first 5 clients, as on the site). The voice ends with the offer line, and the end card shows `[ BRACKET ]` + Comment START only.
+
+### Format card I: "One niche, whole system" (makeuforward DgDg04BRIw6)
+- **Hook:** "[Business type]: not just a website."
+- **Beats:** 5–6 feature chips fly onto a phone in 1 s each (booking, menu, map, WhatsApp, reviews link, owner screen), then the finished demo.
+- **Bracket version:** use the **café page** (menu, hours, map, table booking, click-and-collect, from £655) and the **demo café app** (labelled DEMO).
+
+### 10 reel ideas for week 04 (UK, British spelling, £, no invented results; facts from research/website-facts.md, problems from the UK sheet)
+| # | Hook | Card / template | Service | Website fact or sheet problem |
+|---|---|---|---|---|
+| 1 | "'I'll send you the price in DM.' That's how you lose them." | H | Websites | Founding offer: no upfront payment, pay when happy |
+| 2 | "Your website first. You pay only when you're happy." (first 5 clients) | H / Expectation vs reality | Websites | Founding offer and its conditions (written scope, 2 rounds of changes) |
+| 3 | "Not sure what to write on your website? You don't have to." | Satisfying build | Websites | "We write the text" from one short call |
+| 4 | "Café owners: not just a website." | I | Websites | Café page: menu, hours, map, booking, click-and-collect, from £655 |
+| 5 | "Can you book a table here in under 10 seconds?" | Challenge question | Websites | Sheet: "best table booking system for small café UK" |
+| 6 | Before / after on a desk: a Manchester barber site (DEMO) | E | Websites | Sheet: no or weak website |
+| 7 | "Open today. Invisible on Google Maps." | Danger POV | SEO | Sheet: "why is my business not showing on Google Maps?" (High) |
+| 8 | "Your phone rings at 9 pm. Who answers?" (demo) | Countdown → payoff | AI agents | Sheet: "AI receptionist for small business" (+70% rising, UK Trends); agents from £875 + £109/month |
+| 9 | "Ask ChatGPT for the best café in Ancoats. Are you in the answer?" | Split screen | GEO | Sheet: "how do you get ChatGPT to recommend your business?" (High); GEO from £215/month |
+| 10 | "The paper stamp card ends up in the bin. The one on their phone stays." (demo café app) | Expectation vs reality | Apps | Sheet: café loyalty and repeat customers; demo café app; apps from £3,995 |
+
+---
+
+# Earlier report (22 Nov)
 
 Sources: Metricool competitor reels (brand 7919246, 11 Oct-10 Nov 2026) + 12 of those reels WATCHED today in Bilal's Chrome (read-only: nothing liked, followed, saved or downloaded; no screenshots committed). Web research is off (Bilal, 8 Nov). Like/comment/share counts are what Instagram showed under each reel today; views are not shown in the desktop reel viewer.
 
