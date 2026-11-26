@@ -1,4 +1,77 @@
-# Strategy brief (Instapulse) · updated Sun 22 Nov 2026
+# Strategy brief (Instapulse) · updated Thu 26 Nov 2026
+
+## Week 04 plan (Tue 1 – Mon 7 Dec 2026) — for instamake and the research agent
+Follows `business/bracket.md` (UK small businesses, Manchester first, English only, British spelling, £, five services, no invented results). **Early-stage mode** (2 followers, 17 posts): this plan leans on `research/hooks-bank.md` and the niche report more than on Bracket's own numbers. Full numbers: `analytics/week-03.md`.
+
+### What's working / what to stop (week 03, 10 reels)
+- **Week 03 got 1–7 views a reel** (median 2), 0 shares, 0 saves, 0 follows, 0 profile visits, 0 leads. Early-Nov reels (1 a day, pain-as-picture) got 8–110 (median ~51): a ~10× gap.
+- **Stop:** 4 posts a day; the one paper "headline + white UI card" template on every reel (drop it for week 04, incl. Quick maths); headline text at frame 0; carousels; "trial" slots (the account has no Trial switch, so they just split reach).
+- **Keep:** a real customer-side pain shown as a picture; UK place names; "EXAMPLE"/"DEMO" labels; Comment START; the problem-specific spoken offer line at the end; end card = `[ BRACKET ]` + Comment START only.
+- **Start:** frame 0 already in motion with no headline (hooks-bank frame-0 rules), payoff by ~6–8 s, total 12–15 s; at least 5 different templates across the 14; a cover per reel (hook in big text); 2 Bilal-filmed reels.
+- **Watch time:** not shown on web. Bilal reads average watch time in the app for 2–3 reels each week until a baseline exists.
+
+### Next week's slots: 14 reels, 2 a day
+Times: **14:30 Kuwait (11:30 UK)** and **22:00 Kuwait (19:00 UK)**. Most-active-times data isn't shown yet, so keep these. Every reel 12–15 s, normal reel (no Trial switch), its own cover and own music track. **Instamake: pick ≥7 of the problems from the research sheet "Bracket — UK problems & searches" and swap them into the matching slots below**, keeping the template.
+| Day | Kuwait / UK | Template (hooks-bank formula) | Service | Frame 0 + hook (English) | Goal |
+|---|---|---|---|---|---|
+| Tue 1 | 14:30 / 11:30 | 1 About to break (remake of "Still loading… and they're gone", 110 views) | Websites | Café site spinner on a phone, thumb drifting to "back". Line: "Your customer is about to leave." | 3 s hold |
+| Tue 1 | 22:00 / 19:00 | **Bilal films A**: 5 Split-screen reaction | GEO | Top: ChatGPT answer loading for "best café in Ancoats". Bottom: Bilal's face waiting. Line at 2 s: "Is your business in the AI answer?" | Shares |
+| Wed 2 | 14:30 / 11:30 | 4 Expectation vs reality | Websites (care plan) | Red "Not secure" warning on a shop site → same page with a padlock. "Expectation: an expensive fix. Reality:" (care plan £43/month, as listed) | Saves |
+| Wed 2 | 22:00 / 19:00 | 7 Satisfying build | Mobile apps | App screens sliding into a phone, already moving. "Turning a booking form into an app (demo)." | Watch-through |
+| Thu 3 | 14:30 / 11:30 | 3 Challenge question | Websites | Messy demo restaurant site, cursor hunting. "Can you book a table here in under 10 seconds?" | Comments |
+| Thu 3 | 22:00 / 19:00 | 9 Danger POV | SEO | Thumb scrolling Google Maps for "plumber near me", your pin nowhere. "POV: your customer searches 'near me'." (Google Business Profile) | Saves |
+| Fri 4 | 14:30 / 11:30 | 2 Countdown → payoff | AI agents | Stopwatch running beside a WhatsApp chat at 23:04; message lands, agent's reply appears (demo, real recorded time only). "Message at 11 pm. Watch the reply." | 3 s hold |
+| Fri 4 | 22:00 / 19:00 | 1 About to break (remake of "find the bug before you do", 87 views) | Websites | Contact form, "Send" tapped, nothing happens, cursor shakes. "This form just lost you a booking." | Shares |
+| Sat 5 | 14:30 / 11:30 | 8 Relatable meme caption | AI agents | White caption bar over a juggling/plate-spinning clip (own or animated): "Me answering DMs, emails and WhatsApp at 11 pm." | Shares |
+| Sat 5 | 22:00 / 19:00 | 4 Expectation vs reality | AI agents | Phone flooding with DM notifications → same DMs answered (demo). "Expectation: hire someone. Reality:" (from £875 + £109/month only if a price is shown) | DMs |
+| Sun 6 | 14:30 / 11:30 | 7 Satisfying build | Websites | Barber site assembling block by block (`single-reels/2026-11-02-build-block-by-block/reel10.js`). "Building a website for a Manchester barber (demo)." | Watch-through |
+| Sun 6 | 22:00 / 19:00 | **Bilal films B**: 6 Pattern interrupt | Websites (restaurants/cafés) | Bilal tears a printed menu in half in the first 0.5 s. "Your menu shouldn't live on paper (or a PDF)." | Shares |
+| Mon 7 | 14:30 / 11:30 | 3 Challenge question (split screen) | GEO + SEO | Two search answers side by side, one names a business, one doesn't. "Which one would your customer pick?" | Comments |
+| Mon 7 | 22:00 / 19:00 | 4 Expectation vs reality | Mobile apps | Stamped paper loyalty card falling apart → same card as an app screen (demo). "Expectation: apps are for big brands. Reality:" (from £3,995 only if a price is shown) | Saves |
+Services: websites 6 · AI agents 3 · apps 2 · GEO 2 (1 with SEO) · SEO 1 (+1). Templates: 9 of the 10 hooks-bank formulas; no template twice on the same day.
+**If Bilal's two clips aren't in by build time**, instamake makes animated versions in those slots (top/bottom split without a face; the menu as an animated tear) and the face reels move to the next free 22:00 slot once filmed.
+
+### Bilal films (2 face-to-camera reels, phone, vertical, 12–15 s)
+- **A (Tue 22:00, GEO):** screen-record ChatGPT answering "best café in Ancoats" (or a trade in Stockport); film your face watching it, then say: "If you're not in this answer, your customers can't find you here. Is this your problem? We can fix it for you." Instamake stacks the two.
+- **B (Sun 22:00, websites):** start already tearing a printed menu (no "hi"); say: "Most customers check the menu on their phone before they come in. If yours is a blurry PDF, they go next door. Want a proper menu page? We can build it for you."
+
+### Hooks bank (Bracket's own results)
+**Worked for Bracket** (posted 1 a day, early Nov)
+- "Still loading… and they're gone." (6 Nov): 110 views, best ever. → remade Tue 1.
+- "Your customers will find the bug before you do." (1 Nov): 87 views. → remade Fri 4.
+- "Most studios either build it or test it." (7 Nov): 73 views (old offer; don't reuse the words).
+**Tested, no clear result** (week 03, 1–7 views each, posted 4 a day)
+- "I have Instagram. Why a website?" (Quick maths #01): 7 · "Your website first. Payment after." (offer-main): 6 · "Asked the price on DM. Answered the next day.": 4 · "Nothing goes live without your yes.": 2 · "Customers stopped Googling. They ask ChatGPT.": 2.
+- Still under 24 h: "Not sure what to write?" · "1 a.m. A customer wants to book. Who answers?"
+**Flopped for Bracket**
+- "Ask ChatGPT for a clinic in Didsbury / salon in Chorlton. Are you in the answer?": 1 view each (likely the reach split, not the words; the same idea returns as the Tue 1 split-screen).
+- Carousels (1–5 views, all from the profile). "Your contact form works… right?" (9 Nov): 8.
+- "Your customer searched your name. Nothing came up." (day1-trialA): never appeared on the grid; no data.
+**To try next** (from `research/hooks-bank.md`, top 5 + 3; all in the slot table)
+- "Your customer is about to leave." · "Is your business in the AI answer?" · "Expectation: an expensive fix. Reality:" · "Building a website for a Manchester barber (demo)." · "Can you book a table here in under 10 seconds?" · "This form just lost you a booking." · "POV: your customer searches 'near me'." · "Me answering DMs, emails and WhatsApp at 11 pm."
+
+### Questions people asked / objections / misreads
+- None this week: 0 comments from others, 0 inbound DMs. Every idea above comes from the hooks bank and the research sheet, not from comments.
+
+### Trial results
+- No pair has a result (1–4 views a side). Trials are dropped for week 04: every reel is a normal reel and the 14 reels are compared against each other on 4 Dec (views, watch time from the app, shares + saves).
+
+### Needs Bilal
+1. Read **Average watch time** for 2–3 week-03 reels in the phone app (web doesn't show it) and say the numbers in chat.
+2. Decide whether to cut the rest of week 03 to 2 a day now (remove the 12:00 and 18:30 slots in Business Suite) so the reach split stops before week 04.
+3. Check day1-trialA in the app (posted Tue 14:48, never on the grid).
+4. Film reels A and B before the reels are built.
+Nothing for week 04 is scheduled until instamake builds it and Bilal says yes in chat.
+
+### Asks for the research agent
+1. UK (Manchester first) accounts that sell websites/apps/AI agents with reels under 15 s: what moves at frame 0 in their top reels (no text-first openers).
+2. For each slot's business type (café, barber, plumber, salon, restaurant): the real problem phrasing UK owners use in reviews and search, into the sheet.
+3. Split-screen face-reaction reels from small UK service accounts: how long before the first word, and where the face sits.
+4. One check: do small accounts that post 1–2 reels a day get more views per reel than 4 a day? Public sources only, with links.
+
+---
+
+# Earlier brief · Sun 22 Nov 2026 (Kuwait/Arabic parts superseded by the UK profile)
 
 ## 22 Nov 2026: client-enquiry plan
 Goal (Bilal, 22 Nov): **enquiries** (DMs, WhatsApp, contact form) for websites, mobile apps, AI agents, SEO and GEO. Real followers only: never buy followers or engagement, no follow-unfollow, no bots.

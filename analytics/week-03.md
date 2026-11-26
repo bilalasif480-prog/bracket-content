@@ -1,4 +1,64 @@
-# Instapulse: week 03 audit (read Sun 22 Nov 2026)
+# Instapulse: week 03 report (read Thu 26 Nov 2026, 17:57 Kuwait)
+
+Source: Instagram Insights in Bilal's Chrome. The browser was on the personal account; instapulse switched to **@bracketkw** to read, then switched back. Read-only: nothing liked, commented, sent, opened or changed; no DM thread opened.
+**Early-stage mode: 2 followers, 17 posts. Numbers are too small for trends.** Week 03 started posting Tue 24 Nov, so this covers ~2.5 days and 10 reels (2 of them under 6 h old). It is the **baseline that the week-04 rules will be judged against**.
+
+## 1. Average watch time and watch-through
+- **Not shown.** The web "View insights" panel for each reel shows only views, viewers, follower/non-follower split, likes, comments, saves, shares, profile activity and follows. It has no average watch time, 3 s hold or watch-through.
+- The "~2 s average watch" noted on 25–26 Nov could not be confirmed this run (the only "0:0x" figure on the web panel is the video player's clock). **Bilal: please read Average watch time for 2–3 reels in the phone app** (Reel → View insights) so week 04 has a real watch-time baseline.
+
+## 2. Shares + saves per 1,000 views
+- **0 shares, 0 saves on 20 views = 0 per 1,000.** Likes 0. Comments: 1 (our own first comment on day1-trialB).
+
+## 3. Non-follower reach (account, last 7 days)
+| Metric | Value |
+|---|---|
+| Views | 20 (all reels) |
+| Viewers | 10 |
+| Followers / non-followers (views) | 30% / **70%** (30-day audit before posting resumed: 97.9% non-followers) |
+| Interactions | 2 (both non-followers) · accounts engaged 1 |
+
+## 4. Follows and profile visits
+- Profile visits **0**, link taps 0 (profile activity 0), follows from posts **0**. Followers 2 (unchanged).
+- Most active times and audience top countries/cities: **not shown** (Instagram shows these only with more followers). **UK audience share: can't be measured yet.**
+
+## 5. DMs and leads
+- **Leads: 0.** No new inbound DM from a business. Primary: only internal/automated threads (Bilal's own account, Meta AI, one creator's automated message from 25 Nov already logged). Requests: empty. No START comments.
+
+## Per reel (each reel's "View insights")
+| Posted (Kuwait) | File | Hook (frame 0) | Views | Viewers | Non-fol. | Likes/Com/Saves/Shares | Follows |
+|---|---|---|---|---|---|---|---|
+| Tue 24 14:48 | day1-trialA | "Your customer searched your name. Nothing came up." | **not on grid** (still missing) | – | – | – | – |
+| Tue 24 18:29 | day1-trialB | "Asked the price on DM. Answered the next day." | 4 | 4 | 100% | 0/1 (ours)/0/0 | 0 |
+| Tue 24 20:01 | extra/offer-main | "Your website first. Payment after." | 6 | 5 | 66.7% | 0/0/0/0 | 0 |
+| Tue 24 22:00 | day1-main-hisaab01 | "I have Instagram. Why a website?" (search beat) | **7** | 5 | 57.1% | 0/0/0/0 | 0 |
+| Wed 25 12:00 | extra/trial-03 | "Nothing goes live without your yes." | 2 | 2 | 100% | 0/0/0/0 | 0 |
+| Wed 25 14:31 | day2-trialA | "Ask ChatGPT for a clinic in Didsbury…" | 1 | 1 | 100% | 0/0/0/0 | 0 |
+| Wed 25 18:31 | day2-trialB | same, salon in Chorlton | 1 | 1 | 100% | 0/0/0/0 | 0 |
+| Wed 25 22:01 | day2-main-geo-chatgpt | "Customers stopped Googling. They ask ChatGPT." | 2 | 2 | 100% | 0/0/0/0 | 0 |
+| Thu 26 12:01 | extra/trial-01 | "Not sure what to write?" | not counted yet (<6 h) | – | – | 0/0/0/0 | 0 |
+| Thu 26 14:30 | day3-trialA | "1 a.m. A customer wants to book. Who answers?" | not counted yet (<4 h) | – | – | 0/0/0/0 | 0 |
+Per-reel views add to 23 vs the account's 20 (Instagram counts the two over slightly different windows).
+
+## Own-median ranking (last 16 posts with counts)
+- Median views **5.5** (1 Nov–26 Nov). Winner line ≥16.5: **none this week.** Flop line ≤1.8: **day2-trialA and day2-trialB (1 view each)**; too few views to blame the hook.
+- Best this week: **Quick maths #01 (7)**, offer-main (6). Worst: the two GEO trials (1 each).
+- **The one clear gap (≈10×, repeated across many posts):** the 1–9 Nov reels, posted once a day with a pain-as-picture hook, got **8–110 views (median ~51)**; week-03 reels, posted 4 a day in one paper/headline template, get **1–7**. Likely causes, in order: (1) 4 posts a day split the little reach Instagram gives a 2-follower account; (2) every reel opens on the same text headline + UI card, which the hooks bank's frame-0 rules say loses the scroll; (3) the 13-day gap before 24 Nov. "Likely", not proven; week 04 (2 a day, new frame-0 formulas) tests (1) and (2).
+- A/B trials: **no result** for any pair (1–4 views a side; day1-trialA never appeared). The account has no Trial switch, so "trials" are normal reels competing with the mains.
+
+## Judging the week-04 rules against this baseline
+Week 03 baseline: median **2 views per reel** (Tue–Wed), 0 shares/saves/follows/profile visits, 0 leads, watch time not confirmed.
+The new rules (2 a day, gripping frame 0, 12–15 s, rotating templates, a cover per reel, 2 Bilal-filmed reels) count as working on 4 Dec if: median views per reel ≥ **20** (back to the early-Nov level), at least 1 share or save, and average watch time (app) above the week-03 figure Bilal reads.
+**Note:** week 03 still has ~16 reels scheduled at 4 a day through Mon 30 Nov. If Bilal wants the 2-a-day rule to start now, he can remove the 12:00 and 18:30 slots in Business Suite (his call; nothing was changed).
+
+## Daily log (week 03)
+| Date (Kuwait) | Followers | Posts on grid | New comments | START comments | New DMs (Primary/General/Requests) | Leads | Trials 24–72 h old |
+|---|---|---|---|---|---|---|---|
+| Thu 26 Nov 17:57 (weekly report) | 2 | 17 | 0 (only our own) | 0 | 0 new inbound / – / 0 | 0 | day1-trialB 4 views · offer-main 6 · hisaab01 7 → no result (<200 views) |
+
+---
+
+## Earlier: week 03 audit (read Sun 22 Nov 2026)
 
 Task T-20261122-04. Source: instagram.com in Bilal's Chrome, logged in as @bracketkw (second pass, after Bilal switched accounts). Read-only: nothing posted, liked, followed, commented, sent or changed; no DM thread was opened (so nothing was marked seen).
 
