@@ -1,0 +1,4 @@
+{"dur": 17.4, "music": ["ambient", 9311],
+ "lines": [[0.05, "She lost the biggest order of her life. Because of one button."], [3.4, "Midnight. A groom taps send. Again. And again."], [7.0, "Next morning, the bride booked someone else."], [9.7, "The twist? Her website form was broken."], [12.7, "Is your form really working? We can fix that for you."]],
+ "sfx": {"whoosh": [0.0, 3.45, 6.85, 12.55, 15.65], "thud": [0.45, 11.45], "pop": [1.4, 1.58, 1.76, 2.4, 7.2, 8.3, 13.9, 14.1, 14.4, 16.1], "tap": [4.0, 4.75, 5.45, 6.0, 10.35, 13.25], "boing": [8.7], "sting": [9.55], "glitch": [10.6], "ding": [13.5]},
+ "gain": {"tap": 0.6, "sting": 1.0, "glitch": 0.5}}

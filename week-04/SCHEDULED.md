@@ -1,20 +1,20 @@
 # Week 04: scheduled (Meta Business Suite, Instagram only)
 
-27 Nov 2026 ~00:10 Kuwait: the PM scheduled the 14 cartoon reels after Bilal's yes in chat. Each has its custom cover (covers/NN-*.jpg) and the caption from schedule.json. Facebook page unticked on every post. The first week-04 pack was deleted from Business Suite on 26 Nov.
+27 Nov 2026 ~00:10 Kuwait: the PM scheduled the 14 cartoon reels after Bilal's yes. 27 Nov ~03:00: at Bilal's request the 22:00 reels on 1, 2 and 3 Dec (AI answer curry, night bookings, can't find barber) were deleted and replaced by the 3 mystery story-hook reels, to test which style works best. Every post has its custom cover and caption; Facebook page unticked.
 
-| # | Date | Kuwait time | Reel | Status |
-|---|---|---|---|---|
-| 01 | 1 December 2026 | 14:30 | 01-slow-shop-site | Scheduled |
-| 02 | 1 December 2026 | 22:00 | 02-ai-answer-curry | Scheduled |
-| 03 | 2 December 2026 | 14:30 | 03-website-first | Scheduled |
-| 04 | 2 December 2026 | 22:00 | 04-night-bookings | Scheduled |
-| 05 | 3 December 2026 | 14:30 | 05-gym-10-seconds | Scheduled |
-| 06 | 3 December 2026 | 22:00 | 06-cant-find-barber | Scheduled |
-| 07 | 4 December 2026 | 14:30 | 07-form-nowhere | Scheduled |
-| 08 | 4 December 2026 | 22:00 | 08-juggling-messages | Scheduled |
-| 09 | 5 December 2026 | 14:30 | 09-stamp-card-pigeon | Scheduled |
-| 10 | 5 December 2026 | 22:00 | 10-groomer-build | Scheduled |
-| 11 | 6 December 2026 | 14:30 | 11-florist-ai-pick | Scheduled |
-| 12 | 6 December 2026 | 22:00 | 12-price-waiting | Scheduled |
-| 13 | 7 December 2026 | 14:30 | 13-locksmith-map | Scheduled |
-| 14 | 7 December 2026 | 22:00 | 14-old-website | Scheduled |
+| # | Date | Kuwait time | Reel | Style | Status |
+|---|---|---|---|---|---|
+| 01 | 1 December 2026 | 14:30 | 01-slow-shop-site | cartoon | Scheduled |
+| 02 | 1 December 2026 | 22:00 | 02-mystery-button | mystery story | Scheduled |
+| 03 | 2 December 2026 | 14:30 | 03-website-first | cartoon | Scheduled |
+| 04 | 2 December 2026 | 22:00 | 04-mystery-pigeon | mystery story | Scheduled |
+| 05 | 3 December 2026 | 14:30 | 05-gym-10-seconds | cartoon | Scheduled |
+| 06 | 3 December 2026 | 22:00 | 06-mystery-hidden-cafe | mystery story | Scheduled |
+| 07 | 4 December 2026 | 14:30 | 07-form-nowhere | cartoon | Scheduled |
+| 08 | 4 December 2026 | 22:00 | 08-juggling-messages | cartoon | Scheduled |
+| 09 | 5 December 2026 | 14:30 | 09-stamp-card-pigeon | cartoon | Scheduled |
+| 10 | 5 December 2026 | 22:00 | 10-groomer-build | cartoon | Scheduled |
+| 11 | 6 December 2026 | 14:30 | 11-florist-ai-pick | cartoon | Scheduled |
+| 12 | 6 December 2026 | 22:00 | 12-price-waiting | cartoon | Scheduled |
+| 13 | 7 December 2026 | 14:30 | 13-locksmith-map | cartoon | Scheduled |
+| 14 | 7 December 2026 | 22:00 | 14-old-website | cartoon | Scheduled |

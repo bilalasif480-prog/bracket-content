@@ -1,0 +1,4 @@
+{"dur": 17.1, "music": ["pluck", 9313],
+ "lines": [[0.05, "Nobody in this town has ever found this café."], [2.9, "People walk past it every day. In circles."], [6.0, "A tourist with a map. A detective. Nothing."], [9.5, "The twist? It isn't on Google Maps."], [12.5, "Hard to find online? We can put you on the map."]],
+ "sfx": {"whoosh": [0.0, 2.85, 5.95, 12.35, 15.35], "pop": [1.3, 2.1, 3.0, 8.4, 10.25, 10.45, 13.3, 14.0, 15.8], "boing": [6.8], "tap": [9.8, 9.9, 10.0, 10.1, 10.2], "sting": [9.35], "thud": [11.35, 12.85], "ding": [13.3]},
+ "gain": {"tap": 0.6, "sting": 1.0}}
