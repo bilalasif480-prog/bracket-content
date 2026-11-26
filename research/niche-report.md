@@ -1,3 +1,5 @@
+Hooks bank: see research/hooks-bank.md (added 26 Nov from @theo.vizuals).
+
 # Niche report for instamake (last updated 2026-11-22)
 
 Sources: Metricool competitor reels (brand 7919246, 11 Oct-10 Nov 2026) + 12 of those reels WATCHED today in Bilal's Chrome (read-only: nothing liked, followed, saved or downloaded; no screenshots committed). Web research is off (Bilal, 8 Nov). Like/comment/share counts are what Instagram showed under each reel today; views are not shown in the desktop reel viewer.
