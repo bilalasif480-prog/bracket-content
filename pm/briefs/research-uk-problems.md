@@ -1,12 +1,11 @@
 # Research brief: what UK small businesses search for and struggle with (set 26 Nov 2026)
 
-Runs inside the Friday 18:47 research task (after the trends and website check). **Read only: never post, comment, DM or message anyone on Reddit, Google or anywhere else.** Suggested Reddit replies are drafts in the sheet only; Bilal reads, edits and posts them himself.
+Runs inside the Friday 18:47 research task (after the trends and website check). **Read only: never post, comment, DM or message anyone anywhere.** **No Reddit (Bilal, 26 Nov 2026):** Reddit is blocked in Chrome and to the cloud tools, so research skips it completely.
 
 ## Where to look (UK only)
-- **Google Trends** (United Kingdom, past 3 months): rising and top queries for small-business website topics, e.g. "website for small business", "online booking", "table booking", "click and collect", "Google Business Profile", "salon booking", "plumber quote".
-- **AnswerThePublic / AlsoAsked** (UK): the questions people ask around those topics. If a tool needs a login or hits a free limit, skip it and say so.
-- **Google autocomplete and "People also ask"** for the same topics (use google.co.uk).
-- **Reddit**, e.g. r/UKBusiness, r/smallbusinessuk, r/UKPersonalFinance threads from owners: real problems in owners' own words. Paraphrase; never copy usernames.
+- **Google Trends** (United Kingdom, past 3 months): rising and top queries. Use business-specific terms (general ones like "missed calls" or "online booking" return consumer noise), e.g. "website for small business", "online booking", "table booking", "click and collect", "Google Business Profile", "salon booking", "plumber quote".
+- **AnswerThePublic** (UK): only 1 free search a day without an account, so use it on the week's most important topic. **AlsoAsked**: 3 free searches a day; set the location to United Kingdom first (it defaults to New York). If a tool needs a login or hits a free limit, skip it and say so.
+- **Google autocomplete and "People also ask"** for the same topics (google.co.uk redirects, so use google.com with `&gl=uk`).
 - Optional: Google Maps reviews of local businesses that mention a problem (e.g. "couldn't book online").
 
 Cover several business types each week (cafés, salons, clinics, gyms, trades, estate agents, shops). Aim for 15–30 new rows.
@@ -21,7 +20,7 @@ Google Sheet **"Bracket — UK problems & searches (weekly research)"**, tab **F
 | Date | the run date |
 | Business type | café, salon, clinic, gym, trades, estate agent, shop, general… |
 | Question or problem (their words) | short, paraphrased if long; no usernames |
-| Source | Google Trends / AnswerThePublic / AlsoAsked / Google autocomplete / People also ask / Reddit / Google Maps reviews / Other |
+| Source | Google Trends / AnswerThePublic / AlsoAsked / Google autocomplete / People also ask / Google Maps reviews / Other |
 | Source link | the page or thread URL |
 | How often it comes up | High / Medium / Low (High = seen in 3+ places or rising in Trends) |
 | Reel idea | one-line hook for a 12–15 s reel |
@@ -31,7 +30,7 @@ Google Sheet **"Bracket — UK problems & searches (weekly research)"**, tab **F
 | Website status | "Suggested" for new rows with an article/FAQ idea |
 | Problem type (column M) | Getting found (Google/Maps) / Not in AI answers / Bookings & orders / Missed messages / enquiries / Repeat customers / Reviews & trust / Owner time & admin / No or weak website / Other |
 | Bracket service that fixes it (column N) | Website / AI agent / SEO / GEO / App / None (not something we do). Map honestly: missed messages after hours → AI agent; not found on Google → SEO; not in AI answers → GEO; no booking/ordering or no site → Website; repeat customers → App (or Website with booking for small businesses). If nothing Bracket sells fixes it, say None. |
-| Suggested reply (Reddit only, column L) | For every Reddit row: a short, genuinely helpful reply Bilal can post himself from his personal account (added 26 Nov 2026). Answer the question first with something useful they can do today; 3–6 sentences; plain British English; no hard sell, no links. Mention Bracket only if that subreddit's rules allow self-promotion (check the sidebar/rules) and only as a light last line ("I build websites for small businesses, happy to help if useful"); if the rules ban it or are unclear, don't mention Bracket. Never invent results. Leave blank for non-Reddit rows. |
+| Suggested reply (column L) | Not used since Reddit was dropped (26 Nov 2026). Leave blank. |
 
 Don't repeat a problem already in the sheet; raise its "How often" instead.
 
