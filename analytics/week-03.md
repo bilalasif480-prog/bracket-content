@@ -55,6 +55,7 @@ The new rules (2 a day, gripping frame 0, 12–15 s, rotating templates, a cover
 | Date (Kuwait) | Followers | Posts on grid | New comments | START comments | New DMs (Primary/General/Requests) | Leads | Trials 24–72 h old |
 |---|---|---|---|---|---|---|---|
 | Thu 26 Nov 17:57 (weekly report) | 2 | 17 | 0 (only our own) | 0 | 0 new inbound / – / 0 | 0 | day1-trialB 4 views · offer-main 6 · hisaab01 7 → no result (<200 views) |
+| Thu 26 Nov 21:17 | 2 | 18 (Thu: trial-01 12:00, day3-trialA 14:30, day3-trialB 18:30 up; <24 h) | 0 (only our own) | 0 | 0 new inbound / 0 / 0 (2 automated creator DMs after our comments = other) | 0 | day1-trialB 4 views (~51 h) · trial-03 2 · day2-trialA 1 · day2-trialB 1 → all no result yet (<200 views); avg watch 0:02, 100% non-followers, 0 shares/saves/follows |
 
 ---
 

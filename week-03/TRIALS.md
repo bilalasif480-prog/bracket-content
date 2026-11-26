@@ -34,3 +34,7 @@ Trial captions and first comments: see `POSTING-PLAN.md` (one shared caption per
 | Wed 25 Nov 21:30 | day1-trialB (normal reel, 18:33 Tue) | ~27 h | 4 (100% non-followers) | not shown on web | avg watch 0:02 | 0 | 0 | No result yet (<200 views) |
 | Wed 25 Nov 21:30 | day1-trialA (14:48 Tue per SCHEDULED) | — | still not on grid/Reels tab | — | — | — | — | Missing: Bilal to check |
 | Wed 25 Nov 21:30 | trial-03 12:00, day2-trialA 14:30, day2-trialB 18:30 (Wed) | <24 h | 1 each (grid) | — | — | — | — | Too early; first read Thu evening |
+| Thu 26 Nov 21:17 | day1-trialB (normal reel, 18:33 Tue) | ~51 h | 4 (100% non-followers) | not shown on web | avg watch 0:02 | 0 | 0 | No result yet (<200 views); 72 h verdict Fri evening |
+| Thu 26 Nov 21:17 | trial-03 (12:00 Wed, "Nothing goes live without your yes") | ~33 h | 2 (100% non-followers) | not shown on web | avg watch 0:02 | 0 | 0 | No result yet (<200 views) |
+| Thu 26 Nov 21:17 | day2-trialA (14:30 Wed, GEO) | ~31 h | 1 | not shown on web | avg watch 0:02 | 0 | 0 | No result yet (<200 views) |
+| Thu 26 Nov 21:17 | day2-trialB (18:30 Wed, GEO) | ~27 h | 1 | not shown on web | avg watch 0:02 | 0 | 0 | No result yet (<200 views) |
