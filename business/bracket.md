@@ -1,6 +1,6 @@
 # Business profile — Bracket
 
-Last updated: 2026-11-26 by Bilal (via research agent): Bracket is described as "me, Bilal: a freelance web developer" (matches the website), websites first; founding client offer, 30 days of free fixes, "we write the text" and the AC booking case study added. Reels never use the "freelance web developer" wording. Previous 2026-11-22 by Bilal (via PM): Bracket now targets the UK (Manchester first), while being honest that it is based in Kuwait. Arabic removed from the website. Previous: 18 Nov software house — websites, apps, AI agents, SEO, GEO.
+Last updated: 2026-11-27 by Bilal (via PM): **founding client offer PAUSED** and hidden on the website (see section 2). Previous 2026-11-26 by Bilal (via research agent): Bracket is described as "me, Bilal: a freelance web developer" (matches the website), websites first; founding client offer, 30 days of free fixes, "we write the text" and the AC booking case study added. Reels never use the "freelance web developer" wording. Previous 2026-11-22 by Bilal (via PM): Bracket now targets the UK (Manchester first), while being honest that it is based in Kuwait. Arabic removed from the website. Previous: 18 Nov software house — websites, apps, AI agents, SEO, GEO.
 
 ## 1. Identity
 - **Name:** Bracket
@@ -28,9 +28,10 @@ Last updated: 2026-11-26 by Bilal (via research agent): Bracket is described as 
   - **GEO** — getting found and cited in AI answers (ChatGPT, Perplexity, Gemini, Google AI Overviews).
 - **Does NOT sell:** QA / testing as a stand-alone service (PM assumption 18 Nov 2026).
   Every build is still checked before launch — that is part of the job, not a product.
-- **Prices (official, Bilal 23 Nov 2026, GBP):** website Starter £655 · website Business £1,315 · online store from £2,195 · care plan £43/month · AI agent £875 setup + £109/month · mobile app from £3,995 · local SEO £325/month · GEO £215/month (£490/month with SEO) · SEO + GEO audit £215. Payment 50/20/30 via PayPal, except founding clients (below).
+- **Prices (official, Bilal 23 Nov 2026, GBP):** website Starter £655 · website Business £1,315 · online store from £2,195 · care plan £43/month · AI agent £875 setup + £109/month · mobile app from £3,995 · local SEO £325/month · GEO £215/month (£490/month with SEO) · SEO + GEO audit £215. Payment 50/20/30 via PayPal. (The founding-client exception below is PAUSED.)
 - **Prices on the site:** "from" prices only, on each service page (websites from £655, apps from £3,995, AI agents from £875 + £109/month, local SEO from £325/month, GEO from £215/month). Exact price always comes in a written scope and quote. Never say "we don't list prices".
-- **Founding client offer (on the site, 26 Nov 2026):** the first 5 website clients pay nothing upfront and pay only when they're happy. Scope agreed in writing; full site built on a preview link; 2 rounds of changes included; domain registered in the client's name from the start; site stays on the preview link until paid; files and logins handed over after payment; extra work quoted separately; a happy client agrees to an honest public review. Reels may use "Your website first. You pay only when you're happy." (first 5 clients).
+- **Founding client offer: ⛔ PAUSED (Bilal, 27 Nov 2026).** Hidden on the website (commented out, not deleted). **Agents must not mention it in reels, covers, captions, DMs, emails, comment replies or any other content until Bilal turns it back on in chat.** Don't say "no upfront payment", "pay only when you're happy", "first 5 clients" or "founding place". The text below is kept only so it can be switched back on.
+  - *Paused text (was on the site, 26 Nov 2026):* the first 5 website clients pay nothing upfront and pay only when they're happy. Scope agreed in writing; full site built on a preview link; 2 rounds of changes included; domain registered in the client's name from the start; site stays on the preview link until paid; files and logins handed over after payment; extra work quoted separately; a happy client agrees to an honest public review. Reels may use "Your website first. You pay only when you're happy." (first 5 clients).
 - **After launch:** every website includes 30 days of free fixes for anything not working as agreed; then the optional care plan, £43/month (small fixes and technical updates, cancel any month). The client owns the site and can move it any time.
 - **Promises:** no reply-time or turnaround promises (no "within 1 business day", no "in minutes").
 
@@ -52,10 +53,10 @@ Last updated: 2026-11-26 by Bilal (via research agent): Bracket is described as 
   (e.g. #ManchesterBusiness #ManchesterSmallBusiness #UKSmallBusiness), never #Kuwait.
 - **Tone:** short, plain, direct. No hype, no corporate filler.
 - **Slogan:** "Software that gets it done." (picked by PM for Bilal, 18 Nov 2026). "AI that gets it done." stays as the AI-agents line.
-- **Words to use:** websites, we write the text, founding client offer, apps, found on Google, cited in AI answers, agent, takes the job off your team, answers, books, hands over to a person,
+- **Words to use:** websites, we write the text, apps, found on Google, cited in AI answers, agent, takes the job off your team, answers, books, hands over to a person,
   you approve, checked before launch.
 - **Words to avoid:** studio, agency, fixed price, fixed scope, ship date, hourly, QA / testing as a service,
-  guaranteed results, "#1 on Google", guaranteed rankings or AI citations.
+  guaranteed results, "#1 on Google", guaranteed rankings or AI citations; "founding client offer", "pay only when you're happy", "no upfront payment" (paused 27 Nov 2026).
 
 ## 5. Brand
 - **Colours:** ink `#201e1d`, red `#ec3013`, peach `#ff8360`, paper `#f3f2f2`; green `#1fa86b` only for success ticks.
