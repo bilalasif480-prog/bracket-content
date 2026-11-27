@@ -1,6 +1,6 @@
 # Bracket leads — UK small businesses (Manchester first)
 
-Brief: `pm/briefs/salesman-uk-smb.md`. Status: **batch 1 sent 27 Nov 2026** (10/10 Instagram DMs from @bracketkw, 08:59–10:02 UK, Bilal approved in chat). Follow-ups due Wed 2 Dec if no reply.
+Brief: `pm/briefs/salesman-uk-smb.md`. Status: **batch 2 drafted 27 Nov 2026** (10, waiting for Bilal's yes, for 3–4 p.m. UK). **Batch 1 sent 27 Nov 2026** (10/10 Instagram DMs from @bracketkw, 08:59–10:02 UK, Bilal approved in chat). Follow-ups due Wed 2 Dec if no reply.
 Public repo: business handles only. No phone numbers, personal names, emails or DM text (drafts went to Bilal in chat).
 Checked with public info only: Google listings, Instagram (read-only, Bilal's Chrome), Companies House, directories. Activity = last Instagram post seen 27 Nov 2026.
 
@@ -20,9 +20,32 @@ Checked with public info only: Google listings, Instagram (read-only, Bilal's Ch
 
 Grade: A 80+ · B 60–79 · C <60 (skip). Status: drafted / sent / followed-up / replied / call / won / no
 
+## Batch 2 (drafted 27 Nov 2026)
+For today's 3–4 p.m. UK window (18:00–19:00 Kuwait), waiting for Bilal's yes. Wider area: Stretford, Stockport, Sale, Altrincham, Burnage, Baguley. 31 businesses checked, 10 picked (8 A, 2 B), all website pitches.
+
+| # | business handle | business type | decision-maker role | group (A/B) | problem found | problem type | service pitched | SEO/GEO finding | score | grade | company type | channel | first sent | follow-up sent | status |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 11 | @blossomnails.uk | nail salon, Barton Rd, Stretford | owner / nail tech | A | no website; bio says "DM to book"; no Google booking button; 95 Google reviews | Bookings & orders | Website + online booking (free offer) | no site | 95 | A | unknown (no Ltd found) | Instagram DM | | | drafted |
+| 12 | @clarkes_dogs | dog groomer, Sale Rd, Baguley (M23) | owner / groomer | A | award-winning, 167 Google reviews, but no website or online booking; phone only | Bookings & orders | Website + online booking (free offer) | no site | 94 | A | unknown (no Ltd found) | Instagram DM | | | drafted |
+| 13 | @hillgatecakery | vegan cake shop, Lower Hillgate, Stockport | unknown (owner) | A | no website; Google "website" and "menu" both go to Facebook; no bio link; 237 Google reviews | No or weak website | Website: menu, hours, pre-orders for collection (free offer) | no site | 92 | A | unknown (no matching Ltd) | Instagram DM | | | drafted |
+| 14 | @amphoracafe | café, Hope Rd, Sale | unknown (owner) | A | no website; Google "website" and "menu" go to Facebook; 411 Google reviews | No or weak website | Website: menu, hours, map, booking/click-and-collect (free offer) | no site | 90 | A | Ltd (AMPHORA CAFE LIMITED) | Instagram DM (no public email found) | | | drafted |
+| 15 | @adorebrowbar | brow & lash bar, Stamford New Rd, Altrincham | owner/manager | A | no website, no online booking; phone only; 214 Google reviews | Bookings & orders | Website + online booking (free offer) | no site | 89 | A | unknown (no Ltd found) | Instagram DM | | | drafted |
+| 16 | @swigcoffeee | speciality coffee shop, Edge Lane, Stretford | unknown (owner) | A | no website, no bio link; hours, roasters and merch only on Instagram; 163 Google reviews | No or weak website | Website: hours, roasters, small merch shop (free offer) | no site | 88 | A | Ltd (SWIG COFFEE LTD) | Instagram DM (no public email found) | | | drafted |
+| 17 | @parkviewfitness | PT studio & bootcamp, Cringle Park, Burnage | owner / coach | A | PT, small groups and bootcamps but no own website, timetable or booking; bio links to a community page | Bookings & orders | Website + timetable & booking (free offer) | no site | 86 | A | likely sole trader (no Ltd found) | Instagram DM | | | drafted |
+| 18 | @stickyfingersstockport | artisan bakery (2 spots), Great Underbank + Market Hall, Stockport | unknown (owner) | A | two locations with different days, no website; Google points to Instagram; 342 Google reviews | No or weak website | Website: both locations, hours, pre-orders (free offer) | no site | 84 | A | unknown (no Stockport Ltd found) | Instagram DM | | | drafted |
+| 19 | @befitmassagetherapy | sports massage therapist, Stockport (SK1) | owner / therapist | A | no website; prices, hours and reviews only in IG highlights (booking app already works) | No or weak website | Website linked to existing booking (free offer) | no site | 76 | B | likely sole trader (no Ltd found) | Instagram DM | | | drafted |
+| 20 | @grand.joinery.services | joiner / fitted furniture, Manchester (travels to jobs) | owner | A | 117 Google reviews but no website (Google points to Instagram), no quote form; IG quiet since Jun 2026 | Quotes & enquiries | Website + quote form with photos (free offer) | no site | 74 | B | unknown (GRAND JOINERY LIMITED is a Hounslow company, not them) | Instagram DM | | | drafted |
+
 ## Reserves (B, not in batch 1)
 - @kioskonlapwing — coffee hatch, West Didsbury — 68 — no website (Linktree), but a takeaway hatch: booking/ordering barely helps.
 - @friend_cafe.manchester — café, Levenshulme — 66 — no website, but small and quiet Instagram.
+
+## Reserves (batch 2, not used)
+- @izzyscafegrill — café & grill, Withington — ~72 B — no website; small Instagram (17 posts), last post 29 Oct.
+- @carburante_cafe — café, Trafford Park — ~70 B — no website; menu only in a highlight. Left out to limit cafés.
+- @usfour__ — café/bar, Sale — ~66 B — Google points to Facebook.
+- @pinkclubbeauty — nail & beauty, Seymour Grove, Old Trafford — ~66 B — no website, but books via Treatwell.
+- @kirans.glamour.studio — hair & beauty, Altrincham — ~60 — last post Jul 2026; bio may link a site (not checked).
 
 ## Skipped / C (checked 27 Nov 2026)
 - Stretford Fade (@stretford_fade), barber, Ltd — C: no Message button on the profile, last post 2025.
@@ -36,6 +59,18 @@ Grade: A 80+ · B 60–79 · C <60 (skip). Status: drafted / sent / followed-up 
 - Blacksheep Barber Shop, Chorlton — skipped: couldn't verify (results mixed with a different business in Blyth).
 - Bohee Cafe, Chorlton — skip: has its own website (roastery shop + café page).
 - Collins The Florist, Chorlton — skip: working website with online shop.
+- Something More Productive, Withington — C: no Message button on Instagram.
+- SK Luxury Dog Boarding, Stockport — C: no Message button, last post 2024.
+- The Natural Dog Groomer, Sale — C: old account no longer used; new account has no Message button.
+- Super Shine wash, Stockport — C: Instagram found is a different business; no Message button.
+- Taz hair & beauty, Prestwich — skipped: Instagram found is a Leicester business; couldn't verify.
+- Paws At Sarah and Belinda's, Sale — C: no Instagram found (no allowed channel).
+- Array Of Blossom, Prestwich — C: no Instagram found.
+- Manchester Carpentry (M16) and Manchester Sports Rehab (Whitefield) — C: no Instagram found.
+- Dapper Dogs, Sale — skipped: couldn't confirm which Instagram is theirs.
+- Artista Perfetto, Ancoats — skip: brand with sites in the UK and Hong Kong (chain).
+- Café Blah, Withington — skip for now: evening bar/venue, Linktree; booking/ordering barely helps.
+- NJH Detailing, Stockport — C: Google Sites page exists, Instagram inactive since May 2025.
 
 ## Weekly totals
 | week | sent | replies | calls | wins |
