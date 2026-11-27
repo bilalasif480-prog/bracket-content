@@ -38,3 +38,8 @@ Trial captions and first comments: see `POSTING-PLAN.md` (one shared caption per
 | Thu 26 Nov 21:17 | trial-03 (12:00 Wed, "Nothing goes live without your yes") | ~33 h | 2 (100% non-followers) | not shown on web | avg watch 0:02 | 0 | 0 | No result yet (<200 views) |
 | Thu 26 Nov 21:17 | day2-trialA (14:30 Wed, GEO) | ~31 h | 1 | not shown on web | avg watch 0:02 | 0 | 0 | No result yet (<200 views) |
 | Thu 26 Nov 21:17 | day2-trialB (18:30 Wed, GEO) | ~27 h | 1 | not shown on web | avg watch 0:02 | 0 | 0 | No result yet (<200 views) |
+| Fri 27 Nov 22:15 | day1-main-hisaab01 (22:00 Tue, "I have Instagram. Why a website?") | ~72 h | 7 | not shown on web | not shown on web | 0 | 0 | **72 h: No result yet** (<200 views) |
+| Fri 27 Nov 22:15 | day1-trialB (18:33 Tue) | ~76 h | 4 | not shown on web | not shown on web | 0 | 0 | **72 h: No result yet** (<200 views) |
+| Fri 27 Nov 22:15 | trial-03 (12:00 Wed) | ~58 h | 2 | not shown on web | not shown on web | 0 | 0 | No result yet (<200 views) |
+| Fri 27 Nov 22:15 | day2-trialA / day2-trialB / day2-main-geo (Wed) | ~48–56 h | 1 / 1 / 2 | not shown on web | not shown on web | 0 | 0 | No result yet (<200 views); 72 h verdict Sat |
+| Fri 27 Nov 22:15 | trial-01 / day3-trialA / day3-trialB / day3-main-rented-shop (Thu) | ~24–34 h | 2 / 0 / 0 / 2 | not shown on web | not shown on web | 0 | 0 | No result yet (<200 views) |
