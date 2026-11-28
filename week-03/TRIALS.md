@@ -43,3 +43,6 @@ Trial captions and first comments: see `POSTING-PLAN.md` (one shared caption per
 | Fri 27 Nov 22:15 | trial-03 (12:00 Wed) | ~58 h | 2 | not shown on web | not shown on web | 0 | 0 | No result yet (<200 views) |
 | Fri 27 Nov 22:15 | day2-trialA / day2-trialB / day2-main-geo (Wed) | ~48–56 h | 1 / 1 / 2 | not shown on web | not shown on web | 0 | 0 | No result yet (<200 views); 72 h verdict Sat |
 | Fri 27 Nov 22:15 | trial-01 / day3-trialA / day3-trialB / day3-main-rented-shop (Thu) | ~24–34 h | 2 / 0 / 0 / 2 | not shown on web | not shown on web | 0 | 0 | No result yet (<200 views) |
+| Sat 28 Nov 21:16 | day2-trialA / day2-trialB / day2-main-geo (Wed) | ~71–79 h | 1 / 1 / 2 | not shown on web | not shown on web | — | — | **72 h: No result yet** (<200 views) |
+| Sat 28 Nov 21:16 | trial-01 / day3-trialA / day3-trialB / day3-main (Thu) | ~47–57 h | 2 / 0 / 0 / 2 | not shown on web | not shown on web | — | — | No result yet (<200 views); 72 h verdict Sun |
+| Sat 28 Nov 21:16 | trial-04 / day4-trialA / day4-trialB / day4-main (Fri) | ~23–33 h | 0 / 1 / 4 / 3 | not shown on web | avg watch 0:05 (trialB) / 0:02 (main) | 0 / 0 | 0 / 0 | No result yet (<200 views); 100% non-followers |

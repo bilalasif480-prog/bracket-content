@@ -57,6 +57,7 @@ The new rules (2 a day, gripping frame 0, 12–15 s, rotating templates, a cover
 | Thu 26 Nov 17:57 (weekly report) | 2 | 17 | 0 (only our own) | 0 | 0 new inbound / – / 0 | 0 | day1-trialB 4 views · offer-main 6 · hisaab01 7 → no result (<200 views) |
 | Thu 26 Nov 21:17 | 2 | 18 (Thu: trial-01 12:00, day3-trialA 14:30, day3-trialB 18:30 up; <24 h) | 0 (only our own) | 0 | 0 new inbound / 0 / 0 (2 automated creator DMs after our comments = other) | 0 | day1-trialB 4 views (~51 h) · trial-03 2 · day2-trialA 1 · day2-trialB 1 → all no result yet (<200 views); avg watch 0:02, 100% non-followers, 0 shares/saves/follows |
 | Fri 27 Nov 22:15 | 2 | 22 (Fri: trial-04 0, day4-trialA 1, day4-trialB 2, day4-main 3 views; <24 h) | 0 on our posts | 0 | 0 new inbound / 0 / 0 (20 outbound salesman DMs, 0 replies; 1 automated creator DM = other) | 0 | hisaab01 7 · day1-trialB 4 · trial-03 2 · day2 A/B/main 1/1/2 · trial-01 2 · day3 A/B/main 0/0/2 → all no result yet (<200 views) |
+| Sat 28 Nov 21:16 | 2 | 21 posts (Reels tab: Sat trial-02 12:00 1, day5-trialA 14:30 0, day5-trialB 18:30 0 views; <24 h) | 0 on our posts (3 d) | 0 | 0 new inbound / 0 / 0 (Primary = outbound salesman DMs only, newest 1 d, 0 replies) | 0 | day2-main 2 (~71 h) · trial-01 2 · day3 A/B/main 0/0/2 · trial-04 0 · day4-trialA 1 · day4-trialB 4 (0:05 avg, 0 shares/saves/follows) · day4-main 3 (0:02 avg, 0 shares/saves/follows) → all no result yet (<200 views) |
 
 ---
 
